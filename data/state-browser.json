@@ -1,1 +1,167 @@
-﻿{"reported":{}}
+{
+  "reported": {
+    "LitMedia": [],
+    "MindVideo": [],
+    "Topview": [],
+    "DataCamp": [],
+    "WaveSpeed": [
+      {
+        "key": "ac545fe5352895ebcd6285e5f88450094e2fa7b1",
+        "url": "https://wavespeed.ai/blog/posts/gemini-3-5-flash-shipped-leads-agent-benchmarks/",
+        "date": "2026-05-20",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "1ec881b79b9b477676746250e6d45fcb20143296",
+        "url": "https://wavespeed.ai/blog/posts/gemini-3-5-pro-coming-next-month/",
+        "date": "2026-05-20",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "b57e778f0086b04d04d1ce4c3b6dbaca7a283fb3",
+        "url": "https://wavespeed.ai/blog/posts/gemini-omni-flash-shipped-what-actually-launched/",
+        "date": "2026-05-20",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "dfe9ad74e5d02181e8115d6f3684bfaee75c1dfd",
+        "url": "https://wavespeed.ai/blog/posts/what-is-omni-flash/",
+        "date": "2026-05-20",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      }
+    ],
+    "WeShop AI": [
+      {
+        "key": "69b030883d2e72197d824132dec296c2d7e56606",
+        "url": "https://www.weshop.ai/blog/grok-ai-image-generator-turn-text-descriptions-into-professional-art-instantly-2/",
+        "date": "2026-05-21T08:40:12+00:00",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "2515c4e3ca5dd5a8ac2a4e06fa334d24039c3e8d",
+        "url": "https://www.weshop.ai/blog/ai-facial-analysis-is-booming-use-weshop-ai-to-generate-advanced-evaluation-image-cards-for-appearance-makeup-hair-style-color-with-one-click/",
+        "date": "2026-05-21T04:09:11+00:00",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "bc1ec39e9fc2c4e0e10a3ad773ab624d1e6fe948",
+        "url": "https://www.weshop.ai/blog/aigc-visual-blockbuster-tutorial-transform-selfies-into-game-loading-screens-and-create-3a-game-atmosphere-in-3-minutes/",
+        "date": "2026-05-21T02:55:00+00:00",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      }
+    ],
+    "Atlas Cloud": [
+      {
+        "key": "28ad974199a787f346a31ec486e31de29102c109",
+        "url": "https://www.atlascloud.ai/blog/guides/gemini-omni-prompt-guide",
+        "date": "2026-05-21T09:17:42.955Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "3b1ad9c4488ae27114ddcfb6a85fb9550367baee",
+        "url": "https://www.atlascloud.ai/blog/guides/gemini-omni-one-model-for-text-image-audio-and-video",
+        "date": "2026-05-21T08:19:48.117Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "bd5d89ca62bb27ed2eb9fd7cd075f7603a275ddf",
+        "url": "https://www.atlascloud.ai/blog/guides/google-gemini-omni-testing-results",
+        "date": "2026-05-21T06:22:58.499Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "4343dcdec7618e5e9c97155e7577c205ff500a9c",
+        "url": "https://www.atlascloud.ai/blog/case-studies/kling-3-0-for-businesses-automating-high-quality-video-marketing-at-scale",
+        "date": "2026-05-21T05:35:58.920Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "a4c4f1ceea0ae94ba4e96cb02170652e24c1c5f3",
+        "url": "https://www.atlascloud.ai/blog/guides/vidu-q3-vs-kling-30-which-ai-video-model-wins-for-real-world-physics",
+        "date": "2026-05-21T05:09:47.615Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "19f6591b14ef0d49badefa2110edd679f45237c0",
+        "url": "https://www.atlascloud.ai/blog/guides/gemini-omni-features-overview",
+        "date": "2026-05-21T02:39:38.304Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "a7fcb0403395437946f041f5d49184789409b185",
+        "url": "https://www.atlascloud.ai/blog/guides/flux-2-pro-deep-dive",
+        "date": "2026-05-21T02:21:24.911Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "f992ca0ef615d9d9b996fdb3964c505f632f6b4b",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-v5-lite-api-guide",
+        "date": "2026-05-21T02:21:24.532Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "1cdb5bff2f4f67bd36bb464484daabcb7abe2d13",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-review-features-pricing-ai-alternatives",
+        "date": "2026-05-21T02:21:24.125Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "e9ae27269d2f63591017e04f5bb7907dadaa097d",
+        "url": "https://www.atlascloud.ai/blog/guides/imagen-4-ultra-api-guide",
+        "date": "2026-05-21T02:21:23.720Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "ef33494859c7aff65dd8cf3009ee0db549b2a2da",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-generate-ai-videos-without-sora-complete-guide-to-sora-alternatives-2026",
+        "date": "2026-05-21T02:21:22.829Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "a91469ecca7f6d4cb6a40ab75ecadcd9f4dea274",
+        "url": "https://www.atlascloud.ai/blog/case-studies/seedance-2.0-pricing-full-cost-breakdown-2026",
+        "date": "2026-05-21T02:21:22.456Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "f606d71914026aa8e4fed207a2ac33dbf2e9928a",
+        "url": "https://www.atlascloud.ai/blog/guides/vidu-q3-api-guide",
+        "date": "2026-05-21T02:21:22.086Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "a81929ab38338f0bf131771bbdba99e83fc36aa0",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-video-models-native-audio-compared",
+        "date": "2026-05-21T02:21:21.692Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "aa77e883290689bf854f699e3d93770d166139fc",
+        "url": "https://www.atlascloud.ai/blog/guides/gpt-image-2-api-guide",
+        "date": "2026-05-21T02:21:20.891Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "5efb4ba07b91b423c0485547adc645c42003f78e",
+        "url": "https://www.atlascloud.ai/blog/guides/15-best-seedance-2.0-prompts-the-ultimate-guide-to-create-viral-videos",
+        "date": "2026-05-21T02:21:17.292Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      }
+    ],
+    "TopMediai": [],
+    "JXP": [
+      {
+        "key": "311966b62e97c85fb127acc8169c867027a3326e",
+        "url": "https://www.jxp.com/blog/gemini-omni-review",
+        "date": "2026-05-21T06:57:17.000Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "ae35b40a936d39861a1003c6071e0721f360c2f3",
+        "url": "https://www.jxp.com/blog/gemini-omni-leak-google-ai-video-strategy-io-2026",
+        "date": "2026-05-21T05:48:50.000Z",
+        "reportedAt": "2026-05-21T09:29:48.968Z"
+      }
+    ]
+  }
+}
