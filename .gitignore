@@ -1,0 +1,5 @@
+.env
+data/*.html
+data/report-*.md
+data/browser-report-*.md
+!data/browser-report-latest.md
