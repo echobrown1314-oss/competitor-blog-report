@@ -1,0 +1,13 @@
+{
+  "name": "competitor-blog-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.54.0"
+  },
+  "scripts": {
+    "run": "node monitor.mjs",
+    "run:cloud": "node monitor-browser.mjs"
+  }
+}
