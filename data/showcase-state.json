@@ -1,3 +1,3448 @@
 {
-  "snapshots": {}
+  "snapshots": {
+    "MagicHour": [
+      {
+        "id": "9700b1a834b54718d89768b8d83c52385ac9c923",
+        "title": "AI video generator hub",
+        "url": "https://magichour.ai/products/ai-video-generator"
+      },
+      {
+        "id": "19f38612cf20d505be81c05946b6bb10c6364e90",
+        "title": "imageFace Swap PhotoSwap faces in any photo",
+        "url": "https://magichour.ai/products/face-swap"
+      },
+      {
+        "id": "0bf4597be2c9d095e381f946ac95725d6d1340e1",
+        "title": "videoFace Swap VideoSwap faces in any video",
+        "url": "https://magichour.ai/products/face-swap/video"
+      },
+      {
+        "id": "9a332124d7c9281c8c9840a4f2931c5db090ad51",
+        "title": "videoImage-to-VideoTurn images into videos",
+        "url": "https://magichour.ai/products/image-to-video"
+      },
+      {
+        "id": "dccddef43a58e65e770cdede619f3fcc4ec8da36",
+        "title": "imageAI Image EditorEdit images with AI",
+        "url": "https://magichour.ai/products/ai-image-editor"
+      },
+      {
+        "id": "404fc556c81e8cd3c1083c8caa7dbb5e57eaf625",
+        "title": "imageAI Clothes ChangerChange outfits in photos",
+        "url": "https://magichour.ai/products/ai-clothes-changer"
+      },
+      {
+        "id": "4fac961e6d7d19de5566765fc94c0dd19e7cd427",
+        "title": "imageAI GIF GeneratorGenerate GIFs",
+        "url": "https://magichour.ai/products/ai-gif-generator"
+      },
+      {
+        "id": "b37c29f03a2940be5a415fe7783ef0cf81d4d0ce",
+        "title": "videoLip SyncSync lips with any audio",
+        "url": "https://magichour.ai/products/lip-sync"
+      },
+      {
+        "id": "98a88e1f66b13e7f3197e9e73e265c25abe15733",
+        "title": "audioAI Voice ClonerClone voices from audio",
+        "url": "https://magichour.ai/products/ai-voice-cloner"
+      },
+      {
+        "id": "b0fa05b3a819dd2c783ffc63b97b962f5562b970",
+        "title": "imageAI Image GeneratorGenerate images from text",
+        "url": "https://magichour.ai/products/ai-image-generator"
+      },
+      {
+        "id": "c38f39ea517b6878e41cdb0996fa90966d8de3ce",
+        "title": "videoTalking PhotoMake photos talk",
+        "url": "https://magichour.ai/products/ai-talking-photo"
+      },
+      {
+        "id": "3263ef52bc6a16e85147c014af0ffe80bdce2ca4",
+        "title": "videoText-to-VideoCreate videos from text",
+        "url": "https://magichour.ai/products/text-to-video"
+      },
+      {
+        "id": "d6fcd6a58451b002de792dc2a125f2bd51b55de1",
+        "title": "audioAI Voice ChangerSound like another person",
+        "url": "https://magichour.ai/products/ai-voice-changer"
+      },
+      {
+        "id": "761f78eb6ca0c88c48ac37c278f67801ff5d4c0f",
+        "title": "videoAI Video UpscalerEnhance video quality and resolution",
+        "url": "https://magichour.ai/products/video-upscaler"
+      },
+      {
+        "id": "8dd2b65ee2442cbf519a996acdb6745e4d646fce",
+        "title": "imageAI Image UpscalerUpscale & enhance images",
+        "url": "https://magichour.ai/products/ai-image-upscaler"
+      },
+      {
+        "id": "c08af70c0baf579f1c006a727dafce5c057f5717",
+        "title": "imageAI Headshot GeneratorCreate pro headshots",
+        "url": "https://magichour.ai/products/ai-headshot-generator"
+      },
+      {
+        "id": "85eb33e50a8353e835cbf47d1fdc894044259835",
+        "title": "videoAnimationGenerate motion art",
+        "url": "https://magichour.ai/products/animation"
+      },
+      {
+        "id": "46cd7ee8e873ae1dc1596dcf7a94b8fda21789fa",
+        "title": "imageAI Face EditorEdit faces in photos",
+        "url": "https://magichour.ai/products/ai-face-editor"
+      },
+      {
+        "id": "5c3be5edeb7235980e8885b0f727958d15cb6120",
+        "title": "videoSubtitle GeneratorAutomate video subtitles",
+        "url": "https://magichour.ai/products/auto-subtitle-generator"
+      },
+      {
+        "id": "d8aa87425d7341cef38523cb72a310cae6d5aa44",
+        "title": "imageAI Meme GeneratorGenerate memes from text",
+        "url": "https://magichour.ai/products/ai-meme-generator"
+      },
+      {
+        "id": "49fad1301bcde98e69e141081c187adcbd149b70",
+        "title": "videoVideo-to-VideoRestyle existing videos",
+        "url": "https://magichour.ai/products/video-to-video"
+      },
+      {
+        "id": "769a321fc3da2ab36dcefb8ba16a995c1c50b446",
+        "title": "audioAI Voice GeneratorGenerate speech from text",
+        "url": "https://magichour.ai/products/ai-voice-generator"
+      },
+      {
+        "id": "c68900ed7ff1f304e7c88ae433aaa17225baaab4",
+        "title": "imageImage-to-ImageRestyle existing images",
+        "url": "https://magichour.ai/products/image-to-image"
+      },
+      {
+        "id": "433b012181cadc455c0513b71311fa0b0bcd626e",
+        "title": "imageHead SwapSwap heads in photos",
+        "url": "https://magichour.ai/products/head-swap"
+      },
+      {
+        "id": "c7480ce65166de210f33008938aca300240df11b",
+        "title": "imagePhoto ColorizerColorize black and white photos",
+        "url": "https://magichour.ai/products/photo-colorizer"
+      },
+      {
+        "id": "91be27a52dc2801790c4c8f4104a7bd75f61eb7c",
+        "title": "imageAI Selfie GeneratorStylize photos with AI",
+        "url": "https://magichour.ai/products/ai-selfie-generator"
+      },
+      {
+        "id": "8b613b7aecdff654a11bc845ecdef88d6e4e306f",
+        "title": "imageBackground RemoverRemove backgrounds instantly",
+        "url": "https://magichour.ai/products/image-background-remover"
+      },
+      {
+        "id": "3d7ee940276d3c7e5a8407944eb06809b63cb76e",
+        "title": "imageAI Storyboard GeneratorGenerate storyboards",
+        "url": "https://magichour.ai/products/ai-storyboard-generator"
+      },
+      {
+        "id": "5b2b63e0c211e9522f45b06a88aa4a6939270976",
+        "title": "imageAI QR Code GeneratorGenerate unique QR codes",
+        "url": "https://magichour.ai/products/ai-qr-code-generator"
+      },
+      {
+        "id": "69cf1544a15513fe5e4f761a29d7107a5b6f7e2c",
+        "title": "videoAI UGC Ad GeneratorGenerate realistic UGC video ads",
+        "url": "https://magichour.ai/products/ai-ugc-ad-generator"
+      },
+      {
+        "id": "24ffa932fb17b787d82c1eccb44f5211498db9ac",
+        "title": "videoAudio to VideoTurn audio into videos",
+        "url": "https://magichour.ai/products/audio-to-video"
+      },
+      {
+        "id": "d7b3f694105ec13fc5d29504ea49c2da239c4839",
+        "title": "AI Video Extender",
+        "url": "https://magichour.ai/products/ai-video-extender"
+      },
+      {
+        "id": "089d33de4cd7d365d677285f8f7a8400e1584630",
+        "title": "Video to Audio",
+        "url": "https://magichour.ai/products/video-to-audio"
+      },
+      {
+        "id": "d5b28f1ce7ab018241be4fb5d5b5d6078a2fef2f",
+        "title": "AI Image Expander",
+        "url": "https://magichour.ai/products/ai-image-expander"
+      },
+      {
+        "id": "876be530981d497cbfa1547de0e3d63108724181",
+        "title": "Body Swap",
+        "url": "https://magichour.ai/products/body-swap"
+      },
+      {
+        "id": "caca18af81df06a961e03ea9ea8baf0e469dfd4d",
+        "title": "Cartoon Filter",
+        "url": "https://magichour.ai/tools/photo-to-cartoon"
+      },
+      {
+        "id": "9add87eb13918c8857da654334f204d4795c5fa3",
+        "title": "Sketch Filter",
+        "url": "https://magichour.ai/tools/photo-to-sketch"
+      },
+      {
+        "id": "0f3d754347f5f7aeb1ecd325f7b2d8269286fe5c",
+        "title": "Unblur Tool",
+        "url": "https://magichour.ai/tools/unblur-image"
+      },
+      {
+        "id": "bf23f00165a0910beeddbab312acad26e8f2e80c",
+        "title": "Photo Restorer",
+        "url": "https://magichour.ai/tools/old-photo-restoration"
+      },
+      {
+        "id": "0f9633edb1e1696fa9e40da45234ff1009aeee33",
+        "title": "Watermark Remover",
+        "url": "https://magichour.ai/tools/watermark-remover"
+      },
+      {
+        "id": "279ca6e8dc27e2e2c35b6cb477445194026da780",
+        "title": "Buzz Cut Filter",
+        "url": "https://magichour.ai/tools/hairstyle-buzzcut"
+      },
+      {
+        "id": "b3a617b5f32177546173e368a4ec1f46225cb756",
+        "title": "Object Remover",
+        "url": "https://magichour.ai/tools/remove-object-from-photo"
+      },
+      {
+        "id": "4272f4137d7fa7f2832c7d18d429e6dab70566c9",
+        "title": "Remover Tool",
+        "url": "https://magichour.ai/tools/ai-remover"
+      },
+      {
+        "id": "eed5341c58619692102c96fe17ad48006d018203",
+        "title": "Oil Painting Filter",
+        "url": "https://magichour.ai/tools/photo-to-oil-painting"
+      },
+      {
+        "id": "6abcee747378e43e54e1ef9524403ba1e6f7c271",
+        "title": "Anime Filter",
+        "url": "https://magichour.ai/tools/photo-anime"
+      },
+      {
+        "id": "c17dc887a047625237bd9fa00ecb7e4d387a7c83",
+        "title": "Text Remover",
+        "url": "https://magichour.ai/tools/remove-text-from-image"
+      },
+      {
+        "id": "b7e262168fe4c58373234d28de1266d01f3bc76d",
+        "title": "Anime Style Generator",
+        "url": "https://magichour.ai/tools/anime-pfp-maker"
+      },
+      {
+        "id": "8c6f71fd2fd6bcc4f1442de35988710f277aa017",
+        "title": "Hairstyle Changer",
+        "url": "https://magichour.ai/tools/hairstyle"
+      },
+      {
+        "id": "d4c679f1aea54549f92bc0c7f0da8e35c80bb541",
+        "title": "Hair Color Changer",
+        "url": "https://magichour.ai/tools/hair-color"
+      },
+      {
+        "id": "708b6b821ad51c1ffb4df8e879512231e02afcad",
+        "title": "Emoji Remover",
+        "url": "https://magichour.ai/tools/remove-emoji-from-photo"
+      },
+      {
+        "id": "ab50bb8fb63a2d72f1851ad61370ddc6d7af0041",
+        "title": "Sketch to Image Tool",
+        "url": "https://magichour.ai/tools/sketch-to-image"
+      },
+      {
+        "id": "fb0d038c33e3faa6b25417f5def80446b7387908",
+        "title": "Caricature Maker",
+        "url": "https://magichour.ai/tools/caricature-maker"
+      },
+      {
+        "id": "0e0b1385fc28286edb91b7277141649fed08b72a",
+        "title": "Pixar Filter",
+        "url": "https://magichour.ai/tools/pixar-filter"
+      },
+      {
+        "id": "dd1761185ebaac50c629457a8d120f22dffe5bcb",
+        "title": "Avatar Maker",
+        "url": "https://magichour.ai/tools/avatar-generator"
+      },
+      {
+        "id": "f3a49d95e56ec416394105286bb785d29bba6855",
+        "title": "Person Remover",
+        "url": "https://magichour.ai/tools/remove-person-from-photo"
+      },
+      {
+        "id": "a82c92a825dcc280935afcb1e2e358395c057f49",
+        "title": "Emoji Filter",
+        "url": "https://magichour.ai/tools/photo-emoji"
+      },
+      {
+        "id": "19705b35e8df240f30c06ec7621bc504f2aef374",
+        "title": "Blemish Remover",
+        "url": "https://magichour.ai/tools/blemish-remover"
+      },
+      {
+        "id": "61469ad4f8c5acece65ec537b99869052f697da1",
+        "title": "Replacement Tool",
+        "url": "https://magichour.ai/tools/ai-replace"
+      },
+      {
+        "id": "35c3bfa6b16cb4547411e29654fc119db4c2c2ca",
+        "title": "Bald Filter",
+        "url": "https://magichour.ai/tools/hairstyle-bald"
+      },
+      {
+        "id": "08810efcfd6f1aa61a4d1b0c610a169af0115e28",
+        "title": "Retouching Tool",
+        "url": "https://magichour.ai/tools/photo-retouching"
+      },
+      {
+        "id": "54e4c3da681094cecea6f3313dc8dee100aace4a",
+        "title": "Gender Swap Tool",
+        "url": "https://magichour.ai/tools/gender-swap"
+      },
+      {
+        "id": "beb2cb648757fa20fc16e751447b2b7b8548d4ee",
+        "title": "Beard Filter",
+        "url": "https://magichour.ai/tools/add-beard-to-photo"
+      },
+      {
+        "id": "34fb711aee85e7bcf8891dbc4905ff1a9b24734a",
+        "title": "PS2 Filter",
+        "url": "https://magichour.ai/tools/ps2-filter"
+      },
+      {
+        "id": "cf92e3cd974b0e2f2c91d2e4c02ce0d4ee8ba723",
+        "title": "Glare Remover",
+        "url": "https://magichour.ai/tools/remove-glare-from-photo"
+      },
+      {
+        "id": "5800b4c80d53766d535e6337b1f798b9b738eb0a",
+        "title": "Short Hair Filter",
+        "url": "https://magichour.ai/tools/hairstyle-short-hair"
+      },
+      {
+        "id": "d8fff0b1e44be7cf0f9b4241ea34dc892ed35d1b",
+        "title": "Lego Filter",
+        "url": "https://magichour.ai/tools/lego-filter"
+      },
+      {
+        "id": "4a38f889de885b867ccf399109c2066b200868ea",
+        "title": "Illustration Filter",
+        "url": "https://magichour.ai/tools/photo-to-illustration"
+      },
+      {
+        "id": "c58d2813e2d41b01c4c1eb8f1e1d9fb9853cec92",
+        "title": "Anime Style Generator",
+        "url": "https://magichour.ai/tools/anime-character"
+      },
+      {
+        "id": "899e68ff1afb6ca464118eacd2ff674d414bd361",
+        "title": "Blonde Hair Filter",
+        "url": "https://magichour.ai/tools/blonde-hair-color"
+      },
+      {
+        "id": "2ef378f64a8f64fab1e6b117c71fac4315a3b9b3",
+        "title": "Black And White Filter",
+        "url": "https://magichour.ai/tools/remove-color-from-image"
+      },
+      {
+        "id": "0e9b9075561cf9d186b524553d1126093e2c2715",
+        "title": "Smile Filter",
+        "url": "https://magichour.ai/tools/smile-filter"
+      },
+      {
+        "id": "82c193af47ed8da4fed14c4101d052eeca5775eb",
+        "title": "Aging Filter",
+        "url": "https://magichour.ai/tools/aging-filter"
+      },
+      {
+        "id": "876cf767bd27e02249aeeba97256a98a806306a5",
+        "title": "Long Hair Filter",
+        "url": "https://magichour.ai/tools/hairstyle-long-hair"
+      },
+      {
+        "id": "9a810a1715cb787832bd3e8c7e75ee1472947459",
+        "title": "Sunglasses Filter",
+        "url": "https://magichour.ai/tools/add-sunglasses-to-photo"
+      },
+      {
+        "id": "d0baed19e6f603e63c54829604323f6818d20888",
+        "title": "Body Editor",
+        "url": "https://magichour.ai/tools/full-body-generator"
+      },
+      {
+        "id": "d955ff23429f9369bcce76089e7ce28d549d5699",
+        "title": "Braces Filter",
+        "url": "https://magichour.ai/tools/braces-filter"
+      },
+      {
+        "id": "21d61b0957c2140d973d48cc138388f7588fd551",
+        "title": "Disney Filter",
+        "url": "https://magichour.ai/tools/disney-character-generator"
+      },
+      {
+        "id": "f1ff49a9f1d270dd31fca369de0d053f6b9da959",
+        "title": "Pixel Art Filter",
+        "url": "https://magichour.ai/tools/pixel-art"
+      },
+      {
+        "id": "0b9a83157df1d662cc3446ea165a73d2873320c5",
+        "title": "Skinny Filter",
+        "url": "https://magichour.ai/tools/skinny-filter"
+      },
+      {
+        "id": "ec91302d899fc19d37ee8560491b56e01d030f7c",
+        "title": "Sticker Filter",
+        "url": "https://magichour.ai/tools/sticker-generator"
+      },
+      {
+        "id": "c626f413b99a3568d9d1f06d5c1aad4013a13a70",
+        "title": "Photo to Art Filter",
+        "url": "https://magichour.ai/tools/photo-to-art"
+      },
+      {
+        "id": "bab96f686dbfbc208bd4285045953bc0151d9e14",
+        "title": "Eye Color Changer",
+        "url": "https://magichour.ai/tools/eye-color-changer"
+      },
+      {
+        "id": "2a65f8624e8e84786047b3b59e366c47d06d1b82",
+        "title": "Fat Filter",
+        "url": "https://magichour.ai/tools/fat-filter"
+      },
+      {
+        "id": "37ef4c1c385477edd95c98fd12093e38ce9bf320",
+        "title": "Christmas Filter",
+        "url": "https://magichour.ai/tools/christmas-photo-editor"
+      },
+      {
+        "id": "a7901ea4c7c40e58b09816eff76300a86e6a675e",
+        "title": "Black Hair Filter",
+        "url": "https://magichour.ai/tools/black-hair-color"
+      },
+      {
+        "id": "6c872f207c8eda5d829c35eefa30a07cfbe9832d",
+        "title": "Tattoo Filter",
+        "url": "https://magichour.ai/tools/tattoo-simulator"
+      },
+      {
+        "id": "c3a524021c2a6706c332635158a7b74b525453fd",
+        "title": "GTA Filter",
+        "url": "https://magichour.ai/tools/gta-filter"
+      },
+      {
+        "id": "d813e1f59de4916a673b7bc1dcefe706b894460c",
+        "title": "Manga Style Generator",
+        "url": "https://magichour.ai/tools/manga-filter"
+      },
+      {
+        "id": "3f163ed87ca67415059a531b8a10e96130c5a01c",
+        "title": "Watercolor Filter",
+        "url": "https://magichour.ai/tools/photo-watercolor"
+      },
+      {
+        "id": "02ae465b25197775a34c0bf105411f0013863aa7",
+        "title": "Angel Wings Filter",
+        "url": "https://magichour.ai/tools/add-angel-wings-to-photo"
+      },
+      {
+        "id": "d42eee4cb9dfe9addb76128ac3d271638a591131",
+        "title": "Painting Filter",
+        "url": "https://magichour.ai/tools/photo-to-painting"
+      },
+      {
+        "id": "106e864b66989fe93079262223817c6b606edb3a",
+        "title": "Braids Filter",
+        "url": "https://magichour.ai/tools/hairstyle-braided-hair"
+      },
+      {
+        "id": "4ff7c17794e223c645babb4335b322214f8213e8",
+        "title": "Double Chin Remover",
+        "url": "https://magichour.ai/tools/remove-double-chin-from-photo"
+      },
+      {
+        "id": "c10f4127330691c532415077a0797000cf84bb52",
+        "title": "Perm Filter",
+        "url": "https://magichour.ai/tools/hairstyle-perm"
+      },
+      {
+        "id": "99bbe9224889951b9eebf5537eb1662f97b09033",
+        "title": "Brown Hair Filter",
+        "url": "https://magichour.ai/tools/brown-hair-color"
+      },
+      {
+        "id": "6bf30a13ff3f55d05d6804906e013004f6722a25",
+        "title": "Pop Art Filter",
+        "url": "https://magichour.ai/tools/pop-art-filter"
+      },
+      {
+        "id": "f44f646a3dd720ef027f36ad0584c908021c9f04",
+        "title": "Red Hair Filter",
+        "url": "https://magichour.ai/tools/red-hair-color"
+      },
+      {
+        "id": "bf745a357142d02d3366744b995b21765eb3b2b4",
+        "title": "Wrinkle Remover",
+        "url": "https://magichour.ai/tools/wrinkle-remover"
+      },
+      {
+        "id": "d67d6ba7c8f1e4862632edd02b943604d1c32de7",
+        "title": "Christmas Filter",
+        "url": "https://magichour.ai/tools/christmas-photo-generator"
+      },
+      {
+        "id": "d2a6c2357fe69e2bf7a1929c14d3abfdd08918b7",
+        "title": "Baby Filter",
+        "url": "https://magichour.ai/tools/baby-filter"
+      },
+      {
+        "id": "05fc83deeda871d7dc9c01fcbe43d162a1cc0f87",
+        "title": "Curly Hair Filter",
+        "url": "https://magichour.ai/tools/hairstyle-curly-hair"
+      },
+      {
+        "id": "fe9e76d4a9aeec94a4e2961818a19a9531dc3588",
+        "title": "Dread Filter",
+        "url": "https://magichour.ai/tools/hairstyle-dreadlocks"
+      },
+      {
+        "id": "351d8118d496093dec7109d0c9f36457b39544b3",
+        "title": "Mustache Filter",
+        "url": "https://magichour.ai/tools/add-mustache-to-photo"
+      },
+      {
+        "id": "dca3e523816fb1f2ea1029cc767eaa6d4af87941",
+        "title": "Blue Eye Filter",
+        "url": "https://magichour.ai/tools/blue-eye-filter"
+      },
+      {
+        "id": "778cd3a9f4c7ef316de8fe32c144d4108fb88a3c",
+        "title": "Nose Piercing Filter",
+        "url": "https://magichour.ai/tools/nose-piercing-filter"
+      },
+      {
+        "id": "93701bf9577a094f0a90714ae4f58cd0641d8870",
+        "title": "Christmas Hat Filter",
+        "url": "https://magichour.ai/tools/santa-hat-filter"
+      },
+      {
+        "id": "e3e2b39d9de1703172a3bf4cf76b76aa2a9112e9",
+        "title": "White Hair Filter",
+        "url": "https://magichour.ai/tools/white-hair-color"
+      },
+      {
+        "id": "2245e0b4fb4e92490a1de488146d56b324a7a752",
+        "title": "Red Eye Filter",
+        "url": "https://magichour.ai/tools/red-eye-filter"
+      },
+      {
+        "id": "fe9e527273b0cf2654a416ab04eb0f91a877b9e7",
+        "title": "Pixie Cut Filter",
+        "url": "https://magichour.ai/tools/hairstyle-pixie-cut"
+      },
+      {
+        "id": "0c249748f2654b634353b561f2d3f79ef6f24cfd",
+        "title": "Crew Cut Filter",
+        "url": "https://magichour.ai/tools/hairstyle-crew-cut"
+      },
+      {
+        "id": "a7ba3135f8b39640d128410824ffe80aaf5643b3",
+        "title": "Stars Filter",
+        "url": "https://magichour.ai/tools/add-stars-to-photo"
+      },
+      {
+        "id": "420c6e20b8e599c2f44a5a7646fc36a7b212c7dd",
+        "title": "Illustration To Figure",
+        "url": "https://magichour.ai/tools/illustration-to-figure"
+      },
+      {
+        "id": "ba1fdf2db0f37db60bbd5e606b24ba37924d74b4",
+        "title": "Ground View Generator",
+        "url": "https://magichour.ai/tools/map-to-ground-view-generator"
+      },
+      {
+        "id": "1af83189cd63eae10e1b3a2545398ad5a957acca",
+        "title": "1970's Photo Filter",
+        "url": "https://magichour.ai/tools/photos-of-yourself-in-different-eras"
+      },
+      {
+        "id": "b8e44e130c83d6f553aa8c176057f77408830a17",
+        "title": "Multi-Reference Image Generator",
+        "url": "https://magichour.ai/tools/multi-reference-image-generator"
+      },
+      {
+        "id": "795e7cad9bc31e9dd6b0e3faeac8b87a89166f24",
+        "title": "Automatic Photo Editing",
+        "url": "https://magichour.ai/tools/automatic-photo-editing"
+      },
+      {
+        "id": "fd36452e85764800d40ec4f8e728b49b36f00a4d",
+        "title": "Fight Scene Generator",
+        "url": "https://magichour.ai/tools/fight-scene-generator"
+      },
+      {
+        "id": "6988c71736e161a5cef6ec3dfbc3bd0d4d6f0c5a",
+        "title": "Top-Down View Generator",
+        "url": "https://magichour.ai/tools/map-to-top-down-view-generator"
+      },
+      {
+        "id": "9b7dd8c7b4dcc294d01e918673b67f77a92c7fe8",
+        "title": "Custom Character Stickers",
+        "url": "https://magichour.ai/tools/custom-character-stickers"
+      },
+      {
+        "id": "6388bdcc52c7c6026cfd904bd09b594cdb250ce0",
+        "title": "Illustration to Cosplay Filter",
+        "url": "https://magichour.ai/tools/illustration-to-cosplay"
+      },
+      {
+        "id": "82dd0ab1fbfa73f737f76fdaeb2208f0727871ee",
+        "title": "Character Design Generator",
+        "url": "https://magichour.ai/tools/character-design-generator"
+      },
+      {
+        "id": "b3fe9c3ac977f711f96f3875fd18c6dc16c4e301",
+        "title": "Colored Art From Palette",
+        "url": "https://magichour.ai/tools/colored-art-from-palette"
+      },
+      {
+        "id": "7fe78423312e3e5c519e0e84b39a61a44d69332f",
+        "title": "Cook From Ingredients",
+        "url": "https://magichour.ai/tools/cook-from-ingredients"
+      },
+      {
+        "id": "0815b1d3dda0d6c2c40267927f8611f44ffe2f1b",
+        "title": "Math Problem Reasoning",
+        "url": "https://magichour.ai/tools/math-problem-reasoning"
+      },
+      {
+        "id": "af04134d54b4f3a474e179d7d414be9747786c90",
+        "title": "Old Photo Colorizer",
+        "url": "https://magichour.ai/tools/old-photo-colorizer"
+      },
+      {
+        "id": "1b9ff30245d7d150d5ff228295ca5e44e38b79e7",
+        "title": "Character Clothing Change",
+        "url": "https://magichour.ai/tools/character-clothing-change"
+      },
+      {
+        "id": "a22ec5e116008ae1105df838d1082324735eab0b",
+        "title": "Character Pose Editor",
+        "url": "https://magichour.ai/tools/character-pose-editor"
+      },
+      {
+        "id": "cc0b64f11ad37fa38d1f4dedf23e5efdcb112645",
+        "title": "Add Watermark To Image",
+        "url": "https://magichour.ai/tools/add-watermark-to-image"
+      },
+      {
+        "id": "23db1e6703ba9fa5db337f850b9db1f17bde6733",
+        "title": "Red Pen Annotations",
+        "url": "https://magichour.ai/tools/red-pen-annotations"
+      },
+      {
+        "id": "f3694c65ad111b53d3e096c66d939f0ef020520a",
+        "title": "AI Comic Creator",
+        "url": "https://magichour.ai/tools/ai-comic-creator"
+      },
+      {
+        "id": "f340bc0c02437a9c3800c2f3f68954fde7587791",
+        "title": "Isometric View Generator",
+        "url": "https://magichour.ai/tools/isometric-view-generator"
+      },
+      {
+        "id": "381f56c19c8e80184d582af905d8c916d40b30d9",
+        "title": "LEGO Minifigure Generator",
+        "url": "https://magichour.ai/tools/lego-minifigure-generator"
+      },
+      {
+        "id": "2eab58898d0f068ffb5c87fc408dcff5064dacbf",
+        "title": "AI Repair Image",
+        "url": "https://magichour.ai/tools/ai-repair-image"
+      },
+      {
+        "id": "e666b6763fe522cc9b53e020d28499a54c458f2d",
+        "title": "Modern Photo Generator",
+        "url": "https://magichour.ai/tools/modern-photo-generator"
+      },
+      {
+        "id": "377cbeea866e9e1d993fe4510e9d7096f51a6ea9",
+        "title": "Giant Statue Filter",
+        "url": "https://magichour.ai/tools/giant-statue-filter"
+      },
+      {
+        "id": "a16225761dab1cb88bc01654563271bf93445f0a",
+        "title": "Create An Itasha Car",
+        "url": "https://magichour.ai/tools/create-an-itasha-car"
+      },
+      {
+        "id": "a5faf09034bbd1e6c8176ca717bd43d3268084f2",
+        "title": "Isometric Holographic Wireframe",
+        "url": "https://magichour.ai/tools/isometric-holographic-wireframe"
+      },
+      {
+        "id": "082fff518e5b1582ae9ef9a189d4ceb497a3f5d7",
+        "title": "Floor Plan To 3D Render",
+        "url": "https://magichour.ai/tools/floor-plan-to-3d-render"
+      },
+      {
+        "id": "8cc666fa7bfac9001a1e8b2048b19a1ad98447a9",
+        "title": "Reset Camera Parameters",
+        "url": "https://magichour.ai/tools/reset-camera-parameters"
+      },
+      {
+        "id": "8b2d8670b55272b00f76df068c8883a520c65717",
+        "title": "Create An ID Photo",
+        "url": "https://magichour.ai/tools/create-an-id-photo"
+      },
+      {
+        "id": "e035195ed02625f9559c434a205bcda95c9f16af",
+        "title": "Scene A6 Folding Card",
+        "url": "https://magichour.ai/tools/scene-a6-folding-card"
+      },
+      {
+        "id": "5acbdd7054f1a48c5b3294daf28b8a28bf1af2b7",
+        "title": "Jewelry Collection Design",
+        "url": "https://magichour.ai/tools/jewelry-collection-design"
+      },
+      {
+        "id": "b45e5c9863ec88a8102346b230b68e3c0c843514",
+        "title": "Merchandise Design",
+        "url": "https://magichour.ai/tools/merchandise-design"
+      },
+      {
+        "id": "0c80d2e51a4a6c5e4c9fd2fc33757cae4a93abbd",
+        "title": "Giant Figure Scaffolding",
+        "url": "https://magichour.ai/tools/giant-figure-scaffolding"
+      },
+      {
+        "id": "f8cb05665f466b2932df4f7eb730afb1527ae7f4",
+        "title": "Building Cutout Filter",
+        "url": "https://magichour.ai/tools/building-cutout-filter"
+      },
+      {
+        "id": "1e676a56104ac831534b5938b9bb7c3e640404f8",
+        "title": "Component Extraction",
+        "url": "https://magichour.ai/tools/component-extraction"
+      },
+      {
+        "id": "7b946e1867912872af1c60ae1fac78d6fb732891",
+        "title": "Generate Miniature Scene From Image",
+        "url": "https://magichour.ai/tools/generate-miniature-scene-from-image"
+      },
+      {
+        "id": "3412b728910edda93cf1d157ba3dbebde5718c15",
+        "title": "AI Photo Restorer",
+        "url": "https://magichour.ai/tools/ai-photo-restorer"
+      },
+      {
+        "id": "7bf4a62b9fb1ce62ca91169a36e66ac436d55ef6",
+        "title": "Fighting Game Interface Creation",
+        "url": "https://magichour.ai/tools/fighting-game-interface-creation"
+      },
+      {
+        "id": "cd1958fbf778546344d6bd3f0814d2974054617f",
+        "title": "AI Wanted Poster Generator",
+        "url": "https://magichour.ai/tools/ai-wanted-poster-generator"
+      },
+      {
+        "id": "82c481484c4c21a38dc8d9b809b19f73ae25c7cf",
+        "title": "Line Art To Doodle Drawing",
+        "url": "https://magichour.ai/tools/line-art-to-doodle-drawing"
+      },
+      {
+        "id": "e69dc4940bfe26e370a1acfa9ab9688e0afcfe92",
+        "title": "AI VTuber Generator",
+        "url": "https://magichour.ai/tools/ai-vtuber-generator"
+      },
+      {
+        "id": "7cd835e09a1ea8c86f4bb92438e86c09fbe81707",
+        "title": "AI Movie Poster Generator",
+        "url": "https://magichour.ai/tools/ai-movie-poster-generator"
+      },
+      {
+        "id": "157f0a50d5a2fd672bcf75bef48fa67693dcc675",
+        "title": "Movie Lounge",
+        "url": "https://magichour.ai/tools/movie-lounge"
+      },
+      {
+        "id": "eac9d159d9c031aca8795b358e515a9ecb557a82",
+        "title": "Custom Theme Park",
+        "url": "https://magichour.ai/tools/custom-theme-park"
+      },
+      {
+        "id": "cb2f6a46c30e67233472a1683bab7501d532db9a",
+        "title": "Create Constellation Image",
+        "url": "https://magichour.ai/tools/create-constellation-image"
+      },
+      {
+        "id": "7755a8613c43d194b328ecc1029aebb615f248aa",
+        "title": "Transparent Object",
+        "url": "https://magichour.ai/tools/make-reference-image-object-transparent"
+      },
+      {
+        "id": "51f5092f0e3a1d6d9c58642615cf00a02f1fbe8d",
+        "title": "Fisheye Peephole Illustration",
+        "url": "https://magichour.ai/tools/fisheye-peephole-illustration"
+      },
+      {
+        "id": "8631a129e9dff9c6bffc4b448ddca7635667a922",
+        "title": "Custom Claw Machine",
+        "url": "https://magichour.ai/tools/custom-claw-machine"
+      },
+      {
+        "id": "11d7ef53c1a3717a45e91944e419d9950f293012",
+        "title": "RPG Character Status UI",
+        "url": "https://magichour.ai/tools/rpg-character-status-ui"
+      },
+      {
+        "id": "7bd8b44d4fa3f5f0250879c80c08f8bbdc79ac77",
+        "title": "Convert Text Diagram To Pictograms",
+        "url": "https://magichour.ai/tools/convert-text-diagram-to-pictograms"
+      },
+      {
+        "id": "d81e250e356682e76346c4761109fcfee4d8c36e",
+        "title": "Drawing On A Pen Display",
+        "url": "https://magichour.ai/tools/drawing-on-a-pen-display"
+      },
+      {
+        "id": "48c33f56188f050d0a32c17444f2ef09dc36e974",
+        "title": "AI Character Sheet Generator",
+        "url": "https://magichour.ai/tools/ai-character-sheet-generator"
+      },
+      {
+        "id": "20d86db8c85de4bfa5ff6cda0d6e3d612e77eb14",
+        "title": "Group Photo Generator",
+        "url": "https://magichour.ai/tools/group-photo-generator"
+      },
+      {
+        "id": "f399fbbd69cd152473feb1df2fde3d4cdb77f12a",
+        "title": "Motion To Sports Scenes",
+        "url": "https://magichour.ai/tools/motion-to-sports-scenes"
+      },
+      {
+        "id": "606fa7e0f6745c4d822465040616afbae2926bd0",
+        "title": "AI Storyboard Generator",
+        "url": "https://magichour.ai/tools/ai-storyboard-generator"
+      },
+      {
+        "id": "32cf9933877f9b9dfdfb8a6e1f906d40db90a697",
+        "title": "Blend Images",
+        "url": "https://magichour.ai/tools/blend-images"
+      },
+      {
+        "id": "42b4980212b3da2c411435c71679842a8b088e48",
+        "title": "Historical Standing Portrait",
+        "url": "https://magichour.ai/tools/historical-standing-portrait"
+      },
+      {
+        "id": "715eee2abfe49694c12b2d7d1c56d59c5ece6b72",
+        "title": "Historical Full Portrait",
+        "url": "https://magichour.ai/tools/historical-figure-mashup-full-body"
+      },
+      {
+        "id": "6b1ece6795866182b2b9be0a8d74ba5149bac199",
+        "title": "Weather Transformation",
+        "url": "https://magichour.ai/tools/weather-transformation"
+      },
+      {
+        "id": "93f07f40a87699562e1c5eb578409910bee0221f",
+        "title": "Top-down Medium Shot",
+        "url": "https://magichour.ai/tools/top-down-medium-shot"
+      },
+      {
+        "id": "518a416a8013951e4e0765cf91a024939adae19a",
+        "title": "Wool Felt Style",
+        "url": "https://magichour.ai/tools/wool-felt-style"
+      },
+      {
+        "id": "84b93e1f35b93b94c1eef8fde7e64d1a3be48719",
+        "title": "AI Face Retouch Tool",
+        "url": "https://magichour.ai/tools/ai-face-retouch-tool"
+      },
+      {
+        "id": "31e46896209b4e4422aa9bce492f3b903fa511e6",
+        "title": "AI Retouch Tool",
+        "url": "https://magichour.ai/tools/ai-retouch-tool"
+      },
+      {
+        "id": "e75923aa96bfbe858a915e4c7592751bf3024d34",
+        "title": "Replace Top Hat With Bird",
+        "url": "https://magichour.ai/tools/replace-top-hat-with-bird"
+      },
+      {
+        "id": "06262705dbf6ad1cc3b9763643112d3dc77cfe74",
+        "title": "Frosted Apple",
+        "url": "https://magichour.ai/tools/frosted-apple"
+      },
+      {
+        "id": "8ec100d2acdaf1a5fec9a31a7e3eac21fb8a7c78",
+        "title": "Explosive Background",
+        "url": "https://magichour.ai/tools/explosive-background"
+      },
+      {
+        "id": "8474bababce7f86e0d9cab747facf0da3ecddcf7",
+        "title": "Reveal Burger",
+        "url": "https://magichour.ai/tools/reveal-burger"
+      },
+      {
+        "id": "10188fa79f89b6b0622f5fd28995d593d4555298",
+        "title": "Futuristic Gaming Chair",
+        "url": "https://magichour.ai/tools/futuristic-gaming-chair"
+      },
+      {
+        "id": "5739b87271f7a589ee997e93de77ac2227b48288",
+        "title": "AI Action Storyboard Generator",
+        "url": "https://magichour.ai/tools/ai-action-storyboard-generator"
+      },
+      {
+        "id": "4d3a093db8f55306481cd6faee6276e4ab272b12",
+        "title": "Old TV Filter",
+        "url": "https://magichour.ai/tools/old-tv-filter"
+      },
+      {
+        "id": "584ffc8af29fa5033cb613dde7766d41dde626d1",
+        "title": "AI Action Figure Generator",
+        "url": "https://magichour.ai/tools/ai-action-figure-generator"
+      },
+      {
+        "id": "255e1e814468428c4cdcbc9bd02dd331e9ba343c",
+        "title": "Adaptive Aspect Ratio",
+        "url": "https://magichour.ai/tools/adaptive-aspect-ratio"
+      },
+      {
+        "id": "43cb71880a8c71fc23d43b12c6b6ed85df53b378",
+        "title": "Hyper-realistic Crowd Composition",
+        "url": "https://magichour.ai/tools/hyper-realistic-crowd-composition"
+      },
+      {
+        "id": "fb5afb036a4fef2494f3e7a2f6b587330c0bb142",
+        "title": "2000s Mirror Selfie",
+        "url": "https://magichour.ai/tools/2000s-mirror-selfie"
+      },
+      {
+        "id": "186c9af696b2ad0b4924de5836bbc07e432e3389",
+        "title": "Victoria’s Secret Photoshoot",
+        "url": "https://magichour.ai/tools/victorias-secret-photoshoot"
+      },
+      {
+        "id": "16d90d40a81af16f7035f4d81562b63bf4b210f7",
+        "title": "1990s Camera Portrait",
+        "url": "https://magichour.ai/tools/1990s-camera-portrait"
+      },
+      {
+        "id": "ef38adac9f5356ab09abcfa30e432651fd89e911",
+        "title": "Silicon Valley Business Headshot",
+        "url": "https://magichour.ai/tools/one-click-silicon-valley-business-headshot"
+      },
+      {
+        "id": "51ef263735c10d8dda4b4082e97863fca06c268e",
+        "title": "Emotional Film Photography",
+        "url": "https://magichour.ai/tools/emotional-film-photography"
+      },
+      {
+        "id": "4810239076d5ae2f9ae6281f6190d326952e3488",
+        "title": "Where’s Waldo",
+        "url": "https://magichour.ai/tools/wheres-waldo"
+      },
+      {
+        "id": "e3f24bcd9de24feeb2e3cc8eee2e9db3ef7a8bbe",
+        "title": "Aging Through The Years",
+        "url": "https://magichour.ai/tools/aging-through-the-years"
+      },
+      {
+        "id": "fa64619f95e06d4be69f5a8bf1d5884746e6fc26",
+        "title": "Recursive Person Image",
+        "url": "https://magichour.ai/tools/recursive-person-image"
+      },
+      {
+        "id": "75f11b5d3da1850796c3c9e98e681035727c1545",
+        "title": "Engineering Blueprint Filter",
+        "url": "https://magichour.ai/tools/how-engineers-see-san-francisco-bridge"
+      },
+      {
+        "id": "bcca080d69d9ee09d275bccd78df89c598d82d84",
+        "title": "Multi-Subject Group Photo",
+        "url": "https://magichour.ai/tools/multi-subject-group-photo"
+      },
+      {
+        "id": "9d03afe5801c67756264ba120cba10ef3228dfa2",
+        "title": "Whiteboard Marker Art",
+        "url": "https://magichour.ai/tools/whiteboard-marker-art"
+      },
+      {
+        "id": "9dde682d6d1c1c9a97a1c860f4b0dba92fd7b942",
+        "title": "Infographic Generator",
+        "url": "https://magichour.ai/tools/infographic-generator"
+      },
+      {
+        "id": "5cded951a18ced563a2e0b95855a5e4a704ed946",
+        "title": "Product Photo Cleanup",
+        "url": "https://magichour.ai/tools/product-photo-cleanup"
+      },
+      {
+        "id": "ed552d4b0596024a0d86b466261d2955bf77cfa7",
+        "title": "Modern Chart Filter",
+        "url": "https://magichour.ai/tools/modern-chart-filter"
+      },
+      {
+        "id": "954858a2d3cf1a2cb8ddee119b34722f60fa0d72",
+        "title": "AI Magazine Layout Generator",
+        "url": "https://magichour.ai/tools/ai-magazine-layout-generator"
+      },
+      {
+        "id": "bf263573aca127367ff636c497ec79ab9ce61430",
+        "title": "AI Image Outpainting",
+        "url": "https://magichour.ai/tools/ai-image-outpainting"
+      }
+    ],
+    "Viddo AI": [
+      {
+        "id": "c326d14725ea3fe5ebae521768d20638671cd128",
+        "title": "Image to Video",
+        "url": "https://viddo.ai/image-to-video"
+      },
+      {
+        "id": "eeb74332dc9e7dc0578f627f07b56472d9527197",
+        "title": "Text to Video",
+        "url": "https://viddo.ai/text-to-video"
+      },
+      {
+        "id": "3f1915f42454463e0cca2e373c76ddb20e419d61",
+        "title": "Video to Video",
+        "url": "https://viddo.ai/video-to-video"
+      },
+      {
+        "id": "709d9f5d896a2a4885ee987d5854c77f953a43ee",
+        "title": "Video ExtendHot",
+        "url": "https://viddo.ai/video-extend"
+      },
+      {
+        "id": "81f3880fe8b4a42859f5bcccb40df21102bfc376",
+        "title": "One-Click Video Creator (180s)New",
+        "url": "https://viddo.ai/one-click-video-creator"
+      },
+      {
+        "id": "08c62f6fc324c4e950344e3592d1441e53f02777",
+        "title": "Music to VideoNew",
+        "url": "https://viddo.ai/ai-music-video"
+      },
+      {
+        "id": "36f92c23e86b22e1642d2ab0c2e3cb99f3a36631",
+        "title": "Video EnhancerNew",
+        "url": "https://viddo.ai/video-enhancer"
+      },
+      {
+        "id": "7f017393b932a8168d1d30268e818be45de19f40",
+        "title": "Reference to Video",
+        "url": "https://viddo.ai/reference-to-video"
+      },
+      {
+        "id": "0a63e6787b55cdd3b16530be3c401144cfdd7ce6",
+        "title": "AI Avatar",
+        "url": "https://viddo.ai/ai-avatar"
+      },
+      {
+        "id": "98be58069ed551ffc74884bf20ed1a2e60d7c2bc",
+        "title": "Video Transition",
+        "url": "https://viddo.ai/video-transition"
+      },
+      {
+        "id": "d82388ae9d7326007cd222f395a0241dbac87628",
+        "title": "Lip Sync",
+        "url": "https://viddo.ai/lip-sync"
+      },
+      {
+        "id": "2acdcd9679227fa1400d966c7f41721aeded8f59",
+        "title": "Video Style Transform",
+        "url": "https://viddo.ai/video-style-transform"
+      },
+      {
+        "id": "2faee7adf68badb8e3709dd2e20cc69e0ac75304",
+        "title": "Motion Control",
+        "url": "https://viddo.ai/motion-control"
+      },
+      {
+        "id": "45c0dde38e4b021cf2efe613bcf04aa7244d6e69",
+        "title": "AI Effects",
+        "url": "https://viddo.ai/video-effects"
+      },
+      {
+        "id": "22497a4d5083fb5900f4866d7f1df6763756361e",
+        "title": "Gemini Omni",
+        "url": "https://viddo.ai/gemini-omni"
+      },
+      {
+        "id": "18135d8ad8e30bc2742929d8b110d56d4f4aca7f",
+        "title": "Veo 3.1",
+        "url": "https://viddo.ai/veo3.1"
+      },
+      {
+        "id": "fc4c621a3c653acbe5536c93978699b9971af17d",
+        "title": "Veo 3.1 Lite",
+        "url": "https://viddo.ai/image-to-video?model=veo3_1_lite"
+      },
+      {
+        "id": "d9c838434d1af9b959997a3d25452e856ed7b301",
+        "title": "Veo 3.1 Fast",
+        "url": "https://viddo.ai/image-to-video?model=veo3_fast"
+      },
+      {
+        "id": "3c4e9ab174de337933bd53f166deb83e05ef6bb9",
+        "title": "Veo 3",
+        "url": "https://viddo.ai/veo3"
+      },
+      {
+        "id": "354b19b5c487074f24172b90d071ee038da8d194",
+        "title": "Grok Imagine(30s)",
+        "url": "https://viddo.ai/grok-imagine"
+      },
+      {
+        "id": "e7efccbce2b91c27e0f0c19be2b1753d71408b54",
+        "title": "Seedance 2.0",
+        "url": "https://viddo.ai/seedance-2-0"
+      },
+      {
+        "id": "6a99672d5936e41d1f6b63d1a8328193175ea058",
+        "title": "Seedance 2.0 Fast",
+        "url": "https://viddo.ai/seedance-2-0?model=seedance-2-0-fast"
+      },
+      {
+        "id": "9cf140ca76b58062d5a88f2aa69199c9d5492596",
+        "title": "Seedance 1.5 Pro",
+        "url": "https://viddo.ai/seedance-1-5-pro"
+      },
+      {
+        "id": "f6a85be52cf5ff86f9557a05d9e06e4ab6ff1f9c",
+        "title": "Seedance V1",
+        "url": "https://viddo.ai/seedance"
+      },
+      {
+        "id": "31f76fac854f43f023678933634b5aae5208faad",
+        "title": "Kling 3.0",
+        "url": "https://viddo.ai/kling-3-0"
+      },
+      {
+        "id": "bedebb9d3456f563e4d6220dbe10aeef70c4079e",
+        "title": "Kling 2.6",
+        "url": "https://viddo.ai/kling-2-6"
+      },
+      {
+        "id": "6aa4fc3b7cf0d95b488a322d37ac58de670846f2",
+        "title": "Kling V2.1",
+        "url": "https://viddo.ai/kling"
+      },
+      {
+        "id": "32cf7652020bd61a21ed37233a449537c2b34027",
+        "title": "Kling O1 Edit",
+        "url": "https://viddo.ai/video-to-video?model=kling-video-o1-video"
+      },
+      {
+        "id": "dde56d8abaf23196bc682a103d76d82dab206d09",
+        "title": "Happy Horse",
+        "url": "https://viddo.ai/happy-horse"
+      },
+      {
+        "id": "a20ffddd0a19d4cbba32f28a5ad31a4a1eecc408",
+        "title": "Wan 2.7",
+        "url": "https://viddo.ai/image-to-video?model=wan-2.7"
+      },
+      {
+        "id": "556ae706bc7966dbafc445e5b323727da3248822",
+        "title": "Wan 2.6",
+        "url": "https://viddo.ai/wan-2-6"
+      },
+      {
+        "id": "16b9f533b518a9901a57fe7c337e51e6453e99d3",
+        "title": "Wan 2.6 R2V",
+        "url": "https://viddo.ai/reference-to-video"
+      },
+      {
+        "id": "900796a0a6ffc61ee28f25626f4a85e7a26fcc71",
+        "title": "Wan 2.5",
+        "url": "https://viddo.ai/wan2-5"
+      },
+      {
+        "id": "46c76e55d51117914c664326a7a912f55be82fdc",
+        "title": "Runway Gen-4",
+        "url": "https://viddo.ai/runway"
+      },
+      {
+        "id": "94a25dedf62089552e776ef33078d5cda37ad6dd",
+        "title": "Runway Aleph Edit",
+        "url": "https://viddo.ai/runway-aleph"
+      },
+      {
+        "id": "db26f6c342d54384091c3c2c2476c9ca4691fecd",
+        "title": "Hailuo 2.3",
+        "url": "https://viddo.ai/hailuo-ai"
+      },
+      {
+        "id": "4007c4d8c6575449da0b63b53a9fa40ec3c00286",
+        "title": "Midjourney V7",
+        "url": "https://viddo.ai/midjourney"
+      },
+      {
+        "id": "470dc6fcdd078e1cb4660077a2d864f470687a23",
+        "title": "Sora 2",
+        "url": "https://viddo.ai/sora2?model=sora2"
+      },
+      {
+        "id": "e81a389c05ba1b775af746692e1c1a6bf9f553a7",
+        "title": "Sora 2 Pro 25s",
+        "url": "https://viddo.ai/sora2?model=sora2-pro-storyboard"
+      },
+      {
+        "id": "04dd668717e271be4c06cfdea47417d15639018f",
+        "title": "Image to Image",
+        "url": "https://viddo.ai/image-to-image"
+      },
+      {
+        "id": "f7ff5b8ed65336763bf82b5c5a7adc448752e836",
+        "title": "Text to Image",
+        "url": "https://viddo.ai/text-to-image"
+      },
+      {
+        "id": "1d538e18bbee42139cdec36c1258a2815f034520",
+        "title": "Nano Banana 2",
+        "url": "https://viddo.ai/nano-banana-2"
+      },
+      {
+        "id": "73d943a45400af9a56c7089ec170319488957436",
+        "title": "Nano Banana Pro",
+        "url": "https://viddo.ai/nano-banana-pro"
+      },
+      {
+        "id": "efc59d0b47d5ca83657ae88db6984375e1155c77",
+        "title": "Nano Banana",
+        "url": "https://viddo.ai/nano-banana"
+      },
+      {
+        "id": "d55d22bede80cb36bbcc3209ab8ebae655c8266c",
+        "title": "Grok Imagine",
+        "url": "https://viddo.ai/grok-imagine"
+      },
+      {
+        "id": "61066c0c7736360b8c3aef7ad53cccffb48cb709",
+        "title": "GPT Image 2",
+        "url": "https://viddo.ai/gpt-image-2"
+      },
+      {
+        "id": "052976d0aadd78714f8a36073374c706d63b5911",
+        "title": "GPT 1.5 Image",
+        "url": "https://viddo.ai/image-to-image?model=gpt-1.5-image"
+      },
+      {
+        "id": "2667f28952138f4a7ffde916f75f8e6d77270417",
+        "title": "GPT 4o",
+        "url": "https://viddo.ai/gpt-4o-image"
+      },
+      {
+        "id": "df4d547318321422da191f0303f921b152102a1b",
+        "title": "Seedream 4.5",
+        "url": "https://viddo.ai/image-to-image?model=seedream-4-5"
+      },
+      {
+        "id": "9027dbc981ed22eedaf4662cef0200da451d1353",
+        "title": "Midjourney",
+        "url": "https://viddo.ai/midjourney"
+      },
+      {
+        "id": "7fac623aba0ebc8afd63bd8052db8b844579a833",
+        "title": "Text to Speech",
+        "url": "https://viddo.ai/text-to-speech"
+      },
+      {
+        "id": "0b16cc544337c90bf99e91ac0664ec373f1d4643",
+        "title": "Voice Cloning",
+        "url": "https://viddo.ai/voice-cloning"
+      },
+      {
+        "id": "8289fb39eeb3d8868c516a08ffaa493cf368cd21",
+        "title": "Text to Dialogue",
+        "url": "https://viddo.ai/text-to-dialogue"
+      },
+      {
+        "id": "4fdf7b9556c6aeb14ddc033998eabda9d5d092fc",
+        "title": "Noise Remover",
+        "url": "https://viddo.ai/noise-remover"
+      },
+      {
+        "id": "914f13598e1e8263409ef27e14af62a76289ca79",
+        "title": "Speech to Text",
+        "url": "https://viddo.ai/speech-to-text"
+      },
+      {
+        "id": "6c8162302ccb6160bd9289d1c188fcc9056e1779",
+        "title": "Sound Effects",
+        "url": "https://viddo.ai/sound-effects"
+      },
+      {
+        "id": "eea2905ee641d69469961d96992416725d2b1294",
+        "title": "Elevenlabs V3",
+        "url": "https://viddo.ai/text-to-speech"
+      },
+      {
+        "id": "bb112dbcf16df64689eedc757fa05883ce90617a",
+        "title": "minimax 2.5 HD",
+        "url": "https://viddo.ai/text-to-speech?model=speech-2.5-hd-preview"
+      },
+      {
+        "id": "038bc3664461ad9f4b18216f5c99f6671c9d131b",
+        "title": "minimax 2.5 Turbo",
+        "url": "https://viddo.ai/text-to-speech?model=speech-2.5-turbo-preview"
+      },
+      {
+        "id": "bf890f734486fd8bad9396ff50167a0dd67e58e4",
+        "title": "Kling",
+        "url": "https://viddo.ai/sound-effects"
+      },
+      {
+        "id": "0ceeeaee5d01489f4fee9ce1856d6a5f3065ae0d",
+        "title": "AI Music Generator",
+        "url": "https://viddo.ai/suno"
+      },
+      {
+        "id": "c7c67826d87b137932535a8b4ea498fceee86686",
+        "title": "Suno V5",
+        "url": "https://viddo.ai/suno?model=V5"
+      },
+      {
+        "id": "7e57aeab309be466aabc429c1ae0ff3a9e64ed53",
+        "title": "Suno V4.5 Plus",
+        "url": "https://viddo.ai/suno?model=V4_5PLUS"
+      },
+      {
+        "id": "aed79803127c3d6e46a249926bde2a0f85ec2689",
+        "title": "Suno V4.5",
+        "url": "https://viddo.ai/suno?model=V4_5"
+      },
+      {
+        "id": "ec6a623db6464b4779e8fadf685985d92a3a99e7",
+        "title": "Suno V4",
+        "url": "https://viddo.ai/suno?model=V4"
+      },
+      {
+        "id": "42e6309fe86f4f41dd7aea30157cefdc3b406cef",
+        "title": "Suno V3.5",
+        "url": "https://viddo.ai/suno?model=V3_5"
+      },
+      {
+        "id": "2978be86de04e339ad083e2c3530c335d2aceadf",
+        "title": "Video Editor",
+        "url": "https://viddo.ai/editor"
+      },
+      {
+        "id": "b07d24bfa243825d6558df6e032e864db925c0f3",
+        "title": "llms",
+        "url": "https://viddo.ai/llms.txt"
+      },
+      {
+        "id": "f73fdb6b4246bc9ca0a683846dbb27f19a2b055d",
+        "title": "One-Click VideoNew",
+        "url": "https://viddo.ai/one-click-video-creator"
+      },
+      {
+        "id": "f6c684822f20b62a16e4435408ceec8029339639",
+        "title": "Reference To Video",
+        "url": "https://viddo.ai/reference-to-video"
+      },
+      {
+        "id": "0301b4b7c69bbbfb8f7d8d46c1b253cb51b2aa53",
+        "title": "Video Effects",
+        "url": "https://viddo.ai/video-effects"
+      },
+      {
+        "id": "d85bba61a8225618b1def461720cfab0968ce72c",
+        "title": "Suno",
+        "url": "https://viddo.ai/suno"
+      },
+      {
+        "id": "990710185196795f5878495395935d66fad6b88f",
+        "title": "Price50% OFF",
+        "url": "https://viddo.ai/price"
+      },
+      {
+        "id": "3c27adac16121c5bc0a60eb6113335d440f7fd26",
+        "title": "newAI Baby Dancing",
+        "url": "https://viddo.ai/ai-baby-dancing"
+      },
+      {
+        "id": "1761bfe84964f2c6cc14628ef6ca4d289ce8c8e7",
+        "title": "newSanta Express",
+        "url": "https://viddo.ai/video-effects/santa_express"
+      },
+      {
+        "id": "ac6ca19ab91a1537afe2557bffab53e91d8f958d",
+        "title": "newChristmas Photo Shoot",
+        "url": "https://viddo.ai/video-effects/christmas_photo_shoot"
+      },
+      {
+        "id": "84b1e7f4117fa6e82e517336870ba574b7e4892f",
+        "title": "newSnowglobe",
+        "url": "https://viddo.ai/video-effects/snowglobe"
+      },
+      {
+        "id": "8a7b0fea9d7ac6c9403f3dafb3fc78e5283f9ecc",
+        "title": "newSanta Gift",
+        "url": "https://viddo.ai/video-effects/santa_gift"
+      },
+      {
+        "id": "2df3957fe0b3b3a97c90384ea522857f0cefa4f6",
+        "title": "newVampire Transform",
+        "url": "https://viddo.ai/video-effects/vampire_transform"
+      },
+      {
+        "id": "ae9871f6c6108a89aea1e8cf0c089c1539c3ca1e",
+        "title": "HotAl Cute Pinch Cheek",
+        "url": "https://viddo.ai/video-effects/ai-cute-pinch-cheek"
+      },
+      {
+        "id": "e6377b8ad01cd65ab4e3af0d55092cad8536f70b",
+        "title": "HotCozy Toon Wrap",
+        "url": "https://viddo.ai/video-effects/cozy_toon_wrap"
+      },
+      {
+        "id": "e4d207cce0f6b91615e2e14aed5a2bad941449c1",
+        "title": "HotScarlet And Snow",
+        "url": "https://viddo.ai/video-effects/scarlet_and_snow"
+      },
+      {
+        "id": "a4b5b9d883d4e0c77bf1a3cbd22bcc0a6eea22a9",
+        "title": "HotSpark In The Snow",
+        "url": "https://viddo.ai/video-effects/spark_in_the_snow"
+      },
+      {
+        "id": "df96ac76366492a469f2b4916c7a93a8a147aa38",
+        "title": "HotBuilding Sweater",
+        "url": "https://viddo.ai/video-effects/building_sweater"
+      },
+      {
+        "id": "8355bb5878c55af7870d392642d3dfebae80a343",
+        "title": "HotCoronation Of Frost",
+        "url": "https://viddo.ai/video-effects/coronation_of_frost"
+      },
+      {
+        "id": "30505949cda39df3b295d1e21993e1b63a734716",
+        "title": "HotParticle Santa Surround",
+        "url": "https://viddo.ai/video-effects/particle_santa_surround"
+      },
+      {
+        "id": "17b63e84d8c3694d33c6dcc1959e07ca056e5469",
+        "title": "HotAI Baby Dancing",
+        "url": "https://viddo.ai/ai-baby-dancing"
+      },
+      {
+        "id": "2bde42be59897e13a1a28f91e6c0ecd613a12602",
+        "title": "HotSanta Express",
+        "url": "https://viddo.ai/video-effects/santa_express"
+      },
+      {
+        "id": "04eeae7972a5cdf91b5d481328019f1008886e09",
+        "title": "HotOrnament Crash",
+        "url": "https://viddo.ai/video-effects/ornament_crash"
+      },
+      {
+        "id": "c4fca78e1dbaebb25a2bfee4a5709c86cf856dca",
+        "title": "HotChristmas Photo Shoot",
+        "url": "https://viddo.ai/video-effects/christmas_photo_shoot"
+      },
+      {
+        "id": "5cae08415c6346006b3fa437e6a59b62b5f8bfb7",
+        "title": "HotInstant Christmas",
+        "url": "https://viddo.ai/video-effects/instant_christmas"
+      },
+      {
+        "id": "ef2d9098b6242387fa1245108f2e537249fdeb20",
+        "title": "HotSnowglobe",
+        "url": "https://viddo.ai/video-effects/snowglobe"
+      },
+      {
+        "id": "49721692167cd359e1b6f03202a494e4194d6044",
+        "title": "HotSteampunk Christmas",
+        "url": "https://viddo.ai/video-effects/steampunk_christmas"
+      },
+      {
+        "id": "721d96bc3ab6ac93ecbc3040e2f443ecd6a1ce2c",
+        "title": "HotSanta Gift",
+        "url": "https://viddo.ai/video-effects/santa_gift"
+      },
+      {
+        "id": "3dc650b50f5ed29b97b076679b78eff0dc62fef7",
+        "title": "HotWitch Transform",
+        "url": "https://viddo.ai/video-effects/witch_transform"
+      },
+      {
+        "id": "401fbc4ef09c873ca7d0df7b67e8b6918dc4d163",
+        "title": "HotVampire Transform",
+        "url": "https://viddo.ai/video-effects/vampire_transform"
+      },
+      {
+        "id": "389631ca16668f8f45ba649ee8685a996cd0a05b",
+        "title": "HotPumpkin Head Transform",
+        "url": "https://viddo.ai/video-effects/pumpkin_head_transform"
+      },
+      {
+        "id": "5193253c53f6b6c643f6b9554bc9dc14f2cc9feb",
+        "title": "HotDemon Transform",
+        "url": "https://viddo.ai/video-effects/demon_transform"
+      },
+      {
+        "id": "f70250a6f54aa5d6f86181aec11559b07011c94f",
+        "title": "HotMummy Transform",
+        "url": "https://viddo.ai/video-effects/mummy_transform"
+      },
+      {
+        "id": "ed96e9e70e517e4526382b4d775beee6b548ae0e",
+        "title": "HotZombie Transform",
+        "url": "https://viddo.ai/video-effects/zombie_transform"
+      },
+      {
+        "id": "3c9bc6fd9abc524c07d015974d47840bdbb27a63",
+        "title": "HotCute Pumpkin Transform",
+        "url": "https://viddo.ai/video-effects/cute_pumpkin_transform"
+      },
+      {
+        "id": "546fef7c177614ddfafbeee3e2d3a07985826387",
+        "title": "HotCute Ghost Transform",
+        "url": "https://viddo.ai/video-effects/cute_ghost_transform"
+      },
+      {
+        "id": "812a13637166f016da3ec85d764851e0f95f98e1",
+        "title": "HotKnock Knock Halloween",
+        "url": "https://viddo.ai/video-effects/knock_knock_halloween"
+      },
+      {
+        "id": "a2f0aad934f2dbb3dd24261262c92d2d12882337",
+        "title": "HotHalloween Escape",
+        "url": "https://viddo.ai/video-effects/halloween_escape"
+      },
+      {
+        "id": "992024f4f1da5838dbf35c80c233460f6b70f68f",
+        "title": "Punch Me",
+        "url": "https://viddo.ai/video-effects/punch-me"
+      },
+      {
+        "id": "b7329770464554ff527904bb9e85832a940dc7d8",
+        "title": "Earth Zoom In",
+        "url": "https://viddo.ai/video-effects/earth-zoom-in"
+      },
+      {
+        "id": "a710e8d0107c5f9d1d3d055c7dd80d4832672fbb",
+        "title": "AI Hug",
+        "url": "https://viddo.ai/video-effects/AI-Hug"
+      },
+      {
+        "id": "d3af4139900c863bb0507a048a21382d52936a12",
+        "title": "AI Fairy",
+        "url": "https://viddo.ai/video-effects/ai-fairy"
+      },
+      {
+        "id": "5c2165bdfef1be36de5bcbbe6f8e6a29d4ec9fc2",
+        "title": "Bloom Magic",
+        "url": "https://viddo.ai/video-effects/bloom_magic"
+      },
+      {
+        "id": "c5a673d1b8c82765c70a22f82d0ef03345e31c42",
+        "title": "Hulk",
+        "url": "https://viddo.ai/video-effects/hulk"
+      },
+      {
+        "id": "76e029aee193035f39681aea54c4073099491003",
+        "title": "Carry Me",
+        "url": "https://viddo.ai/video-effects/carry_me"
+      },
+      {
+        "id": "6b8a11a58209c4697a1d885ea8363a45a676c11f",
+        "title": "Captain America",
+        "url": "https://viddo.ai/video-effects/captain_america"
+      },
+      {
+        "id": "2eaa054a1cdeab3fed13f7091bb974a4878d1b22",
+        "title": "Sweet Proposal",
+        "url": "https://viddo.ai/video-effects/sweet_proposal"
+      },
+      {
+        "id": "85a176b1c9172b33930f86da7a812e4e9067526f",
+        "title": "Pigsy",
+        "url": "https://viddo.ai/video-effects/pigsy"
+      },
+      {
+        "id": "e16c568a9272330e2c5eb860d7c57345014f3131",
+        "title": "Ladudu Me",
+        "url": "https://viddo.ai/video-effects/ladudu_me"
+      },
+      {
+        "id": "4516f7f40430676a8475cc68b2ce99c0b084fd64",
+        "title": "Tap Me",
+        "url": "https://viddo.ai/video-effects/tap_me"
+      },
+      {
+        "id": "140516dbc9e401bbfc6d9d678ba8a68be34c0c08",
+        "title": "Style Me",
+        "url": "https://viddo.ai/video-effects/style_me"
+      },
+      {
+        "id": "1b035fd8bbe6794ad955e97672b9cfd2c5b95046",
+        "title": "Oscar Gala",
+        "url": "https://viddo.ai/video-effects/oscar_gala_360p"
+      },
+      {
+        "id": "d3d9da5e2b5b32cc803dd80a830e79691bbd53ac",
+        "title": "Beast Companion",
+        "url": "https://viddo.ai/video-effects/beast_companion"
+      },
+      {
+        "id": "113958cb04bd5504892b0682eb520f9355025ca0",
+        "title": "Rat Dance",
+        "url": "https://viddo.ai/video-effects/rat_dance"
+      },
+      {
+        "id": "d8c7125f36823bd02df5128df4a365f7d1a738d6",
+        "title": "Kwok Dance",
+        "url": "https://viddo.ai/video-effects/kwok_dance"
+      },
+      {
+        "id": "1931d0c6bcdace881927fb0885ac5733f5ea4522",
+        "title": "Leg Sweep Dance",
+        "url": "https://viddo.ai/video-effects/leg_sweep_dance"
+      },
+      {
+        "id": "0554fa7a0825b878b44eb159c9d26bf41228c977",
+        "title": "Morphlab",
+        "url": "https://viddo.ai/video-effects/morphlab"
+      },
+      {
+        "id": "d8e547eb12aac01197c2b2abe089484cfa29e992",
+        "title": "Blow Kiss",
+        "url": "https://viddo.ai/video-effects/blow_kiss"
+      },
+      {
+        "id": "678e4f9088d4c1dffd74270d96328e7e32a5e890",
+        "title": "Superman",
+        "url": "https://viddo.ai/video-effects/superman"
+      },
+      {
+        "id": "27e9663c4fe6a96570dd7271bc694fab49ca9928",
+        "title": "Earth Zoom Out",
+        "url": "https://viddo.ai/video-effects/earth_zoom_out"
+      },
+      {
+        "id": "487e7721aadefabcece91445154f453d9adbf51f",
+        "title": "Grow Wings",
+        "url": "https://viddo.ai/video-effects/grow_wings"
+      },
+      {
+        "id": "deba8c63b866db674131bda6d44e05c1c8885700",
+        "title": "Aliens Coming",
+        "url": "https://viddo.ai/video-effects/aliens_coming"
+      },
+      {
+        "id": "48de937eba59b278aaf9f59ffeef6d1a2f2ce455",
+        "title": "Heart",
+        "url": "https://viddo.ai/video-effects/heart"
+      },
+      {
+        "id": "13b75034cabde1af3358c417af9f9e26e264157f",
+        "title": "Send roses",
+        "url": "https://viddo.ai/video-effects/send_roses"
+      },
+      {
+        "id": "76977f00e8302d930ce219a0bdfcfeb47fad712b",
+        "title": "Transform into Santa Claus",
+        "url": "https://viddo.ai/video-effects/transform_into_santa_claus"
+      },
+      {
+        "id": "9dcdc2075eae87684029e6804bea4ba27a73ffa4",
+        "title": "Santa Claus comes to deliver gifts",
+        "url": "https://viddo.ai/video-effects/santa_claus_comes_to_deliver_gifts"
+      },
+      {
+        "id": "3c8b43b46c5df103f1d8f43ea31a7d34423a83b4",
+        "title": "Christmas toast",
+        "url": "https://viddo.ai/video-effects/christmas_toast"
+      },
+      {
+        "id": "4c7c7c9c12f67012d724a16418f3c93fad07b2eb",
+        "title": "Santa Claus comes to hug",
+        "url": "https://viddo.ai/video-effects/santa_claus_comes_to_hug"
+      },
+      {
+        "id": "6ec7a644e0cc4ba93f6fed49da4a39c177c6d929",
+        "title": "Family pose",
+        "url": "https://viddo.ai/video-effects/love_pose"
+      },
+      {
+        "id": "ae5c16cbb96f8eb18167202b935a0a02411c3ecc",
+        "title": "Inflate",
+        "url": "https://viddo.ai/video-effects/inflate"
+      },
+      {
+        "id": "b5f8d79366c12887096895c9408af1dc174479eb",
+        "title": "Explosion",
+        "url": "https://viddo.ai/video-effects/explosion"
+      },
+      {
+        "id": "514b9af95b1f76683af8b1eecd22909be7ba77d9",
+        "title": "Melt",
+        "url": "https://viddo.ai/video-effects/melt"
+      },
+      {
+        "id": "f216075db816248850419f126ea849784b770905",
+        "title": "Hair Swap",
+        "url": "https://viddo.ai/video-effects/hair_swap"
+      },
+      {
+        "id": "7e7c2e45ff2d3457333493966dd696b0bb101ded",
+        "title": "Fear",
+        "url": "https://viddo.ai/video-effects/fear"
+      },
+      {
+        "id": "b108697d584eada86c41251fbceb231df8e098da",
+        "title": "Smile",
+        "url": "https://viddo.ai/video-effects/smile"
+      },
+      {
+        "id": "8031807b9c4cac71bb47679af958c7b109a5617a",
+        "title": "Laugh",
+        "url": "https://viddo.ai/video-effects/laugh"
+      },
+      {
+        "id": "16caf1ddb96b3168ed729fc8ba05f4f1ca02f9f3",
+        "title": "Surprise",
+        "url": "https://viddo.ai/video-effects/surprise"
+      },
+      {
+        "id": "69aacaf29da26ab42ce9c8caffa72eef091a9de5",
+        "title": "Hugging",
+        "url": "https://viddo.ai/video-effects/hugging"
+      },
+      {
+        "id": "9be88a1c7480af55c677f55e4026af7a593657eb",
+        "title": "Ballon Flyaway",
+        "url": "https://viddo.ai/video-effects/ballon_flyaway_360p"
+      },
+      {
+        "id": "6361ad08f1d58fa48ed4311b9e41a32c8f3752b1",
+        "title": "Paper Fall",
+        "url": "https://viddo.ai/video-effects/paper_fall_360p"
+      },
+      {
+        "id": "9400996984d9f3ca130d7d6b3d77f5ab5c269f13",
+        "title": "Nap Me",
+        "url": "https://viddo.ai/video-effects/nap_me_360p"
+      },
+      {
+        "id": "a7312aa86dd7c7e6df9a19d2820bd63c7e4b58c4",
+        "title": "Live Memory",
+        "url": "https://viddo.ai/video-effects/live_memory_360p"
+      },
+      {
+        "id": "7baa39fc1afa18f22e872305472a5898d31907c5",
+        "title": "Pet2Human",
+        "url": "https://viddo.ai/video-effects/pet2human_360p"
+      },
+      {
+        "id": "6a2852319266f8cc1813937cbf6021f2ce9a46af",
+        "title": "Pinch",
+        "url": "https://viddo.ai/video-effects/pinch_360p"
+      },
+      {
+        "id": "1cb67abc7e4a7bfccc4079ec43ae4d0f46a074fd",
+        "title": "Muscling",
+        "url": "https://viddo.ai/video-effects/muscling_360p"
+      },
+      {
+        "id": "8e8c1c7a441ef8b1a108dcbd219d05cf0a823858",
+        "title": "Cartoon Doll",
+        "url": "https://viddo.ai/video-effects/cartoon_doll_360p"
+      },
+      {
+        "id": "219a0389a2036ef76451b0c676a2dc8adc2560b1",
+        "title": "Mecha X",
+        "url": "https://viddo.ai/video-effects/mecha_x_360p"
+      },
+      {
+        "id": "c2ea08def7d073c0ddfc901ad77244b5b1ef4b35",
+        "title": "Youth Rewind",
+        "url": "https://viddo.ai/video-effects/youth_rewind_360p"
+      },
+      {
+        "id": "2063b4198e1568801b1fa236389aff043e8055ec",
+        "title": "Fashion Stride",
+        "url": "https://viddo.ai/video-effects/fashion_stride_360p"
+      },
+      {
+        "id": "ea48f239c3effddca5cf90e0637f527d91655b93",
+        "title": "Star Carpet",
+        "url": "https://viddo.ai/video-effects/star_carpet_360p"
+      },
+      {
+        "id": "5c6c35150c22651c3ffc4c34cb2803615ba54cff",
+        "title": "Flame Carpet",
+        "url": "https://viddo.ai/video-effects/flame_carpet_360p"
+      },
+      {
+        "id": "ea7381f890891b33578da596f00cf4d27278320d",
+        "title": "Golden Epoch",
+        "url": "https://viddo.ai/video-effects/golden_epoch_360p"
+      },
+      {
+        "id": "7934a1e3f699c187fffbe8e509d8754c37d63ccb",
+        "title": "Live Photo",
+        "url": "https://viddo.ai/video-effects/live_photo_360p"
+      },
+      {
+        "id": "5b8a0b968e7da5f1cf0880f721814b8bc6525f37",
+        "title": "Wind Move",
+        "url": "https://viddo.ai/video-effects/wind_move_360p"
+      },
+      {
+        "id": "b8208b2740ae0986194ef241c68f528ea56a694f",
+        "title": "Lens Move",
+        "url": "https://viddo.ai/video-effects/lens_move_360p"
+      },
+      {
+        "id": "2ea13d7a9cdf0d31408494cc38b87dfe0b3d537a",
+        "title": "Walk",
+        "url": "https://viddo.ai/video-effects/walk_360p"
+      },
+      {
+        "id": "4626f17ed21e40a648d0691e34d70dcc1315ea08",
+        "title": "Subject 3",
+        "url": "https://viddo.ai/video-effects/subject_3"
+      },
+      {
+        "id": "d7fe3355212cbb40f00fa4742144854c0f43c652",
+        "title": "Pubg Winner Hit",
+        "url": "https://viddo.ai/video-effects/pubg_winner_hit"
+      },
+      {
+        "id": "fb29ca81ac907b151ce163c50597ff93adccb341",
+        "title": "Minecraft",
+        "url": "https://viddo.ai/video-effects/minecraft"
+      },
+      {
+        "id": "73ad97a3a426bff820a136ea00733b840c55a1d6",
+        "title": "Box Me",
+        "url": "https://viddo.ai/video-effects/box_me"
+      },
+      {
+        "id": "fa26f1bd6599cac291d0dd59a19705f5c234fa44",
+        "title": "Claw Me",
+        "url": "https://viddo.ai/video-effects/claw_me"
+      },
+      {
+        "id": "a55ff7ef5ba9bf4fe081c63c181a0b40504edad2",
+        "title": "Ghibli",
+        "url": "https://viddo.ai/video-effects/ghibli"
+      },
+      {
+        "id": "2eecbfda6b4473a1ac88347fecc8618ee59c4f47",
+        "title": "Clay Shot",
+        "url": "https://viddo.ai/video-effects/clayshot"
+      },
+      {
+        "id": "79ba80533b23496d99f500369957896afe8ea420",
+        "title": "Manga Meme",
+        "url": "https://viddo.ai/video-effects/manga_meme"
+      },
+      {
+        "id": "8acb35e345fb85a19ee8668c05f93d6e329b32e2",
+        "title": "Quad Meme",
+        "url": "https://viddo.ai/video-effects/quad_meme"
+      },
+      {
+        "id": "d2c08cc4b01d541b7436151156f917b6f1998fb2",
+        "title": "Pixel Me",
+        "url": "https://viddo.ai/video-effects/pixel_me"
+      },
+      {
+        "id": "ce190b0e9941829df33f1dc97ee3e994ae2e5daf",
+        "title": "Clay Shot Duo",
+        "url": "https://viddo.ai/video-effects/clayshot_duo"
+      },
+      {
+        "id": "a0e237b74776d6fb32ba8411a427861c736a56f8",
+        "title": "Irasutoya",
+        "url": "https://viddo.ai/video-effects/irasutoya"
+      },
+      {
+        "id": "0b280a909f8e71ef9d09e055de9c0e3fdbff14be",
+        "title": "American Comic",
+        "url": "https://viddo.ai/video-effects/american_comic"
+      },
+      {
+        "id": "a328b2e72a491ec79506f56c74a301cc9f8bffd8",
+        "title": "Simpsons Comic",
+        "url": "https://viddo.ai/video-effects/simpsons_comic"
+      },
+      {
+        "id": "4f62150a16647e2f0e4c98f549c60b47774d5e66",
+        "title": "Yayoi Kusama",
+        "url": "https://viddo.ai/video-effects/yayoi_kusama_style"
+      },
+      {
+        "id": "803e8355f8fc1a12fe04c93eede3c2f48c2db66e",
+        "title": "Pop Art",
+        "url": "https://viddo.ai/video-effects/pop_art"
+      },
+      {
+        "id": "185cd13540e4bddd929770211bf090e3577dd451",
+        "title": "Sakura Season",
+        "url": "https://viddo.ai/video-effects/sakura_season"
+      },
+      {
+        "id": "bfef1edf0cbd3d5b4a7de63a82ae7510923576fc",
+        "title": "Lunar New Year Fireworks",
+        "url": "https://viddo.ai/video-effects/lunar_newyear"
+      },
+      {
+        "id": "a3eb2f0fd04950eb9709030be23ec5c2281066b7",
+        "title": "Two people toasting",
+        "url": "https://viddo.ai/video-effects/two_people_toasting"
+      },
+      {
+        "id": "d4bd87157551e5f4990e4cdc9e5835b3b6350c66",
+        "title": "Red Envelope Rain",
+        "url": "https://viddo.ai/video-effects/red_envelope_rain"
+      },
+      {
+        "id": "05f07cc1e8177b9cd701259a40d9f2b2b621385d",
+        "title": "Make a heart with the God of Wealth",
+        "url": "https://viddo.ai/video-effects/make_a_heart_with_the_god_of_wealth"
+      },
+      {
+        "id": "c3f29fa7baf8fbb94b6b3c7f92440c82cba13ab4",
+        "title": "Hug the God of Wealth",
+        "url": "https://viddo.ai/video-effects/hug_the_god_of_wealth"
+      },
+      {
+        "id": "54831f11430e1d1f0f998713e7e198e94478a6b4",
+        "title": "The God of Wealth gives a gold ingot",
+        "url": "https://viddo.ai/video-effects/the_god_of_wealth_gives_a_gold_ingot"
+      },
+      {
+        "id": "4bc86c81b2dd30c15abbadb3ac1338d23b28f464",
+        "title": "The God of Wealth gives a red envelope",
+        "url": "https://viddo.ai/video-effects/the_god_of_wealth_gives_a_red_envelope"
+      },
+      {
+        "id": "958eb9228851ca51ab7f47a5ffd81bc7ad8d1d96",
+        "title": "God of Wealth distributes gold coins",
+        "url": "https://viddo.ai/video-effects/the_god_of_wealth_distributes_gold_coins"
+      },
+      {
+        "id": "a444945e1d3a4dc9d1afaf067cae80916d598695",
+        "title": "Dynasty Dress",
+        "url": "https://viddo.ai/video-effects/dynasty_dress"
+      },
+      {
+        "id": "bba8d224941954c83432d4fae1bb4efa4d40a670",
+        "title": "Wrap You in a Zongzi",
+        "url": "https://viddo.ai/video-effects/zongzi_wrap"
+      },
+      {
+        "id": "ae9154b875549212eb5f88918b86bb9badf44195",
+        "title": "A Giant Zongzi Falls from the Sky",
+        "url": "https://viddo.ai/video-effects/zongzi_drop"
+      },
+      {
+        "id": "83cb1c34caada5e44c2784ec94b7e5c4027afe3f",
+        "title": "Dragon Boat Shot",
+        "url": "https://viddo.ai/video-effects/dragonboat_shot"
+      },
+      {
+        "id": "3981c89ba87e4458b6fac352b9b8f895c53985ca",
+        "title": "Slice Therapy",
+        "url": "https://viddo.ai/video-effects/slice_therapy"
+      },
+      {
+        "id": "d61c9622e10fd49ca9c2b2b76d61324c31daa56f",
+        "title": "Turn into a Balloon and Fly Away",
+        "url": "https://viddo.ai/video-effects/balloon_flyaway"
+      },
+      {
+        "id": "ec7264f785b839012400db552ca8bd7fa9e36f5f",
+        "title": "Flying",
+        "url": "https://viddo.ai/video-effects/flying"
+      },
+      {
+        "id": "5337ce8252eb7c8eafc40a5723408d3729f34206",
+        "title": "Paper Man",
+        "url": "https://viddo.ai/video-effects/paperman"
+      },
+      {
+        "id": "986ceaaed9858ffdf44c725410ff3750139b5520",
+        "title": "Pinch",
+        "url": "https://viddo.ai/video-effects/pinch"
+      },
+      {
+        "id": "0b0dcfcb0b7f882d84148ad5d614f445b93b320d",
+        "title": "Blooming Doorobear",
+        "url": "https://viddo.ai/video-effects/bloom_doorobear"
+      },
+      {
+        "id": "3f93fa5ccf094972056a16462ac2eea077b2b709",
+        "title": "Gender Swap",
+        "url": "https://viddo.ai/video-effects/gender_swap"
+      },
+      {
+        "id": "368b3f3d4f3719ff90b98aaf7f4abcdd1ae05f6c",
+        "title": "Nap Me",
+        "url": "https://viddo.ai/video-effects/nap_me"
+      },
+      {
+        "id": "112263611a91119aa4fcf0c6ffae348ebed754f0",
+        "title": "Spin 360",
+        "url": "https://viddo.ai/video-effects/spin360"
+      },
+      {
+        "id": "87673a8bb5b7c4f41971863e13f94d907abc621d",
+        "title": "Smooth Shift",
+        "url": "https://viddo.ai/video-effects/smooth_shift"
+      },
+      {
+        "id": "1a25050e7dc90458eaa33d0527439c1e2aed4dbc",
+        "title": "Paper Fall",
+        "url": "https://viddo.ai/video-effects/paper_fall"
+      },
+      {
+        "id": "48260b6ac6a29dbd88b133a54d402fc2412c3589",
+        "title": "Jump to Cloud",
+        "url": "https://viddo.ai/video-effects/jump_to_cloud"
+      },
+      {
+        "id": "23a5a8c19a6608e7f38691d89e1ce7617c9c0f31",
+        "title": "Pilot",
+        "url": "https://viddo.ai/video-effects/pilot"
+      },
+      {
+        "id": "62ea752178f6a03663aa190bceb2e51aa8430f65",
+        "title": "Sweet Dreams",
+        "url": "https://viddo.ai/video-effects/sweet_dreams"
+      },
+      {
+        "id": "ae8f25641a221f56b4b7689d6cfdb4f948ec729b",
+        "title": "Soul Depart",
+        "url": "https://viddo.ai/video-effects/soul_depart"
+      },
+      {
+        "id": "9087a5ff51fdbcd289a41eae4be1405d41588ecf",
+        "title": "Watermelon Hit",
+        "url": "https://viddo.ai/video-effects/watermelon_hit"
+      },
+      {
+        "id": "b80668dab2cacb774f405b41212d2be55fdb5f53",
+        "title": "Animal Diving Show",
+        "url": "https://viddo.ai/video-effects/fluffy_plunge"
+      },
+      {
+        "id": "3f153b75cea93921520f3f9070385c4b3452ef0e",
+        "title": "Pet Belly Dance",
+        "url": "https://viddo.ai/video-effects/pet_belly_dance"
+      },
+      {
+        "id": "c17b20bd0903c0143055ed8d55c29bd59b74d9e1",
+        "title": "Pet Split Stance",
+        "url": "https://viddo.ai/video-effects/split_stance_pet"
+      },
+      {
+        "id": "7c59f6e070e08a94753b5d7e2ed619c8cd070e71",
+        "title": "Make Face",
+        "url": "https://viddo.ai/video-effects/make_face"
+      },
+      {
+        "id": "c4ec635ee1c78ee1881d63fb49676dee735bed4d",
+        "title": "Break Glass",
+        "url": "https://viddo.ai/video-effects/break_glass"
+      },
+      {
+        "id": "0f5e8fef2df1ace1bd44c79bd4b7732b41e12f0d",
+        "title": "Human Split Stance",
+        "url": "https://viddo.ai/video-effects/split_stance_human"
+      },
+      {
+        "id": "fcf021ba82c6f13735a515b385a4d976d9729a30",
+        "title": "Liquid Metal Melt",
+        "url": "https://viddo.ai/video-effects/covered_liquid_metal"
+      },
+      {
+        "id": "c93d3868da373b14ff546404a88fd124f9f1fd9a",
+        "title": "Water Float",
+        "url": "https://viddo.ai/video-effects/water_float"
+      },
+      {
+        "id": "d4f931c8df9479e88d91b093b29eeeffde1fbf28",
+        "title": "Head to Balloon",
+        "url": "https://viddo.ai/video-effects/head_to_balloon"
+      },
+      {
+        "id": "a8ae88d92c3e176a6348626fd6299398eb319e14",
+        "title": "Clone",
+        "url": "https://viddo.ai/video-effects/cloning"
+      },
+      {
+        "id": "23176aba9e93932b009f4fbb26e4dc1bb0c6343f",
+        "title": "Across the Universe - Jungle",
+        "url": "https://viddo.ai/video-effects/across_the_universe_jungle"
+      },
+      {
+        "id": "dd71cf57ce4a6ea2a960da94d9d5b7ccd1b30b51",
+        "title": "Clothes Spinning Remnant",
+        "url": "https://viddo.ai/video-effects/clothes_spinning_remnant"
+      },
+      {
+        "id": "decf4a26dd8c83472f3222285e8f0a0dde4e1db6",
+        "title": "Across the Universe - Jurassic",
+        "url": "https://viddo.ai/video-effects/across_the_universe_jurassic"
+      }
+    ],
+    "DeeVid AI": [
+      {
+        "id": "40b823c9b9fe76094ba01cc3942d568c91bc6b4b",
+        "title": "Image to Video",
+        "url": "https://deevid.ai/image-to-video"
+      },
+      {
+        "id": "1f89b831d33690b3bb6ee817594b84a33d0e1327",
+        "title": "Text to Video",
+        "url": "https://deevid.ai/text-to-video"
+      },
+      {
+        "id": "e033fbfcd85bcf0d773c3a4c7685bed406095204",
+        "title": "Video to Video",
+        "url": "https://deevid.ai/video-to-video"
+      },
+      {
+        "id": "67efef724ec6c83a102bbefc72bfea07d2491df6",
+        "title": "AI Anime Generator",
+        "url": "https://deevid.ai/template/ghibli-ai-generator"
+      },
+      {
+        "id": "421530952b2335724fa1a5146a5ed1057dd1c140",
+        "title": "AI Kissing",
+        "url": "https://deevid.ai/template/ai-kissing"
+      },
+      {
+        "id": "5e222cedb5858e72663d0b404087f0af379e69b1",
+        "title": "Ghostface Terror",
+        "url": "https://deevid.ai/template/ghostface-terror"
+      },
+      {
+        "id": "5198d1ea466ad00d38d176ff2dff1c22258f1f9a",
+        "title": "Summoning succubus",
+        "url": "https://deevid.ai/template/summoning-succubus"
+      },
+      {
+        "id": "d3c457f1add7b421f21c23cef6e95cb22b983b10",
+        "title": "Halloween Voodoo Doll",
+        "url": "https://deevid.ai/template/voodoo-doll"
+      },
+      {
+        "id": "5657b2dca3b0f3594b6375e97b2261bbe91ee504",
+        "title": "Monster Shifter",
+        "url": "https://deevid.ai/template/monster-shifter"
+      },
+      {
+        "id": "e7a37720a19f65cded6375053b780255f5346a06",
+        "title": "Haunted House",
+        "url": "https://deevid.ai/template/haunted-house"
+      },
+      {
+        "id": "f7a982c4c8b414711fb92002356003483d0e6440",
+        "title": "AI vampire",
+        "url": "https://deevid.ai/template/ai-vampire"
+      },
+      {
+        "id": "9005d74b554ba8ce7ca466f07b3aad752fed10b6",
+        "title": "Halloween Makeup",
+        "url": "https://deevid.ai/template/halloween-makeup"
+      },
+      {
+        "id": "3a7dd4a1c1c1e2f7687ea104302bb63f60c5cea4",
+        "title": "AI Hug",
+        "url": "https://deevid.ai/template/ai-hug"
+      },
+      {
+        "id": "24f0ddb5aea3bd7678ba4f94bd379536821f82b2",
+        "title": "AI Curly Hair",
+        "url": "https://deevid.ai/template/ai-curly-hair-effect"
+      },
+      {
+        "id": "442c81e5636a1639eca103e0fd0c4fad0f32cd77",
+        "title": "AI Hair Growth",
+        "url": "https://deevid.ai/template/ai-hair-growth-effect"
+      },
+      {
+        "id": "fdca60ee469be572400266245b7d2868a6945a08",
+        "title": "SeedreamSeedream",
+        "url": "https://deevid.ai/model/seedream"
+      },
+      {
+        "id": "281ebaefd7ee9c69e07ac44d2955b2c3d088c576",
+        "title": "Sora 2Sora 2",
+        "url": "https://deevid.ai/model/sora2"
+      },
+      {
+        "id": "4b5f5f086dee4a7afcce56560cb91d787c18b8eb",
+        "title": "Veo 3.1Veo 3.1",
+        "url": "https://deevid.ai/model/veo-ai"
+      },
+      {
+        "id": "f8d3036f7e450ae18e23c0f4898d8ceff0f24ff3",
+        "title": "Dall-E 2Dall-E 2",
+        "url": "https://deevid.ai/model/dall-e2"
+      },
+      {
+        "id": "4cc02587848070e3602747b4e8264feba0000761",
+        "title": "Wan 2.1Wan 2.1",
+        "url": "https://deevid.ai/model/wanx-ai"
+      },
+      {
+        "id": "79aa573240c16040cc22026efdab4a45949b11af",
+        "title": "RunwayRunway",
+        "url": "https://deevid.ai/model/runway-ai"
+      },
+      {
+        "id": "f366892fe14a0d762d967a64084eb8887feb4097",
+        "title": "KlingKling",
+        "url": "https://deevid.ai/model/kling-ai"
+      },
+      {
+        "id": "d57dc7820fef5c0053ad8ab3cfa8c013a400c908",
+        "title": "HailuoHailuo",
+        "url": "https://deevid.ai/model/hailuo-ai"
+      },
+      {
+        "id": "6421709645b3e6835d676bfccd22783796ea8ef7",
+        "title": "Stable DiffusionStable Diffusion",
+        "url": "https://deevid.ai/model/stable-diffusion"
+      },
+      {
+        "id": "6d98c3442deecbef3b36f03999b0b7fa308ca54d",
+        "title": "ViduVidu",
+        "url": "https://deevid.ai/model/vidu-ai"
+      },
+      {
+        "id": "e26a0b1ba74ef622af2b8ffc25d4351867618fbb",
+        "title": "HaiperHaiper",
+        "url": "https://deevid.ai/model/haiper-ai"
+      },
+      {
+        "id": "2101912fe38bcbe0cb13dd58b6eb6fafa34e3c19",
+        "title": "LumaLuma",
+        "url": "https://deevid.ai/model/luma-ai"
+      },
+      {
+        "id": "fb96df78d6fa2e9625c6522f2cfd8093d891e0aa",
+        "title": "Nano Banana ProNano Banana Pro",
+        "url": "https://deevid.ai/model/nano-banana2"
+      },
+      {
+        "id": "acbab5d9323cd271ce80f0179a1cc59e36db59ca",
+        "title": "PikaPika",
+        "url": "https://deevid.ai/model/pika-ai"
+      },
+      {
+        "id": "fee539a78635573a8567ee2ce962317be4a2c2bd",
+        "title": "Try it Now for Free",
+        "url": "https://deevid.ai/text-to-video"
+      }
+    ],
+    "A2E AI": [
+      {
+        "id": "fa9a37aace9b52954d4783ac39bf92570506cb14",
+        "title": "Cookie Policy",
+        "url": "https://a2e.ai/privacy-policy/"
+      },
+      {
+        "id": "efc3f5378de3a31a5601857cfa9d3a27c3151e3e",
+        "title": "Text to Image",
+        "url": "https://a2e.ai/text-to-image/"
+      },
+      {
+        "id": "15c6630f790e7eca8cb32c230a4960a0f7582610",
+        "title": "GPT Image 2.0",
+        "url": "https://a2e.ai/gpt-image-2/"
+      },
+      {
+        "id": "6b8381b8639c6745cf9e435024d3aca9ce2516af",
+        "title": "Seedream 4.5",
+        "url": "https://a2e.ai/seedream-4-5/"
+      },
+      {
+        "id": "bc2ad7db9355e181db2e4cf532f2142efe4afa36",
+        "title": "Nano Banana 2",
+        "url": "https://a2e.ai/nano-banana-2/"
+      },
+      {
+        "id": "6c07d64369c0b827863dde01276b5038ddae6605",
+        "title": "Nano Banana Pro",
+        "url": "https://a2e.ai/nano-banana-pro/"
+      },
+      {
+        "id": "6c515b723d683ad6f47751335eb11b7b5285222b",
+        "title": "GPT Image 1.5",
+        "url": "https://a2e.ai/gpt-image-1-5/"
+      },
+      {
+        "id": "8d3b493c406ba2b644d72a8a0415ee7995e674b6",
+        "title": "Z-Image",
+        "url": "https://a2e.ai/z-image/"
+      },
+      {
+        "id": "7adce34167d16be9ac52f4699b6fce7d91be36f6",
+        "title": "Flux.2",
+        "url": "https://a2e.ai/flux-2/"
+      },
+      {
+        "id": "4e23616bac55d47e069a534f15b63f76f7601aba",
+        "title": "Image to Video",
+        "url": "https://a2e.ai/image-to-video/"
+      },
+      {
+        "id": "7cc16a0572722431a76eb55bee967bfb78f159d3",
+        "title": "HappyHorse 1.0",
+        "url": "https://a2e.ai/happyhorse-1-0/"
+      },
+      {
+        "id": "dc8937c47e300af6d866bc392673706f2aac2ed0",
+        "title": "Wan 2.7",
+        "url": "https://a2e.ai/wan-2-7/"
+      },
+      {
+        "id": "0f8e1e191a714128aeece5c7151837de745c13b1",
+        "title": "Wan 2.6",
+        "url": "https://a2e.ai/wan-2-6/"
+      },
+      {
+        "id": "46ae0395130e9a070735405cf4e88c51d58445f0",
+        "title": "Wan 2.6 Flash",
+        "url": "https://a2e.ai/wan-2-6-flash/"
+      },
+      {
+        "id": "bc17f03590498254d6bab71dd61c061f7f187de7",
+        "title": "Kling 3.0",
+        "url": "https://a2e.ai/kling-3-0/"
+      },
+      {
+        "id": "ba788ae87a4e0bc05401df6d30bd8c1885793c56",
+        "title": "Kling 2.6",
+        "url": "https://a2e.ai/kling-2-6/"
+      },
+      {
+        "id": "4c594713f19de7033b0544f1f1da7af640c87031",
+        "title": "Kling O1",
+        "url": "https://a2e.ai/kling-o1/"
+      },
+      {
+        "id": "2dd54ff59ab99ccc56617b0ad0bb0cf061f10208",
+        "title": "Seedance 2.0",
+        "url": "https://a2e.ai/seedance-2-0/"
+      },
+      {
+        "id": "5a537e6b3092523290555dc6d8c1bd9ea8b7c85a",
+        "title": "Seedance 1.5 Pro",
+        "url": "https://a2e.ai/seedance-1-5-pro/"
+      },
+      {
+        "id": "a04b8fc14f340eea3df23ff8468c9063f372d1fe",
+        "title": "Grok Imagine",
+        "url": "https://a2e.ai/grok-imagine/"
+      },
+      {
+        "id": "4e489f3818f1ed9ecea6ba618d1dd5bad138de4c",
+        "title": "Veo 3.1",
+        "url": "https://a2e.ai/veo-3-1/"
+      },
+      {
+        "id": "866ce7e8004048394e5abbd7592f55583093d9a5",
+        "title": "Sora 2",
+        "url": "https://a2e.ai/sora-2/"
+      },
+      {
+        "id": "90ce6e9ca5d7eb4390032e886f39b60d54289fa0",
+        "title": "Character",
+        "url": "https://a2e.ai/happyhorse-1-0/"
+      },
+      {
+        "id": "e03d2f248d14a8ec08ae93eaff096b414323f5a1",
+        "title": "AI Avatar",
+        "url": "https://a2e.ai/ai-avatars/"
+      },
+      {
+        "id": "3116c7226341b62ee07f8b0372e040b620ea900d",
+        "title": "Face Swap",
+        "url": "https://video.a2e.ai/face-swap"
+      },
+      {
+        "id": "326729b3402843cdd010b51f5067c5e776ceb442",
+        "title": "Head Swap",
+        "url": "https://a2e.ai/head-swap/"
+      },
+      {
+        "id": "db9958a93c341c5604b170cacdc4babe92ff3c93",
+        "title": "Cloth Swap",
+        "url": "https://a2e.ai/cloth-swap/"
+      },
+      {
+        "id": "857b1d72b1dc8dc9a3be479a179ab30ab470d21f",
+        "title": "Actor Swap (Viggle)",
+        "url": "https://a2e.ai/actor-swap-viggle/"
+      },
+      {
+        "id": "d5d43c2a140572eb00e9c13535221b015ba0f9ef",
+        "title": "Actor Animation(V2V)",
+        "url": "https://a2e.ai/actor-animation/"
+      },
+      {
+        "id": "f98b20bec55d3ee547660b5f390cecc638294970",
+        "title": "Talking Photo",
+        "url": "https://a2e.ai/talking-photo/"
+      },
+      {
+        "id": "8e4acf2f4dfdeff8cfbaec97c4885cc9ae4dcfc6",
+        "title": "Talking Video",
+        "url": "https://a2e.ai/talking-video-lipsync/"
+      },
+      {
+        "id": "3b4faee07bbc7667c45e153dd3f2f70c9e98430c",
+        "title": "Upscale",
+        "url": "https://a2e.ai/upscale/"
+      },
+      {
+        "id": "5cf442c122ed3cf22b48307dcfb27c7be6192ea9",
+        "title": "Product Avatar",
+        "url": "https://a2e.ai/product-avatar-flux-kontext/"
+      },
+      {
+        "id": "41faec0c73bdef780318a0e5bebd348a920bcf74",
+        "title": "Voice Clone",
+        "url": "https://a2e.ai/voice-clone/"
+      },
+      {
+        "id": "8a2a5477963d1c798174e81bf17e849facb745a5",
+        "title": "Video to Audio",
+        "url": "https://a2e.ai/video-to-audio/"
+      },
+      {
+        "id": "9dfd678e7fd3373db690c446a88c1207284cadc0",
+        "title": "Video Downloader",
+        "url": "https://a2e.ai/youtube-download/"
+      },
+      {
+        "id": "9734b5a5f3aedca7206bb3d48197ec71154dcc08",
+        "title": "AI Avatar API",
+        "url": "https://a2e.ai/ai-avatar-api/"
+      },
+      {
+        "id": "5fc48d106639111984c0adc8ad0e8614e80ec6b4",
+        "title": "Blogs",
+        "url": "https://a2e.ai/blogs/"
+      },
+      {
+        "id": "fb27867075e223ffd31d6f30cb755cce3203f95e",
+        "title": "FAQ",
+        "url": "https://a2e.ai/faq/"
+      },
+      {
+        "id": "07a8c4662766b69e4e0ddafc0d3e41c7f4d53050",
+        "title": "AI Video Generator",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "afa3ebcdcf67de2d3e0b2ac8ee8f4c75fe51c5c5",
+        "title": "Image to Video",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "2d9a11b2ab3556cb59ead434fb7cfc2c85587df9",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "4ba02c8fbb2ba5d8252bec8dce7a6097be674b84",
+        "title": "Head Swap",
+        "url": "https://video.a2e.ai/head-swap"
+      },
+      {
+        "id": "0593a638fa8eb8de7110cfa1ec6dca3dd9fdde04",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/head-swap"
+      },
+      {
+        "id": "6e2360e0eb6ceaf71a9d9352a7b250b052b53b75",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/face-swap"
+      },
+      {
+        "id": "285b41148164e81d9391bc5d32cd5209e326ecbf",
+        "title": "Wan 2.6",
+        "url": "https://video.a2e.ai/wan25-image-to-video"
+      },
+      {
+        "id": "75b540ae20eb25d4d36a062302a1a1f4b30c50c6",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/wan25-image-to-video"
+      },
+      {
+        "id": "5d091b7209816fc22dd6c5c439d282be61f40e26",
+        "title": "Seedance 2.0",
+        "url": "https://video.a2e.ai/seedance-2"
+      },
+      {
+        "id": "0e3f7d0bba3f422ad9864b70ea4d45b1ccb31be8",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/seedance-2"
+      },
+      {
+        "id": "98739342b9567a56d422d09b21fe87de08bf514c",
+        "title": "Nano Banana Pro",
+        "url": "https://video.a2e.ai/image-generator/nano-banana"
+      },
+      {
+        "id": "66dd084f9478ad68cd3195a4124a547c44f9abd3",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/image-generator/nano-banana"
+      },
+      {
+        "id": "99bd277f9b7a9bba499a9aab5f3746c16bde720f",
+        "title": "Talking Photo",
+        "url": "https://video.a2e.ai/talking-photo"
+      },
+      {
+        "id": "0414198dbd45acd0a6bde03d077b714b60d55f91",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/talking-photo"
+      },
+      {
+        "id": "ff126e2373171ba2a61cba9b47e949c713decf17",
+        "title": "Talking Video",
+        "url": "https://video.a2e.ai/talking-video"
+      },
+      {
+        "id": "915e4b1dda5b60b7ab544d84db06034110ebf2d6",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/talking-video"
+      },
+      {
+        "id": "19b965fbcd61b8e81e8e2611bf37f0f3efd65f4b",
+        "title": "Lip-sync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "02b167b96285f2f817e4ebe61560b5783f45c49d",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "1983674929802b4911dc0cc3a5ab3d3bf34a03ce",
+        "title": "Text to Image",
+        "url": "https://video.a2e.ai/image-generator/text-to-image"
+      },
+      {
+        "id": "14806b2a1cb8a94b4cd7f15faf96867ae797d3ba",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/image-generator/text-to-image"
+      },
+      {
+        "id": "49a0da4a48c44cb08164d7e5e9c71a8d5c423448",
+        "title": "Voice Clone",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "6cd24711ee9b67decd47be1de5cdbfbcf1d2faab",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "2d8069cb70e97ff6cd99147de3d4fe36d6f4c1d3",
+        "title": "Video to Audio",
+        "url": "https://video.a2e.ai/voice-studio/video-to-audio"
+      },
+      {
+        "id": "cb5f6b60a62b46e1e5ba8e4e4caf39850157c2e2",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/voice-studio/video-to-audio"
+      },
+      {
+        "id": "6feb95bd127f1c98c507334c15c5ddc0158a1a2d",
+        "title": "Actor Animation(v2v)",
+        "url": "https://video.a2e.ai/video-generator/video-to-video"
+      },
+      {
+        "id": "ee5762a1ee10cea93d9b7de4b28893f2deff402b",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/video-generator/video-to-video"
+      },
+      {
+        "id": "1409f39046e96121ce3263796abf5e342dfbfcf8",
+        "title": "AI Avatar",
+        "url": "https://video.a2e.ai/ai-avatar/create-from-videos"
+      },
+      {
+        "id": "0a993a85b4509d6fbe5c8af75d32ac54b5723ca7",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/ai-avatar/create-from-videos"
+      },
+      {
+        "id": "2dd7f63e83244904106426a01d0d90ad693bc8c7",
+        "title": "Product Avatar",
+        "url": "https://video.a2e.ai/image-generator/product-avatar"
+      },
+      {
+        "id": "3fc8c503299a25c15edd49372bdbd0839a773d09",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/image-generator/product-avatar"
+      },
+      {
+        "id": "6c72d3fb267fd2a063d6582c2137108887cb873e",
+        "title": "Cloth Swap",
+        "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
+      },
+      {
+        "id": "271a8f2f850f81c9cda56843564864f17f378d04",
+        "title": "Try Now →",
+        "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
+      },
+      {
+        "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
+        "title": "Pollo AI vs A2E AI An Honest Comparison for 2026",
+        "url": "https://a2e.ai/pollo-ai-vs-a2e-ai-an-honest-comparison-for-2026/"
+      },
+      {
+        "id": "c9bef89e241311be37089058f6018b6518923f53",
+        "title": "I’m a Canva User. Here’s Why I Use a Different Canvas for AI Work.",
+        "url": "https://a2e.ai/im-a-canva-user-heres-why-i-use-a-different-canvas-for-ai-work/"
+      },
+      {
+        "id": "4a31ae7b790fee1ed049d7927007200ffffb51f5",
+        "title": "GPT Image 2.0: What’s Actually Better",
+        "url": "https://a2e.ai/gpt-images-2-0-whats-actually-better/"
+      },
+      {
+        "id": "5c5fe37cb0edfe4f13402fadc7bd24cc1620d895",
+        "title": "HappyHorse-1.0 vs Seedance 2.0: 5 Prompts, No Clear Winner",
+        "url": "https://a2e.ai/happyhorse-1-0-vs-seedance-2-0-5-prompts-no-clear-winner/"
+      },
+      {
+        "id": "39843d9dd2faf61cd023a920e2bc511cb0d43379",
+        "title": "Why Formulation Management is the Core of Modern Beauty Product Lifecycle Management?",
+        "url": "https://a2e.ai/resources-why-formulation-management-is-the-core-of-modern-beauty-product-lifecycle-management/"
+      },
+      {
+        "id": "9181e528aa940b653c99b73cc6292ff397ab0b25",
+        "title": "HappyHorse-1.0: The Anonymous Model That Just Topped Every AI Video Leaderboard",
+        "url": "https://a2e.ai/happyhorse-1-0-the-anonymous-model-that-just-topped-every-ai-video-leaderboard/"
+      },
+      {
+        "id": "616af7746620af76fa1d8df85eaca013187157d7",
+        "title": "cost-effective",
+        "url": "https://a2e.ai/why-choose-avatar-api-over-opensource/"
+      },
+      {
+        "id": "7d6d6ce4a1bacecc588ee79a8ffd7a4161cc319e",
+        "title": "Enterprise Solutions",
+        "url": "https://a2e.ai/about-a2es-enterprise-plans/"
+      },
+      {
+        "id": "0fd0b0d693347c414607ca5450ec619306fd28ec",
+        "title": "Affiliate Programs",
+        "url": "https://a2e.ai/join-affiliate/"
+      },
+      {
+        "id": "5ef3c8beaaf7aa9b0c5d153c1d770af7e14f7056",
+        "title": "Profile",
+        "url": "https://video.a2e.ai/account/profile"
+      },
+      {
+        "id": "1320f8350b49b5d65241e05c375062e37f399014",
+        "title": "Guide",
+        "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
+        "title": "Service Status",
+        "url": "https://a2e.ai/realtime-status/"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
+        "title": "AI Image to Video",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
+        "title": "AI Head Swap",
+        "url": "https://video.a2e.ai/head-swap"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
+        "title": "GPT Image 1.5",
+        "url": "https://video.a2e.ai/image-generator/gpt-image"
+      },
+      {
+        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
+        "title": "Kling 3.0 Image",
+        "url": "https://video.a2e.ai/image-generator/kling-image"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
+      },
+      {
+        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
+        "title": "Seedance 1.5 Pro",
+        "url": "https://video.a2e.ai/seedance-video"
+      }
+    ],
+    "Kling AI": [
+      {
+        "id": "bb570a29f46d03372968d32ef8f92a34878ebcba",
+        "title": "Omni",
+        "url": "https://kling.ai/app/omni/new"
+      },
+      {
+        "id": "88bbd0260f0e494974b6dd67fe0e1b2dd94770c8",
+        "title": "Video Generation",
+        "url": "https://kling.ai/app/image-to-video/frame-mode/new"
+      },
+      {
+        "id": "bcc1b12b718c684c1d36853b6ea257279e26591b",
+        "title": "Image Generation",
+        "url": "https://kling.ai/app/image/new"
+      },
+      {
+        "id": "fcadaf060206f5ed120441fd2371400c8228f4d6",
+        "title": "Sound Generation",
+        "url": "https://kling.ai/app/text-to-audio/new"
+      },
+      {
+        "id": "eb9e974a06f45ff7917689eb2b72485ba89500b5",
+        "title": "Talent Network",
+        "url": "https://kling.ai/app/future-partner/customer"
+      },
+      {
+        "id": "3303a796e8bfe6204b3ff063239da41a0719f07f",
+        "title": "Affiliate Program",
+        "url": "https://kling.ai/app/commission-share"
+      }
+    ],
+    "InVideo": [
+      {
+        "id": "6f806382fcda089b7f316cf985888b9ba1e1c0c3",
+        "title": "AI Image Generator",
+        "url": "https://invideo.io/make/ai-image-generator/"
+      },
+      {
+        "id": "5fa54a5c7c11802f6c6e0f46625eac226e9bc723",
+        "title": "Sora 2 x Invideo",
+        "url": "https://invideo.io/make/sora/"
+      },
+      {
+        "id": "3fd8ce5e2cd6c606bfcb55298daa987239a82043",
+        "title": "Veo 3.1 x Invideo",
+        "url": "https://invideo.io/make/googleveo/"
+      },
+      {
+        "id": "27b2a21bfd8eeae1194947f936c9ccf7eae44227",
+        "title": "AI Video Generator",
+        "url": "https://invideo.io/make/ai-video-generator/"
+      },
+      {
+        "id": "c93610c9c4cc4afbed4f56ec2e2200410abe0dde",
+        "title": "AI Clip Generator",
+        "url": "https://invideo.io/make/clipmaker/"
+      },
+      {
+        "id": "7a50b8cf3bd6ea5e5df7e3b934d2f794de943b63",
+        "title": "AI Movie Maker",
+        "url": "https://invideo.io/make/online-movie-maker/"
+      },
+      {
+        "id": "d35cd699959d3707c926252158251962fc3fd4c0",
+        "title": "AI Video Editor",
+        "url": "https://invideo.io/make/ai-video-editor/"
+      },
+      {
+        "id": "0e6d901992111c330e2d2ff520ff00e1bb4cc8d2",
+        "title": "YouTube",
+        "url": "https://invideo.io/make/youtube-video-editor/"
+      },
+      {
+        "id": "70dafb8b7277efe137228850ffefbb434c87eae5",
+        "title": "Instagram",
+        "url": "https://invideo.io/make/instagram-reels-maker/"
+      },
+      {
+        "id": "7c978d747b09b5df43b1cd4e958dfbf3b3be3c74",
+        "title": "Facebook",
+        "url": "https://invideo.io/make/facebook-video-editor/"
+      },
+      {
+        "id": "293835385a0453922043f977a1fd690fad531b41",
+        "title": "TikTok",
+        "url": "https://invideo.io/make/tiktok-video-editor/"
+      },
+      {
+        "id": "0eca6630b15ae9d1c103d575d5d1c0559189a4fc",
+        "title": "AI Avatars",
+        "url": "https://invideo.io/make/ai-avatar-generator/"
+      },
+      {
+        "id": "0a3a9e970f65a0b86c8f7d11891cb813879f8761",
+        "title": "Product Clone",
+        "url": "https://invideo.io/make/product-video/"
+      },
+      {
+        "id": "6d5652f1378e1d7b3c66cd3024419f155ff6f93f",
+        "title": "Voice Cloning",
+        "url": "https://invideo.io/tools/ai-voice-cloning/"
+      },
+      {
+        "id": "52e9e7f6a41aee3f8021699641b6bb61b899d024",
+        "title": "Video Translator",
+        "url": "https://invideo.io/make/video-translator/"
+      },
+      {
+        "id": "833d5b20b208fec57335aa36aacecc0cd0aa5db9",
+        "title": "Subtitles",
+        "url": "https://invideo.io/make/ai-subtitle-generator/"
+      },
+      {
+        "id": "78897ec702d099523cbb149798eb2547117a48b5",
+        "title": "Online Video Editor",
+        "url": "https://invideo.io/make/online-video-editor/"
+      },
+      {
+        "id": "7b455df6ec2c89db6677dd4a9331859892c7e448",
+        "title": "Video Collage Maker",
+        "url": "https://invideo.io/make/video-collage-maker/"
+      },
+      {
+        "id": "4289c69c6b976a5a07d569b8f64b9ce2466e3b35",
+        "title": "Picture Video Maker",
+        "url": "https://invideo.io/make/picture-video-maker/"
+      },
+      {
+        "id": "fd96cece7789ed916d3c737c46a864813373507d",
+        "title": "Add Music to Video",
+        "url": "https://invideo.io/make/add-music-to-video-online/"
+      },
+      {
+        "id": "cdc21a10e1c543e3710cde98e4c2b52f78a2db2a",
+        "title": "Add Text to GIF",
+        "url": "https://invideo.io/make/add-text-to-gif/"
+      },
+      {
+        "id": "0321063cfc4b965a8b65681e769ed41702eda714",
+        "title": "Instagram Video Editor",
+        "url": "https://invideo.io/make/instagram-video-editor/"
+      },
+      {
+        "id": "53fd379e1c6f3c9d093d2d1e05a20ebb7c77eae9",
+        "title": "Facebook Video Editor",
+        "url": "https://invideo.io/make/facebook-video-editor/"
+      },
+      {
+        "id": "3ab7498b1fb8a1a1da1e097b243b418a24992113",
+        "title": "Online Video Maker",
+        "url": "https://invideo.io/make/video-maker/"
+      },
+      {
+        "id": "761fd917eb5a26aca1842207cbeb068a4c0ba670",
+        "title": "Your Power to Play",
+        "url": "https://invideo.io/your-power-to-play/"
+      },
+      {
+        "id": "cf44b98cadba137cc2b0e0092521ecf4de3617ae",
+        "title": "Agency Partners",
+        "url": "https://invideo.io/agency-partners/"
+      },
+      {
+        "id": "a7c3cb020dff4e9ee2d4f5446a0383d3c1a5b02b",
+        "title": "Trending",
+        "url": "https://invideo.io/ideas/?section=trending"
+      },
+      {
+        "id": "2d36d9988f6de661d74522f3b5f7c42a4c07099b",
+        "title": "Movies",
+        "url": "https://invideo.io/ideas/?section=movies"
+      },
+      {
+        "id": "5fd8d7778923570c8ff6552efef95f28dc4784f6",
+        "title": "Vision",
+        "url": "https://invideo.io/ideas/?section=vision"
+      },
+      {
+        "id": "30d863013a4978791abf0880c79b771c897cedb7",
+        "title": "Million Dollar Ads",
+        "url": "https://invideo.io/ideas/?section=million-dollar-ads"
+      },
+      {
+        "id": "64cfa804496216bd7deb81bebc40e7bf00d3c172",
+        "title": "Money Shot",
+        "url": "https://invideo.io/ideas/?section=money-shot"
+      },
+      {
+        "id": "e4642fa4f4fff5e5ba7f7630deb4340fd32cb27a",
+        "title": "Performances",
+        "url": "https://invideo.io/ideas/?section=performances"
+      },
+      {
+        "id": "6e46800dc67b42c92965585d696879448019c750",
+        "title": "VFX House",
+        "url": "https://invideo.io/ideas/?section=vfx-house"
+      },
+      {
+        "id": "ff08dd4a4ca84f5ae6db1769ffc166146ad9525c",
+        "title": "Advertising Studio",
+        "url": "https://invideo.io/ideas/?section=advertising-studio"
+      },
+      {
+        "id": "b233ba1d44a9c4c608c9c6ec56e97a802fc086b1",
+        "title": "UGC & Avatars",
+        "url": "https://invideo.io/ideas/?section=ugc"
+      },
+      {
+        "id": "507360496c5d990216afc87ae96927314ebc572d",
+        "title": "Music Videos",
+        "url": "https://invideo.io/ideas/?section=music-videos"
+      },
+      {
+        "id": "e81c5e65c71f01e615c1fcf5a300ab3f9e6c5934",
+        "title": "Community",
+        "url": "https://invideo.io/ideas/?section=invideo-community"
+      },
+      {
+        "id": "2dfd1387ce7362c6414af5939f381a32939be91e",
+        "title": "All",
+        "url": "https://invideo.io/ideas/"
+      },
+      {
+        "id": "b234f2e7e13368005d9bd04973933ddfd9fca687",
+        "title": "Explore",
+        "url": "https://invideo.io/ideas/"
+      }
+    ],
+    "Higgsfield AI": [
+      {
+        "id": "a9b67202014769442930a54d08de6204564b9fb2",
+        "title": "SupercomputerNew",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "74242218f9607a36baadef13770831e587be246e",
+        "title": "MCP & CLINew",
+        "url": "https://higgsfield.ai/cli"
+      },
+      {
+        "id": "6ba35dd37d696e2390c91094afb9add8e7bf8eaf",
+        "title": "Collab",
+        "url": "https://higgsfield.ai/generate"
+      },
+      {
+        "id": "e8e8a3434f91138590566f49658dabffd54c920d",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio/product"
+      },
+      {
+        "id": "af812d4cf9cfdbc37cb94ab9c1063a77f7980d72",
+        "title": "Cinema Studio",
+        "url": "https://higgsfield.ai/cinema-studio?autoSelectFolder=true"
+      },
+      {
+        "id": "2da751e7179a50ae7d8198657b3e74813169ac84",
+        "title": "AI Influencer",
+        "url": "https://higgsfield.ai/ai-influencer-studio"
+      },
+      {
+        "id": "f3598f81a8e5cc693209fca599306c6deafec677",
+        "title": "Canvas",
+        "url": "https://higgsfield.ai/canvas"
+      },
+      {
+        "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
+        "title": "Apps",
+        "url": "https://higgsfield.ai/apps"
+      },
+      {
+        "id": "204fcebc1edf44d2d8cf4fcc0985824f7b0687b0",
+        "title": "Open Supercomputer Orchestrator",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "fb41152a53df6f89c1885b58966bba80d943ba11",
+        "title": "Open Personal Clipper",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "e8540e1feff709e4ab3cd25b060c58719f5d9611",
+        "title": "Open Higgsfield Viral Presets",
+        "url": "https://higgsfield.ai/viral-presets"
+      },
+      {
+        "id": "f83460b680f2350815a73def6d0552099870631d",
+        "title": "Open SUPERCOMPUTER",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "ff97115109eba5a08265003f29059fc5f3a55e8a",
+        "title": "Open Marketing Studio Hooks",
+        "url": "https://higgsfield.ai/marketing-studio/product"
+      },
+      {
+        "id": "9326957009d1bbfca487e75bc386c80d94b95274",
+        "title": "SupercomputerNewAgents, automation, skills, connectors, AI drive & moreTry now",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "61fb804a44388281382bb8b3fe578601f9207a12",
+        "title": "Nano Banana ProGenerate high-quality visualsImage",
+        "url": "https://higgsfield.ai/nano-banana-pro"
+      },
+      {
+        "id": "d88f117624f7320dba169c16f4721fbe3d2922b4",
+        "title": "Seedance 2.0Create high-quality videos in secondsVideo",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_0"
+      },
+      {
+        "id": "488c0df86ab0c2fb9a2d469248a88c58faa58abd",
+        "title": "Marketing StudioLaunch full campaigns from one promptTrending",
+        "url": "https://higgsfield.ai/marketing-studio"
+      },
+      {
+        "id": "8524066a188e8f0224dee9d6ebae3dbac1db0618",
+        "title": "MCP & CLITurn Claude into a creative engineNew",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
+        "id": "c35ccadea9f89415eafdae6ca03bee331dd49b0e",
+        "title": "Higgsfield CanvasGenerate stunning media with AI canvasNew",
+        "url": "https://higgsfield.ai/canvas"
+      },
+      {
+        "id": "0b6b8ca7662190d1cf0d629117c046ac13f7be99",
+        "title": "Cinema Studio 3.5Create cinematic scenes effortlessly",
+        "url": "https://higgsfield.ai/cinema-studio?autoSelectFolder=true"
+      },
+      {
+        "id": "b068f213c38e168a4ccb1b207c558e6e1debf48a",
+        "title": "Higgsfield Viral Presets",
+        "url": "https://higgsfield.ai/viral-presets"
+      },
+      {
+        "id": "bbbec0c7303409a84781a90b722cad32ef4b9dba",
+        "title": "View all presets",
+        "url": "https://higgsfield.ai/viral-presets"
+      },
+      {
+        "id": "dbe69cbbb307c2656512f9bb939e08d01031e805",
+        "title": "GPT Image 2",
+        "url": "https://higgsfield.ai/gpt-image-2-community"
+      },
+      {
+        "id": "f3cf79692f042e3ea5e3d056febd5b00c967fb75",
+        "title": "View all of GPT Image 2",
+        "url": "https://higgsfield.ai/gpt-image-2-community"
+      },
+      {
+        "id": "6b48cab748292bc932b4c65e089a0cf8a37546ce",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-community"
+      },
+      {
+        "id": "9eebc1ff593da179f5f7c959b2b90a963e68e3ae",
+        "title": "View all of Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-community"
+      },
+      {
+        "id": "02337abf06f1cd835da9b5b11760500056c32068",
+        "title": "Seedance 2.0",
+        "url": "https://higgsfield.ai/seedance-2-community"
+      },
+      {
+        "id": "11820136747f650fe3c54e8945d0e72c4b3096ed",
+        "title": "View all of Seedance 2.0",
+        "url": "https://higgsfield.ai/seedance-2-community"
+      },
+      {
+        "id": "91877b8b043ffb08ca185b33524f7829bdf99978",
+        "title": "Watch Zephyr",
+        "url": "https://higgsfield.ai/original-series"
+      },
+      {
+        "id": "5bae2a18de403cb653be610e038f52b05561c92b",
+        "title": "Watch now",
+        "url": "https://higgsfield.ai/original-series"
+      },
+      {
+        "id": "fb4e03e99a9452a3affdd6e700ec66184dda908b",
+        "title": "Try Photodump",
+        "url": "https://higgsfield.ai/photodump/mobile?skip-preview=true"
+      },
+      {
+        "id": "532ab81c158a9c7f5886e6f0f98dd1256d826383",
+        "title": "Try Photodump",
+        "url": "https://higgsfield.ai/ai/image?modal-photo-dump=true&model=soul-v2&skip-preview=true"
+      },
+      {
+        "id": "7a7509037f9eccdcdf6adc115a4ffe76be00390e",
+        "title": "Higgsfield Soul Cinema",
+        "url": "https://higgsfield.ai/soul-cinema-community"
+      },
+      {
+        "id": "18fa8d0beaaf3e64c7540ea43702bb311c73ad79",
+        "title": "View all of Higgsfield Soul Cinema",
+        "url": "https://higgsfield.ai/soul-cinema-community"
+      },
+      {
+        "id": "39101ab4b61fb70f541f0eed221caa6b0b0bb858",
+        "title": "Higgsfield Soul 2.0",
+        "url": "https://higgsfield.ai/soul-community"
+      },
+      {
+        "id": "8e20f204b1e9c378eaedd897688892257eeef239",
+        "title": "View all of Higgsfield Soul 2.0",
+        "url": "https://higgsfield.ai/soul-community"
+      },
+      {
+        "id": "fed75cc92f5e867e95dc797230ec7b3a9baf60a6",
+        "title": "Cinema Studio",
+        "url": "https://higgsfield.ai/cinematic-video-generator"
+      },
+      {
+        "id": "29264350ea7fd7eca228a0cca0027291413ad528",
+        "title": "Visual Effects",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "53dffad0afa74a6473f54a4e13904920a8e871b6",
+        "title": "Higgsfield Soul",
+        "url": "https://higgsfield.ai/ai/image?model=soul"
+      },
+      {
+        "id": "1670f4963791a3d036ea42111649f500e7083912",
+        "title": "Kling 2.1 Master",
+        "url": "https://higgsfield.ai/ai/video?model=kling-v2-1-master"
+      },
+      {
+        "id": "004ad2305ed988d05743aed78c95499efb592c25",
+        "title": "Camera Controls",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "a7c146dc22050ae8e05d3174cf08cd6f65063b89",
+        "title": "Viral",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "4173d321560e19b5347a81d8fb579b3ece458ff6",
+        "title": "Action movements",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "1952a96ee756f98f95d762463ca64fe759bdeb64",
+        "title": "Commercial",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "e3157340db5b860c7f3c0f2e1b63546bb1ee6bd9",
+        "title": "MiniMax Hailuo 02",
+        "url": "https://higgsfield.ai/ai/video?model=minimax"
+      },
+      {
+        "id": "8e493cd7cc4025b16dacec4b93cf1f09e1414329",
+        "title": "Seedance Pro",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_pro"
+      },
+      {
+        "id": "f08dd9103d9b83b102a803e93013416eee7ebd65",
+        "title": "Community",
+        "url": "https://higgsfield.ai/community"
+      },
+      {
+        "id": "a948fe9531d296c6b7c68aa463fba5ef270dc9ee",
+        "title": "Wan 2.2 Image",
+        "url": "https://higgsfield.ai/ai/image?model=wan2-2"
+      },
+      {
+        "id": "66714f6905781a45f7738eee77612a108b36b1c2",
+        "title": "Seedream 4.0",
+        "url": "https://higgsfield.ai/ai/image?model=seedream"
+      },
+      {
+        "id": "84f0e98f8ab0c64b57fccd6c3071fa8198f67666",
+        "title": "Nano Banana",
+        "url": "https://higgsfield.ai/ai/image?model=nano_banana"
+      },
+      {
+        "id": "472f4f365222b024e5050e4121a91ecf145f1b09",
+        "title": "Flux Kontext",
+        "url": "https://higgsfield.ai/ai/image?model=kontext"
+      },
+      {
+        "id": "69466b5d369e85afe4b366f6c21c6f808afd549d",
+        "title": "GPT Image",
+        "url": "https://higgsfield.ai/ai/image?model=gpt"
+      },
+      {
+        "id": "56fc534c7dba871d6c7131b33c89ca1726982700",
+        "title": "Topaz",
+        "url": "https://higgsfield.ai/upscale"
+      },
+      {
+        "id": "1d1c662e522b2219954f1f2bb91224a1d9b1baed",
+        "title": "Google Veo3",
+        "url": "https://higgsfield.ai/ai/video?model=veo-3-preview"
+      },
+      {
+        "id": "f31927755b0db6c46e48158ac5563c9352aabce1",
+        "title": "Kling 2.5 Turbo",
+        "url": "https://higgsfield.ai/ai/video?model=kling-v2-5-turbo"
+      },
+      {
+        "id": "f08f386c9a349f63161583779ab23a783e42a27f",
+        "title": "Kling Avatars 2.0",
+        "url": "https://higgsfield.ai/lipsync-studio"
+      },
+      {
+        "id": "bcddc4838bb74572711034d38d45e9949dd225ca",
+        "title": "Claude MCP",
+        "url": "https://higgsfield.ai/claude-ai-video-generator"
+      },
+      {
+        "id": "a5a70e682c409e5a794abb6b3b604f815bd81aa7",
+        "title": "Wan 2.5",
+        "url": "https://higgsfield.ai/wan-ai-video"
+      },
+      {
+        "id": "4e7b540c196d71713101f7bdb81d6e39d3d6924e",
+        "title": "Sora 2",
+        "url": "https://higgsfield.ai/sora-2"
+      },
+      {
+        "id": "00d05cf783dad2a69119f7de2679203c0170d01d",
+        "title": "Sora 2 Presets",
+        "url": "https://higgsfield.ai/sora-2-ai-video-presets"
+      },
+      {
+        "id": "f092f40d770768913019729e8ed99718b1416cf4",
+        "title": "Banana Placement",
+        "url": "https://higgsfield.ai/ai/image?model=nano_banana"
+      },
+      {
+        "id": "e54f735cf44b0d0df8a3d51e1515ddd75e165d56",
+        "title": "Product Placement",
+        "url": "https://higgsfield.ai/animate"
+      },
+      {
+        "id": "95e8a42cf79feda6798ba78d75525a0901d1772b",
+        "title": "Edit Image",
+        "url": "https://higgsfield.ai/edit?model=nano_banana_pro_inpaint"
+      },
+      {
+        "id": "3549ef098fb540825c8ce4496691db2a1ebe7477",
+        "title": "Multi Reference",
+        "url": "https://higgsfield.ai/character"
+      },
+      {
+        "id": "b010ce50b79c3a24e2dc11780518c26fcf111fbf",
+        "title": "Upscale",
+        "url": "https://higgsfield.ai/upscale"
+      },
+      {
+        "id": "76ff14bd96a9bde4093c215b75d790b268b8dcdf",
+        "title": "Assists",
+        "url": "https://higgsfield.ai/chat"
+      },
+      {
+        "id": "0ac168733335e7bd396bc7a5df3f349d42d24967",
+        "title": "YouTube",
+        "url": "https://higgsfield.ai/sora-2-youtube"
+      },
+      {
+        "id": "9f7648c6941735dff33b21a685d11ef9828999dd",
+        "title": "TikTok",
+        "url": "https://higgsfield.ai/sora-2-tiktok"
+      },
+      {
+        "id": "eb941b7e42f6c424b9b853a1d9564b25a26c3ed2",
+        "title": "Instagram Reels",
+        "url": "https://higgsfield.ai/sora-2-reels"
+      },
+      {
+        "id": "2859da9cab620756805c4a9f369da1480167cff3",
+        "title": "YouTube Shorts",
+        "url": "https://higgsfield.ai/sora-2-shorts"
+      },
+      {
+        "id": "bfaa168127c1485c32a9e56de60eb9aa57302225",
+        "title": "Nano Banana Pro",
+        "url": "https://higgsfield.ai/ai/image?model=nano-banana-pro"
+      },
+      {
+        "id": "272035e071b83e1ce5ceb296aa9072ca70e24162",
+        "title": "Kling o1",
+        "url": "https://higgsfield.ai/kling-3.0"
+      },
+      {
+        "id": "4f6b0e2f70a4916ca1b07d9cd661e34cd3110837",
+        "title": "Mixed Media Community",
+        "url": "https://higgsfield.ai/mixed-media-community"
+      },
+      {
+        "id": "11dfcccd068c6e2d19868d17ce0fe19506986662",
+        "title": "Soul Presets",
+        "url": "https://higgsfield.ai/soul"
+      },
+      {
+        "id": "bde910a1d6a4d3ff9b2d6b3d79ad764c20c7371f",
+        "title": "Visual Effects Collection",
+        "url": "https://higgsfield.ai/collection/effects"
+      },
+      {
+        "id": "f157643e9c91bdc76617d2a7dd261963c4afc730",
+        "title": "Trust",
+        "url": "https://higgsfield.ai/trust"
+      },
+      {
+        "id": "1380cb2140a6bb1f6bee014ee381ce3329c48904",
+        "title": "Soul ID Character",
+        "url": "https://higgsfield.ai/character"
+      },
+      {
+        "id": "405e32b50a9bbe6f6e078285e3a95b2b8b6a54bd",
+        "title": "Draw to Edit",
+        "url": "https://higgsfield.ai/ai/video?image-inpaint=true"
+      },
+      {
+        "id": "b9655bb78245aed1438f379d7a0e09b262650c74",
+        "title": "Fashion Factory",
+        "url": "https://higgsfield.ai/fashion-factory"
+      },
+      {
+        "id": "996e8a5fabd1652631e8bc3b6fc0b2099395503f",
+        "title": "Mixed media",
+        "url": "https://higgsfield.ai/mixed-media-intro"
+      },
+      {
+        "id": "4b803202848d2da4cde4ff1816a8874c034177ee",
+        "title": "Sora 2 Introduction",
+        "url": "https://higgsfield.ai/sora-2"
+      },
+      {
+        "id": "8bed42d9304fc9be2413a61891dcd21b8b9267ea",
+        "title": "Veo 3.1 Introduction",
+        "url": "https://higgsfield.ai/veo3.1"
+      },
+      {
+        "id": "f394b6d82d8389382e0f4661740ef9f0b4c9742b",
+        "title": "Create Video",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "528a0cacc40892f7308d96e6a4cd4fcacf22952e",
+        "title": "Banana Placement",
+        "url": "https://higgsfield.ai/edit?model=banana_placement"
+      },
+      {
+        "id": "77673b33a2d75f792ddd9d53d769f47f210a9a1f",
+        "title": "Product Placement",
+        "url": "https://higgsfield.ai/edit?model=canvas"
+      },
+      {
+        "id": "bb2cd6a6b591945b9b1235f2de9ee4d99f95e4c5",
+        "title": "Multi Reference",
+        "url": "https://higgsfield.ai/edit?model=multi"
+      },
+      {
+        "id": "a9872bcbb4261f47280a02a35063a64593fdc30c",
+        "title": "Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer-intro"
+      },
+      {
+        "id": "ef6b10866d80a72f7ef38ed55e5fd45133525b67",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-intro"
+      },
+      {
+        "id": "0d7ce54f655bb8f34a546aa0cc2334d62c7de535",
+        "title": "Higgsfield Canvas",
+        "url": "https://higgsfield.ai/canvas-intro"
+      },
+      {
+        "id": "aa0e84416530e9d5a712b5621550c91b5ddf60e8",
+        "title": "Higgsfield Collab",
+        "url": "https://higgsfield.ai/chat-intro"
+      },
+      {
+        "id": "f7d481a60c82b3aa5ebcceab7f2b83f94cb65678",
+        "title": "Higgsfield MCP",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
+        "id": "3ccdda5b5e6221cc2d612bd6690cb46713d69ee3",
+        "title": "AI Influencer",
+        "url": "https://higgsfield.ai/ai-influencer"
+      },
+      {
+        "id": "4c791019213fe9bcc2ae39485d500202431dc0f8",
+        "title": "Enterprise",
+        "url": "https://higgsfield.ai/enterprise"
+      },
+      {
+        "id": "be7d22e8b0b73a41950d46fb2be943a5d15fe43f",
+        "title": "Team",
+        "url": "https://higgsfield.ai/team-plan"
+      },
+      {
+        "id": "8f03754f7c9ecddd3eb2402696758a80ffeedf4c",
+        "title": "Copilot",
+        "url": "https://higgsfield.ai/chat"
+      },
+      {
+        "id": "de0253eaefc849ff95c5bb33fc2f415cda5e67af",
+        "title": "Contests",
+        "url": "https://higgsfield.ai/contests"
+      },
+      {
+        "id": "54c602e6e2e044a778e0eabda97b61c3766430c6",
+        "title": "Community",
+        "url": "https://higgsfield.ai/project/submit"
+      },
+      {
+        "id": "80230dd3abcdef5d4faa2fb052a55661f5ec7f7c",
+        "title": "Library",
+        "url": "https://higgsfield.ai/library/image"
+      },
+      {
+        "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
+        "title": "Profile",
+        "url": "https://higgsfield.ai/profile"
+      }
+    ]
+  }
 }
