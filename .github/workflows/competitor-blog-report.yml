@@ -3,7 +3,7 @@ name: Competitor Blog Report
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "10 1 * * *"
 
 permissions:
   contents: write
@@ -40,9 +40,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -B main origin/main
           git add data/state-browser.json data/browser-report-latest.md
           git diff --cached --quiet || git commit -m "Update competitor blog report state"
-          git push
+          git push origin main
+
 
       - name: Upload report artifact
         if: always()
