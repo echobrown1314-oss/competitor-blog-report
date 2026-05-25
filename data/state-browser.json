@@ -52,6 +52,18 @@
         "url": "https://wavespeed.ai/blog/posts/claude-sonnet-4-8-leak-vs-reality/",
         "date": "2026-05-24",
         "reportedAt": "2026-05-24T09:26:57.230Z"
+      },
+      {
+        "key": "41cd2ed875a46d7b78ef22c10059c59b21d04c12",
+        "url": "https://wavespeed.ai/blog/posts/best-ai-video-generator-2026/",
+        "date": "2026-05-25",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "f94889afb7471e01d94d81be01119296b197f04b",
+        "url": "https://wavespeed.ai/blog/posts/free-ai-video-generator-2026/",
+        "date": "2026-05-25",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
       }
     ],
     "WeShop AI": [
@@ -72,6 +84,12 @@
         "url": "https://www.weshop.ai/blog/aigc-visual-blockbuster-tutorial-transform-selfies-into-game-loading-screens-and-create-3a-game-atmosphere-in-3-minutes/",
         "date": "2026-05-21T02:55:00+00:00",
         "reportedAt": "2026-05-21T09:29:48.968Z"
+      },
+      {
+        "key": "86f51a1a2c3acd50a7914f6ea06e034e6b88ac90",
+        "url": "https://www.weshop.ai/blog/no-professional-photographer-no-problem-the-ultimate-guide-to-creating-high-end-ai-fashion-lookbooks-with-weshop-ai/",
+        "date": "2026-05-24T16:17:48+00:00",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
       }
     ],
     "Atlas Cloud": [
@@ -176,6 +194,54 @@
         "url": "https://www.atlascloud.ai/blog/guides/unified-llm-api-gateway",
         "date": "2026-05-22T11:52:16.584Z",
         "reportedAt": "2026-05-23T08:37:21.969Z"
+      },
+      {
+        "key": "954d3d0c20e5860eecc90a9a36b630e319d43adc",
+        "url": "https://www.atlascloud.ai/blog/guides/gemini-omni-prompt-guide",
+        "date": "2026-05-25T12:20:17.984Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "7ef85ade645e423c0079518ec0eacb4b4360d238",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/google-gemini-omni-conversational-video-editing",
+        "date": "2026-05-25T12:19:36.897Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "dc0ba52b5b2041677035207a2886fa1eff2a73be",
+        "url": "https://www.atlascloud.ai/blog/guides/gemini-omni-features-overview",
+        "date": "2026-05-25T12:19:24.483Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "c6bf479d0be1945a1ed1ca55df2257ad32bd3147",
+        "url": "https://www.atlascloud.ai/blog/guides/gemini-omni-one-model-for-text-image-audio-and-video",
+        "date": "2026-05-25T12:19:14.358Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "89f177ec65b9c634be7cf18a9e380da1775beaf2",
+        "url": "https://www.atlascloud.ai/blog/guides/google-gemini-omni-testing-results",
+        "date": "2026-05-25T12:18:52.683Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "6e7aab8ed4e46f1b53a52446b69b0171e74b3fc1",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/google-gemini-omni-physics-ai-video-breakthrough",
+        "date": "2026-05-25T12:16:29.557Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "4cd67ac800c2bd4236009894f7731fc02bb60143",
+        "url": "https://www.atlascloud.ai/blog/guides/uncensored-ai-image-to-video-generator",
+        "date": "2026-05-25T10:45:22.984Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
+      },
+      {
+        "key": "ceb4f15c0eb843ff311ba6a9f4d675dc75dbae39",
+        "url": "https://www.atlascloud.ai/blog/guides/grok-image-is-moderated",
+        "date": "2026-05-25T08:52:43.284Z",
+        "reportedAt": "2026-05-25T12:54:38.135Z"
       }
     ],
     "TopMediai": [],
