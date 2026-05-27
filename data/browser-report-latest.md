@@ -1,6 +1,6 @@
 # 竞品博客监测日报
 
-生成时间：2026/05/25 20:54（上海）
+生成时间：2026/05/27 16:27（上海）
 
 新增文章总数：11
 
@@ -16,25 +16,24 @@
 ## DataCamp（0）
 - 今日未发现新文章
 
-## WaveSpeed（2）
-- [Best AI Video Generator 2026: Model & API Comparison - WaveSpeed Blog](https://wavespeed.ai/blog/posts/best-ai-video-generator-2026/) | 2026-05-25
-- [Free AI Video Generator 2026: What](https://wavespeed.ai/blog/posts/free-ai-video-generator-2026/) | 2026-05-25
+## WaveSpeed（4）
+- [AI Video Generation Models: 2026 Complete Guide - WaveSpeed Blog](https://wavespeed.ai/blog/posts/ai-video-generation-models-2026/) | 2026-05-27
+- [Best Free AI Video Generator 2026: Tested & Ranked - WaveSpeed Blog](https://wavespeed.ai/blog/posts/best-free-ai-video-generator-2026/) | 2026-05-26
+- [Google Veo 4 API: What Developers Can Prepare Now - WaveSpeed Blog](https://wavespeed.ai/blog/posts/google-veo-4-api-prep/) | 2026-05-26
+- [What Is Veo 4? What Google Has Confirmed So Far - WaveSpeed Blog](https://wavespeed.ai/blog/posts/what-is-veo-4/) | 2026-05-26
 
-## WeShop AI（1）
-- [Create High-End AI Fashion Lookbooks with WeShop AI](https://www.weshop.ai/blog/no-professional-photographer-no-problem-the-ultimate-guide-to-creating-high-end-ai-fashion-lookbooks-with-weshop-ai/) | 2026-05-24T16:17:48+00:00
+## WeShop AI（3）
+- [How to use AI to turn photos into “ugly-cute doodles” with one click? A beginner’s guide to GPT painting for novices – WeShop AI Blog](https://www.weshop.ai/blog/how-to-use-ai-to-turn-photos-into-ugly-cute-doodles-with-one-click-a-beginners-guide-to-gpt-painting-for-novices/) | 2026-05-27T06:43:08+00:00
+- [How to play the popular “Animal Sculpture” game? Generate your exclusive animal-like photo with one click (with nanny-level AI instructions). – WeShop AI Blog](https://www.weshop.ai/blog/how-to-play-the-popular-animal-sculpture-game-generate-your-exclusive-animal-like-photo-with-one-click-with-nanny-level-ai-instructions/) | 2026-05-27T06:18:31+00:00
+- [AI Facial Analysis is booming! Use WeShop AI to generate advanced evaluation image cards for [Appearance/Makeup/Hair Style/Color] with one click – WeShop AI Blog](https://www.weshop.ai/blog/ai-facial-analysis-is-booming-use-weshop-ai-to-generate-advanced-evaluation-image-cards-for-appearance-makeup-hair-style-color-with-one-click/) | 2026-05-27T04:04:46+00:00
 
-## Atlas Cloud（8）
-- [Gemini Omni Prompt Guide: 5 Dimensions Google Uses](https://www.atlascloud.ai/blog/guides/gemini-omni-prompt-guide) | 2026-05-25T12:20:17.984Z
-- [Google Gemini Omni Review: AI That Edits Video Through Nature Conversation (I/O 2026)](https://www.atlascloud.ai/blog/ai-updates/google-gemini-omni-conversational-video-editing) | 2026-05-25T12:19:36.897Z
-- [Google Gemini Omni: Features, Pricing & Google Flow Guide](https://www.atlascloud.ai/blog/guides/gemini-omni-features-overview) | 2026-05-25T12:19:24.483Z
-- [How Gemini Omni’s Single-Network Architecture Unifies Text, Image, Audio, and Video](https://www.atlascloud.ai/blog/guides/gemini-omni-one-model-for-text-image-audio-and-video) | 2026-05-25T12:19:14.358Z
-- [Hands-On with Gemini Omni: Impressive But Not Quite There Yet](https://www.atlascloud.ai/blog/guides/google-gemini-omni-testing-results) | 2026-05-25T12:18:52.683Z
-- [Gemini Omni Feature: Create Output That Follows Real-World Physics](https://www.atlascloud.ai/blog/ai-updates/google-gemini-omni-physics-ai-video-breakthrough) | 2026-05-25T12:16:29.557Z
-- [5 Best Uncensored AI Image to Video Generators in 2026](https://www.atlascloud.ai/blog/guides/uncensored-ai-image-to-video-generator) | 2026-05-25T10:45:22.984Z
-- [Grok Image Moderated? Why It Happens & How to Fix It Fast](https://www.atlascloud.ai/blog/guides/grok-image-is-moderated) | 2026-05-25T08:52:43.284Z
+## Atlas Cloud（3）
+- [Kimi K2.6 vs GLM 5.1: Which Open-Source LLM Fits Your Stack?](https://www.atlascloud.ai/blog/guides/coding-plan-kimi-k2-6-vs-glm-5-1) | 2026-05-27T08:04:32.335Z
+- [DeepSeek V4 Pro vs Claude Opus 4.7: Which Model Wins in 2026?](https://www.atlascloud.ai/blog/guides/coding-plan-deepseek-v4-pro-vs-opus-4-7) | 2026-05-27T07:48:01.561Z
+- [Writing High-Performance Kernels in TileLang, from GEMM to MLA](https://www.atlascloud.ai/blog/guides/writing-high-performance-kernels-in-tilelang) | 2026-05-26T09:15:38.045Z
 
 ## TopMediai（0）
 - 今日未发现新文章
 
-## JXP（0）
-- 今日未发现新文章
+## JXP（1）
+- [Seedance 2.1 Preview: 20% Quality Boost & Mini Tier](https://www.jxp.com/blog/seedance-2-1-preview) | 2026-05-27T04:14:06.000Z
