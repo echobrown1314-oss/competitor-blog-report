@@ -1034,8 +1034,8 @@
         "url": "https://viddo.ai/ai-music-video"
       },
       {
-        "id": "36f92c23e86b22e1642d2ab0c2e3cb99f3a36631",
-        "title": "Video EnhancerNew",
+        "id": "df5c5c6b70a7409ccb717ac81388c02d4f273262",
+        "title": "Video Enhancer",
         "url": "https://viddo.ai/video-enhancer"
       },
       {
@@ -1057,11 +1057,6 @@
         "id": "d82388ae9d7326007cd222f395a0241dbac87628",
         "title": "Lip Sync",
         "url": "https://viddo.ai/lip-sync"
-      },
-      {
-        "id": "2acdcd9679227fa1400d966c7f41721aeded8f59",
-        "title": "Video Style Transform",
-        "url": "https://viddo.ai/video-style-transform"
       },
       {
         "id": "2faee7adf68badb8e3709dd2e20cc69e0ac75304",
@@ -1147,26 +1142,6 @@
         "id": "dde56d8abaf23196bc682a103d76d82dab206d09",
         "title": "Happy Horse",
         "url": "https://viddo.ai/happy-horse"
-      },
-      {
-        "id": "a20ffddd0a19d4cbba32f28a5ad31a4a1eecc408",
-        "title": "Wan 2.7",
-        "url": "https://viddo.ai/image-to-video?model=wan-2.7"
-      },
-      {
-        "id": "556ae706bc7966dbafc445e5b323727da3248822",
-        "title": "Wan 2.6",
-        "url": "https://viddo.ai/wan-2-6"
-      },
-      {
-        "id": "16b9f533b518a9901a57fe7c337e51e6453e99d3",
-        "title": "Wan 2.6 R2V",
-        "url": "https://viddo.ai/reference-to-video"
-      },
-      {
-        "id": "900796a0a6ffc61ee28f25626f4a85e7a26fcc71",
-        "title": "Wan 2.5",
-        "url": "https://viddo.ai/wan2-5"
       },
       {
         "id": "46c76e55d51117914c664326a7a912f55be82fdc",
@@ -2102,6 +2077,31 @@
         "id": "0c360b1a1d8229998b43591c4934f2c0db1168c2",
         "title": "Fisheye - Pet",
         "url": "https://viddo.ai/video-effects/fisheye_pet"
+      },
+      {
+        "id": "58c911fb95cd56c7fc71cfbec507460e00b9e146",
+        "title": "Hitchcock Zoom",
+        "url": "https://viddo.ai/video-effects/hitchcock_zoom"
+      },
+      {
+        "id": "37f304b7206027456d1195ae9620217a100c6923",
+        "title": "Cute Bangs",
+        "url": "https://viddo.ai/video-effects/cute_bangs"
+      },
+      {
+        "id": "f4c697408a328a1c15b3fdcaf473a7284465d6d5",
+        "title": "Fisheye - Human",
+        "url": "https://viddo.ai/video-effects/fisheye_human"
+      },
+      {
+        "id": "fcc23a0b9f17194dc320e4aa5ea219e213f4e5a0",
+        "title": "Drive My Yacht",
+        "url": "https://viddo.ai/video-effects/drive_yacht"
+      },
+      {
+        "id": "c2577a42ad43ba40dffd746a6d038cfca7a37f32",
+        "title": "Live Photo",
+        "url": "https://viddo.ai/video-effects/live_photo"
       }
     ],
     "DeeVid AI": [
@@ -2613,6 +2613,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
         "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
         "title": "Pollo AI vs A2E AI An Honest Comparison for 2026",
         "url": "https://a2e.ai/pollo-ai-vs-a2e-ai-an-honest-comparison-for-2026/"
@@ -2666,56 +2676,6 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
-      },
-      {
-        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
-        "title": "API Doc",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
-        "title": "Service Status",
-        "url": "https://a2e.ai/realtime-status/"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
-        "title": "AI Image to Video",
-        "url": "https://video.a2e.ai/image-to-video"
-      },
-      {
-        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
-        "title": "AI Head Swap",
-        "url": "https://video.a2e.ai/head-swap"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
-        "title": "GPT Image 1.5",
-        "url": "https://video.a2e.ai/image-generator/gpt-image"
-      },
-      {
-        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
-        "title": "Kling 3.0 Image",
-        "url": "https://video.a2e.ai/image-generator/kling-image"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
-      },
-      {
-        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
-        "title": "Seedance 1.5 Pro",
-        "url": "https://video.a2e.ai/seedance-video"
       }
     ],
     "Kling AI": [
