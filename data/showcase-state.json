@@ -162,6 +162,16 @@
         "url": "https://magichour.ai/products/ai-video-extender"
       },
       {
+        "id": "1126e7b5ef7fc8e0644acd7ecb9042dc7f420e28",
+        "title": "AI Video Expander",
+        "url": "https://magichour.ai/products/ai-video-expander"
+      },
+      {
+        "id": "9b0742ba2c8457bc1c2d1988f7227754e3422503",
+        "title": "AI Music Generator",
+        "url": "https://magichour.ai/products/ai-music-generator"
+      },
+      {
         "id": "089d33de4cd7d365d677285f8f7a8400e1584630",
         "title": "Video to Audio",
         "url": "https://magichour.ai/products/video-to-audio"
@@ -990,16 +1000,6 @@
         "id": "ed552d4b0596024a0d86b466261d2955bf77cfa7",
         "title": "Modern Chart Filter",
         "url": "https://magichour.ai/tools/modern-chart-filter"
-      },
-      {
-        "id": "954858a2d3cf1a2cb8ddee119b34722f60fa0d72",
-        "title": "AI Magazine Layout Generator",
-        "url": "https://magichour.ai/tools/ai-magazine-layout-generator"
-      },
-      {
-        "id": "bf263573aca127367ff636c497ec79ab9ce61430",
-        "title": "AI Image Outpainting",
-        "url": "https://magichour.ai/tools/ai-image-outpainting"
       }
     ],
     "Viddo AI": [
@@ -2613,16 +2613,6 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
-      },
-      {
         "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
         "title": "Pollo AI vs A2E AI An Honest Comparison for 2026",
         "url": "https://a2e.ai/pollo-ai-vs-a2e-ai-an-honest-comparison-for-2026/"
@@ -2676,6 +2666,71 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
+        "title": "Service Status",
+        "url": "https://a2e.ai/realtime-status/"
+      },
+      {
+        "id": "404347ea2963c2949021bec3b57dfd537ceb3efc",
+        "title": "Media Assets",
+        "url": "https://a2e.ai/a2e-media-kit-brand-assets/"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
+        "title": "AI Image to Video",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
+        "title": "AI Head Swap",
+        "url": "https://video.a2e.ai/head-swap"
+      },
+      {
+        "id": "0e907cf14979f67d13a7bc6419509a262e4c6889",
+        "title": "AI Face Swap",
+        "url": "https://video.a2e.ai/face-swap"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
+        "title": "GPT Image 1.5",
+        "url": "https://video.a2e.ai/image-generator/gpt-image"
+      },
+      {
+        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
+        "title": "Kling 3.0 Image",
+        "url": "https://video.a2e.ai/image-generator/kling-image"
+      },
+      {
+        "id": "7ae7254a6e02a67cc84b43c4e45fc8e4d58f70c3",
+        "title": "Wan 2.7 Image",
+        "url": "https://video.a2e.ai/image-generator/wan27-image"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
+      },
+      {
+        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
+        "title": "Seedance 1.5 Pro",
+        "url": "https://video.a2e.ai/seedance-video"
       }
     ],
     "Kling AI": [
