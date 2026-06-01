@@ -1034,6 +1034,11 @@
         "url": "https://viddo.ai/ai-music-video"
       },
       {
+        "id": "27961b453cdcf8f6588fe9e09e871a961c62fd82",
+        "title": "Long Video to ShortsNew",
+        "url": "https://viddo.ai/long-video-to-shorts"
+      },
+      {
         "id": "df5c5c6b70a7409ccb717ac81388c02d4f273262",
         "title": "Video Enhancer",
         "url": "https://viddo.ai/video-enhancer"
@@ -1317,6 +1322,11 @@
         "id": "f6c684822f20b62a16e4435408ceec8029339639",
         "title": "Reference To Video",
         "url": "https://viddo.ai/reference-to-video"
+      },
+      {
+        "id": "d962556f6ef101a0cc763a31553ac0cc13142899",
+        "title": "Long Video to Shorts",
+        "url": "https://viddo.ai/long-video-to-shorts"
       },
       {
         "id": "0301b4b7c69bbbfb8f7d8d46c1b253cb51b2aa53",
@@ -2092,16 +2102,6 @@
         "id": "f4c697408a328a1c15b3fdcaf473a7284465d6d5",
         "title": "Fisheye - Human",
         "url": "https://viddo.ai/video-effects/fisheye_human"
-      },
-      {
-        "id": "fcc23a0b9f17194dc320e4aa5ea219e213f4e5a0",
-        "title": "Drive My Yacht",
-        "url": "https://viddo.ai/video-effects/drive_yacht"
-      },
-      {
-        "id": "c2577a42ad43ba40dffd746a6d038cfca7a37f32",
-        "title": "Live Photo",
-        "url": "https://viddo.ai/video-effects/live_photo"
       }
     ],
     "DeeVid AI": [
