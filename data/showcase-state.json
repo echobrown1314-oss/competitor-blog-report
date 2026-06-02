@@ -1099,6 +1099,11 @@
         "url": "https://viddo.ai/veo3"
       },
       {
+        "id": "4295a4632e163cef160a9776999a4de8d05d39e2",
+        "title": "Grok Imagine 1.5",
+        "url": "https://viddo.ai/grok-imagine-1-5"
+      },
+      {
         "id": "354b19b5c487074f24172b90d071ee038da8d194",
         "title": "Grok Imagine(30s)",
         "url": "https://viddo.ai/grok-imagine"
@@ -1147,6 +1152,26 @@
         "id": "dde56d8abaf23196bc682a103d76d82dab206d09",
         "title": "Happy Horse",
         "url": "https://viddo.ai/happy-horse"
+      },
+      {
+        "id": "a20ffddd0a19d4cbba32f28a5ad31a4a1eecc408",
+        "title": "Wan 2.7",
+        "url": "https://viddo.ai/image-to-video?model=wan-2.7"
+      },
+      {
+        "id": "556ae706bc7966dbafc445e5b323727da3248822",
+        "title": "Wan 2.6",
+        "url": "https://viddo.ai/wan-2-6"
+      },
+      {
+        "id": "16b9f533b518a9901a57fe7c337e51e6453e99d3",
+        "title": "Wan 2.6 R2V",
+        "url": "https://viddo.ai/reference-to-video"
+      },
+      {
+        "id": "900796a0a6ffc61ee28f25626f4a85e7a26fcc71",
+        "title": "Wan 2.5",
+        "url": "https://viddo.ai/wan2-5"
       },
       {
         "id": "46c76e55d51117914c664326a7a912f55be82fdc",
@@ -2077,34 +2102,44 @@
         "id": "decf4a26dd8c83472f3222285e8f0a0dde4e1db6",
         "title": "Across the Universe - Jurassic",
         "url": "https://viddo.ai/video-effects/across_the_universe_jurassic"
-      },
-      {
-        "id": "7d637ffbdf7399986d2a96e44562cdb6b2e61969",
-        "title": "Across the Universe - Moon",
-        "url": "https://viddo.ai/video-effects/across_the_universe_moon"
-      },
-      {
-        "id": "0c360b1a1d8229998b43591c4934f2c0db1168c2",
-        "title": "Fisheye - Pet",
-        "url": "https://viddo.ai/video-effects/fisheye_pet"
-      },
-      {
-        "id": "58c911fb95cd56c7fc71cfbec507460e00b9e146",
-        "title": "Hitchcock Zoom",
-        "url": "https://viddo.ai/video-effects/hitchcock_zoom"
-      },
-      {
-        "id": "37f304b7206027456d1195ae9620217a100c6923",
-        "title": "Cute Bangs",
-        "url": "https://viddo.ai/video-effects/cute_bangs"
-      },
-      {
-        "id": "f4c697408a328a1c15b3fdcaf473a7284465d6d5",
-        "title": "Fisheye - Human",
-        "url": "https://viddo.ai/video-effects/fisheye_human"
       }
     ],
     "DeeVid AI": [
+      {
+        "id": "5626782b40621d3476e9a240364c4a5484b41825",
+        "title": "Image to VideoDrop in a photo and watch it come to life in seconds.",
+        "url": "https://deevid.ai/app?landingFeature=image-to-video"
+      },
+      {
+        "id": "ec71a945cf9482ae7385bd6cb59d0a3973685bdb",
+        "title": "AI AdsDrop in a product and get ad videos ready for every platform.",
+        "url": "https://deevid.ai/app?landingFeature=ai-ad"
+      },
+      {
+        "id": "87c3b24992679b175dd93178aa887bca78e842b6",
+        "title": "AI Image GeneratorFrom a prompt or a reference image to the visual you want.",
+        "url": "https://deevid.ai/app?landingFeature=ai-image-generator"
+      },
+      {
+        "id": "a66332e4874e9cd9da135a222c266a06b65834f0",
+        "title": "AI AvatarTurn one photo into your own on-camera talent.",
+        "url": "https://deevid.ai/app?landingFeature=ai-avatar"
+      },
+      {
+        "id": "a84d708077baff3542aeb620369fa695d498ba0f",
+        "title": "Text to SpeechType a script and hear it in a real-sounding voice.",
+        "url": "https://deevid.ai/app?landingFeature=text-to-speech"
+      },
+      {
+        "id": "74dce90d92247cfe78841fff02769380969fdd7f",
+        "title": "AI MusicPick a mood and get your own copyright-free soundtrack.",
+        "url": "https://deevid.ai/app?landingFeature=ai-music-generator"
+      },
+      {
+        "id": "6b46c46dbde5e684d573c47da705ad93ce3addee",
+        "title": "Try Online",
+        "url": "https://deevid.ai/app"
+      },
       {
         "id": "40b823c9b9fe76094ba01cc3942d568c91bc6b4b",
         "title": "Image to Video",
@@ -2121,9 +2156,24 @@
         "url": "https://deevid.ai/video-to-video"
       },
       {
-        "id": "67efef724ec6c83a102bbefc72bfea07d2491df6",
+        "id": "1ae6ea24a6fb758dfdde7714baaf88b6216eea78",
+        "title": "AI Ad Generator",
+        "url": "https://deevid.ai/ai-ad"
+      },
+      {
+        "id": "adb1b54f3bfabd6dc3720bdfcde1cc3f7b14abdb",
+        "title": "Text To Speech",
+        "url": "https://deevid.ai/text-to-speech"
+      },
+      {
+        "id": "9f4a54ca2d9c85b9b87fc523bbf269b2397d1012",
+        "title": "AI Image Generator",
+        "url": "https://deevid.ai/ai-image-generator"
+      },
+      {
+        "id": "ddf63486a7a5271777db38566acfe0ab2e7df7e1",
         "title": "AI Anime Generator",
-        "url": "https://deevid.ai/template/ghibli-ai-generator"
+        "url": "https://deevid.ai/ai-anime-generator"
       },
       {
         "id": "421530952b2335724fa1a5146a5ed1057dd1c140",
@@ -2136,14 +2186,14 @@
         "url": "https://deevid.ai/template/ghostface-terror"
       },
       {
-        "id": "5198d1ea466ad00d38d176ff2dff1c22258f1f9a",
-        "title": "Summoning succubus",
-        "url": "https://deevid.ai/template/summoning-succubus"
+        "id": "76a40c8dc788684ae7f9490e91e6f8702e3a47c4",
+        "title": "AI Photo Editor",
+        "url": "https://deevid.ai/ai-photo-editor"
       },
       {
-        "id": "d3c457f1add7b421f21c23cef6e95cb22b983b10",
-        "title": "Halloween Voodoo Doll",
-        "url": "https://deevid.ai/template/voodoo-doll"
+        "id": "e1bcc58db208412b0bad991cd8a2a60d993c18ed",
+        "title": "Text to Image AI",
+        "url": "https://deevid.ai/text-to-image"
       },
       {
         "id": "5657b2dca3b0f3594b6375e97b2261bbe91ee504",
@@ -2151,109 +2201,24 @@
         "url": "https://deevid.ai/template/monster-shifter"
       },
       {
-        "id": "e7a37720a19f65cded6375053b780255f5346a06",
-        "title": "Haunted House",
-        "url": "https://deevid.ai/template/haunted-house"
+        "id": "11524730cc42afe5a802d43e2e2c7868ef1dbf22",
+        "title": "More Effects",
+        "url": "https://deevid.ai/template"
       },
       {
-        "id": "f7a982c4c8b414711fb92002356003483d0e6440",
-        "title": "AI vampire",
-        "url": "https://deevid.ai/template/ai-vampire"
+        "id": "1b8172eb5bacc8eeda4e79fa9ed3ad3a1a3a5fec",
+        "title": "Terms of Service",
+        "url": "https://deevid.ai/terms"
       },
       {
-        "id": "9005d74b554ba8ce7ca466f07b3aad752fed10b6",
-        "title": "Halloween Makeup",
-        "url": "https://deevid.ai/template/halloween-makeup"
+        "id": "ee37aedeb1f5420e7771ced8508808f0d29aee74",
+        "title": "Privacy Policy",
+        "url": "https://deevid.ai/privacy-policy"
       },
       {
-        "id": "3a7dd4a1c1c1e2f7687ea104302bb63f60c5cea4",
-        "title": "AI Hug",
-        "url": "https://deevid.ai/template/ai-hug"
-      },
-      {
-        "id": "24f0ddb5aea3bd7678ba4f94bd379536821f82b2",
-        "title": "AI Curly Hair",
-        "url": "https://deevid.ai/template/ai-curly-hair-effect"
-      },
-      {
-        "id": "442c81e5636a1639eca103e0fd0c4fad0f32cd77",
-        "title": "AI Hair Growth",
-        "url": "https://deevid.ai/template/ai-hair-growth-effect"
-      },
-      {
-        "id": "fdca60ee469be572400266245b7d2868a6945a08",
-        "title": "SeedreamSeedream",
-        "url": "https://deevid.ai/model/seedream"
-      },
-      {
-        "id": "281ebaefd7ee9c69e07ac44d2955b2c3d088c576",
-        "title": "Sora 2Sora 2",
-        "url": "https://deevid.ai/model/sora2"
-      },
-      {
-        "id": "4b5f5f086dee4a7afcce56560cb91d787c18b8eb",
-        "title": "Veo 3.1Veo 3.1",
-        "url": "https://deevid.ai/model/veo-ai"
-      },
-      {
-        "id": "f8d3036f7e450ae18e23c0f4898d8ceff0f24ff3",
-        "title": "Dall-E 2Dall-E 2",
-        "url": "https://deevid.ai/model/dall-e2"
-      },
-      {
-        "id": "4cc02587848070e3602747b4e8264feba0000761",
-        "title": "Wan 2.1Wan 2.1",
-        "url": "https://deevid.ai/model/wanx-ai"
-      },
-      {
-        "id": "79aa573240c16040cc22026efdab4a45949b11af",
-        "title": "RunwayRunway",
-        "url": "https://deevid.ai/model/runway-ai"
-      },
-      {
-        "id": "f366892fe14a0d762d967a64084eb8887feb4097",
-        "title": "KlingKling",
-        "url": "https://deevid.ai/model/kling-ai"
-      },
-      {
-        "id": "d57dc7820fef5c0053ad8ab3cfa8c013a400c908",
-        "title": "HailuoHailuo",
-        "url": "https://deevid.ai/model/hailuo-ai"
-      },
-      {
-        "id": "6421709645b3e6835d676bfccd22783796ea8ef7",
-        "title": "Stable DiffusionStable Diffusion",
-        "url": "https://deevid.ai/model/stable-diffusion"
-      },
-      {
-        "id": "6d98c3442deecbef3b36f03999b0b7fa308ca54d",
-        "title": "ViduVidu",
-        "url": "https://deevid.ai/model/vidu-ai"
-      },
-      {
-        "id": "e26a0b1ba74ef622af2b8ffc25d4351867618fbb",
-        "title": "HaiperHaiper",
-        "url": "https://deevid.ai/model/haiper-ai"
-      },
-      {
-        "id": "2101912fe38bcbe0cb13dd58b6eb6fafa34e3c19",
-        "title": "LumaLuma",
-        "url": "https://deevid.ai/model/luma-ai"
-      },
-      {
-        "id": "fb96df78d6fa2e9625c6522f2cfd8093d891e0aa",
-        "title": "Nano Banana ProNano Banana Pro",
-        "url": "https://deevid.ai/model/nano-banana2"
-      },
-      {
-        "id": "acbab5d9323cd271ce80f0179a1cc59e36db59ca",
-        "title": "PikaPika",
-        "url": "https://deevid.ai/model/pika-ai"
-      },
-      {
-        "id": "fee539a78635573a8567ee2ce962317be4a2c2bd",
-        "title": "Try it Now for Free",
-        "url": "https://deevid.ai/text-to-video"
+        "id": "aae96bc763c57a6fd832620c28cbf8ce25e74bc2",
+        "title": "Content Policy",
+        "url": "https://deevid.ai/content-policy"
       }
     ],
     "A2E AI": [
