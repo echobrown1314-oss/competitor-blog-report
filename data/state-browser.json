@@ -119,6 +119,24 @@
         "url": "https://wavespeed.ai/blog/posts/mythos-prices-access/",
         "date": "2026-06-03",
         "reportedAt": "2026-06-03T18:13:58.082Z"
+      },
+      {
+        "key": "3d248475280a374c5fdf2e41c28c3b90760db267",
+        "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+        "date": "2026-06-04",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "04a1034ec655742c64abeea21c5fc39d9390bc22",
+        "url": "https://wavespeed.ai/blog/posts/open-source-face-swap-software/",
+        "date": "2026-06-04",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "223a951ddd9162c32424514a42278a31b56a81ad",
+        "url": "https://wavespeed.ai/blog/posts/veo-4-alternatives-2026/",
+        "date": "2026-06-04",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
       }
     ],
     "WeShop AI": [
@@ -259,6 +277,12 @@
         "url": "https://www.weshop.ai/blog/how-to-create-a-perler-beads-pattern-from-any-image-using-ai/",
         "date": "2026-06-03T06:44:14+00:00",
         "reportedAt": "2026-06-03T18:13:58.082Z"
+      },
+      {
+        "key": "47afddc2e80ba27da332593c6cb406dcde85f431",
+        "url": "https://www.weshop.ai/blog/ai-k-pop-concert-screen-tutorial-create-a-viral-fan-cam-look/",
+        "date": "2026-06-04T11:10:19+00:00",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
       }
     ],
     "Atlas Cloud": [
@@ -489,6 +513,54 @@
         "url": "https://www.atlascloud.ai/blog/guides/xai-grok-api-image-generation",
         "date": "2026-06-03T07:59:50.298Z",
         "reportedAt": "2026-06-03T18:13:58.082Z"
+      },
+      {
+        "key": "4e846db21d7638ecc7ba199c038a19ca1afcb631",
+        "url": "https://www.atlascloud.ai/blog/guides/qwen3-7-plus-vs-max-benchmark",
+        "date": "2026-06-04T11:10:55.353Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "f063fff3219d17b7dd0cb67afa9893a1a2386ab4",
+        "url": "https://www.atlascloud.ai/blog/guides/minimax-goes-sparse",
+        "date": "2026-06-04T09:07:23.678Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "3755673ac7c0fe14aa5c63e21771a90260c22623",
+        "url": "https://www.atlascloud.ai/blog/guides/grok-imagine-video-generation",
+        "date": "2026-06-04T08:10:24.819Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "658598dbd2dab30d743df0e0588f3e2867e0a5ee",
+        "url": "https://www.atlascloud.ai/blog/guides/image-generation-api-for-app-developers",
+        "date": "2026-06-04T04:41:17.394Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "e1b8e077c76fdbe64ea0dd9fe4a40402ffd81a40",
+        "url": "https://www.atlascloud.ai/blog/guides/cheapest-image-generation-api-mobile-app-game",
+        "date": "2026-06-04T04:01:06.731Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "0d8d87609ffdbde04152c4d87d1e807816a6b811",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-image-api-text-to-image-image-to-image-editing-platform",
+        "date": "2026-06-04T03:59:55.475Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "b09adb10297323fd10f60e3e29927301a759c342",
+        "url": "https://www.atlascloud.ai/blog/guides/cheapest-image-api-realistic-faces-consistent-results",
+        "date": "2026-06-04T01:06:16.908Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
+      },
+      {
+        "key": "cbd2e6b166a105e23e8cfa07a938894c316c8631",
+        "url": "https://www.atlascloud.ai/blog/guides/best-image-generation-api-batch-creative-production",
+        "date": "2026-06-04T01:02:45.582Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
       }
     ],
     "TopMediai": [],
@@ -522,6 +594,12 @@
         "url": "https://www.jxp.com/blog/grok-imagine-video-1-5-preview",
         "date": "2026-06-03T07:43:47.000Z",
         "reportedAt": "2026-06-03T18:13:58.082Z"
+      },
+      {
+        "key": "7599164acd3829d548bf564dadfdd037948fb9cf",
+        "url": "https://www.jxp.com/blog/how-to-use-grok-imagine-video-1-5",
+        "date": "2026-06-04T09:16:05.000Z",
+        "reportedAt": "2026-06-04T12:31:31.205Z"
       }
     ]
   }
