@@ -1,6 +1,6 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/04 20:31（上海）
+生成时间：2026/06/05 20:23（上海）
 
 新增文章总数：13
 
@@ -17,25 +17,25 @@
 - 今日未发现新文章
 
 ## WaveSpeed（3）
-- [AI Video Generation News: 2026 Latest Models & Updates - WaveSpeed Blog](https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/) | 2026-06-04
-- [Open Source Face Swap Software: Top Models & Tools (2026) - WaveSpeed Blog](https://wavespeed.ai/blog/posts/open-source-face-swap-software/) | 2026-06-04
-- [Veo 4 Alternatives You Can Use Now in 2026 - WaveSpeed Blog](https://wavespeed.ai/blog/posts/veo-4-alternatives-2026/) | 2026-06-04
+- [Free AI Video Generator No Watermark: 2026 Honest Guide - WaveSpeed Blog](https://wavespeed.ai/blog/posts/free-ai-video-generator-no-watermark/) | 2026-06-05
+- [Grok Imagine Video 1.5: xAI](https://wavespeed.ai/blog/posts/grok-imagine-video-1-5-image-to-video-api/) | 2026-06-05
+- [Reve 2.0: The Layout-First 4K Image Model Challenging GPT Image 2 and Nano Banana - WaveSpeed Blog](https://wavespeed.ai/blog/posts/reve-2-0-layout-first-4k-image-model/) | 2026-06-05
 
-## WeShop AI（1）
-- [AI K-pop Concert Screen Tutorial: Create a Viral Fan-Cam Look – WeShop AI Blog](https://www.weshop.ai/blog/ai-k-pop-concert-screen-tutorial-create-a-viral-fan-cam-look/) | 2026-06-04T11:10:19+00:00
+## WeShop AI（4）
+- [AI Old Photo Restoration: Restore & Colorize Photos](https://www.weshop.ai/blog/ai-old-photo-restoration-restore-and-colorize-old-photos-in-minutesafter-ai-restorationai-old-photo-restoration-restore-and-colorize-old-photos-in-minutes/) | 2026-06-04T17:11:15+00:00
+- [Create a Viral AI Selfie Poster with Weshop GPT-Image](https://www.weshop.ai/blog/turn-any-selfie-into-a-viral-ai-selfie-poster-in-5-minutes/) | 2026-06-04T17:10:00+00:00
+- [GPT Image 2 Sticker Diary: Make Q-Version Clones](https://www.weshop.ai/blog/gpt-image-2-sticker-diary-tutorial-turn-one-photo-into-cute-q-version-clone-stickers/) | 2026-06-04T14:40:02+00:00
+- [Your GPT Image Instagram Profile, Made by AI](https://www.weshop.ai/blog/gpt-image-trend-create-a-realistic-instagram-profile-screenshot-with-ai/) | 2026-06-04T13:56:04+00:00
 
-## Atlas Cloud（8）
-- [Qwen3.7-Plus Benchmark: 10/10 Bugs, Same AIME as Max, 3x Faster](https://www.atlascloud.ai/blog/guides/qwen3-7-plus-vs-max-benchmark) | 2026-06-04T11:10:55.353Z
-- [MiniMax Goes Sparse: Decoding M3](https://www.atlascloud.ai/blog/guides/minimax-goes-sparse) | 2026-06-04T09:07:23.678Z
-- [Grok Imagine Video Generation & xAI Aurora Engine Guide](https://www.atlascloud.ai/blog/guides/grok-imagine-video-generation) | 2026-06-04T08:10:24.819Z
-- [What API Should I Use to Add Image Generation to My App](https://www.atlascloud.ai/blog/guides/image-generation-api-for-app-developers) | 2026-06-04T04:41:17.394Z
-- [What is the cheapest image generation API for a mobile app or game that needs many generated images](https://www.atlascloud.ai/blog/guides/cheapest-image-generation-api-mobile-app-game) | 2026-06-04T04:01:06.731Z
-- [What AI image API supports text-to-image, image-to-image, and editing tools in one platform?](https://www.atlascloud.ai/blog/guides/ai-image-api-text-to-image-image-to-image-editing-platform) | 2026-06-04T03:59:55.475Z
-- [What image generation API is cheap but still produces realistic faces and consistent results](https://www.atlascloud.ai/blog/guides/cheapest-image-api-realistic-faces-consistent-results) | 2026-06-04T01:06:16.908Z
-- [What image generation API is best for batch creative production](https://www.atlascloud.ai/blog/guides/best-image-generation-api-batch-creative-production) | 2026-06-04T01:02:45.582Z
+## Atlas Cloud（5）
+- [Grok Image & Video Moderated? Why It Happens & How to Fix It Fast](https://www.atlascloud.ai/blog/guides/grok-image-is-moderated) | 2026-06-05T08:34:34.807Z
+- [Grok Image Limits & Video Generation Status (2026 Update)](https://www.atlascloud.ai/blog/guides/grok-xai-image-generation-daily-limit) | 2026-06-05T08:08:26.826Z
+- [10 Best AI Video Generators in 2026 (Free & Paid & No Subscription) - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/10-best-ai-video-generators-free-no-subscription-in-2026) | 2026-06-05T06:37:23.992Z
+- [What is the cheapest image generation API for a mobile app or game that needs many generated images](https://www.atlascloud.ai/blog/guides/cheapest-image-generation-api-mobile-app-game) | 2026-06-05T06:17:45.579Z
+- [Atlas Cloud Asset Library for Seedance 2.0: 3-Call Setup Guide](https://www.atlascloud.ai/blog/guides/atlas-cloud-asset-library-seedance-2-0) | 2026-06-05T03:07:44.550Z
 
 ## TopMediai（0）
 - 今日未发现新文章
 
 ## JXP（1）
-- [How to Use Grok Imagine Video 1.5: Prompts & Workflow (2026)](https://www.jxp.com/blog/how-to-use-grok-imagine-video-1-5) | 2026-06-04T09:16:05.000Z
+- [How to Use Grok Imagine Video 1.5: Prompts & Workflow (2026)](https://www.jxp.com/blog/how-to-use-grok-imagine-video-1-5) | 2026-06-05T07:06:30.000Z
