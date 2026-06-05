@@ -2613,6 +2613,11 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "9c03492b92236946b1bb9d8fdae76834f06459b9",
+        "title": "Seedance 2.0 Pricing Comparison: A2E vs Pollo AI vs OpenArt vs Higgsfield vs VEED",
+        "url": "https://a2e.ai/seedance-pricing-comparison/"
+      },
+      {
         "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
         "title": "Pollo AI vs A2E AI An Honest Comparison for 2026",
         "url": "https://a2e.ai/pollo-ai-vs-a2e-ai-an-honest-comparison-for-2026/"
@@ -2636,11 +2641,6 @@
         "id": "39843d9dd2faf61cd023a920e2bc511cb0d43379",
         "title": "Why Formulation Management is the Core of Modern Beauty Product Lifecycle Management?",
         "url": "https://a2e.ai/resources-why-formulation-management-is-the-core-of-modern-beauty-product-lifecycle-management/"
-      },
-      {
-        "id": "9181e528aa940b653c99b73cc6292ff397ab0b25",
-        "title": "HappyHorse-1.0: The Anonymous Model That Just Topped Every AI Video Leaderboard",
-        "url": "https://a2e.ai/happyhorse-1-0-the-anonymous-model-that-just-topped-every-ai-video-leaderboard/"
       },
       {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
@@ -2969,14 +2969,9 @@
         "url": "https://higgsfield.ai/supercomputer"
       },
       {
-        "id": "74242218f9607a36baadef13770831e587be246e",
+        "id": "e291387e5a1a21555116980364282401128d68db",
         "title": "MCP & CLINew",
-        "url": "https://higgsfield.ai/cli"
-      },
-      {
-        "id": "f9a0333cb10addc0c75edb03714115c68fc334c9",
-        "title": "PluginsNew",
-        "url": "https://higgsfield.ai/adobe-plugin"
+        "url": "https://higgsfield.ai/mcp"
       },
       {
         "id": "6ba35dd37d696e2390c91094afb9add8e7bf8eaf",
@@ -3467,6 +3462,26 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
+      },
+      {
+        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
+        "title": "Cookie Policy",
+        "url": "https://higgsfield.ai/cookie-notice"
+      },
+      {
+        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
+        "title": "Your Privacy Choices",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
+        "title": "Privacy Policy",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
+        "title": "Terms of Use",
+        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
