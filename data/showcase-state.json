@@ -2613,6 +2613,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
         "id": "9c03492b92236946b1bb9d8fdae76834f06459b9",
         "title": "Seedance 2.0 Pricing Comparison: A2E vs Pollo AI vs OpenArt vs Higgsfield vs VEED",
         "url": "https://a2e.ai/seedance-pricing-comparison/"
@@ -2666,71 +2676,6 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
-      },
-      {
-        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
-        "title": "API Doc",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
-        "title": "Service Status",
-        "url": "https://a2e.ai/realtime-status/"
-      },
-      {
-        "id": "404347ea2963c2949021bec3b57dfd537ceb3efc",
-        "title": "Media Assets",
-        "url": "https://a2e.ai/a2e-media-kit-brand-assets/"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
-        "title": "AI Image to Video",
-        "url": "https://video.a2e.ai/image-to-video"
-      },
-      {
-        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
-        "title": "AI Head Swap",
-        "url": "https://video.a2e.ai/head-swap"
-      },
-      {
-        "id": "0e907cf14979f67d13a7bc6419509a262e4c6889",
-        "title": "AI Face Swap",
-        "url": "https://video.a2e.ai/face-swap"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
-        "title": "GPT Image 1.5",
-        "url": "https://video.a2e.ai/image-generator/gpt-image"
-      },
-      {
-        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
-        "title": "Kling 3.0 Image",
-        "url": "https://video.a2e.ai/image-generator/kling-image"
-      },
-      {
-        "id": "7ae7254a6e02a67cc84b43c4e45fc8e4d58f70c3",
-        "title": "Wan 2.7 Image",
-        "url": "https://video.a2e.ai/image-generator/wan27-image"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
-      },
-      {
-        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
-        "title": "Seedance 1.5 Pro",
-        "url": "https://video.a2e.ai/seedance-video"
       }
     ],
     "Kling AI": [
@@ -3029,8 +2974,18 @@
         "url": "https://higgsfield.ai/supercomputer"
       },
       {
+        "id": "f0fb02eb8b94f1cb208cbfa1c4b6a78f8cda9e90",
+        "title": "MCP & CLINewTurn Claude into a creative engineTry now",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
         "id": "9326957009d1bbfca487e75bc386c80d94b95274",
         "title": "SupercomputerNewAgents, automation, skills, connectors, AI drive & moreTry now",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "dc0ce84f00631c570cf43352f269b272737b756d",
+        "title": "SupercomputerAgents, automation, skills & moreNew",
         "url": "https://higgsfield.ai/supercomputer"
       },
       {
@@ -3462,26 +3417,6 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
-      },
-      {
-        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
-        "title": "Cookie Policy",
-        "url": "https://higgsfield.ai/cookie-notice"
-      },
-      {
-        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
-        "title": "Your Privacy Choices",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
-        "title": "Privacy Policy",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
-        "title": "Terms of Use",
-        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
