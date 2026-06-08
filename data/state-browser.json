@@ -101,6 +101,18 @@
         "url": "https://wavespeed.ai/blog/posts/reve-2-0-layout-first-4k-image-model/",
         "date": "2026-06-05",
         "reportedAt": "2026-06-05T12:23:33.686Z"
+      },
+      {
+        "key": "690e9951332ddb6ac01ad587f7552f7fc4e06146",
+        "url": "https://wavespeed.ai/blog/posts/building-ai-video-apps-with-coding-agents/",
+        "date": "2026-06-08",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "4928cad8e00330b0522e7eeb00bd209d2d5ac280",
+        "url": "https://wavespeed.ai/blog/posts/chatgpt-codex-api-ai-media-apps/",
+        "date": "2026-06-08",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
       }
     ],
     "WeShop AI": [
@@ -217,6 +229,42 @@
         "url": "https://www.weshop.ai/blog/ai-commercial-photography-tutorial-create-eye-catching-fashion-visuals-with-oversized-props/",
         "date": "2026-06-05T13:33:52+00:00",
         "reportedAt": "2026-06-06T09:32:24.465Z"
+      },
+      {
+        "key": "545ae2d4f8807b0729d0c48eb98637e6cb5ca890",
+        "url": "https://www.weshop.ai/blog/how-to-turn-travel-photos-into-fridge-magnet-style-posters-with-gpt-weshop-ai/",
+        "date": "2026-06-08T11:56:03+00:00",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "1864c37e2f0e0b78142e79365cff98801b65f34b",
+        "url": "https://www.weshop.ai/blog/how-to-create-viral-ai-dog-dance-videos-with-weshop-ai-kling-motion-control/",
+        "date": "2026-06-08T11:16:05+00:00",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "6b1e61cb0c23bbc69d7b440107212946dd85ad29",
+        "url": "https://www.weshop.ai/blog/say-goodbye-to-warped-tattoo-patterns-advanced-ai-tattoo-design-that-fits-human-anatomy/",
+        "date": "2026-06-08T10:00:49+00:00",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "250812c30857694883669ec7abddd59856d71f6e",
+        "url": "https://www.weshop.ai/blog/minecraft-style-photo-guide-turn-real-portraits-into-voxel-art-with-weshop-ai/",
+        "date": "2026-06-08T09:29:03+00:00",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "3fdac686121d2a31d6a21fc6470ae688a359c873",
+        "url": "https://www.weshop.ai/blog/how-to-turn-any-photo-into-a-family-guy-style-ai-image-a-beginner-friendly-guide/",
+        "date": "2026-06-07T17:23:33+00:00",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "249cb119dac874eb557f6921da20aa0c90523eb3",
+        "url": "https://www.weshop.ai/blog/how-to-create-a-minimal-black-and-white-ai-typography-poster-in-3-minutes/",
+        "date": "2026-06-07T15:57:08+00:00",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
       }
     ],
     "Atlas Cloud": [
@@ -465,6 +513,42 @@
         "url": "https://www.atlascloud.ai/blog/guides/video-generation-api-social-media-content-automation",
         "date": "2026-06-06T17:11:04.359Z",
         "reportedAt": "2026-06-07T10:35:30.494Z"
+      },
+      {
+        "key": "995da5a616d07498432e809a03f081601c310eff",
+        "url": "https://www.atlascloud.ai/blog/guides/top-4-free-ai-video-generators-for-consistent-characters-lip-sync",
+        "date": "2026-06-08T09:56:34.456Z",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "bc3ca56a9f7f0075b358dd5b0cbd9778457becba",
+        "url": "https://www.atlascloud.ai/blog/guides/10-best-image-to-video-ai-tools-in-2026-from-static-photos-to-cinematic-masterpieces",
+        "date": "2026-06-08T09:24:39.773Z",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "4ac4cf6e94e1d5a42eddc3a714316b7a474a3140",
+        "url": "https://www.atlascloud.ai/blog/guides/mastering-kling-3.0-10-advanced-ai-video-prompts-for-realistic-human-motion",
+        "date": "2026-06-08T09:09:56.677Z",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "b793d04c5dc2696e306a02782a88b9bda0e03f6d",
+        "url": "https://www.atlascloud.ai/blog/guides/free-image-to-video-ai-tools-2026-create-stunning-motion-graphics-without-a-subscription",
+        "date": "2026-06-08T08:52:12.273Z",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "5842b71fc10a3d2298657c5d63733e79cced43fe",
+        "url": "https://www.atlascloud.ai/blog/guides/grok-image-to-video",
+        "date": "2026-06-08T08:38:44.913Z",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
+      },
+      {
+        "key": "629232b3cdeba930676d5ad552077832e92cd7c2",
+        "url": "https://www.atlascloud.ai/blog/guides/unifying-multi-modal-ai-inference-why-you-should-check-out-aiclient2api",
+        "date": "2026-06-08T08:36:42.538Z",
+        "reportedAt": "2026-06-08T14:54:18.830Z"
       }
     ],
     "TopMediai": [],
