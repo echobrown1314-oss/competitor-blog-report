@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/09 20:21（上海）
+生成时间：2026/06/10 20:47（上海）
 
-新增文章总数：8
+新增文章总数：9
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -17,21 +17,21 @@
 - 今日未发现新文章
 
 ## WaveSpeed（3）
-- [How to Choose an AI Media API for Codex Apps (2026) - WaveSpeed Blog](https://wavespeed.ai/blog/posts/codex-ai-media-api/) | 2026-06-09
-- [Hunyuan 3D API: What Builders Should Know - WaveSpeed Blog](https://wavespeed.ai/blog/posts/hunyuan-3d-api/) | 2026-06-09
-- [Hunyuan 3D vs Hyper3D vs Pixal3D - WaveSpeed Blog](https://wavespeed.ai/blog/posts/hunyuan-3d-vs-hyper3d-pixal3d/) | 2026-06-09
+- [ChatGPT Codex Model vs Media Generation Models - WaveSpeed Blog](https://wavespeed.ai/blog/posts/codex-ai-media-api-stack/) | 2026-06-10
+- [LTX 2.3 API and Local Workflow for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/ltx-2-api-local-workflow/) | 2026-06-10
+- [Claude Fable 5 Just Shipped: 80.3% on SWE-Bench Pro, 2× Opus 4.8 Pricing, Free Through June 22 - WaveSpeed Blog](https://wavespeed.ai/blog/posts/claude-fable-5-launch-benchmarks-pricing/) | 2026-06-09
 
 ## WeShop AI（4）
-- [AI Designer Toy Portrait With a Collectible Toy Box Look](https://www.weshop.ai/blog/turn-your-photo-into-a-collectible-ai-designer-toy/) | 2026-06-09T12:07:23+00:00
-- [Jersey Outfit Ideas: Create TikTok-Ready Looks on WeShop AI](https://www.weshop.ai/blog/viral-jersey-outfit-ideas-create-tiktok-ready-looks-with-weshop-ai/) | 2026-06-09T11:48:29+00:00
-- [Kling Motion Control: AI Motion Transfer Guide](https://www.weshop.ai/blog/turn-one-image-into-any-video-action-with-ai-weshop-kling-motion-control-tutorial/) | 2026-06-09T10:59:24+00:00
-- [I Graduated, So I “Blew Up” My School: How to Create a Viral AI Graduation Photo with GPT Image – WeShop AI Blog](https://www.weshop.ai/blog/i-graduated-so-i-blew-up-my-school-how-to-create-a-viral-ai-graduation-photo-with-gpt-image/) | 2026-06-09T10:14:10+00:00
+- [Cinematic AI Portrait Tutorial with Rembrandt Lighting](https://www.weshop.ai/blog/cinematic-ai-portrait-tutorial-how-to-create-dramatic-rembrandt-lighting-and-motion-blur-with-ai/) | 2026-06-10T12:11:33+00:00
+- [AI Pet Movie Poster: Call Me By Your Name Style](https://www.weshop.ai/blog/create-a-viral-ai-pet-movie-poster-inspired-by-call-me-by-your-name/) | 2026-06-10T11:40:08+00:00
+- [AI Sticker OOTD: Create Peelable Outfit Videos](https://www.weshop.ai/blog/ai-sticker-ootd-turn-any-outfit-photo-into-a-peelable-paper-sticker/) | 2026-06-10T11:07:08+00:00
+- [Stop Struggling With Layouts: How to Create a Chic Xiaohongshu Cover Image With WeShop AI – WeShop AI Blog](https://www.weshop.ai/blog/stop-struggling-with-layouts-how-to-create-a-chic-xiaohongshu-cover-image-with-weshop-ai/) | 2026-06-10T10:29:18+00:00
 
 ## Atlas Cloud（1）
-- [How to Use Grok xAI Video Editing Capabilities in 2026 (Full Guide)](https://www.atlascloud.ai/blog/guides/grok-xai-video-editing-capabilities-2026) | 2026-06-09T08:22:11.249Z
+- [How to Upload Video to Grok xAI Chat (Without Errors!)](https://www.atlascloud.ai/blog/guides/how-to-upload-video-to-grok-xai-chat) | 2026-06-10T08:30:53.848Z
 
-## TopMediai（0）
-- 今日未发现新文章
+## TopMediai（1）
+- [The 10 Best AI Video Generators for Beginners [Free & Paid]](https://www.topmediai.com/video-tips/best-ai-video-generator/) | 2026-06-10T18:08:20+08:00
 
 ## JXP（0）
 - 今日未发现新文章

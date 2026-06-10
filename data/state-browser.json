@@ -13,24 +13,6 @@
     ],
     "WaveSpeed": [
       {
-        "key": "5082e8e1f56c4b1e26f49948eb17f0531e4a525e",
-        "url": "https://wavespeed.ai/blog/posts/gemini-3-5-flash-vs-3-1-pro/",
-        "date": "2026-06-02",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "2dd3f3fef59ef9bdb7787aadf88e0572ce209d29",
-        "url": "https://wavespeed.ai/blog/posts/gemini-3-5-omni/",
-        "date": "2026-06-02",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "9901db7985fce093e280ab81e65daf0c6cad0c3c",
-        "url": "https://wavespeed.ai/blog/posts/how-ai-face-swap-works/",
-        "date": "2026-06-02",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
         "key": "310799cc512b587b08a7eab1c527e2c448f9eca7",
         "url": "https://wavespeed.ai/blog/posts/grok-5-launch-tracker/",
         "date": "2026-06-03",
@@ -107,39 +89,27 @@
         "url": "https://wavespeed.ai/blog/posts/hunyuan-3d-vs-hyper3d-pixal3d/",
         "date": "2026-06-09",
         "reportedAt": "2026-06-09T12:21:26.080Z"
+      },
+      {
+        "key": "b016de8d0331682bac8038798c39ca7779137d7d",
+        "url": "https://wavespeed.ai/blog/posts/codex-ai-media-api-stack/",
+        "date": "2026-06-10",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
+      },
+      {
+        "key": "fa9f9d4fbf16c836d40789a4df53c311d376c2b1",
+        "url": "https://wavespeed.ai/blog/posts/ltx-2-api-local-workflow/",
+        "date": "2026-06-10",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
+      },
+      {
+        "key": "ee75a2e58f5a6f8a70b347be4d2768c8e96f51ea",
+        "url": "https://wavespeed.ai/blog/posts/claude-fable-5-launch-benchmarks-pricing/",
+        "date": "2026-06-09",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
       }
     ],
     "WeShop AI": [
-      {
-        "key": "de47c19b37202a1a941159b5a9ccb7e46893adc8",
-        "url": "https://www.weshop.ai/blog/beginner-ai-art-tutorial-create-viral-anime-fan-posters-with-foreshortening-and-depth-of-field/",
-        "date": "2026-06-02T17:07:01+00:00",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "a16dce2e602fc494526da8cc702bd7894c606133",
-        "url": "https://www.weshop.ai/blog/ai-palm-reading-guide-create-yours-in-minutes/",
-        "date": "2026-06-02T17:04:24+00:00",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "5ca1af2764b066ea0fddf432d3a170fb0fbb671a",
-        "url": "https://www.weshop.ai/blog/how-to-create-a-y2k-ai-poster-from-any-photo/",
-        "date": "2026-06-02T16:24:20+00:00",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "2387684ca806a4b256e2f9c8e6367e956bc5d94a",
-        "url": "https://www.weshop.ai/blog/turn-any-photo-into-a-funny-ugly-doodle-with-ai/",
-        "date": "2026-06-02T05:24:15+00:00",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "a91e561b63dfeb822d93bac066177ecb81534132",
-        "url": "https://www.weshop.ai/blog/ai-video-ads-vs-traditional-video-ads-which-converts-better/",
-        "date": "2026-06-02T04:29:28+00:00",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
       {
         "key": "40d2364151fbf6e95208dcf22db05f6b8f200491",
         "url": "https://www.weshop.ai/blog/how-to-create-the-viral-ai-escalator-video-with-weshop-ai/",
@@ -265,69 +235,33 @@
         "url": "https://www.weshop.ai/blog/i-graduated-so-i-blew-up-my-school-how-to-create-a-viral-ai-graduation-photo-with-gpt-image/",
         "date": "2026-06-09T10:14:10+00:00",
         "reportedAt": "2026-06-09T12:21:26.080Z"
+      },
+      {
+        "key": "6fa3d6ccdf34da67d2217c90d7d68d771653926a",
+        "url": "https://www.weshop.ai/blog/cinematic-ai-portrait-tutorial-how-to-create-dramatic-rembrandt-lighting-and-motion-blur-with-ai/",
+        "date": "2026-06-10T12:11:33+00:00",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
+      },
+      {
+        "key": "2288f3e803070b9cb1d81d8df0d3df43ea1e695f",
+        "url": "https://www.weshop.ai/blog/create-a-viral-ai-pet-movie-poster-inspired-by-call-me-by-your-name/",
+        "date": "2026-06-10T11:40:08+00:00",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
+      },
+      {
+        "key": "1d1ab1ab8a4b2dea4d2c26a9b1f8ea40defcf4e1",
+        "url": "https://www.weshop.ai/blog/ai-sticker-ootd-turn-any-outfit-photo-into-a-peelable-paper-sticker/",
+        "date": "2026-06-10T11:07:08+00:00",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
+      },
+      {
+        "key": "9db45d6e707102971e96c836b54824e32555a41a",
+        "url": "https://www.weshop.ai/blog/stop-struggling-with-layouts-how-to-create-a-chic-xiaohongshu-cover-image-with-weshop-ai/",
+        "date": "2026-06-10T10:29:18+00:00",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "ef68ef02e6b5f8bd9ca9b32d6db6c3657f82032e",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-imagine-edit-image-prompt-example",
-        "date": "2026-06-02T08:37:07.324Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "b0fb8055cd40225cb1537eb2dde6a6b328c7281d",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-image-generation-capability",
-        "date": "2026-06-02T08:18:57.798Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "14407879841842988d38c34aefc543a3ca7418a0",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-flux-image-generation",
-        "date": "2026-06-02T08:04:46.260Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "e69404a666d322e72d4b12a01c87b9196c1c4287",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-image-is-moderated",
-        "date": "2026-06-02T07:54:57.693Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "df11453f15b17c1860c8d52733f6670c2b35e24f",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-image-generation-daily-limit",
-        "date": "2026-06-02T07:42:56.311Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "6395224a012817464acdc81efbcc38290866a845",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-ai-image-editing-feature-how-to-use",
-        "date": "2026-06-02T07:35:19.314Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "eae5d566ca127c175470755f0f992762b5a8e323",
-        "url": "https://www.atlascloud.ai/blog/guides/how-to-download-image-from-grok-xai-chat",
-        "date": "2026-06-02T07:33:35.305Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "1d4fd39c5b6ae8ba0daf05ee88e55df2bf71bbc2",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-image-generation-limit-reset-time",
-        "date": "2026-06-02T07:31:29.693Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "b36c1202d2866585dba60a75417bfc145fb9f212",
-        "url": "https://www.atlascloud.ai/blog/guides/free-alternatives-to-grok-image-generation-2026",
-        "date": "2026-06-02T07:28:57.868Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
-      {
-        "key": "7fe4157daf74b87b8678605f138545fc83bfc92c",
-        "url": "https://www.atlascloud.ai/blog/guides/why-the-smartest-ai-users-are-shifting-to-local-data-storage",
-        "date": "2026-06-02T06:45:12.752Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
       {
         "key": "313e5efece40490468e6b7d46d5b810ac537968d",
         "url": "https://www.atlascloud.ai/blog/guides/xai-grok-api-image-generation",
@@ -483,16 +417,23 @@
         "url": "https://www.atlascloud.ai/blog/guides/grok-xai-video-editing-capabilities-2026",
         "date": "2026-06-09T08:22:11.249Z",
         "reportedAt": "2026-06-09T12:21:26.080Z"
+      },
+      {
+        "key": "f6839b87ee1579f4d4fdb2a727a82ad5924375fd",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-upload-video-to-grok-xai-chat",
+        "date": "2026-06-10T08:30:53.848Z",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
       }
     ],
-    "TopMediai": [],
-    "JXP": [
+    "TopMediai": [
       {
-        "key": "82fc72533e361d8abfe5aa140dfa038b9dc55a02",
-        "url": "https://www.jxp.com/blog/grok-imagine-video-1-5-preview",
-        "date": "2026-06-02T03:27:13.000Z",
-        "reportedAt": "2026-06-02T17:54:26.479Z"
-      },
+        "key": "2906417a1b34b5685e11a93bcfae24bb53227d6a",
+        "url": "https://www.topmediai.com/video-tips/best-ai-video-generator/",
+        "date": "2026-06-10T18:08:20+08:00",
+        "reportedAt": "2026-06-10T12:47:08.464Z"
+      }
+    ],
+    "JXP": [
       {
         "key": "443ec9bc268124abcdfe87c07083cf7632002c23",
         "url": "https://www.jxp.com/blog/grok-imagine-video-1-5-preview",
