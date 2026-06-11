@@ -1264,11 +1264,6 @@
         "url": "https://viddo.ai/text-to-dialogue"
       },
       {
-        "id": "4fdf7b9556c6aeb14ddc033998eabda9d5d092fc",
-        "title": "Noise Remover",
-        "url": "https://viddo.ai/noise-remover"
-      },
-      {
         "id": "914f13598e1e8263409ef27e14af62a76289ca79",
         "title": "Speech to Text",
         "url": "https://viddo.ai/speech-to-text"
@@ -2102,6 +2097,11 @@
         "id": "decf4a26dd8c83472f3222285e8f0a0dde4e1db6",
         "title": "Across the Universe - Jurassic",
         "url": "https://viddo.ai/video-effects/across_the_universe_jurassic"
+      },
+      {
+        "id": "7d637ffbdf7399986d2a96e44562cdb6b2e61969",
+        "title": "Across the Universe - Moon",
+        "url": "https://viddo.ai/video-effects/across_the_universe_moon"
       }
     ],
     "DeeVid AI": [
@@ -2578,19 +2578,9 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
-      },
-      {
-        "id": "9c03492b92236946b1bb9d8fdae76834f06459b9",
-        "title": "Seedance 2.0 Pricing Comparison: A2E vs Pollo AI vs OpenArt vs Higgsfield vs VEED",
-        "url": "https://a2e.ai/seedance-pricing-comparison/"
+        "id": "e12a330f99507e5d9cf4286518e88a10fc1675f4",
+        "title": "Cheapest Way to Use Seedance 2.0: 2026 Pricing Compared",
+        "url": "https://a2e.ai/cheapest-seedance-2-pricing/"
       },
       {
         "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
