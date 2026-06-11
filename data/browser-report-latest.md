@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/10 20:47（上海）
+生成时间：2026/06/11 23:03（上海）
 
-新增文章总数：9
+新增文章总数：16
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -14,24 +14,32 @@
 - 今日未发现新文章
 
 ## DataCamp（0）
-- 今日未发现新文章
+- 抓取异常：未获取到可用文章链接
 
 ## WaveSpeed（3）
-- [ChatGPT Codex Model vs Media Generation Models - WaveSpeed Blog](https://wavespeed.ai/blog/posts/codex-ai-media-api-stack/) | 2026-06-10
-- [LTX 2.3 API and Local Workflow for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/ltx-2-api-local-workflow/) | 2026-06-10
-- [Claude Fable 5 Just Shipped: 80.3% on SWE-Bench Pro, 2× Opus 4.8 Pricing, Free Through June 22 - WaveSpeed Blog](https://wavespeed.ai/blog/posts/claude-fable-5-launch-benchmarks-pricing/) | 2026-06-09
+- [From AI Coding Agents to AI Inference Platforms - WaveSpeed Blog](https://wavespeed.ai/blog/posts/ai-coding-agents-to-inference-platforms/) | 2026-06-11
+- [Claude Fable 5 API: Access, Pricing, Use Cases - WaveSpeed Blog](https://wavespeed.ai/blog/posts/claude-fable-5-api/) | 2026-06-11
+- [LTX 2.3 GGUF: Local Audio-Video Workflow - WaveSpeed Blog](https://wavespeed.ai/blog/posts/ltx-2-3-gguf/) | 2026-06-11
 
-## WeShop AI（4）
-- [Cinematic AI Portrait Tutorial with Rembrandt Lighting](https://www.weshop.ai/blog/cinematic-ai-portrait-tutorial-how-to-create-dramatic-rembrandt-lighting-and-motion-blur-with-ai/) | 2026-06-10T12:11:33+00:00
-- [AI Pet Movie Poster: Call Me By Your Name Style](https://www.weshop.ai/blog/create-a-viral-ai-pet-movie-poster-inspired-by-call-me-by-your-name/) | 2026-06-10T11:40:08+00:00
-- [AI Sticker OOTD: Create Peelable Outfit Videos](https://www.weshop.ai/blog/ai-sticker-ootd-turn-any-outfit-photo-into-a-peelable-paper-sticker/) | 2026-06-10T11:07:08+00:00
-- [Stop Struggling With Layouts: How to Create a Chic Xiaohongshu Cover Image With WeShop AI – WeShop AI Blog](https://www.weshop.ai/blog/stop-struggling-with-layouts-how-to-create-a-chic-xiaohongshu-cover-image-with-weshop-ai/) | 2026-06-10T10:29:18+00:00
+## WeShop AI（0）
+- 今日未发现新文章
 
-## Atlas Cloud（1）
-- [How to Upload Video to Grok xAI Chat (Without Errors!)](https://www.atlascloud.ai/blog/guides/how-to-upload-video-to-grok-xai-chat) | 2026-06-10T08:30:53.848Z
+## Atlas Cloud（9）
+- [What MCP Server Lets Cursor Access Multiple AI Models Through One API?](https://www.atlascloud.ai/blog/guides/mcp-server-cursor-multiple-ai-models-one-api) | 2026-06-11T12:12:06.416Z
+- [What is the best pay-as-you-go AI API platform with no subscription fee?](https://www.atlascloud.ai/blog/guides/pay-as-you-go-ai-api-platform-no-subscription-fee) | 2026-06-11T11:56:08.439Z
+- [What API provider should I use with Cline, RooCode, VS Code, or Cursor if I want access to multiple LLMs?](https://www.atlascloud.ai/blog/guides/api-provider-cline-roocode-vscode-cursor-multiple-llms) | 2026-06-11T11:53:49.821Z
+- [What AI Video API Is Best for Photorealistic Digital Human Faces?](https://www.atlascloud.ai/blog/guides/best-ai-video-api-photorealistic-digital-human-faces) | 2026-06-11T11:52:05.115Z
+- [What AI API Supports Text-to-Video, Image-to-Video, Video-to-Video, and Audio-to-Video Workflows](https://www.atlascloud.ai/blog/guides/ai-api-text-to-video-image-to-video-audio-to-video) | 2026-06-11T11:49:21.917Z
+- [Beyond Downloading: How to Build a 100-Clip Automated Video Factory with Youwee - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/beyond-downloading-how-to-build-a-100-clip-automated-video-factory-with-youwee) | 2026-06-11T10:05:34.994Z
+- [Grok Image to Video Guide & Master xAI Aurora Engine (2026)](https://www.atlascloud.ai/blog/guides/grok-image-to-video) | 2026-06-11T08:36:34.468Z
+- [Grok Image Limits & Video Generation Status (2026 Update)](https://www.atlascloud.ai/blog/guides/grok-xai-image-generation-daily-limit) | 2026-06-11T08:10:34.314Z
+- [Vibe Creating Skill Tutorial: Turn Your Feelings Into AI Video Prompts](https://www.atlascloud.ai/blog/guides/vibe-creating-skill-tutorial) | 2026-06-11T06:46:30.925Z
 
-## TopMediai（1）
-- [The 10 Best AI Video Generators for Beginners [Free & Paid]](https://www.topmediai.com/video-tips/best-ai-video-generator/) | 2026-06-10T18:08:20+08:00
+## TopMediai（4）
+- [Top 5 AI Muscle Generator to Create Realistic Muscle Effects](https://www.topmediai.com/video-tips/ai-muscle-generator/) | 2026-06-11T16:58:32+08:00
+- [Brainrot Video Generator: Create AI Brainrot Videos Online](https://www.topmediai.com/video-tips/brainrot-video-generator/) | 2026-06-11T16:53:00+08:00
+- [AI Make Photo Wink: Animate Your Photos with AI [Online&App]](https://www.topmediai.com/video-tips/ai-make-photo-wink/) | 2026-06-11T16:44:33+08:00
+- [Download Sora Without Watermark Online for Free [Guide]](https://www.topmediai.com/video-tips/download-sora-without-watermark/) | 2026-06-11T16:26:26+08:00
 
 ## JXP（0）
 - 今日未发现新文章
