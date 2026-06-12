@@ -1,35 +1,17 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [],
-    "Topview": [],
-    "DataCamp": [
+    "MindVideo": [
       {
-        "key": "b6dfc6f8df86b672d9579fd1a93f685d1977ee4d",
-        "url": "https://www.datacamp.com/blog/10-chatgpt-alternatives",
-        "date": "2026-06-03T07:28:51.000Z",
-        "reportedAt": "2026-06-03T18:13:58.082Z"
+        "key": "365cfdbbb1705f598012c2b6b30d4958288a4570",
+        "url": "https://www.mindvideo.ai/blog/how-to-make-viral-ai-baseball-fan-cam-video/",
+        "date": "2026-06-12",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
       }
     ],
+    "Topview": [],
+    "DataCamp": [],
     "WaveSpeed": [
-      {
-        "key": "ab83193bbbba33b76566ab3e244031e2a4bd1c7f",
-        "url": "https://wavespeed.ai/blog/posts/free-ai-video-generator-no-watermark/",
-        "date": "2026-06-05",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "bfd2f2cd02dc99085d7adf1eca7f99040cd11e4a",
-        "url": "https://wavespeed.ai/blog/posts/grok-imagine-video-1-5-image-to-video-api/",
-        "date": "2026-06-05",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "0c7a5f4651d6af3e9140535484aaa6455e72d4ff",
-        "url": "https://wavespeed.ai/blog/posts/reve-2-0-layout-first-4k-image-model/",
-        "date": "2026-06-05",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
       {
         "key": "690e9951332ddb6ac01ad587f7552f7fc4e06146",
         "url": "https://wavespeed.ai/blog/posts/building-ai-video-apps-with-coding-agents/",
@@ -95,33 +77,15 @@
         "url": "https://wavespeed.ai/blog/posts/ltx-2-3-gguf/",
         "date": "2026-06-11",
         "reportedAt": "2026-06-11T15:03:52.409Z"
+      },
+      {
+        "key": "9354c7e04b070d7cf458f81dc041f9296176aa24",
+        "url": "https://wavespeed.ai/blog/posts/claude-mythos-5-api-access/",
+        "date": "2026-06-12",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
       }
     ],
     "WeShop AI": [
-      {
-        "key": "9b03e1f03267a91cf9cf87108b0e99e2baded161",
-        "url": "https://www.weshop.ai/blog/ai-old-photo-restoration-restore-and-colorize-old-photos-in-minutesafter-ai-restorationai-old-photo-restoration-restore-and-colorize-old-photos-in-minutes/",
-        "date": "2026-06-04T17:11:15+00:00",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "7fa6fd5c5edd5b94f7eb72301d407357ff737a98",
-        "url": "https://www.weshop.ai/blog/turn-any-selfie-into-a-viral-ai-selfie-poster-in-5-minutes/",
-        "date": "2026-06-04T17:10:00+00:00",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "cd732d0b40e0b461c54dbd8bbd25076b4279abe4",
-        "url": "https://www.weshop.ai/blog/gpt-image-2-sticker-diary-tutorial-turn-one-photo-into-cute-q-version-clone-stickers/",
-        "date": "2026-06-04T14:40:02+00:00",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "cbe82e84819cc6e3778f0b10952d9cf3be0e0aaf",
-        "url": "https://www.weshop.ai/blog/gpt-image-trend-create-a-realistic-instagram-profile-screenshot-with-ai/",
-        "date": "2026-06-04T13:56:04+00:00",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
       {
         "key": "51076a1f722253571a4c51def393498a2bea5c50",
         "url": "https://www.weshop.ai/blog/ai-commercial-photography-tutorial-create-eye-catching-fashion-visuals-with-oversized-props/",
@@ -214,36 +178,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "5ec813a4f71fc12180f4077ba3f324d81ddd52bc",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-image-is-moderated",
-        "date": "2026-06-05T08:34:34.807Z",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "6764d2643c080b1fefe49dd41f7d8cf5c4960fe3",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-image-generation-daily-limit",
-        "date": "2026-06-05T08:08:26.826Z",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "afc80ac8b0d896840f74087a0d6a284e8a848cd9",
-        "url": "https://www.atlascloud.ai/blog/guides/10-best-ai-video-generators-free-no-subscription-in-2026",
-        "date": "2026-06-05T06:37:23.992Z",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "0ae34740335dee4f01ad861b69b546c31aa380d0",
-        "url": "https://www.atlascloud.ai/blog/guides/cheapest-image-generation-api-mobile-app-game",
-        "date": "2026-06-05T06:17:45.579Z",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
-      {
-        "key": "7e56ea34f263e94aafb881d09a460e76f09ab1c3",
-        "url": "https://www.atlascloud.ai/blog/guides/atlas-cloud-asset-library-seedance-2-0",
-        "date": "2026-06-05T03:07:44.550Z",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      },
       {
         "key": "0d4200a175b11d0cc15f99ebbe98c55158c9a151",
         "url": "https://www.atlascloud.ai/blog/guides/best-ai-video-generation-api-testing-ad-creatives",
@@ -375,6 +309,96 @@
         "url": "https://www.atlascloud.ai/blog/guides/vibe-creating-skill-tutorial",
         "date": "2026-06-11T06:46:30.925Z",
         "reportedAt": "2026-06-11T15:03:52.409Z"
+      },
+      {
+        "key": "9beb983d1b717f5cc3421b341f92e75c7d30bf37",
+        "url": "https://www.atlascloud.ai/blog/guides/top-photo-to-video-ai-free-models-for-consistent-characters-and-4k-export",
+        "date": "2026-06-12T11:46:39.898Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "456210727a217cf4c4f61496d9aae14569ec504e",
+        "url": "https://www.atlascloud.ai/blog/case-studies/how-to-use-seedance-2",
+        "date": "2026-06-12T11:45:08.810Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "9743390dd261c653fe0cd6a73e511f70619a1a76",
+        "url": "https://www.atlascloud.ai/blog/case-studies/best-fal-ai-alternative-in-2026-atlas-cloud-deep-dive",
+        "date": "2026-06-12T11:35:47.729Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "171f52e99b56a486edf882ba2c1c28bbbc607658",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-3-0-review",
+        "date": "2026-06-12T11:12:49.939Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "d7713bf490b40578e01a1b95f5ae6f6409ae1611",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/happyHorse-hits-1-api-coming-soon",
+        "date": "2026-06-12T11:08:24.216Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "c228bb197e05c05ec5f02a5dececf0aa61f22579",
+        "url": "https://www.atlascloud.ai/blog/guides/veo-3-1-api-guide",
+        "date": "2026-06-12T11:04:55.732Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "bf82478d18aefd40434a2f8908ce4701a29e9753",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/Seedance-2-0-Coming-Soon-Features-Release-Date-How-to-Use-on-Atlas-Cloud",
+        "date": "2026-06-12T11:02:49.737Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "b915e0809a4cd6bd561e8d7c2c07907f10c98873",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-use-photo-to-video-ai-free-a-3-minute-guide-to-cinematic-animation",
+        "date": "2026-06-12T11:02:29.514Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "1095dbfe3642a188b81c65fb4468efc501368a39",
+        "url": "https://www.atlascloud.ai/blog/guides/qwen-image-2-0-vs-flux-2-why-this-7b-model-is-beating-the-giants-in-ai-arena",
+        "date": "2026-06-12T11:01:25.259Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "6e4f3786e43566b9a69c0872ef07c1fd847b803a",
+        "url": "https://www.atlascloud.ai/blog/guides/claude-fable-5-review",
+        "date": "2026-06-12T10:35:19.952Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "05d810617acd141c14d6dce0d29433ebcef879cf",
+        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-video-editing-capabilities-2026",
+        "date": "2026-06-12T08:48:12.059Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "e75f09e42c3b3bf90d93c840cf6a5b19c17277e5",
+        "url": "https://www.atlascloud.ai/blog/guides/free-alternatives-to-grok-image-generation-2026",
+        "date": "2026-06-12T08:42:34.408Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "4372f8c90b7bb3d12e5f446978a3f2ca656a570c",
+        "url": "https://www.atlascloud.ai/blog/guides/integrating-kling-3-0-api-the-developers-guide-to-mass-ai-video-production",
+        "date": "2026-06-12T07:54:56.773Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "5c09f74e41a88b91858b17f14fed6d90f1293e1d",
+        "url": "https://www.atlascloud.ai/blog/guides/from-still-image-to-4k-cinema-the-ultimate-free-ai-video-generation-handbook",
+        "date": "2026-06-12T07:53:50.315Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "ddb04d3d11dbd08c335034ba268c89fde1c23b16",
+        "url": "https://www.atlascloud.ai/blog/guides/wan-2.7-vs-seedance-2.0-vs-kling-3.0-which-video-api-should-developers-choose",
+        "date": "2026-06-12T07:52:54.429Z",
+        "reportedAt": "2026-06-12T12:44:44.492Z"
       }
     ],
     "TopMediai": [
@@ -409,13 +433,6 @@
         "reportedAt": "2026-06-11T15:03:52.409Z"
       }
     ],
-    "JXP": [
-      {
-        "key": "f545f6bb2648a7a85bd4141d2195a284a20a7ace",
-        "url": "https://www.jxp.com/blog/how-to-use-grok-imagine-video-1-5",
-        "date": "2026-06-05T07:06:30.000Z",
-        "reportedAt": "2026-06-05T12:23:33.686Z"
-      }
-    ]
+    "JXP": []
   }
 }
