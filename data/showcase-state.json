@@ -1189,6 +1189,11 @@
         "url": "https://viddo.ai/hailuo-ai"
       },
       {
+        "id": "f12c3ae72dc56d2422a7c73df9a54a1ad70fc165",
+        "title": "Hailuo 02",
+        "url": "https://viddo.ai/hailuo-ai?model=MiniMax-Hailuo-02"
+      },
+      {
         "id": "4007c4d8c6575449da0b63b53a9fa40ec3c00286",
         "title": "Midjourney V7",
         "url": "https://viddo.ai/midjourney"
@@ -2097,11 +2102,6 @@
         "id": "decf4a26dd8c83472f3222285e8f0a0dde4e1db6",
         "title": "Across the Universe - Jurassic",
         "url": "https://viddo.ai/video-effects/across_the_universe_jurassic"
-      },
-      {
-        "id": "7d637ffbdf7399986d2a96e44562cdb6b2e61969",
-        "title": "Across the Universe - Moon",
-        "url": "https://viddo.ai/video-effects/across_the_universe_moon"
       }
     ],
     "DeeVid AI": [
@@ -2994,6 +2994,11 @@
         "url": "https://higgsfield.ai/viral-presets"
       },
       {
+        "id": "aff186897ef8dbfb621cb2834554382a8d9baade",
+        "title": "SupercomputerOne superagent for your entire creative stackTry Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
         "id": "dbe69cbbb307c2656512f9bb939e08d01031e805",
         "title": "GPT Image 2",
         "url": "https://higgsfield.ai/gpt-image-2-community"
@@ -3397,26 +3402,6 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
-      },
-      {
-        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
-        "title": "Cookie Policy",
-        "url": "https://higgsfield.ai/cookie-notice"
-      },
-      {
-        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
-        "title": "Your Privacy Choices",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
-        "title": "Privacy Policy",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
-        "title": "Terms of Use",
-        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
