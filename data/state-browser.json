@@ -87,12 +87,6 @@
     ],
     "WeShop AI": [
       {
-        "key": "51076a1f722253571a4c51def393498a2bea5c50",
-        "url": "https://www.weshop.ai/blog/ai-commercial-photography-tutorial-create-eye-catching-fashion-visuals-with-oversized-props/",
-        "date": "2026-06-05T13:33:52+00:00",
-        "reportedAt": "2026-06-06T09:32:24.465Z"
-      },
-      {
         "key": "545ae2d4f8807b0729d0c48eb98637e6cb5ca890",
         "url": "https://www.weshop.ai/blog/how-to-turn-travel-photos-into-fridge-magnet-style-posters-with-gpt-weshop-ai/",
         "date": "2026-06-08T11:56:03+00:00",
@@ -175,6 +169,12 @@
         "url": "https://www.weshop.ai/blog/stop-struggling-with-layouts-how-to-create-a-chic-xiaohongshu-cover-image-with-weshop-ai/",
         "date": "2026-06-10T10:29:18+00:00",
         "reportedAt": "2026-06-10T12:47:08.464Z"
+      },
+      {
+        "key": "51e190fd0c814020cbe2cde880ca0cb9e7c70f44",
+        "url": "https://www.weshop.ai/blog/ai-wordmark-generator-create-a-premium-text-logo-with-weshop-ai/",
+        "date": "2026-06-13T10:38:08+00:00",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
       }
     ],
     "Atlas Cloud": [
@@ -399,6 +399,102 @@
         "url": "https://www.atlascloud.ai/blog/guides/wan-2.7-vs-seedance-2.0-vs-kling-3.0-which-video-api-should-developers-choose",
         "date": "2026-06-12T07:52:54.429Z",
         "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "40ea852c0abc4adb666730a2a011b76385a2ac7b",
+        "url": "https://www.atlascloud.ai/blog/guides/production-ai-inference-platform-sla-security-private-deployment",
+        "date": "2026-06-13T05:09:38.729Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "76b0a6f7ff8517fcc06db223023543e3937433df",
+        "url": "https://www.atlascloud.ai/blog/guides/best-ai-infrastructure-platform-enterprise-generative-media",
+        "date": "2026-06-13T05:08:13.480Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "c1cb1b2decc97a6055d7a1b4cc8d47afbfb3af9f",
+        "url": "https://www.atlascloud.ai/blog/guides/comfyui-integration-ai-video-models-seedance-kling",
+        "date": "2026-06-13T05:07:36.166Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "caaa6c9127fd7535c6c8b681ccb6c894e8f377ab",
+        "url": "https://www.atlascloud.ai/blog/guides/best-enterprise-ai-infrastructure-platforms-generative-ai",
+        "date": "2026-06-13T05:07:23.831Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "e19e65ad380ddab084deb750a4639a441ab8caa2",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-infrastructure-platform-high-throughput-low-latency-inference",
+        "date": "2026-06-13T05:06:51.357Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "7cf2866b61dd6443311624f700f85a9ba5516430",
+        "url": "https://www.atlascloud.ai/blog/guides/flux-2-pro-deep-dive",
+        "date": "2026-06-12T16:11:43.325Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "b63b06d59c2b30dd4b47362cd5d20357827b57d3",
+        "url": "https://www.atlascloud.ai/blog/case-studies/grok-xai-image-editing-capabilities",
+        "date": "2026-06-12T16:10:52.644Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "b93cc0f98e27dbd84054934a5633cce5b72197c5",
+        "url": "https://www.atlascloud.ai/blog/guides/debugging-ai-video-common-api-errors-and-how-to-optimize-your-rendering-pipeline",
+        "date": "2026-06-12T16:08:54.396Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "b1cc65803f24fe9c5a4a10192457220484277c20",
+        "url": "https://www.atlascloud.ai/blog/guides/nano-banana-2-api-guide",
+        "date": "2026-06-12T16:07:53.048Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "89d54d932f4b6435247b62d5f1a7ca65b457013b",
+        "url": "https://www.atlascloud.ai/blog/guides/grok-image-generation-limit-reset-time",
+        "date": "2026-06-12T16:07:03.800Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "2f912c1e4deb77104fb94e71d42268f7484261af",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/wan_2_6_is_coming_on_atlas_cloud",
+        "date": "2026-06-12T16:05:46.819Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "c4533ed2e614aea8acd3a51dc3eaa7af50266fdc",
+        "url": "https://www.atlascloud.ai/blog/guides/gpt-image-2-prompts-guide",
+        "date": "2026-06-12T16:04:32.034Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "78a60350b2aa12d701e587de36ecafad688d771d",
+        "url": "https://www.atlascloud.ai/blog/case-studies/best-fal-aI-alternative-in-2026-why-teams-switch-to-atlas-cloud",
+        "date": "2026-06-12T16:02:30.392Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "36e3d6c4fc9e7af411384293241a8b3f231370ce",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-video-models-native-audio-compared",
+        "date": "2026-06-12T15:56:38.879Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "281382e264f20405aa8442d625cd3bb8f233f3f8",
+        "url": "https://www.atlascloud.ai/blog/guides/Nano-Banana-2-Ultimate-Image-Generation-Guide-Copy-Paste-Pro-Tips-AI-Prompts-Tutorials-Included",
+        "date": "2026-06-12T15:55:33.563Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "87a0cb107ab772aec275dfcbcea6958ac6d92904",
+        "url": "https://www.atlascloud.ai/blog/guides/wan-2-6-api-guide",
+        "date": "2026-06-12T15:54:22.274Z",
+        "reportedAt": "2026-06-13T10:37:40.485Z"
       }
     ],
     "TopMediai": [

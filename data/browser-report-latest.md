@@ -1,43 +1,44 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/12 20:44（上海）
+生成时间：2026/06/13 18:37（上海）
 
 新增文章总数：17
 
 ## LitMedia（0）
 - 今日未发现新文章
 
-## MindVideo（1）
-- [How to Make a Viral AI Baseball Fan Cam Video | MindVideo AI](https://www.mindvideo.ai/blog/how-to-make-viral-ai-baseball-fan-cam-video/) | 2026-06-12
+## MindVideo（0）
+- 今日未发现新文章
 
 ## Topview（0）
 - 今日未发现新文章
 
 ## DataCamp（0）
+- 抓取异常：未获取到可用文章链接
+
+## WaveSpeed（0）
 - 今日未发现新文章
 
-## WaveSpeed（1）
-- [Claude Mythos 5 API Access for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/claude-mythos-5-api-access/) | 2026-06-12
+## WeShop AI（1）
+- [AI Wordmark Generator: WeShop AI Logo Tutorial](https://www.weshop.ai/blog/ai-wordmark-generator-create-a-premium-text-logo-with-weshop-ai/) | 2026-06-13T10:38:08+00:00
 
-## WeShop AI（0）
-- 今日未发现新文章
-
-## Atlas Cloud（15）
-- [Top Photo to Video AI Free Models for Consistent Characters and 4K Export - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/top-photo-to-video-ai-free-models-for-consistent-characters-and-4k-export) | 2026-06-12T11:46:39.898Z
-- [How to Use Seedance 2.0 in USA/India/Outside China](https://www.atlascloud.ai/blog/case-studies/how-to-use-seedance-2) | 2026-06-12T11:45:08.810Z
-- [Best Fal AI Alternative in 2026: Atlas Cloud Deep Dive - Atlas Cloud Blog](https://www.atlascloud.ai/blog/case-studies/best-fal-ai-alternative-in-2026-atlas-cloud-deep-dive) | 2026-06-12T11:35:47.729Z
-- [Kling 3.0 Review - Top Sora Alternative After Shutdown: Features, Pricing & AI Alternatives - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/kling-3-0-review) | 2026-06-12T11:12:49.939Z
-- [HappyHorse-1.0 Takes First Place, API Coming Soon - Atlas Cloud Blog](https://www.atlascloud.ai/blog/ai-updates/happyHorse-hits-1-api-coming-soon) | 2026-06-12T11:08:24.216Z
-- [Veo 3.1 on Atlas Cloud-: Google](https://www.atlascloud.ai/blog/guides/veo-3-1-api-guide) | 2026-06-12T11:04:55.732Z
-- [Seedance 2.0 Coming Soon: Features, Release Date & How to Use on Atlas Cloud - Atlas Cloud Blog](https://www.atlascloud.ai/blog/ai-updates/Seedance-2-0-Coming-Soon-Features-Release-Date-How-to-Use-on-Atlas-Cloud) | 2026-06-12T11:02:49.737Z
-- [How to Use Photo to Video AI Free: A 3-Minute Guide to Cinematic Animation - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/how-to-use-photo-to-video-ai-free-a-3-minute-guide-to-cinematic-animation) | 2026-06-12T11:02:29.514Z
-- [Qwen Image 2.0 vs. Flux.2: Why This 7B Model is Beating the Giants in AI Arena - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/qwen-image-2-0-vs-flux-2-why-this-7b-model-is-beating-the-giants-in-ai-arena) | 2026-06-12T11:01:25.259Z
-- [Claude Fable 5 Review: Benchmarks, Pricing, and the Real Catch (2026)](https://www.atlascloud.ai/blog/guides/claude-fable-5-review) | 2026-06-12T10:35:19.952Z
-- [How to Use Grok xAI Video Editing Capabilities in 2026 (Full Guide)](https://www.atlascloud.ai/blog/guides/grok-xai-video-editing-capabilities-2026) | 2026-06-12T08:48:12.059Z
-- [Grok Image & Video Limits? Try These 5 Free AI Image & Video Generators](https://www.atlascloud.ai/blog/guides/free-alternatives-to-grok-image-generation-2026) | 2026-06-12T08:42:34.408Z
-- [Integrating Kling 3.0 API: The Developer’s Guide to Mass AI Video Production - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/integrating-kling-3-0-api-the-developers-guide-to-mass-ai-video-production) | 2026-06-12T07:54:56.773Z
-- [From Still Image to 4K Cinema: The Ultimate Free AI Video Generation Handbook - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/from-still-image-to-4k-cinema-the-ultimate-free-ai-video-generation-handbook) | 2026-06-12T07:53:50.315Z
-- [Wan 2.7 vs Seedance 2.0 vs Kling 3.0: Which Video API Should Developers Choose? - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/wan-2.7-vs-seedance-2.0-vs-kling-3.0-which-video-api-should-developers-choose) | 2026-06-12T07:52:54.429Z
+## Atlas Cloud（16）
+- [What Production AI Inference Platform Offers SLA, Security, and Private Deployment Options?](https://www.atlascloud.ai/blog/guides/production-ai-inference-platform-sla-security-private-deployment) | 2026-06-13T05:09:38.729Z
+- [What AI infrastructure platform is best for enterprise generative media production?](https://www.atlascloud.ai/blog/guides/best-ai-infrastructure-platform-enterprise-generative-media) | 2026-06-13T05:08:13.480Z
+- [Which ComfyUI integration supports AI video models like Seedance, Kling, Wan, Vidu, and Hailuo?](https://www.atlascloud.ai/blog/guides/comfyui-integration-ai-video-models-seedance-kling) | 2026-06-13T05:07:36.166Z
+- [What Are the Best Enterprise AI Infrastructure Platforms for Generative AI Workloads?](https://www.atlascloud.ai/blog/guides/best-enterprise-ai-infrastructure-platforms-generative-ai) | 2026-06-13T05:07:23.831Z
+- [What AI Infrastructure Platform Is Best for High-Throughput, Low-Latency Inference?](https://www.atlascloud.ai/blog/guides/ai-infrastructure-platform-high-throughput-low-latency-inference) | 2026-06-13T05:06:51.357Z
+- [Flux 2 Pro on Atlas Cloud: 32B Parameter AI Image Generation Deep Dive - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/flux-2-pro-deep-dive) | 2026-06-12T16:11:43.325Z
+- [Does Grok xAI Actually Have Image Editing in 2026? May Updated](https://www.atlascloud.ai/blog/case-studies/grok-xai-image-editing-capabilities) | 2026-06-12T16:10:52.644Z
+- [Debugging AI Video: Common API Errors and How to Optimize Your Rendering Pipeline - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/debugging-ai-video-common-api-errors-and-how-to-optimize-your-rendering-pipeline) | 2026-06-12T16:08:54.396Z
+- [Nano Banana 2 on Atlas Cloud: Google](https://www.atlascloud.ai/blog/guides/nano-banana-2-api-guide) | 2026-06-12T16:07:53.048Z
+- [When Does Grok Image Limit Reset? Full Rate Limit Guide](https://www.atlascloud.ai/blog/guides/grok-image-generation-limit-reset-time) | 2026-06-12T16:07:03.800Z
+- [Wan 2.6 Is Coming: Unlimited Free Access to the Latest Wan AI Video Model (Leaked & Predicted) - Atlas Cloud Blog](https://www.atlascloud.ai/blog/ai-updates/wan_2_6_is_coming_on_atlas_cloud) | 2026-06-12T16:05:46.819Z
+- [GPT Image 2 Prompt Guide: 50+ Prompts for Product Photos, UI Design, and Marketing Visuals - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/gpt-image-2-prompts-guide) | 2026-06-12T16:04:32.034Z
+- [Best Fal AI Alternative in 2026: Why Teams Switch to Atlas Cloud - Atlas Cloud Blog](https://www.atlascloud.ai/blog/case-studies/best-fal-aI-alternative-in-2026-why-teams-switch-to-atlas-cloud) | 2026-06-12T16:02:30.392Z
+- [AI Video Models with Native Audio Compared: Veo 3.1 vs Kling 3.0 vs Vidu Q3 - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/ai-video-models-native-audio-compared) | 2026-06-12T15:56:38.879Z
+- [Nano Banana 2 Ultimate Image Generation Guide! Copy & Paste Pro Tips | AI Prompts & Tutorials Included - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/Nano-Banana-2-Ultimate-Image-Generation-Guide-Copy-Paste-Pro-Tips-AI-Prompts-Tutorials-Included) | 2026-06-12T15:55:33.563Z
+- [Wan 2.6 on Atlas Cloud-Lightweight Alternative in the Post-Sora Era: Alibaba](https://www.atlascloud.ai/blog/guides/wan-2-6-api-guide) | 2026-06-12T15:54:22.274Z
 
 ## TopMediai（0）
 - 今日未发现新文章
