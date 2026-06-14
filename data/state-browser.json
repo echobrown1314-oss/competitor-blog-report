@@ -83,6 +83,18 @@
         "url": "https://wavespeed.ai/blog/posts/claude-mythos-5-api-access/",
         "date": "2026-06-12",
         "reportedAt": "2026-06-12T12:44:44.492Z"
+      },
+      {
+        "key": "9612e23a03cd6dcd8930c7c25823fc58191f264d",
+        "url": "https://wavespeed.ai/blog/posts/claude-fable-5-vs-mythos-5/",
+        "date": "2026-06-13",
+        "reportedAt": "2026-06-14T11:16:08.530Z"
+      },
+      {
+        "key": "47c30eafb3320ebe2c719b38f52d8fbfda18aed4",
+        "url": "https://wavespeed.ai/blog/posts/claude-mythos-5-pricing/",
+        "date": "2026-06-13",
+        "reportedAt": "2026-06-14T11:16:08.530Z"
       }
     ],
     "WeShop AI": [
@@ -175,39 +187,15 @@
         "url": "https://www.weshop.ai/blog/ai-wordmark-generator-create-a-premium-text-logo-with-weshop-ai/",
         "date": "2026-06-13T10:38:08+00:00",
         "reportedAt": "2026-06-13T10:37:40.485Z"
+      },
+      {
+        "key": "1bb4b2ee313e7b13957869560252f3d68c266fdf",
+        "url": "https://www.weshop.ai/blog/how-to-create-the-viral-ai-neon-gradient-3d-style-with-weshop-ai/",
+        "date": "2026-06-13T12:06:37+00:00",
+        "reportedAt": "2026-06-14T11:16:08.530Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "0d4200a175b11d0cc15f99ebbe98c55158c9a151",
-        "url": "https://www.atlascloud.ai/blog/guides/best-ai-video-generation-api-testing-ad-creatives",
-        "date": "2026-06-07T08:50:36.836Z",
-        "reportedAt": "2026-06-07T10:35:30.494Z"
-      },
-      {
-        "key": "ded3c2ddde105300e579283c746170f7c07a9f88",
-        "url": "https://www.atlascloud.ai/blog/guides/best-ai-video-generation-api-longer-than-10-seconds",
-        "date": "2026-06-07T08:47:59.916Z",
-        "reportedAt": "2026-06-07T10:35:30.494Z"
-      },
-      {
-        "key": "b94f6e55c88c3cc0346e81c04d0a2173fe43cc7d",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-video-model-cinematic-motion-control-storytelling-low-cost-2026",
-        "date": "2026-06-07T08:43:59.831Z",
-        "reportedAt": "2026-06-07T10:35:30.494Z"
-      },
-      {
-        "key": "35972a91b56c38f7df48aff382b5253ff76e5a9b",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-media-generation-api-image-editing-video",
-        "date": "2026-06-07T08:39:27.235Z",
-        "reportedAt": "2026-06-07T10:35:30.494Z"
-      },
-      {
-        "key": "e17f8cb5df1c54534e408a7ceb38cd7fa6e16233",
-        "url": "https://www.atlascloud.ai/blog/guides/video-generation-api-social-media-content-automation",
-        "date": "2026-06-06T17:11:04.359Z",
-        "reportedAt": "2026-06-07T10:35:30.494Z"
-      },
       {
         "key": "995da5a616d07498432e809a03f081601c310eff",
         "url": "https://www.atlascloud.ai/blog/guides/top-4-free-ai-video-generators-for-consistent-characters-lip-sync",
