@@ -1174,6 +1174,16 @@
         "url": "https://viddo.ai/wan2-5"
       },
       {
+        "id": "ffb612a1ac3ba26b396785f082b483da904a9fb3",
+        "title": "Vidu Q3 Pro",
+        "url": "https://viddo.ai/vidu"
+      },
+      {
+        "id": "02c80cdbfae5d26a1eeb97ee1ed29fc2d3ce7709",
+        "title": "Vidu Q3 Mix",
+        "url": "https://viddo.ai/vidu?model=viduq3-mix"
+      },
+      {
         "id": "46c76e55d51117914c664326a7a912f55be82fdc",
         "title": "Runway Gen-4",
         "url": "https://viddo.ai/runway"
@@ -1192,11 +1202,6 @@
         "id": "f12c3ae72dc56d2422a7c73df9a54a1ad70fc165",
         "title": "Hailuo 02",
         "url": "https://viddo.ai/hailuo-ai?model=MiniMax-Hailuo-02"
-      },
-      {
-        "id": "4007c4d8c6575449da0b63b53a9fa40ec3c00286",
-        "title": "Midjourney V7",
-        "url": "https://viddo.ai/midjourney"
       },
       {
         "id": "04dd668717e271be4c06cfdea47417d15639018f",
@@ -2097,11 +2102,6 @@
         "id": "dd71cf57ce4a6ea2a960da94d9d5b7ccd1b30b51",
         "title": "Clothes Spinning Remnant",
         "url": "https://viddo.ai/video-effects/clothes_spinning_remnant"
-      },
-      {
-        "id": "decf4a26dd8c83472f3222285e8f0a0dde4e1db6",
-        "title": "Across the Universe - Jurassic",
-        "url": "https://viddo.ai/video-effects/across_the_universe_jurassic"
       }
     ],
     "DeeVid AI": [
@@ -2613,16 +2613,6 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
-      },
-      {
         "id": "b6db2f09e84613bebb4ef54403d1f7737f3d04ad",
         "title": "Is Seedance 2.0 Better Than Kling?",
         "url": "https://a2e.ai/is-seedance-2-0-better-than-kling/"
@@ -2676,6 +2666,26 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2914,6 +2924,11 @@
         "url": "https://higgsfield.ai/apps"
       },
       {
+        "id": "84904d017455e92088efb683fb8701b13557acc8",
+        "title": "Open Higgsfield Plugin for Photoshop",
+        "url": "https://higgsfield.ai/plugins/photoshop"
+      },
+      {
         "id": "9cf70e30e024e6598faca19e6cf26f471eadba5c",
         "title": "Open Meet Higgsfield Games",
         "url": "https://higgsfield.ai/supercomputer/gaming"
@@ -2932,11 +2947,6 @@
         "id": "54b75fccd511e6ffdb0895f2788509f3fd9267b5",
         "title": "Open Higgsfield Mod",
         "url": "https://higgsfield.ai/plugins/minecraft"
-      },
-      {
-        "id": "0a8714b60aa44c75b9b7a0b896c15b10db7b58c4",
-        "title": "Open Higgsfield plugins",
-        "url": "https://higgsfield.ai/adobe-plugin"
       },
       {
         "id": "f0fb02eb8b94f1cb208cbfa1c4b6a78f8cda9e90",
