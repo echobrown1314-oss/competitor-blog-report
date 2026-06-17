@@ -1,24 +1,36 @@
 # 竞品模板/玩法页监测日报
 
-生成时间：2026/06/16 14:35（上海）
+生成时间：2026/06/17 14:17（上海）
 
-新增页面总数：7
+新增页面总数：18
 
 ## MagicHour（0）
 - 今日未发现新页面
 
-## Viddo AI（2）
-- [Vidu Q3 Pro](https://viddo.ai/vidu)
-- [Vidu Q3 Mix](https://viddo.ai/vidu?model=viduq3-mix)
+## Viddo AI（1）
+- [Across the Universe - Jurassic](https://viddo.ai/video-effects/across_the_universe_jurassic)
 
-## DeeVid AI（0）
+## DeeVid AI（17）
+- [Image to VideoDrop in a photo and watch it come to life in seconds.](https://deevid.ai/app?landingFeature=image-to-video)
+- [AI AdsDrop in a product and get ad videos ready for every platform.](https://deevid.ai/app?landingFeature=ai-ad)
+- [AI Image GeneratorFrom a prompt or a reference image to the visual you want.](https://deevid.ai/app?landingFeature=ai-image-generator)
+- [AI AvatarTurn one photo into your own on-camera talent.](https://deevid.ai/app?landingFeature=ai-avatar)
+- [Text to SpeechType a script and hear it in a real-sounding voice.](https://deevid.ai/app?landingFeature=text-to-speech)
+- [AI MusicPick a mood and get your own copyright-free soundtrack.](https://deevid.ai/app?landingFeature=ai-music-generator)
+- [Try Online](https://deevid.ai/app)
+- [AI Ad Generator](https://deevid.ai/ai-ad)
+- [Text To Speech](https://deevid.ai/text-to-speech)
+- [AI Image Generator](https://deevid.ai/ai-image-generator)
+- [AI Anime Generator](https://deevid.ai/ai-anime-generator)
+- [AI Photo Editor](https://deevid.ai/ai-photo-editor)
+- [Text to Image AI](https://deevid.ai/text-to-image)
+- [More Effects](https://deevid.ai/template)
+- [Terms of Service](https://deevid.ai/terms)
+- [Privacy Policy](https://deevid.ai/privacy-policy)
+- [Content Policy](https://deevid.ai/content-policy)
+
+## A2E AI（0）
 - 今日未发现新页面
-
-## A2E AI（4）
-- [API Doc](https://video.a2e.ai/dev)
-- [AI LipSync](https://video.a2e.ai/create)
-- [GPT Image 2](https://video.a2e.ai/image-generator/gpt-image-2)
-- [HappyHorse](https://video.a2e.ai/happy-horse)
 
 ## Kling AI（0）
 - 今日未发现新页面
@@ -26,5 +38,5 @@
 ## InVideo（0）
 - 今日未发现新页面
 
-## Higgsfield AI（1）
-- [Open Higgsfield Plugin for Photoshop](https://higgsfield.ai/plugins/photoshop)
+## Higgsfield AI（0）
+- 今日未发现新页面
