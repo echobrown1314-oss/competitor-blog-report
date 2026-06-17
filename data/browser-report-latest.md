@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/16 14:42（上海）
+生成时间：2026/06/17 14:26（上海）
 
-新增文章总数：10
+新增文章总数：9
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -16,21 +16,20 @@
 ## DataCamp（0）
 - 今日未发现新文章
 
-## WaveSpeed（2）
-- [GPT-5.4 Mini API: Pricing, Context & Production Use - WaveSpeed Blog](https://wavespeed.ai/blog/posts/gpt-5-4-mini-api/) | 2026-06-15
-- [MiniMax M3 API: Pricing, 1M Context & Production Use - WaveSpeed Blog](https://wavespeed.ai/blog/posts/minimax-m3-api/) | 2026-06-15
+## WaveSpeed（1）
+- [MiniMax M3 Price: Long-Context API Cost for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/minimax-m3-price/) | 2026-06-16
 
-## WeShop AI（2）
-- [Celebrity Video Generator for AI Star Videos](https://www.weshop.ai/blog/no-celebrity-budget-use-weshop-ai-celebrity-video-generator-to-create-star-style-ai-videos-fast/) | 2026-06-15T12:20:37+00:00
-- [Animal Shorts Generator Tutorial: Turn a Pet Image Into a Viral AI Animal Video – WeShop AI Blog](https://www.weshop.ai/blog/animal-shorts-generator-tutorial-turn-a-pet-image-into-a-viral-ai-animal-video/) | 2026-06-15T10:54:48+00:00
+## WeShop AI（3）
+- [AI Instrument Playing Video for Music Promo](https://www.weshop.ai/blog/not-every-song-needs-an-mv-ai-instrument-playing-video-is-the-new-music-promo-asset/) | 2026-06-16T17:58:09+00:00
+- [Can Movie Intro Maker Make Your First 5 Seconds Feel Cinematic? The Answer is Here. – WeShop AI Blog](https://www.weshop.ai/blog/can-movie-intro-maker-make-your-first-5-seconds-feel-cinematic-the-answer-is-here/) | 2026-06-16T16:23:06+00:00
+- [Turn Your Selfie into a World Cup Poster with a World Cup AI Photo Generator – WeShop AI Blog](https://www.weshop.ai/blog/turn-your-selfie-into-a-world-cup-poster-with-a-world-cup-ai-photo-generator/) | 2026-06-16T09:21:53+00:00
 
-## Atlas Cloud（6）
-- [Seedance 2.0 vs Gemini Omni Flash: The 2026 Full Breakdown](https://www.atlascloud.ai/blog/guides/seedance-2.0-vs-gemini-omni-flash) | 2026-06-16T02:15:48.917Z
-- [How to Use the Gemini Omni API: Step-by-Step (2026)](https://www.atlascloud.ai/blog/guides/how-to-use-gemini-omni-api) | 2026-06-16T02:15:26.558Z
-- [Kling AI Motion Control Guide: 2.6 vs 3.0, Brush & Free Access](https://www.atlascloud.ai/blog/guides/kling-ai-motion-control) | 2026-06-16T02:14:58.114Z
-- [Kling AI Lip Sync Tutorial: Steps, Limits & Languages](https://www.atlascloud.ai/blog/guides/kling-ai-lip-sync) | 2026-06-16T02:14:37.874Z
-- [Kling AI NSFW Policy 2026: What](https://www.atlascloud.ai/blog/guides/kling-ai-nsfw-policy) | 2026-06-15T11:01:48.899Z
-- [Kling AI Pricing (2026): Free vs Paid Plans & Real Video Costs](https://www.atlascloud.ai/blog/guides/kling-ai-pricing) | 2026-06-15T08:39:01.119Z
+## Atlas Cloud（5）
+- [How to Use Kling 3.0 for Character Consistency (2026 Guide)](https://www.atlascloud.ai/blog/guides/how-to-use-kling-3.0-for-character-consistency) | 2026-06-17T03:26:10.578Z
+- [Kling AI Video Prompt Guide 2026: Formula + Examples](https://www.atlascloud.ai/blog/guides/kling-ai-video-prompt-guide) | 2026-06-17T03:24:50.789Z
+- [How to Use the Atlas Cloud Asset Library for Seedance 2.0](https://www.atlascloud.ai/blog/guides/seedance-asset-library) | 2026-06-16T09:31:44.304Z
+- [Kling AI Video Length Limit: Max Duration by Plan 2026](https://www.atlascloud.ai/blog/guides/kling-ai-video-length-limit) | 2026-06-16T09:11:17.332Z
+- [How to Get Kling AI Free Credits & Render Cinematic Videos (2026)](https://www.atlascloud.ai/blog/guides/kling-ai-free) | 2026-06-16T08:16:10.490Z
 
 ## TopMediai（0）
 - 今日未发现新文章

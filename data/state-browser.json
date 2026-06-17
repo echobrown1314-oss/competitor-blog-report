@@ -13,24 +13,6 @@
     "DataCamp": [],
     "WaveSpeed": [
       {
-        "key": "a92d1b05f5e6b681005778ada98ce074b9fb1db1",
-        "url": "https://wavespeed.ai/blog/posts/codex-ai-media-api/",
-        "date": "2026-06-09",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
-      {
-        "key": "1e9943f10472b3e2823377237d6624bce4bbebd8",
-        "url": "https://wavespeed.ai/blog/posts/hunyuan-3d-api/",
-        "date": "2026-06-09",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
-      {
-        "key": "01e96055f1e3001ceff993f620f726796d003fc7",
-        "url": "https://wavespeed.ai/blog/posts/hunyuan-3d-vs-hyper3d-pixal3d/",
-        "date": "2026-06-09",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
-      {
         "key": "b016de8d0331682bac8038798c39ca7779137d7d",
         "url": "https://wavespeed.ai/blog/posts/codex-ai-media-api-stack/",
         "date": "2026-06-10",
@@ -95,33 +77,15 @@
         "url": "https://wavespeed.ai/blog/posts/minimax-m3-api/",
         "date": "2026-06-15",
         "reportedAt": "2026-06-16T06:42:38.457Z"
+      },
+      {
+        "key": "ac49617814824a9d85e3fea9881448f6a45607f3",
+        "url": "https://wavespeed.ai/blog/posts/minimax-m3-price/",
+        "date": "2026-06-16",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
       }
     ],
     "WeShop AI": [
-      {
-        "key": "6c2a4f57dfced29f67ed2848c46e930c3b1dc005",
-        "url": "https://www.weshop.ai/blog/turn-your-photo-into-a-collectible-ai-designer-toy/",
-        "date": "2026-06-09T12:07:23+00:00",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
-      {
-        "key": "97e7c40ae0f4927b7bcb67be4ce822fad8f38fa1",
-        "url": "https://www.weshop.ai/blog/viral-jersey-outfit-ideas-create-tiktok-ready-looks-with-weshop-ai/",
-        "date": "2026-06-09T11:48:29+00:00",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
-      {
-        "key": "bedfedd591caa3e1705bb1daed1eea6b5423d3d0",
-        "url": "https://www.weshop.ai/blog/turn-one-image-into-any-video-action-with-ai-weshop-kling-motion-control-tutorial/",
-        "date": "2026-06-09T10:59:24+00:00",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
-      {
-        "key": "a95366c7b4c4acc6a31e9de372b06e668032aa05",
-        "url": "https://www.weshop.ai/blog/i-graduated-so-i-blew-up-my-school-how-to-create-a-viral-ai-graduation-photo-with-gpt-image/",
-        "date": "2026-06-09T10:14:10+00:00",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
       {
         "key": "6fa3d6ccdf34da67d2217c90d7d68d771653926a",
         "url": "https://www.weshop.ai/blog/cinematic-ai-portrait-tutorial-how-to-create-dramatic-rembrandt-lighting-and-motion-blur-with-ai/",
@@ -181,15 +145,27 @@
         "url": "https://www.weshop.ai/blog/animal-shorts-generator-tutorial-turn-a-pet-image-into-a-viral-ai-animal-video/",
         "date": "2026-06-15T10:54:48+00:00",
         "reportedAt": "2026-06-16T06:42:38.457Z"
+      },
+      {
+        "key": "89619153c413e4fbe78b5bc27c8ef666b4d90f76",
+        "url": "https://www.weshop.ai/blog/not-every-song-needs-an-mv-ai-instrument-playing-video-is-the-new-music-promo-asset/",
+        "date": "2026-06-16T17:58:09+00:00",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
+      },
+      {
+        "key": "fea0d4997301b14bc33b655171920ed16bfc1ceb",
+        "url": "https://www.weshop.ai/blog/can-movie-intro-maker-make-your-first-5-seconds-feel-cinematic-the-answer-is-here/",
+        "date": "2026-06-16T16:23:06+00:00",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
+      },
+      {
+        "key": "69ed802c76d989a01efbe2ba83090c9c2c192a4c",
+        "url": "https://www.weshop.ai/blog/turn-your-selfie-into-a-world-cup-poster-with-a-world-cup-ai-photo-generator/",
+        "date": "2026-06-16T09:21:53+00:00",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "5927a87ca3f3519429690ed0c3bc0e6f7f1b2784",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-video-editing-capabilities-2026",
-        "date": "2026-06-09T08:22:11.249Z",
-        "reportedAt": "2026-06-09T12:21:26.080Z"
-      },
       {
         "key": "f6839b87ee1579f4d4fdb2a727a82ad5924375fd",
         "url": "https://www.atlascloud.ai/blog/guides/how-to-upload-video-to-grok-xai-chat",
@@ -477,6 +453,36 @@
         "url": "https://www.atlascloud.ai/blog/guides/kling-ai-pricing",
         "date": "2026-06-15T08:39:01.119Z",
         "reportedAt": "2026-06-16T06:42:38.457Z"
+      },
+      {
+        "key": "dccbee9358ece0a29876f74f3e4efe00cf6093af",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-use-kling-3.0-for-character-consistency",
+        "date": "2026-06-17T03:26:10.578Z",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
+      },
+      {
+        "key": "2018d1e866c9f8b47a14362f7ec8166af189ea8e",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-video-prompt-guide",
+        "date": "2026-06-17T03:24:50.789Z",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
+      },
+      {
+        "key": "6c6d617f9c0e68ce2f8a48c593385e62b07daf25",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-asset-library",
+        "date": "2026-06-16T09:31:44.304Z",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
+      },
+      {
+        "key": "1bfac5e9315dc669b2942fe7e8fc86190a49a3aa",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-video-length-limit",
+        "date": "2026-06-16T09:11:17.332Z",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
+      },
+      {
+        "key": "e2c4531427a2fd19a1fa985f8518af22a5c61c1e",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-free",
+        "date": "2026-06-16T08:16:10.490Z",
+        "reportedAt": "2026-06-17T06:26:16.341Z"
       }
     ],
     "TopMediai": [
