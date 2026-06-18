@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/17 14:26（上海）
+生成时间：2026/06/18 14:07（上海）
 
-新增文章总数：9
+新增文章总数：13
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -14,22 +14,27 @@
 - 今日未发现新文章
 
 ## DataCamp（0）
+- 抓取异常：未获取到可用文章链接
+
+## WaveSpeed（4）
+- [GLM-5.2 API: Pricing, 1M Context, and Production Routing - WaveSpeed Blog](https://wavespeed.ai/blog/posts/glm-5-2-api/) | 2026-06-18
+- [TripoSplat: Image-to-3D Gaussian Splatting for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/triposplat-image-to-3d/) | 2026-06-18
+- [GPT-5.4 Mini Pricing: Input, Cached & Output Cost - WaveSpeed Blog](https://wavespeed.ai/blog/posts/gpt-5-4-mini-pricing/) | 2026-06-17
+- [MAI-Image-2.5 API: What Builders Should Know - WaveSpeed Blog](https://wavespeed.ai/blog/posts/mai-image-2-5-api/) | 2026-06-17
+
+## WeShop AI（0）
 - 今日未发现新文章
 
-## WaveSpeed（1）
-- [MiniMax M3 Price: Long-Context API Cost for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/minimax-m3-price/) | 2026-06-16
-
-## WeShop AI（3）
-- [AI Instrument Playing Video for Music Promo](https://www.weshop.ai/blog/not-every-song-needs-an-mv-ai-instrument-playing-video-is-the-new-music-promo-asset/) | 2026-06-16T17:58:09+00:00
-- [Can Movie Intro Maker Make Your First 5 Seconds Feel Cinematic? The Answer is Here. – WeShop AI Blog](https://www.weshop.ai/blog/can-movie-intro-maker-make-your-first-5-seconds-feel-cinematic-the-answer-is-here/) | 2026-06-16T16:23:06+00:00
-- [Turn Your Selfie into a World Cup Poster with a World Cup AI Photo Generator – WeShop AI Blog](https://www.weshop.ai/blog/turn-your-selfie-into-a-world-cup-poster-with-a-world-cup-ai-photo-generator/) | 2026-06-16T09:21:53+00:00
-
-## Atlas Cloud（5）
-- [How to Use Kling 3.0 for Character Consistency (2026 Guide)](https://www.atlascloud.ai/blog/guides/how-to-use-kling-3.0-for-character-consistency) | 2026-06-17T03:26:10.578Z
-- [Kling AI Video Prompt Guide 2026: Formula + Examples](https://www.atlascloud.ai/blog/guides/kling-ai-video-prompt-guide) | 2026-06-17T03:24:50.789Z
-- [How to Use the Atlas Cloud Asset Library for Seedance 2.0](https://www.atlascloud.ai/blog/guides/seedance-asset-library) | 2026-06-16T09:31:44.304Z
-- [Kling AI Video Length Limit: Max Duration by Plan 2026](https://www.atlascloud.ai/blog/guides/kling-ai-video-length-limit) | 2026-06-16T09:11:17.332Z
-- [How to Get Kling AI Free Credits & Render Cinematic Videos (2026)](https://www.atlascloud.ai/blog/guides/kling-ai-free) | 2026-06-16T08:16:10.490Z
+## Atlas Cloud（9）
+- [Reclaiming the Warmth of Music via AudioMuse-AI | AtlasCloud](https://www.atlascloud.ai/blog/guides/reclaiming-the-warmth-of-music-audiomuse-ai) | 2026-06-18T03:01:28.022Z
+- [Seedance 2.0 Mini: 2x Faster Than Fast, Half the Cost](https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview) | 2026-06-17T11:19:23.043Z
+- [Antigravity Quota Alternative: Code Without the Lockouts (2026)](https://www.atlascloud.ai/blog/guides/coding-plan-antigravity-quota-alternative) | 2026-06-17T10:57:44.261Z
+- [OpenRouter Alternative Cheaper Than Pass-Through Pricing (2026)](https://www.atlascloud.ai/blog/guides/coding-plan-openrouter-alternative-cheaper) | 2026-06-17T10:57:40.492Z
+- [Kling 3.0 Omni Upgrade: 4K Editing and More (2026)](https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade) | 2026-06-17T09:41:36.397Z
+- [Kling 3.0 Fast vs Kling 3.0: Speed or Top Quality?](https://www.atlascloud.ai/blog/guides/kling-3.0-fast-vs-kling-3.0) | 2026-06-17T09:40:50.712Z
+- [Kling AI API Pricing Breakdown and Developer Cost Analysis](https://www.atlascloud.ai/blog/guides/kling-ai-api-pricing) | 2026-06-17T08:32:31.020Z
+- [Kling 3.0 Review: Features, Pricing & AI Alternatives (2026) - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/kling-3.0-review-features-pricing-ai-alternatives) | 2026-06-17T08:01:04.726Z
+- [Kling 3.0 Fast Launches + Kling Omni Upgrade: Specs & Pricing](https://www.atlascloud.ai/blog/guides/kling-3.0-fast-kling-omni) | 2026-06-17T07:50:22.828Z
 
 ## TopMediai（0）
 - 今日未发现新文章
