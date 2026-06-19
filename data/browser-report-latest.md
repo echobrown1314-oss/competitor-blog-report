@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/18 14:07（上海）
+生成时间：2026/06/19 14:29（上海）
 
-新增文章总数：13
+新增文章总数：11
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -14,27 +14,25 @@
 - 今日未发现新文章
 
 ## DataCamp（0）
-- 抓取异常：未获取到可用文章链接
-
-## WaveSpeed（4）
-- [GLM-5.2 API: Pricing, 1M Context, and Production Routing - WaveSpeed Blog](https://wavespeed.ai/blog/posts/glm-5-2-api/) | 2026-06-18
-- [TripoSplat: Image-to-3D Gaussian Splatting for Builders - WaveSpeed Blog](https://wavespeed.ai/blog/posts/triposplat-image-to-3d/) | 2026-06-18
-- [GPT-5.4 Mini Pricing: Input, Cached & Output Cost - WaveSpeed Blog](https://wavespeed.ai/blog/posts/gpt-5-4-mini-pricing/) | 2026-06-17
-- [MAI-Image-2.5 API: What Builders Should Know - WaveSpeed Blog](https://wavespeed.ai/blog/posts/mai-image-2-5-api/) | 2026-06-17
-
-## WeShop AI（0）
 - 今日未发现新文章
 
+## WaveSpeed（0）
+- 今日未发现新文章
+
+## WeShop AI（2）
+- [Receipt OOTD: Create TikTok Fashion Receipts](https://www.weshop.ai/blog/tiktoks-fastest-growing-fashion-trend-how-to-create-a-receipt-ootd-with-weshop-ai/) | 2026-06-18T18:58:34+00:00
+- [I Tried an Image to Video AI Generator: One Photo Became a Scroll-Stopping Video in Seconds – WeShop AI Blog](https://www.weshop.ai/blog/i-tried-an-image-to-video-ai-generator-one-photo-became-a-scroll-stopping-video-in-seconds/) | 2026-06-18T17:52:52+00:00
+
 ## Atlas Cloud（9）
-- [Reclaiming the Warmth of Music via AudioMuse-AI | AtlasCloud](https://www.atlascloud.ai/blog/guides/reclaiming-the-warmth-of-music-audiomuse-ai) | 2026-06-18T03:01:28.022Z
-- [Seedance 2.0 Mini: 2x Faster Than Fast, Half the Cost](https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview) | 2026-06-17T11:19:23.043Z
-- [Antigravity Quota Alternative: Code Without the Lockouts (2026)](https://www.atlascloud.ai/blog/guides/coding-plan-antigravity-quota-alternative) | 2026-06-17T10:57:44.261Z
-- [OpenRouter Alternative Cheaper Than Pass-Through Pricing (2026)](https://www.atlascloud.ai/blog/guides/coding-plan-openrouter-alternative-cheaper) | 2026-06-17T10:57:40.492Z
-- [Kling 3.0 Omni Upgrade: 4K Editing and More (2026)](https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade) | 2026-06-17T09:41:36.397Z
-- [Kling 3.0 Fast vs Kling 3.0: Speed or Top Quality?](https://www.atlascloud.ai/blog/guides/kling-3.0-fast-vs-kling-3.0) | 2026-06-17T09:40:50.712Z
-- [Kling AI API Pricing Breakdown and Developer Cost Analysis](https://www.atlascloud.ai/blog/guides/kling-ai-api-pricing) | 2026-06-17T08:32:31.020Z
-- [Kling 3.0 Review: Features, Pricing & AI Alternatives (2026) - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/kling-3.0-review-features-pricing-ai-alternatives) | 2026-06-17T08:01:04.726Z
-- [Kling 3.0 Fast Launches + Kling Omni Upgrade: Specs & Pricing](https://www.atlascloud.ai/blog/guides/kling-3.0-fast-kling-omni) | 2026-06-17T07:50:22.828Z
+- [Seedance 2.0 Mini vs Seedance 2.0: Cost, Quality, Specs (2026)](https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0) | 2026-06-18T11:43:59.567Z
+- [Seedance 2.0 Mini Performance Review: Speed, Cost, Quality (2026)](https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-performance-review) | 2026-06-18T11:29:21.372Z
+- [Kling 3.0 Production Guide for Cinematic Realism and Motion](https://www.atlascloud.ai/blog/guides/advanced-kling-3-cinematic-video-tutorial) | 2026-06-18T09:04:47.298Z
+- [One API Key for DeepSeek, Qwen, Kimi, MiniMax & GLM](https://www.atlascloud.ai/blog/guides/openai-compatible-api-provider-supports-deepseek-qwen-kimi-minimax-glm) | 2026-06-18T07:16:54.319Z
+- [Kling 3.0 Turbo Launches + Kling Omni Upgrade: Specs & Pricing](https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-kling-omni) | 2026-06-18T06:56:18.710Z
+- [Kling 3.0 Review: Features, Pricing & AI Alternatives (2026) - Atlas Cloud Blog](https://www.atlascloud.ai/blog/guides/kling-3.0-review-features-pricing-ai-alternatives) | 2026-06-18T06:54:03.763Z
+- [Kling 3.0 Turbo vs Kling 3.0: Speed or Top Quality?](https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-vs-kling-3.0) | 2026-06-18T06:53:28.610Z
+- [Seedance 2.0 Mini: 2x Faster Than Fast, Half the Cost](https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview) | 2026-06-18T06:49:07.643Z
+- [Kling 3.0 Omni Upgrade: 4K Editing and More (2026)](https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade) | 2026-06-18T06:48:45.778Z
 
 ## TopMediai（0）
 - 今日未发现新文章
