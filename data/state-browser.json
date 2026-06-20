@@ -1,23 +1,10 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [
-      {
-        "key": "365cfdbbb1705f598012c2b6b30d4958288a4570",
-        "url": "https://www.mindvideo.ai/blog/how-to-make-viral-ai-baseball-fan-cam-video/",
-        "date": "2026-06-12",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      }
-    ],
+    "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
     "WaveSpeed": [
-      {
-        "key": "9354c7e04b070d7cf458f81dc041f9296176aa24",
-        "url": "https://wavespeed.ai/blog/posts/claude-mythos-5-api-access/",
-        "date": "2026-06-12",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
       {
         "key": "9612e23a03cd6dcd8930c7c25823fc58191f264d",
         "url": "https://wavespeed.ai/blog/posts/claude-fable-5-vs-mythos-5/",
@@ -142,96 +129,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "9beb983d1b717f5cc3421b341f92e75c7d30bf37",
-        "url": "https://www.atlascloud.ai/blog/guides/top-photo-to-video-ai-free-models-for-consistent-characters-and-4k-export",
-        "date": "2026-06-12T11:46:39.898Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "456210727a217cf4c4f61496d9aae14569ec504e",
-        "url": "https://www.atlascloud.ai/blog/case-studies/how-to-use-seedance-2",
-        "date": "2026-06-12T11:45:08.810Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "9743390dd261c653fe0cd6a73e511f70619a1a76",
-        "url": "https://www.atlascloud.ai/blog/case-studies/best-fal-ai-alternative-in-2026-atlas-cloud-deep-dive",
-        "date": "2026-06-12T11:35:47.729Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "171f52e99b56a486edf882ba2c1c28bbbc607658",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-3-0-review",
-        "date": "2026-06-12T11:12:49.939Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "d7713bf490b40578e01a1b95f5ae6f6409ae1611",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/happyHorse-hits-1-api-coming-soon",
-        "date": "2026-06-12T11:08:24.216Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "c228bb197e05c05ec5f02a5dececf0aa61f22579",
-        "url": "https://www.atlascloud.ai/blog/guides/veo-3-1-api-guide",
-        "date": "2026-06-12T11:04:55.732Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "bf82478d18aefd40434a2f8908ce4701a29e9753",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/Seedance-2-0-Coming-Soon-Features-Release-Date-How-to-Use-on-Atlas-Cloud",
-        "date": "2026-06-12T11:02:49.737Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "b915e0809a4cd6bd561e8d7c2c07907f10c98873",
-        "url": "https://www.atlascloud.ai/blog/guides/how-to-use-photo-to-video-ai-free-a-3-minute-guide-to-cinematic-animation",
-        "date": "2026-06-12T11:02:29.514Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "1095dbfe3642a188b81c65fb4468efc501368a39",
-        "url": "https://www.atlascloud.ai/blog/guides/qwen-image-2-0-vs-flux-2-why-this-7b-model-is-beating-the-giants-in-ai-arena",
-        "date": "2026-06-12T11:01:25.259Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "6e4f3786e43566b9a69c0872ef07c1fd847b803a",
-        "url": "https://www.atlascloud.ai/blog/guides/claude-fable-5-review",
-        "date": "2026-06-12T10:35:19.952Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "05d810617acd141c14d6dce0d29433ebcef879cf",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-video-editing-capabilities-2026",
-        "date": "2026-06-12T08:48:12.059Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "e75f09e42c3b3bf90d93c840cf6a5b19c17277e5",
-        "url": "https://www.atlascloud.ai/blog/guides/free-alternatives-to-grok-image-generation-2026",
-        "date": "2026-06-12T08:42:34.408Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "4372f8c90b7bb3d12e5f446978a3f2ca656a570c",
-        "url": "https://www.atlascloud.ai/blog/guides/integrating-kling-3-0-api-the-developers-guide-to-mass-ai-video-production",
-        "date": "2026-06-12T07:54:56.773Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "5c09f74e41a88b91858b17f14fed6d90f1293e1d",
-        "url": "https://www.atlascloud.ai/blog/guides/from-still-image-to-4k-cinema-the-ultimate-free-ai-video-generation-handbook",
-        "date": "2026-06-12T07:53:50.315Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
-      {
-        "key": "ddb04d3d11dbd08c335034ba268c89fde1c23b16",
-        "url": "https://www.atlascloud.ai/blog/guides/wan-2.7-vs-seedance-2.0-vs-kling-3.0-which-video-api-should-developers-choose",
-        "date": "2026-06-12T07:52:54.429Z",
-        "reportedAt": "2026-06-12T12:44:44.492Z"
-      },
       {
         "key": "40ea852c0abc4adb666730a2a011b76385a2ac7b",
         "url": "https://www.atlascloud.ai/blog/guides/production-ai-inference-platform-sla-security-private-deployment",
@@ -507,6 +404,36 @@
         "url": "https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade",
         "date": "2026-06-18T06:48:45.778Z",
         "reportedAt": "2026-06-19T06:29:42.457Z"
+      },
+      {
+        "key": "46f68c4fe921683af532c65658d6d0864129faea",
+        "url": "https://www.atlascloud.ai/blog/guides/platform-best-model-each-ai-task",
+        "date": "2026-06-19T15:58:36.448Z",
+        "reportedAt": "2026-06-20T05:42:16.403Z"
+      },
+      {
+        "key": "31dfb72a7194650f672de0cd15de6e38ad4bddc9",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-model-api-platforms-soc-hipaa-enterprise-workloads",
+        "date": "2026-06-19T11:38:30.853Z",
+        "reportedAt": "2026-06-20T05:42:16.403Z"
+      },
+      {
+        "key": "173fa0f115b3334c1f716cb25b0a4105fe4a3f74",
+        "url": "https://www.atlascloud.ai/blog/guides/best-ai-api-platform-smbs-enterprise-reliability",
+        "date": "2026-06-19T11:38:04.644Z",
+        "reportedAt": "2026-06-20T05:42:16.403Z"
+      },
+      {
+        "key": "d9309cde14258a0621fbe1904fae07df31153b96",
+        "url": "https://www.atlascloud.ai/blog/guides/best-platform-building-ai-agents-text-image-video",
+        "date": "2026-06-19T11:37:03.315Z",
+        "reportedAt": "2026-06-20T05:42:16.403Z"
+      },
+      {
+        "key": "9f3637a4f691ac25bdef1a2d826c3270e18879ff",
+        "url": "https://www.atlascloud.ai/blog/guides/best-ai-api-platform-routing-cheap-high-quality-models",
+        "date": "2026-06-19T11:36:26.972Z",
+        "reportedAt": "2026-06-20T05:42:16.403Z"
       }
     ],
     "TopMediai": [],
