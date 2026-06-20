@@ -2914,6 +2914,11 @@
         "url": "https://higgsfield.ai/apps"
       },
       {
+        "id": "58e77ea8955e4df3baff6094d6f20e694c26d44b",
+        "title": "Open GROK IMAGINE 1.5 IS HERE",
+        "url": "https://higgsfield.ai/flow/video/prompt?model=grok_video_v15"
+      },
+      {
         "id": "84904d017455e92088efb683fb8701b13557acc8",
         "title": "Open Higgsfield Plugin for Photoshop",
         "url": "https://higgsfield.ai/plugins/photoshop"
@@ -2927,11 +2932,6 @@
         "id": "479b3f3a7ef0595c4f6181626121d578a2679889",
         "title": "Open Higgsfield Plugin for DaVinci Resolve",
         "url": "https://higgsfield.ai/plugins/davinci"
-      },
-      {
-        "id": "d2be449efbba84d36ba7de7211ea9a6c66e18fe9",
-        "title": "Open Introducing Recraft 4.1",
-        "url": "https://higgsfield.ai/mobile/image/recraft-v4-1"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
