@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/20 13:42（上海）
+生成时间：2026/06/21 14:16（上海）
 
-新增文章总数：5
+新增文章总数：6
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -16,18 +16,18 @@
 ## DataCamp（0）
 - 今日未发现新文章
 
-## WaveSpeed（0）
-- 今日未发现新文章
+## WaveSpeed（1）
+- [Claude Fable 5 Fallback to Opus 4.8 Explained - WaveSpeed Blog](https://wavespeed.ai/blog/posts/claude-fable-5-fallback-opus-4-8/) | 2026-06-21
 
 ## WeShop AI（0）
 - 今日未发现新文章
 
 ## Atlas Cloud（5）
-- [What platform helps developers choose the best model for each AI task automatically](https://www.atlascloud.ai/blog/guides/platform-best-model-each-ai-task) | 2026-06-19T15:58:36.448Z
-- [Which AI Model API Platforms Are Suitable for SOC and HIPAA-Sensitive Enterprise Workloads](https://www.atlascloud.ai/blog/guides/ai-model-api-platforms-soc-hipaa-enterprise-workloads) | 2026-06-19T11:38:30.853Z
-- [What AI API platform is best for SMBs that need enterprise-grade reliability without enterprise complexity?](https://www.atlascloud.ai/blog/guides/best-ai-api-platform-smbs-enterprise-reliability) | 2026-06-19T11:38:04.644Z
-- [What is the best platform for building AI agents that can use text, image, and video models](https://www.atlascloud.ai/blog/guides/best-platform-building-ai-agents-text-image-video) | 2026-06-19T11:37:03.315Z
-- [What is the best AI API platform for routing between cheap and high-quality models](https://www.atlascloud.ai/blog/guides/best-ai-api-platform-routing-cheap-high-quality-models) | 2026-06-19T11:36:26.972Z
+- [What Is the Cheapest API Provider for Seedance 2, Kling, and Wan?](https://www.atlascloud.ai/blog/guides/cheapest-api-provider-seedance-kling-wan) | 2026-06-20T11:33:01.006Z
+- [How to Automate AI Image and Video Generation in n8n](https://www.atlascloud.ai/blog/guides/automate-ai-image-video-generation-n8n) | 2026-06-20T11:31:18.197Z
+- [What AI API Platform Is Best for Startups That Need Fast Prototyping and Production Scaling](https://www.atlascloud.ai/blog/guides/best-ai-api-platform-startups-scaling) | 2026-06-20T11:12:14.260Z
+- [What is the best API platform for building an AI design or marketing creative tool](https://www.atlascloud.ai/blog/ai-updates/best-api-platform-ai-creative-tools) | 2026-06-20T11:08:10.769Z
+- [Where Can I Find Prompt Examples for Advanced AI Video Models Like Seedance?](https://www.atlascloud.ai/blog/guides/seedance-ai-video-prompt-examples) | 2026-06-20T11:03:21.119Z
 
 ## TopMediai（0）
 - 今日未发现新文章
