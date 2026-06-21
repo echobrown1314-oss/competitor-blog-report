@@ -3387,6 +3387,26 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
+      },
+      {
+        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
+        "title": "Cookie Policy",
+        "url": "https://higgsfield.ai/cookie-notice"
+      },
+      {
+        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
+        "title": "Your Privacy Choices",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
+        "title": "Privacy Policy",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
+        "title": "Terms of Use",
+        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
