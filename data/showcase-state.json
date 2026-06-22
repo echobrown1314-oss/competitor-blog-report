@@ -2353,6 +2353,11 @@
         "url": "https://a2e.ai/seedance-1-5-pro/"
       },
       {
+        "id": "c534043a4a8f10a5e2abb71baa86929a6087bb44",
+        "title": "Seedance 2.0 Mini",
+        "url": "https://a2e.ai/seedance-2-0-mini-ai-video-generator/"
+      },
+      {
         "id": "a04b8fc14f340eea3df23ff8468c9063f372d1fe",
         "title": "Grok Imagine",
         "url": "https://a2e.ai/grok-imagine/"
@@ -2613,16 +2618,6 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
-      },
-      {
         "id": "703b4ddc234a846bffdd59501a2c850e4e743544",
         "title": "I Tried Seedance 2.0 Mini for Short AI Videos. Here’s Where It Makes Sense",
         "url": "https://a2e.ai/what-is-seedance-2-0-mini/"
@@ -2676,6 +2671,26 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2927,11 +2942,6 @@
         "id": "9cf70e30e024e6598faca19e6cf26f471eadba5c",
         "title": "Open Meet Higgsfield Games",
         "url": "https://higgsfield.ai/supercomputer/gaming"
-      },
-      {
-        "id": "479b3f3a7ef0595c4f6181626121d578a2679889",
-        "title": "Open Higgsfield Plugin for DaVinci Resolve",
-        "url": "https://higgsfield.ai/plugins/davinci"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
@@ -3387,26 +3397,6 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
-      },
-      {
-        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
-        "title": "Cookie Policy",
-        "url": "https://higgsfield.ai/cookie-notice"
-      },
-      {
-        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
-        "title": "Your Privacy Choices",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
-        "title": "Privacy Policy",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
-        "title": "Terms of Use",
-        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
