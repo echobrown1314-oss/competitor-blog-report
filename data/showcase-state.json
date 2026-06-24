@@ -1114,6 +1114,11 @@
         "url": "https://viddo.ai/seedance-2-0"
       },
       {
+        "id": "02814c23baeb19827fde1f717f8c1a160811c7b9",
+        "title": "Seedance 2.0 Mini",
+        "url": "https://viddo.ai/seedance-2-0?model=seedance-2-0-mini"
+      },
+      {
         "id": "6a99672d5936e41d1f6b63d1a8328193175ea058",
         "title": "Seedance 2.0 Fast",
         "url": "https://viddo.ai/seedance-2-0?model=seedance-2-0-fast"
@@ -2097,11 +2102,6 @@
         "id": "dd71cf57ce4a6ea2a960da94d9d5b7ccd1b30b51",
         "title": "Clothes Spinning Remnant",
         "url": "https://viddo.ai/video-effects/clothes_spinning_remnant"
-      },
-      {
-        "id": "decf4a26dd8c83472f3222285e8f0a0dde4e1db6",
-        "title": "Across the Universe - Jurassic",
-        "url": "https://viddo.ai/video-effects/across_the_universe_jurassic"
       }
     ],
     "DeeVid AI": [
@@ -2228,6 +2228,16 @@
         "url": "https://a2e.ai/privacy-policy/"
       },
       {
+        "id": "9b0cc89b93ad9b10ee7edc283359319a6d54cf21",
+        "title": "Face Swap",
+        "url": "https://a2e.ai/face-swap/"
+      },
+      {
+        "id": "326729b3402843cdd010b51f5067c5e776ceb442",
+        "title": "Head Swap",
+        "url": "https://a2e.ai/head-swap/"
+      },
+      {
         "id": "efc3f5378de3a31a5601857cfa9d3a27c3151e3e",
         "title": "Text to Image",
         "url": "https://a2e.ai/text-to-image/"
@@ -2351,11 +2361,6 @@
         "id": "3116c7226341b62ee07f8b0372e040b620ea900d",
         "title": "Face Swap",
         "url": "https://video.a2e.ai/face-swap"
-      },
-      {
-        "id": "326729b3402843cdd010b51f5067c5e776ceb442",
-        "title": "Head Swap",
-        "url": "https://a2e.ai/head-swap/"
       },
       {
         "id": "db9958a93c341c5604b170cacdc4babe92ff3c93",
@@ -2583,6 +2588,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "743bacfc5e7842491861e42b5ddeee1de0bb54ba",
+        "title": "Doubao-Seed 2.1 Pro: What It Means for AI Video Workflows",
+        "url": "https://a2e.ai/doubao-seed-2-1-pro-ai-video-workflows/"
+      },
+      {
+        "id": "3d73643860de31266bc0595658275f6ce2bbca86",
+        "title": "Seedance 2.5: What 30-Second AI Video Means for Creators and Marketers",
+        "url": "https://a2e.ai/seedance-2-5-30-second-ai-video/"
+      },
+      {
         "id": "703b4ddc234a846bffdd59501a2c850e4e743544",
         "title": "I Tried Seedance 2.0 Mini for Short AI Videos. Here’s Where It Makes Sense",
         "url": "https://a2e.ai/what-is-seedance-2-0-mini/"
@@ -2601,16 +2616,6 @@
         "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
         "title": "Pollo AI vs A2E AI An Honest Comparison for 2026",
         "url": "https://a2e.ai/pollo-ai-vs-a2e-ai-an-honest-comparison-for-2026/"
-      },
-      {
-        "id": "c9bef89e241311be37089058f6018b6518923f53",
-        "title": "I’m a Canva User. Here’s Why I Use a Different Canvas for AI Work.",
-        "url": "https://a2e.ai/im-a-canva-user-heres-why-i-use-a-different-canvas-for-ai-work/"
-      },
-      {
-        "id": "4a31ae7b790fee1ed049d7927007200ffffb51f5",
-        "title": "GPT Image 2.0: What’s Actually Better",
-        "url": "https://a2e.ai/gpt-images-2-0-whats-actually-better/"
       },
       {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
@@ -2894,6 +2899,11 @@
         "url": "https://higgsfield.ai/apps"
       },
       {
+        "id": "629573b47986ae06e3cde66d47b500cd47a241d1",
+        "title": "Open Seedance 2.0 in native 4K",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_0&resolution=4k"
+      },
+      {
         "id": "f0ee74a40ddd597d0d94c4c17516bc24327680b7",
         "title": "Open Seedance 2.0 in 4K",
         "url": "https://higgsfield.ai/flow/video/prompt?model=seedance_2_0&resolution=4k"
@@ -2904,9 +2914,14 @@
         "url": "https://higgsfield.ai/flow/video/prompt?model=grok_video_v15"
       },
       {
-        "id": "84904d017455e92088efb683fb8701b13557acc8",
-        "title": "Open Higgsfield Plugin for Photoshop",
-        "url": "https://higgsfield.ai/plugins/photoshop"
+        "id": "f0fb02eb8b94f1cb208cbfa1c4b6a78f8cda9e90",
+        "title": "MCP & CLINewTurn Claude into a creative engineTry now",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
+        "id": "9326957009d1bbfca487e75bc386c80d94b95274",
+        "title": "SupercomputerNewAgents, automation, skills, connectors, AI drive & moreTry now",
+        "url": "https://higgsfield.ai/supercomputer"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
@@ -2947,6 +2962,51 @@
         "id": "a8992f3d53cd470a68cf44d89d99474d9c66763c",
         "title": "Seedance 2.04K",
         "url": "https://higgsfield.ai/seedance-4k-community"
+      },
+      {
+        "id": "af989b53555100278e06a63780acb87eb77c5e92",
+        "title": "ramzigalimov",
+        "url": "https://higgsfield.ai/@ramzigalimov"
+      },
+      {
+        "id": "5586a7cc68d57297bdf52b82094339c46279b046",
+        "title": "gani_kurkutov",
+        "url": "https://higgsfield.ai/@gani_kurkutov"
+      },
+      {
+        "id": "acbb9c42d6a6afb7c815a22c94231cde0c635af7",
+        "title": "mansuronn",
+        "url": "https://higgsfield.ai/@mansuronn"
+      },
+      {
+        "id": "34b7392714c3b8afd55fcfca6ff093be061c202c",
+        "title": "ayalbyn",
+        "url": "https://higgsfield.ai/@ayalbyn"
+      },
+      {
+        "id": "cea3c59a202fda1d8c12c311ce42a0ffdd48c542",
+        "title": "manyer",
+        "url": "https://higgsfield.ai/@manyer"
+      },
+      {
+        "id": "64789ad80c844fde20933df4206428dcb8766b3b",
+        "title": "adventuringelephant1158",
+        "url": "https://higgsfield.ai/@adventuringelephant1158"
+      },
+      {
+        "id": "0a91a2dd98f87337e3c2927e68e1caf564b4324c",
+        "title": "thinkingaxolotl1273",
+        "url": "https://higgsfield.ai/@thinkingaxolotl1273"
+      },
+      {
+        "id": "e860cefa2e0c4be488b04c8a1f914261cfcaf36d",
+        "title": "nursoultan_higgsfield",
+        "url": "https://higgsfield.ai/@nursoultan_higgsfield"
+      },
+      {
+        "id": "2679cb5bf89a503717e32fd8aa461d6e1d84be5f",
+        "title": "kavkaz",
+        "url": "https://higgsfield.ai/@kavkaz"
       },
       {
         "id": "6922b2fe4980b99a54ee99859292f781c91090c6",
