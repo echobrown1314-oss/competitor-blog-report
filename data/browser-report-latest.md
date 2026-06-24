@@ -1,14 +1,14 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/23 13:13（上海）
+生成时间：2026/06/24 13:10（上海）
 
-新增文章总数：7
+新增文章总数：8
 
 ## LitMedia（0）
 - 今日未发现新文章
 
-## MindVideo（1）
-- [How to Create a Viral Talking Baby Podcast with AI: Step-by-Step Guide](https://www.mindvideo.ai/blog/how-to-create-viral-talking-baby-podcast-with-ai/) | 2026-06-22
+## MindVideo（0）
+- 今日未发现新文章
 
 ## Topview（0）
 - 今日未发现新文章
@@ -16,18 +16,19 @@
 ## DataCamp（0）
 - 今日未发现新文章
 
-## WaveSpeed（0）
-- 今日未发现新文章
+## WaveSpeed（4）
+- [Claude Sonnet 5 API Watch: Access and Migration - WaveSpeed Blog](https://wavespeed.ai/blog/posts/claude-sonnet-5-api-watch/) | 2026-06-23
+- [Fugu Ultra API Guide: Setup, Pricing, and Usage - WaveSpeed Blog](https://wavespeed.ai/blog/posts/fugu-ultra-api-guide/) | 2026-06-23
+- [Fugu vs Fugu Ultra: Cost, Latency, and Use Cases - WaveSpeed Blog](https://wavespeed.ai/blog/posts/fugu-vs-fugu-ultra/) | 2026-06-23
+- [What Is Fugu Ultra? Sakana AI](https://wavespeed.ai/blog/posts/what-is-fugu-ultra/) | 2026-06-23
 
-## WeShop AI（3）
-- [Polaroid Filter Online: Make Vintage Photos Free](https://www.weshop.ai/blog/one-ordinary-photo-one-vintage-polaroid-look-everyone-will-ask-about/) | 2026-06-22T19:31:21+00:00
-- [Digital Camera Filter Online for 2000s Photos](https://www.weshop.ai/blog/digital-camera-filter-online-create-2000s-camera-photos-without-buying-a-ccd/) | 2026-06-22T18:04:12+00:00
-- [No Photoshoot? No Problem: Create Latina-Inspired Fashion Visuals with AI Latina Generator – WeShop AI Blog](https://www.weshop.ai/blog/no-photoshoot-no-problem-create-latina-inspired-fashion-visuals-with-ai-latina-generator/) | 2026-06-22T16:33:05+00:00
+## WeShop AI（2）
+- [Find Your Signature Color: Ultimate AI Styling Guide](https://www.weshop.ai/blog/reveal-secrets-to-your-flawless-signature-color-instantly/) | 2026-06-23T14:56:09+00:00
+- [Tired of Bad Haircuts? Get a Flawless Free Hairstyle Analysis Instantly – WeShop AI Blog](https://www.weshop.ai/blog/tired-of-bad-haircuts-get-a-flawless-free-hairstyle-analysis-instantly/) | 2026-06-23T14:52:22+00:00
 
-## Atlas Cloud（3）
-- [How to Reduce AI Coding Token Cost: 7 Proven Tactics for 2026](https://www.atlascloud.ai/blog/guides/reduce-ai-coding-token-cost) | 2026-06-22T10:33:28.795Z
-- [Claude Code Third Party API Setup: A Step-by-Step Guide for 2026](https://www.atlascloud.ai/blog/guides/claude-code-third-party-api-setup) | 2026-06-22T10:14:13.792Z
-- [Kling 2.1 Review: Performance, Tiers & Genuine API Cost Tested](https://www.atlascloud.ai/blog/guides/kling-2-1-review) | 2026-06-22T08:21:55.127Z
+## Atlas Cloud（2）
+- [What](https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-whatsnew) | 2026-06-24T04:10:18.210Z
+- [Kling 2.6 Review: The Ultimate Guide to Perfect Native Audio Sync](https://www.atlascloud.ai/blog/guides/kling-2-6-review) | 2026-06-23T08:15:41.308Z
 
 ## TopMediai（0）
 - 今日未发现新文章

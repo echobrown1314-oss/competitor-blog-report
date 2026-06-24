@@ -13,18 +13,6 @@
     "DataCamp": [],
     "WaveSpeed": [
       {
-        "key": "453bfe936e96e8260e2101d74add2b057ca03623",
-        "url": "https://wavespeed.ai/blog/posts/gpt-5-4-mini-api/",
-        "date": "2026-06-15",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "8abd21f3d769b087e8fbc1a8cf187ffbd488f66f",
-        "url": "https://wavespeed.ai/blog/posts/minimax-m3-api/",
-        "date": "2026-06-15",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
         "key": "ac49617814824a9d85e3fea9881448f6a45607f3",
         "url": "https://wavespeed.ai/blog/posts/minimax-m3-price/",
         "date": "2026-06-16",
@@ -59,21 +47,33 @@
         "url": "https://wavespeed.ai/blog/posts/claude-fable-5-fallback-opus-4-8/",
         "date": "2026-06-21",
         "reportedAt": "2026-06-21T06:16:38.840Z"
+      },
+      {
+        "key": "865d027a90edf6afaba4f77d10e22b1a8f4bb81d",
+        "url": "https://wavespeed.ai/blog/posts/claude-sonnet-5-api-watch/",
+        "date": "2026-06-23",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "70d797045f9a4fd1fce7457a69d549a8c8e649e4",
+        "url": "https://wavespeed.ai/blog/posts/fugu-ultra-api-guide/",
+        "date": "2026-06-23",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "7b1a95e0d7f805d186a76fa33e7d36d8dd1a7437",
+        "url": "https://wavespeed.ai/blog/posts/fugu-vs-fugu-ultra/",
+        "date": "2026-06-23",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "d071af3ebbd9c377c91830a69cdca0602f7943a9",
+        "url": "https://wavespeed.ai/blog/posts/what-is-fugu-ultra/",
+        "date": "2026-06-23",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
       }
     ],
     "WeShop AI": [
-      {
-        "key": "3b51706ecf93a7675458f8ca8793c3d0597e1381",
-        "url": "https://www.weshop.ai/blog/no-celebrity-budget-use-weshop-ai-celebrity-video-generator-to-create-star-style-ai-videos-fast/",
-        "date": "2026-06-15T12:20:37+00:00",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "e48d37e0148ab185075757fcf79a71ebbe11328a",
-        "url": "https://www.weshop.ai/blog/animal-shorts-generator-tutorial-turn-a-pet-image-into-a-viral-ai-animal-video/",
-        "date": "2026-06-15T10:54:48+00:00",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
       {
         "key": "89619153c413e4fbe78b5bc27c8ef666b4d90f76",
         "url": "https://www.weshop.ai/blog/not-every-song-needs-an-mv-ai-instrument-playing-video-is-the-new-music-promo-asset/",
@@ -133,45 +133,21 @@
         "url": "https://www.weshop.ai/blog/no-photoshoot-no-problem-create-latina-inspired-fashion-visuals-with-ai-latina-generator/",
         "date": "2026-06-22T16:33:05+00:00",
         "reportedAt": "2026-06-23T05:13:19.855Z"
+      },
+      {
+        "key": "90fb8a071546c7e87ca1288310e352b24d3875bf",
+        "url": "https://www.weshop.ai/blog/reveal-secrets-to-your-flawless-signature-color-instantly/",
+        "date": "2026-06-23T14:56:09+00:00",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "17c97b01a7ffa136ae89fc36e86185d21806bcdc",
+        "url": "https://www.weshop.ai/blog/tired-of-bad-haircuts-get-a-flawless-free-hairstyle-analysis-instantly/",
+        "date": "2026-06-23T14:52:22+00:00",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "99b04295d9f8570fb3e8c62736263f817464668d",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-vs-gemini-omni-flash",
-        "date": "2026-06-16T02:15:48.917Z",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "3d3d340213b9746c0f058f389f201342d6162c87",
-        "url": "https://www.atlascloud.ai/blog/guides/how-to-use-gemini-omni-api",
-        "date": "2026-06-16T02:15:26.558Z",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "2f4a967987c43a9454602ce8d444f719c2d9c828",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-motion-control",
-        "date": "2026-06-16T02:14:58.114Z",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "1cdf0c862509921cd1fc0b09e6dcdef76bb26e66",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-lip-sync",
-        "date": "2026-06-16T02:14:37.874Z",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "633b51f99aea5a38977e3b75fa1d7240c5f2debd",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-nsfw-policy",
-        "date": "2026-06-15T11:01:48.899Z",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
-      {
-        "key": "f76123794d323fb3e95672dcff1e7738605eb283",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-pricing",
-        "date": "2026-06-15T08:39:01.119Z",
-        "reportedAt": "2026-06-16T06:42:38.457Z"
-      },
       {
         "key": "dccbee9358ece0a29876f74f3e4efe00cf6093af",
         "url": "https://www.atlascloud.ai/blog/guides/how-to-use-kling-3.0-for-character-consistency",
@@ -387,6 +363,18 @@
         "url": "https://www.atlascloud.ai/blog/guides/kling-2-1-review",
         "date": "2026-06-22T08:21:55.127Z",
         "reportedAt": "2026-06-23T05:13:19.855Z"
+      },
+      {
+        "key": "9fb7b52fcd26e787b4d5d539179968d722eebba3",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-whatsnew",
+        "date": "2026-06-24T04:10:18.210Z",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "ee65f36038f5831f82396dc9f450052e57626f40",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-2-6-review",
+        "date": "2026-06-23T08:15:41.308Z",
+        "reportedAt": "2026-06-24T05:10:33.262Z"
       }
     ],
     "TopMediai": [],
