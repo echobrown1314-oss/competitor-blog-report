@@ -1294,14 +1294,14 @@
         "url": "https://viddo.ai/text-to-speech"
       },
       {
-        "id": "bb112dbcf16df64689eedc757fa05883ce90617a",
-        "title": "minimax 2.5 HD",
-        "url": "https://viddo.ai/text-to-speech?model=speech-2.5-hd-preview"
+        "id": "75a8fa3728a749c6b65d4ca5691f769e8e05ede7",
+        "title": "MiniMax 2.8 HD",
+        "url": "https://viddo.ai/text-to-speech?model=speech-2.8-hd"
       },
       {
-        "id": "038bc3664461ad9f4b18216f5c99f6671c9d131b",
-        "title": "minimax 2.5 Turbo",
-        "url": "https://viddo.ai/text-to-speech?model=speech-2.5-turbo-preview"
+        "id": "8da807d170e62e36fe1a09f6b793e43adf618da6",
+        "title": "MiniMax 2.8 Turbo",
+        "url": "https://viddo.ai/text-to-speech?model=speech-2.8-turbo"
       },
       {
         "id": "bf890f734486fd8bad9396ff50167a0dd67e58e4",
@@ -2413,9 +2413,24 @@
         "url": "https://a2e.ai/youtube-download/"
       },
       {
-        "id": "9734b5a5f3aedca7206bb3d48197ec71154dcc08",
-        "title": "AI Avatar API",
-        "url": "https://a2e.ai/ai-avatar-api/"
+        "id": "e2b2c65b9dd704f82e2814e89241d81945077a22",
+        "title": "Free",
+        "url": "https://a2e.ai/api/"
+      },
+      {
+        "id": "c0cdf941761b3b7b526035b9ec35cb19b83af318",
+        "title": "Upscale",
+        "url": "https://video.a2e.ai/video-toolbox/upscale"
+      },
+      {
+        "id": "b9a97443248487046d010e7c635bee8d3d36bae6",
+        "title": "Video Downloader",
+        "url": "https://video.a2e.ai/video-toolbox/video-downloader"
+      },
+      {
+        "id": "c5622b9198b14be636af0e869cae0fca67d37d9a",
+        "title": "Subtitle Remover",
+        "url": "https://video.a2e.ai/video-toolbox/subtitle-remover"
       },
       {
         "id": "5fc48d106639111984c0adc8ad0e8614e80ec6b4",
@@ -2588,6 +2603,21 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
+        "id": "5fd5b5325afd030e4ae38ffbeddf7983ace8fbf4",
+        "title": "HappyHorse 1.1: What Alibaba’s New AI Video Model Means for Creators",
+        "url": "https://a2e.ai/happyhorse-1-1-ai-video-model/"
+      },
+      {
         "id": "743bacfc5e7842491861e42b5ddeee1de0bb54ba",
         "title": "Doubao-Seed 2.1 Pro: What It Means for AI Video Workflows",
         "url": "https://a2e.ai/doubao-seed-2-1-pro-ai-video-workflows/"
@@ -2613,11 +2643,6 @@
         "url": "https://a2e.ai/cheapest-seedance-2-pricing/"
       },
       {
-        "id": "d76789ca898238036f37e9cdcfa1cd533b65491b",
-        "title": "Pollo AI vs A2E AI An Honest Comparison for 2026",
-        "url": "https://a2e.ai/pollo-ai-vs-a2e-ai-an-honest-comparison-for-2026/"
-      },
-      {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
         "title": "cost-effective",
         "url": "https://a2e.ai/why-choose-avatar-api-over-opensource/"
@@ -2641,26 +2666,6 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
-      },
-      {
-        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
-        "title": "API Doc",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2884,9 +2889,9 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "2da751e7179a50ae7d8198657b3e74813169ac84",
-        "title": "AI Influencer",
-        "url": "https://higgsfield.ai/ai-influencer-studio"
+        "id": "3147a364c6c6b03642d375363abdd3340b9f57fd",
+        "title": "Originals",
+        "url": "https://higgsfield.ai/original-series"
       },
       {
         "id": "f3598f81a8e5cc693209fca599306c6deafec677",
@@ -2894,9 +2899,19 @@
         "url": "https://higgsfield.ai/canvas"
       },
       {
+        "id": "2da751e7179a50ae7d8198657b3e74813169ac84",
+        "title": "AI Influencer",
+        "url": "https://higgsfield.ai/ai-influencer-studio"
+      },
+      {
         "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
         "title": "Apps",
         "url": "https://higgsfield.ai/apps"
+      },
+      {
+        "id": "612f4950c36280ff8a126c74782fa50d4724a0a1",
+        "title": "Open KOK BORU — THE TRAILER IS HERE",
+        "url": "https://higgsfield.ai/original-series/kok-boru/episode-0"
       },
       {
         "id": "629573b47986ae06e3cde66d47b500cd47a241d1",
@@ -2907,11 +2922,6 @@
         "id": "f0ee74a40ddd597d0d94c4c17516bc24327680b7",
         "title": "Open Seedance 2.0 in 4K",
         "url": "https://higgsfield.ai/flow/video/prompt?model=seedance_2_0&resolution=4k"
-      },
-      {
-        "id": "58e77ea8955e4df3baff6094d6f20e694c26d44b",
-        "title": "Open GROK IMAGINE 1.5 IS HERE",
-        "url": "https://higgsfield.ai/flow/video/prompt?model=grok_video_v15"
       },
       {
         "id": "f0fb02eb8b94f1cb208cbfa1c4b6a78f8cda9e90",
@@ -2994,9 +3004,9 @@
         "url": "https://higgsfield.ai/@adventuringelephant1158"
       },
       {
-        "id": "0a91a2dd98f87337e3c2927e68e1caf564b4324c",
-        "title": "thinkingaxolotl1273",
-        "url": "https://higgsfield.ai/@thinkingaxolotl1273"
+        "id": "158e471818053aba93726ed04a46d9475f374f6b",
+        "title": "gavais",
+        "url": "https://higgsfield.ai/@gavais"
       },
       {
         "id": "e860cefa2e0c4be488b04c8a1f914261cfcaf36d",
@@ -3012,6 +3022,16 @@
         "id": "6922b2fe4980b99a54ee99859292f781c91090c6",
         "title": "View all of Seedance 2.0",
         "url": "https://higgsfield.ai/seedance-4k-community"
+      },
+      {
+        "id": "91877b8b043ffb08ca185b33524f7829bdf99978",
+        "title": "Watch Zephyr",
+        "url": "https://higgsfield.ai/original-series"
+      },
+      {
+        "id": "5bae2a18de403cb653be610e038f52b05561c92b",
+        "title": "Watch now",
+        "url": "https://higgsfield.ai/original-series"
       },
       {
         "id": "b068f213c38e168a4ccb1b207c558e6e1debf48a",
@@ -3057,16 +3077,6 @@
         "id": "11820136747f650fe3c54e8945d0e72c4b3096ed",
         "title": "View all of Seedance 2.0",
         "url": "https://higgsfield.ai/seedance-2-community"
-      },
-      {
-        "id": "91877b8b043ffb08ca185b33524f7829bdf99978",
-        "title": "Watch Zephyr",
-        "url": "https://higgsfield.ai/original-series"
-      },
-      {
-        "id": "5bae2a18de403cb653be610e038f52b05561c92b",
-        "title": "Watch now",
-        "url": "https://higgsfield.ai/original-series"
       },
       {
         "id": "fb4e03e99a9452a3affdd6e700ec66184dda908b",
@@ -3412,26 +3422,6 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
-      },
-      {
-        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
-        "title": "Cookie Policy",
-        "url": "https://higgsfield.ai/cookie-notice"
-      },
-      {
-        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
-        "title": "Your Privacy Choices",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
-        "title": "Privacy Policy",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
-        "title": "Terms of Use",
-        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
