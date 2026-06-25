@@ -13,12 +13,6 @@
     "DataCamp": [],
     "WaveSpeed": [
       {
-        "key": "ac49617814824a9d85e3fea9881448f6a45607f3",
-        "url": "https://wavespeed.ai/blog/posts/minimax-m3-price/",
-        "date": "2026-06-16",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
         "key": "03790756d56551d71076ed3d161741ba40049e5f",
         "url": "https://wavespeed.ai/blog/posts/glm-5-2-api/",
         "date": "2026-06-18",
@@ -75,24 +69,6 @@
     ],
     "WeShop AI": [
       {
-        "key": "89619153c413e4fbe78b5bc27c8ef666b4d90f76",
-        "url": "https://www.weshop.ai/blog/not-every-song-needs-an-mv-ai-instrument-playing-video-is-the-new-music-promo-asset/",
-        "date": "2026-06-16T17:58:09+00:00",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
-        "key": "fea0d4997301b14bc33b655171920ed16bfc1ceb",
-        "url": "https://www.weshop.ai/blog/can-movie-intro-maker-make-your-first-5-seconds-feel-cinematic-the-answer-is-here/",
-        "date": "2026-06-16T16:23:06+00:00",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
-        "key": "69ed802c76d989a01efbe2ba83090c9c2c192a4c",
-        "url": "https://www.weshop.ai/blog/turn-your-selfie-into-a-world-cup-poster-with-a-world-cup-ai-photo-generator/",
-        "date": "2026-06-16T09:21:53+00:00",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
         "key": "3704629f9493e738cc612033cbdfe7bf9b7b1f56",
         "url": "https://www.weshop.ai/blog/tiktoks-fastest-growing-fashion-trend-how-to-create-a-receipt-ootd-with-weshop-ai/",
         "date": "2026-06-18T18:58:34+00:00",
@@ -145,39 +121,39 @@
         "url": "https://www.weshop.ai/blog/tired-of-bad-haircuts-get-a-flawless-free-hairstyle-analysis-instantly/",
         "date": "2026-06-23T14:52:22+00:00",
         "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "ecc6b9d23f1d15d663ddedfe2f552fb1c54e0aa4",
+        "url": "https://www.weshop.ai/blog/candle-mockup-generator-create-candle-product-photos-without-a-photoshoot/",
+        "date": "2026-06-24T15:27:15+00:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "7e989952c3192312198ca4bed26c24f74f8c7d29",
+        "url": "https://www.weshop.ai/blog/digital-camera-filter-online-get-the-ccd-vibe-without-a-ccd/",
+        "date": "2026-06-24T14:46:11+00:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "068742eb693ff038213bda04206425361cfd2200",
+        "url": "https://www.weshop.ai/blog/tired-of-ai-couple-photos-making-you-look-like-twins-try-an-ai-kissing-video-generator/",
+        "date": "2026-06-24T13:54:18+00:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "7822e14012c6da8f246174f20c9ce917536c1ae8",
+        "url": "https://www.weshop.ai/blog/your-video-deserves-a-better-first-3-seconds-create-youtube-intros-with-ai/",
+        "date": "2026-06-24T12:42:39+00:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "f11773cdea982fbae0c5c9535d270d5dcfd5b1dc",
+        "url": "https://www.weshop.ai/blog/your-product-photo-is-not-dead-turn-it-into-instagram-reels-stories-and-feed-videos-with-ai/",
+        "date": "2026-06-24T10:47:13+00:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "dccbee9358ece0a29876f74f3e4efe00cf6093af",
-        "url": "https://www.atlascloud.ai/blog/guides/how-to-use-kling-3.0-for-character-consistency",
-        "date": "2026-06-17T03:26:10.578Z",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
-        "key": "2018d1e866c9f8b47a14362f7ec8166af189ea8e",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-video-prompt-guide",
-        "date": "2026-06-17T03:24:50.789Z",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
-        "key": "6c6d617f9c0e68ce2f8a48c593385e62b07daf25",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-asset-library",
-        "date": "2026-06-16T09:31:44.304Z",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
-        "key": "1bfac5e9315dc669b2942fe7e8fc86190a49a3aa",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-video-length-limit",
-        "date": "2026-06-16T09:11:17.332Z",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
-      {
-        "key": "e2c4531427a2fd19a1fa985f8518af22a5c61c1e",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-free",
-        "date": "2026-06-16T08:16:10.490Z",
-        "reportedAt": "2026-06-17T06:26:16.341Z"
-      },
       {
         "key": "7f0e0942b42e95286796d08c033a4422ca5578c8",
         "url": "https://www.atlascloud.ai/blog/guides/reclaiming-the-warmth-of-music-audiomuse-ai",
@@ -375,9 +351,64 @@
         "url": "https://www.atlascloud.ai/blog/guides/kling-2-6-review",
         "date": "2026-06-23T08:15:41.308Z",
         "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "ceb22b8f2b6b365fe69543bc3aa0cba92bdaaeb2",
+        "url": "https://www.atlascloud.ai/blog/guides/coding-agent-custom-api-cheatsheet",
+        "date": "2026-06-25T05:00:21.209Z",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "c6195377deffd238101506810eeb84a5988a0122",
+        "url": "https://www.atlascloud.ai/blog/guides/openclaw-custom-api-setup",
+        "date": "2026-06-25T04:24:54.483Z",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "424b6950c397f25890faa3eb96111b6ea8b83ca7",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-2-0-review",
+        "date": "2026-06-24T08:15:18.735Z",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "da61fbd1eca5b14a1ef735d5a6e8510b1f4f2601",
+        "url": "https://www.atlascloud.ai/blog/guides/happyhorse-1.1-vs-happyhorse-1.0",
+        "date": "2026-06-24T07:18:10.230Z",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "58cbb821824fce34e44a9d8555a7e0d75cb0a541",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-vs-seedance-2",
+        "date": "2026-06-24T06:50:13.807Z",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "2f4e5f3829e138d85956e49a631e86fa2b71005f",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-whatsnew",
+        "date": "2026-06-24T06:04:16.768Z",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
       }
     ],
-    "TopMediai": [],
+    "TopMediai": [
+      {
+        "key": "8eccb7521441035155bc0238f19ad2f24cef9cea",
+        "url": "https://www.topmediai.com/video-tips/ai-video-from-photo/",
+        "date": "2026-06-24T16:24:18+08:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "ca0bb776415840d022732f93bfb01c0c972af638",
+        "url": "https://www.topmediai.com/video-tips/ai-selfie-generator/",
+        "date": "2026-06-24T16:09:48+08:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      },
+      {
+        "key": "7aa52a2cc6b0d12abb0191ce2aac6b49714974c0",
+        "url": "https://www.topmediai.com/video-tips/ai-police-arrested-video-generator/",
+        "date": "2026-06-24T15:56:27+08:00",
+        "reportedAt": "2026-06-25T05:14:28.768Z"
+      }
+    ],
     "JXP": []
   }
 }
