@@ -1124,14 +1124,14 @@
         "url": "https://viddo.ai/seedance-2-0?model=seedance-2-0-fast"
       },
       {
+        "id": "31330fc5c5ee0341180bef2140cfbbd154e26d16",
+        "title": "OmniHuman 1.5",
+        "url": "https://viddo.ai/ai-avatar?model=omnihuman-1-5"
+      },
+      {
         "id": "9cf140ca76b58062d5a88f2aa69199c9d5492596",
         "title": "Seedance 1.5 Pro",
         "url": "https://viddo.ai/seedance-1-5-pro"
-      },
-      {
-        "id": "f6a85be52cf5ff86f9557a05d9e06e4ab6ff1f9c",
-        "title": "Seedance V1",
-        "url": "https://viddo.ai/seedance"
       },
       {
         "id": "31f76fac854f43f023678933634b5aae5208faad",
@@ -2603,14 +2603,9 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+        "id": "8cbe36d2ab88bc56d019bb6226eaf0833fd6a5e3",
+        "title": "A2E AI & Tripo: Improve a Visual Concept and Turn It into a 3D Model",
+        "url": "https://a2e.ai/a2e-ai-tripo-from-edited-image-to-3d-model/"
       },
       {
         "id": "5fd5b5325afd030e4ae38ffbeddf7983ace8fbf4",
@@ -2638,11 +2633,6 @@
         "url": "https://a2e.ai/is-seedance-2-0-better-than-kling/"
       },
       {
-        "id": "e12a330f99507e5d9cf4286518e88a10fc1675f4",
-        "title": "Cheapest Way to Use Seedance 2.0: 2026 Pricing Compared",
-        "url": "https://a2e.ai/cheapest-seedance-2-pricing/"
-      },
-      {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
         "title": "cost-effective",
         "url": "https://a2e.ai/why-choose-avatar-api-over-opensource/"
@@ -2666,6 +2656,26 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2924,16 +2934,6 @@
         "url": "https://higgsfield.ai/flow/video/prompt?model=seedance_2_0&resolution=4k"
       },
       {
-        "id": "f0fb02eb8b94f1cb208cbfa1c4b6a78f8cda9e90",
-        "title": "MCP & CLINewTurn Claude into a creative engineTry now",
-        "url": "https://higgsfield.ai/mcp"
-      },
-      {
-        "id": "9326957009d1bbfca487e75bc386c80d94b95274",
-        "title": "SupercomputerNewAgents, automation, skills, connectors, AI drive & moreTry now",
-        "url": "https://higgsfield.ai/supercomputer"
-      },
-      {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
         "title": "SupercomputerAgents, automation, skills & moreNew",
         "url": "https://higgsfield.ai/supercomputer"
@@ -2969,11 +2969,6 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "a8992f3d53cd470a68cf44d89d99474d9c66763c",
-        "title": "Seedance 2.04K",
-        "url": "https://higgsfield.ai/seedance-4k-community"
-      },
-      {
         "id": "af989b53555100278e06a63780acb87eb77c5e92",
         "title": "ramzigalimov",
         "url": "https://higgsfield.ai/@ramzigalimov"
@@ -3004,6 +2999,11 @@
         "url": "https://higgsfield.ai/@adventuringelephant1158"
       },
       {
+        "id": "0a8c0b34c7365f59c5dc00721537df2f1b729d34",
+        "title": "dxkonay",
+        "url": "https://higgsfield.ai/@dxkonay"
+      },
+      {
         "id": "158e471818053aba93726ed04a46d9475f374f6b",
         "title": "gavais",
         "url": "https://higgsfield.ai/@gavais"
@@ -3017,6 +3017,11 @@
         "id": "2679cb5bf89a503717e32fd8aa461d6e1d84be5f",
         "title": "kavkaz",
         "url": "https://higgsfield.ai/@kavkaz"
+      },
+      {
+        "id": "84e43679d36075409278c1a814195498060158fe",
+        "title": "quantumgrape1273",
+        "url": "https://higgsfield.ai/@quantumgrape1273"
       },
       {
         "id": "6922b2fe4980b99a54ee99859292f781c91090c6",
@@ -3314,29 +3319,9 @@
         "url": "https://higgsfield.ai/character"
       },
       {
-        "id": "405e32b50a9bbe6f6e078285e3a95b2b8b6a54bd",
-        "title": "Draw to Edit",
-        "url": "https://higgsfield.ai/ai/video?image-inpaint=true"
-      },
-      {
-        "id": "b9655bb78245aed1438f379d7a0e09b262650c74",
-        "title": "Fashion Factory",
-        "url": "https://higgsfield.ai/fashion-factory"
-      },
-      {
         "id": "996e8a5fabd1652631e8bc3b6fc0b2099395503f",
         "title": "Mixed media",
         "url": "https://higgsfield.ai/mixed-media-intro"
-      },
-      {
-        "id": "4b803202848d2da4cde4ff1816a8874c034177ee",
-        "title": "Sora 2 Introduction",
-        "url": "https://higgsfield.ai/sora-2"
-      },
-      {
-        "id": "8bed42d9304fc9be2413a61891dcd21b8b9267ea",
-        "title": "Veo 3.1 Introduction",
-        "url": "https://higgsfield.ai/veo3.1"
       },
       {
         "id": "528a0cacc40892f7308d96e6a4cd4fcacf22952e",
@@ -3347,11 +3332,6 @@
         "id": "77673b33a2d75f792ddd9d53d769f47f210a9a1f",
         "title": "Product Placement",
         "url": "https://higgsfield.ai/edit?model=canvas"
-      },
-      {
-        "id": "bb2cd6a6b591945b9b1235f2de9ee4d99f95e4c5",
-        "title": "Multi Reference",
-        "url": "https://higgsfield.ai/edit?model=multi"
       },
       {
         "id": "a9872bcbb4261f47280a02a35063a64593fdc30c",
@@ -3422,6 +3402,26 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
+      },
+      {
+        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
+        "title": "Cookie Policy",
+        "url": "https://higgsfield.ai/cookie-notice"
+      },
+      {
+        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
+        "title": "Your Privacy Choices",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
+        "title": "Privacy Policy",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
+        "title": "Terms of Use",
+        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
