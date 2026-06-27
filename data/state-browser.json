@@ -45,18 +45,6 @@
     ],
     "WeShop AI": [
       {
-        "key": "3704629f9493e738cc612033cbdfe7bf9b7b1f56",
-        "url": "https://www.weshop.ai/blog/tiktoks-fastest-growing-fashion-trend-how-to-create-a-receipt-ootd-with-weshop-ai/",
-        "date": "2026-06-18T18:58:34+00:00",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "9e3770d92cfcb9b65eb1fb77efb0a34acd34d218",
-        "url": "https://www.weshop.ai/blog/i-tried-an-image-to-video-ai-generator-one-photo-became-a-scroll-stopping-video-in-seconds/",
-        "date": "2026-06-18T17:52:52+00:00",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
         "key": "7398225644f7700ae131d0722eb882779a20c352",
         "url": "https://www.weshop.ai/blog/paper-cutout-ootd-turn-your-outfit-into-a-viral-fashion-collage/",
         "date": "2026-06-21T19:32:55+00:00",
@@ -139,63 +127,21 @@
         "url": "https://www.weshop.ai/blog/no-camera-no-trip-outside-i-made-cinematic-first-person-pov-videos-with-ai/",
         "date": "2026-06-25T14:56:09+00:00",
         "reportedAt": "2026-06-26T05:20:19.274Z"
+      },
+      {
+        "key": "ce1f2136a83cb6a98d87543cf18966688a4066f3",
+        "url": "https://www.weshop.ai/blog/ghibli-filter-guide-how-to-make-stunning-aesthetic-plog-easily/",
+        "date": "2026-06-26T16:26:09+00:00",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
+      },
+      {
+        "key": "5b058829c8bee90a65092679097221c90828fd9e",
+        "url": "https://www.weshop.ai/blog/the-ultimate-graduation-poster-guide-how-to-make-stunning-campus-memories-easily/",
+        "date": "2026-06-26T16:25:41+00:00",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "7fb96389288b05cb9b8d9154ab840bdd07a3cac9",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0",
-        "date": "2026-06-18T11:43:59.567Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "30ecca2df9ed9ae73d1576d6c9e8e3206000b2af",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-performance-review",
-        "date": "2026-06-18T11:29:21.372Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "10592df8e353cc8bc16ae6d4d59b36845740f67a",
-        "url": "https://www.atlascloud.ai/blog/guides/advanced-kling-3-cinematic-video-tutorial",
-        "date": "2026-06-18T09:04:47.298Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "87bdd6bae305c64f05adf03d42302b96e31abc2b",
-        "url": "https://www.atlascloud.ai/blog/guides/openai-compatible-api-provider-supports-deepseek-qwen-kimi-minimax-glm",
-        "date": "2026-06-18T07:16:54.319Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "50954221faa552b8e34baca0938475d54d81894b",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-kling-omni",
-        "date": "2026-06-18T06:56:18.710Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "f7cfd4540faf16317b035e0d2d4e92ce49f91c86",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-review-features-pricing-ai-alternatives",
-        "date": "2026-06-18T06:54:03.763Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "c8a5a028d179704708fb7529b5fa0e3d643a889c",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-vs-kling-3.0",
-        "date": "2026-06-18T06:53:28.610Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "7d5b037015f5db98bbf62e2bbb0c5423e0830634",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview",
-        "date": "2026-06-18T06:49:07.643Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
-      {
-        "key": "42b4e22a92e2947661b57fec59848ff2c1a5db6e",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade",
-        "date": "2026-06-18T06:48:45.778Z",
-        "reportedAt": "2026-06-19T06:29:42.457Z"
-      },
       {
         "key": "46f68c4fe921683af532c65658d6d0864129faea",
         "url": "https://www.atlascloud.ai/blog/guides/platform-best-model-each-ai-task",
@@ -327,6 +273,30 @@
         "url": "https://www.atlascloud.ai/blog/guides/kling-ai-1-6-review",
         "date": "2026-06-25T08:11:16.287Z",
         "reportedAt": "2026-06-26T05:20:19.274Z"
+      },
+      {
+        "key": "e7f3475e56d2ffc06fded88e6e50c9e13019e40f",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0",
+        "date": "2026-06-26T10:01:50.606Z",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
+      },
+      {
+        "key": "7623846a0a3e0d0bc65da9da74acaebd138e9432",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-performance-review",
+        "date": "2026-06-26T10:00:00.426Z",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
+      },
+      {
+        "key": "cd49f054fda910ef5e08f3057302a732b9162d5e",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-vs-runway-vs-luma",
+        "date": "2026-06-26T08:46:31.658Z",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
+      },
+      {
+        "key": "5b2bde7256ab7555447793190423fb28f7aac44c",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview",
+        "date": "2026-06-26T08:36:40.542Z",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
       }
     ],
     "TopMediai": [
@@ -353,6 +323,12 @@
         "url": "https://www.topmediai.com/video-tips/world-cup-ai-video-generator/",
         "date": "2026-06-25T19:18:26+08:00",
         "reportedAt": "2026-06-26T05:20:19.274Z"
+      },
+      {
+        "key": "93c6b9606468a330efe16aca98130f0276f56e40",
+        "url": "https://www.topmediai.com/video-tips/turn-image-into-video-ai/",
+        "date": "2026-06-26T17:47:04+08:00",
+        "reportedAt": "2026-06-27T05:02:43.321Z"
       }
     ],
     "JXP": []
