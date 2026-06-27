@@ -2603,6 +2603,21 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
+        "id": "155ac0f2f097e7f85409764a044a6d9ee1060d74",
+        "title": "AI-Generated TV Ads: What Disney’s New Tool Means for Small Brands",
+        "url": "https://a2e.ai/ai-generated-tv-ads-small-brands/"
+      },
+      {
         "id": "8cbe36d2ab88bc56d019bb6226eaf0833fd6a5e3",
         "title": "A2E AI & Tripo: Improve a Visual Concept and Turn It into a 3D Model",
         "url": "https://a2e.ai/a2e-ai-tripo-from-edited-image-to-3d-model/"
@@ -2628,11 +2643,6 @@
         "url": "https://a2e.ai/what-is-seedance-2-0-mini/"
       },
       {
-        "id": "b6db2f09e84613bebb4ef54403d1f7737f3d04ad",
-        "title": "Is Seedance 2.0 Better Than Kling?",
-        "url": "https://a2e.ai/is-seedance-2-0-better-than-kling/"
-      },
-      {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
         "title": "cost-effective",
         "url": "https://a2e.ai/why-choose-avatar-api-over-opensource/"
@@ -2656,26 +2666,6 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
-      },
-      {
-        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
-        "title": "API Doc",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2700,14 +2690,64 @@
         "url": "https://kling.ai/app/text-to-audio/new"
       },
       {
-        "id": "eb9e974a06f45ff7917689eb2b72485ba89500b5",
-        "title": "Talent Network",
-        "url": "https://kling.ai/app/future-partner/customer"
+        "id": "cf6f0e143704f582361ab3e21f22169cf77e7c4e",
+        "title": "Video 3.0",
+        "url": "https://kling.ai/quickstart/klingai-video-3-model-user-guide"
+      },
+      {
+        "id": "016ff62ea47b3989cc0e528143f13a34048f3a25",
+        "title": "IMAGE 3.0",
+        "url": "https://kling.ai/quickstart/klingai-image-3-model-user-guide"
+      },
+      {
+        "id": "602db84131c0478638698b5bfacb024102e7967d",
+        "title": "VIDEO 3.0 Omni",
+        "url": "https://kling.ai/quickstart/klingai-video-3-omni-model-user-guide"
+      },
+      {
+        "id": "8d46f9bf137518b91888c6975318072afeef2795",
+        "title": "IMAGE 3.0 Omni",
+        "url": "https://kling.ai/quickstart/klingai-image-3-omni-user-guide"
+      },
+      {
+        "id": "4513945e59dc4ea9940096dd0e6f698eae2bad15",
+        "title": "Element Library 3.0",
+        "url": "https://kling.ai/quickstart/klingai-element-library-3-user-guide"
+      },
+      {
+        "id": "97002498effbb1158ec758601173196840528772",
+        "title": "Release History",
+        "url": "https://kling.ai/release-note"
+      },
+      {
+        "id": "7256a7ad1854e6844d8007598e16d7f62f3dd440",
+        "title": "Cinema-Grade Native 4K, Now on Kling Al",
+        "url": "https://kling.ai/release-note/release-notes/z8zeqsxwol?type=dialog"
+      },
+      {
+        "id": "739ec70f3352a8f61e8b0d26afbf5064ec513733",
+        "title": "Kling Al Team Features Now Available",
+        "url": "https://kling.ai/release-note/release-notes/v3c5osl0fp?type=dialog"
+      },
+      {
+        "id": "c1a11dc3ecd6090fc9227453b4147b72d268394c",
+        "title": "Kling VIDEO 3.0 Motion Control: Major Launch",
+        "url": "https://kling.ai/release-note/release-notes/4titicw2vg?type=dialog"
+      },
+      {
+        "id": "9014b7c52430715ce64f537d86ad0b19efb2370b",
+        "title": "World’s First Native 4K Video Model",
+        "url": "https://kling.ai/blog/kling-ai-introduces-native-4k-video-model"
       },
       {
         "id": "3303a796e8bfe6204b3ff063239da41a0719f07f",
         "title": "Affiliate Program",
         "url": "https://kling.ai/app/commission-share"
+      },
+      {
+        "id": "eb9e974a06f45ff7917689eb2b72485ba89500b5",
+        "title": "Talent Network",
+        "url": "https://kling.ai/app/future-partner/customer"
       }
     ],
     "InVideo": [
@@ -2917,6 +2957,11 @@
         "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
         "title": "Apps",
         "url": "https://higgsfield.ai/apps"
+      },
+      {
+        "id": "abcd9c135896e33d61cd7c75f2ede6197c0ea494",
+        "title": "Open HUNTRESS'S TALE — THE EPISODE IS HERE",
+        "url": "https://higgsfield.ai/original-series/huntress-tale/episode-1"
       },
       {
         "id": "612f4950c36280ff8a126c74782fa50d4724a0a1",
