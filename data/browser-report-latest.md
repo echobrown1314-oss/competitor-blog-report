@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/06/27 13:02（上海）
+生成时间：2026/06/28 13:43（上海）
 
-新增文章总数：7
+新增文章总数：5
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -19,18 +19,18 @@
 ## WaveSpeed（0）
 - 今日未发现新文章
 
-## WeShop AI（2）
-- [Ghibli Filter Guide: Make Stunning Plogs Easily](https://www.weshop.ai/blog/ghibli-filter-guide-how-to-make-stunning-aesthetic-plog-easily/) | 2026-06-26T16:26:09+00:00
-- [Graduation Poster Guide: Make Stunning Campus Art Easily](https://www.weshop.ai/blog/the-ultimate-graduation-poster-guide-how-to-make-stunning-campus-memories-easily/) | 2026-06-26T16:25:41+00:00
+## WeShop AI（5）
+- [Get a Stunning LinkedIn Headshot with WeShop AI](https://www.weshop.ai/blog/%f0%9f%93%b8-make-your-linkedin-headshot-stunning-easily-with-weshop-ai/) | 2026-06-27T12:48:38+00:00
+- [AI Skinny Filter for Natural Photo Edits Online](https://www.weshop.ai/blog/ai-skinny-filter-for-photos-that-almost-made-the-cut/) | 2026-06-27T11:24:14+00:00
+- [Hand-Drawn Character Animation: Make Stunning Videos Easily](https://www.weshop.ai/blog/%f0%9f%8e%a8-hand-drawn-character-animation-how-to-make-stunning-videos-easily/) | 2026-06-27T11:03:50+00:00
+- [Anime AI Video Generator: Art to Video](https://www.weshop.ai/blog/anime-ai-video-generator-turn-anime-art-into-moving-clips/) | 2026-06-27T10:37:12+00:00
+- [Instagram Video Editor for Creators Who Have Content but No Time to Edit – WeShop AI Blog](https://www.weshop.ai/blog/instagram-video-editor-for-creators-who-have-content-but-no-time-to-edit/) | 2026-06-27T09:21:45+00:00
 
-## Atlas Cloud（4）
-- [Seedance 2.0 Mini vs Seedance 2.0: Cost, Quality, Specs (2026)](https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0) | 2026-06-26T10:01:50.606Z
-- [Seedance 2.0 Mini Performance Review: Speed, Cost, Quality (2026)](https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-performance-review) | 2026-06-26T10:00:00.426Z
-- [Kling AI vs Runway vs Luma: 2026 AI Video Models Compared](https://www.atlascloud.ai/blog/guides/kling-ai-vs-runway-vs-luma) | 2026-06-26T08:46:31.658Z
-- [Seedance 2.0 Mini: 2x Faster Than Fast, Half the Cost](https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview) | 2026-06-26T08:36:40.542Z
+## Atlas Cloud（0）
+- 今日未发现新文章
 
-## TopMediai（1）
-- [Best Image to Video AI to Turn Picture into AI Video Online](https://www.topmediai.com/video-tips/turn-image-into-video-ai/) | 2026-06-26T17:47:04+08:00
+## TopMediai（0）
+- 今日未发现新文章
 
 ## JXP（0）
 - 今日未发现新文章
