@@ -1,14 +1,7 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [
-      {
-        "key": "09eb2ae2a30134f7513ac673d3d2a101ff8ae379",
-        "url": "https://www.mindvideo.ai/blog/how-to-create-viral-talking-baby-podcast-with-ai/",
-        "date": "2026-06-22",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      }
-    ],
+    "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
     "WaveSpeed": [
@@ -35,39 +28,15 @@
         "url": "https://wavespeed.ai/blog/posts/what-is-fugu-ultra/",
         "date": "2026-06-23",
         "reportedAt": "2026-06-24T05:10:33.262Z"
+      },
+      {
+        "key": "83153865f133f22a93d8f5c025b99387eb6493f9",
+        "url": "https://wavespeed.ai/blog/posts/triposplat-vs-hunyuan-3d/",
+        "date": "2026-06-29",
+        "reportedAt": "2026-06-30T05:16:18.129Z"
       }
     ],
     "WeShop AI": [
-      {
-        "key": "7398225644f7700ae131d0722eb882779a20c352",
-        "url": "https://www.weshop.ai/blog/paper-cutout-ootd-turn-your-outfit-into-a-viral-fashion-collage/",
-        "date": "2026-06-21T19:32:55+00:00",
-        "reportedAt": "2026-06-22T06:39:49.791Z"
-      },
-      {
-        "key": "4df8db470315f3e1f95f4d474b58c0898770f7a4",
-        "url": "https://www.weshop.ai/blog/world-cup-fashion-campaigns-with-ai-how-fashion-brands-can-ride-the-football-trend/",
-        "date": "2026-06-21T19:29:57+00:00",
-        "reportedAt": "2026-06-22T06:39:49.791Z"
-      },
-      {
-        "key": "14c81b50f46b3ce8fe21e7dbf094541861fd10e1",
-        "url": "https://www.weshop.ai/blog/one-ordinary-photo-one-vintage-polaroid-look-everyone-will-ask-about/",
-        "date": "2026-06-22T19:31:21+00:00",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      },
-      {
-        "key": "11243621a401e5a4a3ba21876fae0f52cb4d7486",
-        "url": "https://www.weshop.ai/blog/digital-camera-filter-online-create-2000s-camera-photos-without-buying-a-ccd/",
-        "date": "2026-06-22T18:04:12+00:00",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      },
-      {
-        "key": "8154a27b55164f9cb621741f4e107b474f80faa7",
-        "url": "https://www.weshop.ai/blog/no-photoshoot-no-problem-create-latina-inspired-fashion-visuals-with-ai-latina-generator/",
-        "date": "2026-06-22T16:33:05+00:00",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      },
       {
         "key": "90fb8a071546c7e87ca1288310e352b24d3875bf",
         "url": "https://www.weshop.ai/blog/reveal-secrets-to-your-flawless-signature-color-instantly/",
@@ -169,27 +138,15 @@
         "url": "https://www.weshop.ai/blog/instagram-photo-collage-masterclass-how-to-make-this-stunning-picture-easily/",
         "date": "2026-06-28T12:58:46+00:00",
         "reportedAt": "2026-06-29T06:03:56.581Z"
+      },
+      {
+        "key": "ed1f398c9598f1f34a439bf43530c5ee539b2ee1",
+        "url": "https://www.weshop.ai/blog/ai-lingerie-generator-for-ecommerce-try-on-and-social-ready-fashion-visuals/",
+        "date": "2026-06-29T17:29:07+00:00",
+        "reportedAt": "2026-06-30T05:16:18.129Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "5456821fd105d23bbdaa01f7b46cea8f1afb5e69",
-        "url": "https://www.atlascloud.ai/blog/guides/reduce-ai-coding-token-cost",
-        "date": "2026-06-22T10:33:28.795Z",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      },
-      {
-        "key": "4d206fc4090236c650148269b6509db58868f494",
-        "url": "https://www.atlascloud.ai/blog/guides/claude-code-third-party-api-setup",
-        "date": "2026-06-22T10:14:13.792Z",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      },
-      {
-        "key": "dd1dbee5a323ecc83c847166b23255e274c0713b",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-2-1-review",
-        "date": "2026-06-22T08:21:55.127Z",
-        "reportedAt": "2026-06-23T05:13:19.855Z"
-      },
       {
         "key": "9fb7b52fcd26e787b4d5d539179968d722eebba3",
         "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-whatsnew",
@@ -267,6 +224,24 @@
         "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview",
         "date": "2026-06-26T08:36:40.542Z",
         "reportedAt": "2026-06-27T05:02:43.321Z"
+      },
+      {
+        "key": "2163507525be999fd3bcadd8024a1ebc2c409585",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-free",
+        "date": "2026-06-30T04:05:07.383Z",
+        "reportedAt": "2026-06-30T05:16:18.129Z"
+      },
+      {
+        "key": "43f5942491995af7a50314379794b5a9b77fcc30",
+        "url": "https://www.atlascloud.ai/blog/guides/free-opensource-ai-avatar-heygen-alternative",
+        "date": "2026-06-29T09:37:45.886Z",
+        "reportedAt": "2026-06-30T05:16:18.129Z"
+      },
+      {
+        "key": "24acc5d6ffecef48f5f41fa5c7937a4b7e5ecbba",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-text-to-video",
+        "date": "2026-06-29T08:23:20.408Z",
+        "reportedAt": "2026-06-30T05:16:18.129Z"
       }
     ],
     "TopMediai": [
