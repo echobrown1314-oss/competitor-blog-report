@@ -2984,6 +2984,21 @@
         "url": "https://higgsfield.ai/apps"
       },
       {
+        "id": "d5622b4001fac21440a4efc8a95aa23925109526",
+        "title": "Open Gemini Omni Flash",
+        "url": "https://higgsfield.ai/flow/video/prompt?from=gemini-omni&model=gemini-omni"
+      },
+      {
+        "id": "ba81938a3831bccf588ca91bc3544ce0fd28ed7b",
+        "title": "Open Nano Banana 2 Lite",
+        "url": "https://higgsfield.ai/mobile/image/nano-banana-2-lite"
+      },
+      {
+        "id": "8bc2424d5c12fa87abfa2ef29bb2d917c417060a",
+        "title": "Open Seed Audio 1.0",
+        "url": "https://higgsfield.ai/mobile/audio?audioModel=seed_audio&voiceMode=voiceover"
+      },
+      {
         "id": "abcd9c135896e33d61cd7c75f2ede6197c0ea494",
         "title": "Open HUNTRESS'S TALE — THE EPISODE IS HERE",
         "url": "https://higgsfield.ai/original-series/huntress-tale/episode-1"
@@ -2992,16 +3007,6 @@
         "id": "612f4950c36280ff8a126c74782fa50d4724a0a1",
         "title": "Open KOK BORU — THE TRAILER IS HERE",
         "url": "https://higgsfield.ai/original-series/kok-boru/episode-0"
-      },
-      {
-        "id": "629573b47986ae06e3cde66d47b500cd47a241d1",
-        "title": "Open Seedance 2.0 in native 4K",
-        "url": "https://higgsfield.ai/ai/video?model=seedance_2_0&resolution=4k"
-      },
-      {
-        "id": "f0ee74a40ddd597d0d94c4c17516bc24327680b7",
-        "title": "Open Seedance 2.0 in 4K",
-        "url": "https://higgsfield.ai/flow/video/prompt?model=seedance_2_0&resolution=4k"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
@@ -3019,19 +3024,19 @@
         "url": "https://higgsfield.ai/ai/video?model=seedance_2_0"
       },
       {
-        "id": "488c0df86ab0c2fb9a2d469248a88c58faa58abd",
-        "title": "Marketing StudioLaunch full campaigns from one promptTrending",
-        "url": "https://higgsfield.ai/marketing-studio"
+        "id": "e21e2e4d7e25b9a5be0ba99c1d7cac15e84337ed",
+        "title": "Nano Banana 2 LiteLightweight image generation at speedNew",
+        "url": "https://higgsfield.ai/ai/image?model=nano-banana-2-lite"
       },
       {
-        "id": "8524066a188e8f0224dee9d6ebae3dbac1db0618",
-        "title": "MCP & CLITurn Claude into a creative engineNew",
+        "id": "4bbb3318e4167ae1d8bed1bb5468c943a905820a",
+        "title": "MCP & CLITurn Claude into a creative engineTrending",
         "url": "https://higgsfield.ai/mcp"
       },
       {
-        "id": "c35ccadea9f89415eafdae6ca03bee331dd49b0e",
-        "title": "Higgsfield CanvasGenerate stunning media with AI canvasNew",
-        "url": "https://higgsfield.ai/canvas"
+        "id": "ab495b7d801587c7679431f86d8443355f5e9a6b",
+        "title": "Gemini Omni FlashGenerate and edit video from any inputNew",
+        "url": "https://higgsfield.ai/ai/video?model=gemini-omni"
       },
       {
         "id": "2a0cb83edcffa8f4d38e5d629992f9f9fd73771b",
