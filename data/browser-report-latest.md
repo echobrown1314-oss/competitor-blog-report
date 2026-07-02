@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/07/01 13:51（上海）
+生成时间：2026/07/02 13:08（上海）
 
-新增文章总数：5
+新增文章总数：13
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -19,15 +19,22 @@
 ## WaveSpeed（0）
 - 今日未发现新文章
 
-## WeShop AI（0）
-- 今日未发现新文章
+## WeShop AI（9）
+- [Animal Shorts Generator: Make Viral Pet Videos](https://www.weshop.ai/blog/animal-shorts-generator-make-ai-pet-videos-animal-memes-and-sticker-style-shorts/) | 2026-07-01T20:49:20+00:00
+- [Movie Intro Maker for Cinematic Video Hooks](https://www.weshop.ai/blog/your-video-looks-cheap-in-the-first-3-seconds-fix-it-with-movie-intro-maker/) | 2026-07-01T20:21:27+00:00
+- [Create Stunning AI Magazine-Style Photos Easily](https://www.weshop.ai/blog/the-ultimate-guide-%ef%bc%9ahow-to-create-stunning-ai-magazine-style-photos-easily/) | 2026-07-01T20:07:29+00:00
+- [Digital Camera Filter for 2000s CCD Photos](https://www.weshop.ai/blog/digital-camera-filter-why-blurry-2000s-photos-are-back/) | 2026-07-01T19:22:11+00:00
+- [Free World Cup Image Generator: Create Viral Football Posters, Fan Photos, and Matchday Graphics – WeShop AI Blog](https://www.weshop.ai/blog/free-world-cup-image-generator-create-viral-football-posters-fan-photos-and-matchday-graphics/) | 2026-07-01T18:25:22+00:00
+- [How to Make Stunning 3A Game Failure Screens Easily](https://www.weshop.ai/blog/how-to-make-stunning-3a-game-failure-screens-easily-with-ai/) | 2026-07-01T18:20:34+00:00
+- [AI Lingerie Generator for Product Photos](https://www.weshop.ai/blog/how-small-lingerie-brands-can-create-model-try-on-photos-with-ai/) | 2026-07-01T17:32:03+00:00
+- [How to Make Stunning AI Pet Photography Easily](https://www.weshop.ai/blog/the-ultimate-blueprint-how-to-make-stunning-ai-pet-photography-easily/) | 2026-07-01T16:44:28+00:00
+- [Your Video Looks Too Normal? Add AI Effects Before People Scroll Away – WeShop AI Blog](https://www.weshop.ai/blog/your-video-looks-too-normal-add-ai-effects-before-people-scroll-away/) | 2026-07-01T08:07:32+00:00
 
-## Atlas Cloud（5）
-- [How to Make the PixVerse Earth Zoom (No Editing Needed)](https://www.atlascloud.ai/blog/guides/pixverse-earth-zoom) | 2026-06-30T10:58:34.258Z
-- [PixVerse Referral Code: Get Free Bonus Credits (2026)](https://www.atlascloud.ai/blog/guides/pixverse-referral-code) | 2026-06-30T08:43:23.869Z
-- [Kling AI Image to Video: Turn Photos into Viral Content](https://www.atlascloud.ai/blog/guides/kling-ai-image-to-video) | 2026-06-30T08:18:30.929Z
-- [Rust Workflow Engine vs n8n: High-Performance Automation](https://www.atlascloud.ai/blog/guides/rust-workflow-engine-vs-n8n-high-performance-automation-guide) | 2026-06-30T07:48:50.300Z
-- [How to Build a Zelda-Style 3D Game with One AI API](https://www.atlascloud.ai/blog/guides/build-zelda-style-3d-game-with-ai-api) | 2026-06-30T06:22:11.507Z
+## Atlas Cloud（4）
+- [Kling AI: Complete Guide to Models, Pricing & Features (2026)](https://www.atlascloud.ai/blog/guides/kling-ai) | 2026-07-02T03:33:54.284Z
+- [How to Make a Hailuo AI Kiss Video: Prompts, Fixes & Ethics](https://www.atlascloud.ai/blog/guides/hailuo-ai-kiss) | 2026-07-02T03:05:25.182Z
+- [Build an AI Sandbox Game with One Prompt: WorldX Guide](https://www.atlascloud.ai/blog/guides/build-ai-sandbox-game-worldx-guide) | 2026-07-01T09:28:42.753Z
+- [Hailuo AI Video Generator Review: Is MiniMax Worth the Cost?](https://www.atlascloud.ai/blog/guides/hailuo-ai-video-generator-review) | 2026-07-01T08:50:23.912Z
 
 ## TopMediai（0）
 - 今日未发现新文章
