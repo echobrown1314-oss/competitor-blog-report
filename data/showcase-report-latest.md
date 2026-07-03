@@ -1,8 +1,8 @@
 # 竞品模板/玩法页监测日报
 
-生成时间：2026/07/02 13:00（上海）
+生成时间：2026/07/03 12:44（上海）
 
-新增页面总数：5
+新增页面总数：4
 
 ## MagicHour（0）
 - 今日未发现新页面
@@ -14,15 +14,15 @@
 - 今日未发现新页面
 
 ## A2E AI（2）
-- [Runway AI: What This Signal Means for Video Teams and Marketers](https://a2e.ai/runway-ai-what-this-signal-means-for-video-teams-and-marketers/)
-- [Veo: What the New Release Means for AI Video Creators](https://a2e.ai/veo-what-the-new-release-means-for-ai-video-creators/)
+- [Get API](https://video.a2e.ai/dev)
+- [Use MCP Now](https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/)
 
 ## Kling AI（0）
 - 今日未发现新页面
 
-## InVideo（1）
-- [Academy](https://invideo.io/academy/)
+## InVideo（0）
+- 今日未发现新页面
 
 ## Higgsfield AI（2）
-- [Shorts StudioNew](https://higgsfield.ai/shorts-studio)
-- [Open Higgsfield Shorts Studio](https://higgsfield.ai/shorts-studio)
+- [ExplainerNew](https://higgsfield.ai/explainer)
+- [Open Higgsfield Explainer](https://higgsfield.ai/supercomputer/marketplace/skills/higgsfield-explainer)

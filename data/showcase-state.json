@@ -2603,6 +2603,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
         "id": "2596711360e18ac655192c0c400813f86d6841c9",
         "title": "Runway AI: What This Signal Means for Video Teams and Marketers",
         "url": "https://a2e.ai/runway-ai-what-this-signal-means-for-video-teams-and-marketers/"
@@ -2656,26 +2666,6 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
-      },
-      {
-        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
-        "title": "API Doc",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2969,6 +2959,11 @@
         "url": "https://higgsfield.ai/shorts-studio"
       },
       {
+        "id": "26dd21bda049e1461e3006db5e03de415b7db3de",
+        "title": "ExplainerNew",
+        "url": "https://higgsfield.ai/explainer"
+      },
+      {
         "id": "3147a364c6c6b03642d375363abdd3340b9f57fd",
         "title": "Originals",
         "url": "https://higgsfield.ai/original-series"
@@ -2989,6 +2984,11 @@
         "url": "https://higgsfield.ai/apps"
       },
       {
+        "id": "5904b38cbb490a89cde9e64a99c60a17fd813005",
+        "title": "Open Higgsfield Explainer",
+        "url": "https://higgsfield.ai/supercomputer/marketplace/skills/higgsfield-explainer"
+      },
+      {
         "id": "d808e231f62a0a08e3329684a008f3d031288a65",
         "title": "Open Higgsfield Shorts Studio",
         "url": "https://higgsfield.ai/shorts-studio"
@@ -3007,11 +3007,6 @@
         "id": "8bc2424d5c12fa87abfa2ef29bb2d917c417060a",
         "title": "Open Seed Audio 1.0",
         "url": "https://higgsfield.ai/mobile/audio?audioModel=seed_audio&voiceMode=voiceover"
-      },
-      {
-        "id": "abcd9c135896e33d61cd7c75f2ede6197c0ea494",
-        "title": "Open HUNTRESS'S TALE — THE EPISODE IS HERE",
-        "url": "https://higgsfield.ai/original-series/huntress-tale/episode-1"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
