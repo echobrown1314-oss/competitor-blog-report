@@ -1074,6 +1074,16 @@
         "url": "https://viddo.ai/video-effects"
       },
       {
+        "id": "580a3b34a295e3d13c293f64f60b2b8fb250c032",
+        "title": "Prompt Library",
+        "url": "https://viddo.ai/prompt"
+      },
+      {
+        "id": "45fc8f590bf557af46e2994225cd4ef1087bca38",
+        "title": "Operation Tutorial",
+        "url": "https://viddo.ai/tutorial"
+      },
+      {
         "id": "22497a4d5083fb5900f4866d7f1df6763756361e",
         "title": "Gemini Omni",
         "url": "https://viddo.ai/gemini-omni"
@@ -2092,16 +2102,6 @@
         "id": "a8ae88d92c3e176a6348626fd6299398eb319e14",
         "title": "Clone",
         "url": "https://viddo.ai/video-effects/cloning"
-      },
-      {
-        "id": "23176aba9e93932b009f4fbb26e4dc1bb0c6343f",
-        "title": "Across the Universe - Jungle",
-        "url": "https://viddo.ai/video-effects/across_the_universe_jungle"
-      },
-      {
-        "id": "dd71cf57ce4a6ea2a960da94d9d5b7ccd1b30b51",
-        "title": "Clothes Spinning Remnant",
-        "url": "https://viddo.ai/video-effects/clothes_spinning_remnant"
       }
     ],
     "DeeVid AI": [
@@ -2603,16 +2603,6 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
-      },
-      {
         "id": "2596711360e18ac655192c0c400813f86d6841c9",
         "title": "Runway AI: What This Signal Means for Video Teams and Marketers",
         "url": "https://a2e.ai/runway-ai-what-this-signal-means-for-video-teams-and-marketers/"
@@ -2666,6 +2656,26 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2872,11 +2882,6 @@
         "url": "https://invideo.io/make/video-maker/"
       },
       {
-        "id": "49def961a0fb3665839efa5037f80d93a7562d7d",
-        "title": "Academy",
-        "url": "https://invideo.io/academy/"
-      },
-      {
         "id": "761fd917eb5a26aca1842207cbeb068a4c0ba670",
         "title": "Your Power to Play",
         "url": "https://invideo.io/your-power-to-play/"
@@ -2890,6 +2895,11 @@
         "id": "aad00991e0d69082745b32c9a74c32ad402e7684",
         "title": "Enterprise",
         "url": "https://invideo.io/enterprise/"
+      },
+      {
+        "id": "49def961a0fb3665839efa5037f80d93a7562d7d",
+        "title": "Academy",
+        "url": "https://invideo.io/academy/"
       },
       {
         "id": "fd3aef90eeb0f2ccbb4d4eb249573e4ed66608fe",
@@ -2915,6 +2925,11 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
+      },
+      {
+        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
+        "title": "here",
+        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -2984,6 +2999,11 @@
         "url": "https://higgsfield.ai/apps"
       },
       {
+        "id": "79fbf1d5712b9fca1bee08954544b16ec2748f62",
+        "title": "Open Gemini Omni Flash & Seed Audio 1.0, now in Higgsfield Plugins",
+        "url": "https://higgsfield.ai/plugins/premiere-pro"
+      },
+      {
         "id": "5904b38cbb490a89cde9e64a99c60a17fd813005",
         "title": "Open Higgsfield Explainer",
         "url": "https://higgsfield.ai/supercomputer/marketplace/skills/higgsfield-explainer"
@@ -3002,11 +3022,6 @@
         "id": "ba81938a3831bccf588ca91bc3544ce0fd28ed7b",
         "title": "Open Nano Banana 2 Lite",
         "url": "https://higgsfield.ai/mobile/image/nano-banana-2-lite"
-      },
-      {
-        "id": "8bc2424d5c12fa87abfa2ef29bb2d917c417060a",
-        "title": "Open Seed Audio 1.0",
-        "url": "https://higgsfield.ai/mobile/audio?audioModel=seed_audio&voiceMode=voiceover"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
