@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/07/03 12:53（上海）
+生成时间：2026/07/04 12:47（上海）
 
-新增文章总数：10
+新增文章总数：14
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -16,21 +16,26 @@
 ## DataCamp（0）
 - 今日未发现新文章
 
-## WaveSpeed（1）
-- [GPT-5.6 Sol vs Terra vs Luna for Production - WaveSpeed Blog](https://wavespeed.ai/blog/posts/gpt-5-6-sol-terra-luna/) | 2026-07-02
+## WaveSpeed（0）
+- 今日未发现新文章
 
-## WeShop AI（6）
-- [AI Kissing Video Generator for Viral Kiss Videos](https://www.weshop.ai/blog/ai-kissing-video-generator-turn-couple-photos-into-viral-romantic-videos-%f0%9f%92%8b/) | 2026-07-02T20:25:51+00:00
-- [Facial Analysis: How to Make Stunning AI Cards Fast](https://www.weshop.ai/blog/facial-analysis-how-to-make-stunning-ai-cards-fast/) | 2026-07-02T19:34:20+00:00
-- [AI Color Analysis: Make Your Stunning Report Fast](https://www.weshop.ai/blog/ai-color-analysis-how-to-easily-make-your-selfie-a-stunning-style-palette-report/) | 2026-07-02T19:32:24+00:00
-- [AI Lingerie Generator: Try-On Photos Fast](https://www.weshop.ai/blog/%e2%9c%a8-ai-lingerie-generator-create-try-on-photos-and-campaign-visuals-online/) | 2026-07-02T19:30:18+00:00
-- [AI Relight Tool: Fix Bad Product Lighting Fast](https://www.weshop.ai/blog/ai-relight-tool-fix-bad-product-photos-without-reshooting/) | 2026-07-02T18:33:47+00:00
-- [Tired of Boring Profile Pics? Boondocks Filter Turns Your Selfie into a Bold Cartoon Character – WeShop AI Blog](https://www.weshop.ai/blog/tired-of-boring-profile-pics-boondocks-filter-turns-your-selfie-into-a-bold-cartoon-character/) | 2026-07-02T17:17:22+00:00
+## WeShop AI（2）
+- [World Cup Image Generator for Fan Posters](https://www.weshop.ai/blog/world-cup-image-generator-epic-fan-posters-in-minutes/) | 2026-07-03T08:07:56+00:00
+- [Facial Analysis: How to Make Stunning AI Cards Fast](https://www.weshop.ai/blog/facial-analysis-how-to-make-stunning-ai-cards-fast/) | 2026-07-03T08:07:14+00:00
 
-## Atlas Cloud（3）
-- [Cheapest Google Image API? Nano Banana 2 Lite Performance Guide](https://www.atlascloud.ai/blog/guides/nano-banana-2-lite-google-image-api) | 2026-07-03T00:20:50.439Z
-- [How to Turn Markdown into AI PowerPoint with codex-ppt-skill + Atlas Cloud](https://www.atlascloud.ai/blog/guides/codex-ppt-skill-atlas-cloud-markdown-to-ppt) | 2026-07-02T09:46:55.382Z
-- [Grok Imagine: xAI Image & Video Generation Guide (2026)](https://www.atlascloud.ai/blog/guides/grok-imagine) | 2026-07-02T08:01:38.223Z
+## Atlas Cloud（12）
+- [Automate AI Image & Video in n8n | Atlas Cloud](https://www.atlascloud.ai/blog/guides/automate-ai-image-video-n8n-workflow) | 2026-07-03T09:56:26.840Z
+- [Best API Provider for Nano Banana & GPT Image | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-api-provider-nano-banana-2-gpt-image-2) | 2026-07-03T09:49:56.655Z
+- [Cheapest API for Seedance 2, Kling, Wan | Atlas Cloud](https://www.atlascloud.ai/blog/guides/cheapest-api-provider-seedance-2-kling-wan) | 2026-07-03T09:49:56.432Z
+- [Prompt Examples for Seedance AI Video | Atlas Cloud](https://www.atlascloud.ai/blog/guides/prompt-examples-advanced-ai-video-models-seedance) | 2026-07-03T09:49:55.863Z
+- [Best AI API Platform for Startups | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-ai-api-platform-startups-prototyping-scaling) | 2026-07-03T09:49:55.468Z
+- [Best API for AI Design & Marketing Tools | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-api-platform-ai-design-marketing-creative-tool) | 2026-07-03T09:49:55.229Z
+- [Best Platform for Multi-Modal AI Agents | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-platform-ai-agents-text-image-video-models) | 2026-07-03T09:49:55.012Z
+- [Best AI API for Cheap & Premium Models | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-api-platform-routing-cheap-high-quality-models) | 2026-07-03T09:49:54.751Z
+- [Automatic AI Model Selection Platform | Atlas Cloud](https://www.atlascloud.ai/blog/guides/platform-choose-best-ai-model-automatically) | 2026-07-03T09:49:54.120Z
+- [Best AI API Platform for SMBs | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-ai-api-platform-for-smbs-enterprise-grade-reliability) | 2026-07-03T09:49:53.698Z
+- [Best AI API Platform for SMBs | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-ai-api-platform-smb-enterprise-reliability) | 2026-07-03T09:48:35.498Z
+- [Seedance 2.0 Mini vs Seedance 2.0: Cost, Quality, Specs (2026)](https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0) | 2026-07-03T09:46:30.158Z
 
 ## TopMediai（0）
 - 今日未发现新文章

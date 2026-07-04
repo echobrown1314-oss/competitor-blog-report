@@ -20,18 +20,6 @@
     ],
     "WeShop AI": [
       {
-        "key": "88a43e94ec50fc9734ae50a04d00dfec21140931",
-        "url": "https://www.weshop.ai/blog/the-no-studio-way-to-create-360-product-videos/",
-        "date": "2026-06-25T17:23:15+00:00",
-        "reportedAt": "2026-06-26T05:20:19.274Z"
-      },
-      {
-        "key": "ba729e05566da6f0aa0ce0246fd4e261a85edf9b",
-        "url": "https://www.weshop.ai/blog/no-camera-no-trip-outside-i-made-cinematic-first-person-pov-videos-with-ai/",
-        "date": "2026-06-25T14:56:09+00:00",
-        "reportedAt": "2026-06-26T05:20:19.274Z"
-      },
-      {
         "key": "ce1f2136a83cb6a98d87543cf18966688a4066f3",
         "url": "https://www.weshop.ai/blog/ghibli-filter-guide-how-to-make-stunning-aesthetic-plog-easily/",
         "date": "2026-06-26T16:26:09+00:00",
@@ -174,15 +162,21 @@
         "url": "https://www.weshop.ai/blog/tired-of-boring-profile-pics-boondocks-filter-turns-your-selfie-into-a-bold-cartoon-character/",
         "date": "2026-07-02T17:17:22+00:00",
         "reportedAt": "2026-07-03T04:53:43.653Z"
+      },
+      {
+        "key": "bfaf0f8bfc972cbb13ea3f052464605bf0c6a057",
+        "url": "https://www.weshop.ai/blog/world-cup-image-generator-epic-fan-posters-in-minutes/",
+        "date": "2026-07-03T08:07:56+00:00",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "de1a0fc6101e4a95acf195e36d3a801f0b694386",
+        "url": "https://www.weshop.ai/blog/facial-analysis-how-to-make-stunning-ai-cards-fast/",
+        "date": "2026-07-03T08:07:14+00:00",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "c7105f00b62e74b92e9b38d9492374fb2ef57326",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-1-6-review",
-        "date": "2026-06-25T08:11:16.287Z",
-        "reportedAt": "2026-06-26T05:20:19.274Z"
-      },
       {
         "key": "e7f3475e56d2ffc06fded88e6e50c9e13019e40f",
         "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0",
@@ -296,15 +290,81 @@
         "url": "https://www.atlascloud.ai/blog/guides/grok-imagine",
         "date": "2026-07-02T08:01:38.223Z",
         "reportedAt": "2026-07-03T04:53:43.653Z"
+      },
+      {
+        "key": "9a96f265382031f8b97af9d3daca15afb2cf0a39",
+        "url": "https://www.atlascloud.ai/blog/guides/automate-ai-image-video-n8n-workflow",
+        "date": "2026-07-03T09:56:26.840Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "55631ce575daa07441c75f5ec741f889c44355fa",
+        "url": "https://www.atlascloud.ai/blog/guides/best-api-provider-nano-banana-2-gpt-image-2",
+        "date": "2026-07-03T09:49:56.655Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "377613047ac6aa8257e5e7cd36b1fd00ee6fe502",
+        "url": "https://www.atlascloud.ai/blog/guides/cheapest-api-provider-seedance-2-kling-wan",
+        "date": "2026-07-03T09:49:56.432Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "8ce55110806a6cff6f342f88adbc2edd9bba5252",
+        "url": "https://www.atlascloud.ai/blog/guides/prompt-examples-advanced-ai-video-models-seedance",
+        "date": "2026-07-03T09:49:55.863Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "66cce21e217b6949af19ca58cc8a59725aac038e",
+        "url": "https://www.atlascloud.ai/blog/guides/best-ai-api-platform-startups-prototyping-scaling",
+        "date": "2026-07-03T09:49:55.468Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "056db5682e742fc44a362228e7c8b4f792119171",
+        "url": "https://www.atlascloud.ai/blog/guides/best-api-platform-ai-design-marketing-creative-tool",
+        "date": "2026-07-03T09:49:55.229Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "2c19bd196c783973a27e822910e578b007b0b947",
+        "url": "https://www.atlascloud.ai/blog/guides/best-platform-ai-agents-text-image-video-models",
+        "date": "2026-07-03T09:49:55.012Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "b42e8212da2f2ccbdccfa37592208e708cf7a04a",
+        "url": "https://www.atlascloud.ai/blog/guides/best-api-platform-routing-cheap-high-quality-models",
+        "date": "2026-07-03T09:49:54.751Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "d920417c86862cf32cc4db0fe27fd02e04a67990",
+        "url": "https://www.atlascloud.ai/blog/guides/platform-choose-best-ai-model-automatically",
+        "date": "2026-07-03T09:49:54.120Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "f2386e44de9a86bf18553c9601160ab4a515e25c",
+        "url": "https://www.atlascloud.ai/blog/guides/best-ai-api-platform-for-smbs-enterprise-grade-reliability",
+        "date": "2026-07-03T09:49:53.698Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "25bb86576a3bff52f65183323df97b35bc192bef",
+        "url": "https://www.atlascloud.ai/blog/guides/best-ai-api-platform-smb-enterprise-reliability",
+        "date": "2026-07-03T09:48:35.498Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
+      },
+      {
+        "key": "fb753b3d3efc2dc2b3e9e9ab8ce5ae32d67af538",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0",
+        "date": "2026-07-03T09:46:30.158Z",
+        "reportedAt": "2026-07-04T04:47:40.077Z"
       }
     ],
     "TopMediai": [
-      {
-        "key": "e827f921b9a603197363d1992ff7d2b05e445ba3",
-        "url": "https://www.topmediai.com/video-tips/world-cup-ai-video-generator/",
-        "date": "2026-06-25T19:18:26+08:00",
-        "reportedAt": "2026-06-26T05:20:19.274Z"
-      },
       {
         "key": "93c6b9606468a330efe16aca98130f0276f56e40",
         "url": "https://www.topmediai.com/video-tips/turn-image-into-video-ai/",
