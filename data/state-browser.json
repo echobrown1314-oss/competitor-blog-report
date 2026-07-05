@@ -20,18 +20,6 @@
     ],
     "WeShop AI": [
       {
-        "key": "ce1f2136a83cb6a98d87543cf18966688a4066f3",
-        "url": "https://www.weshop.ai/blog/ghibli-filter-guide-how-to-make-stunning-aesthetic-plog-easily/",
-        "date": "2026-06-26T16:26:09+00:00",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      },
-      {
-        "key": "5b058829c8bee90a65092679097221c90828fd9e",
-        "url": "https://www.weshop.ai/blog/the-ultimate-graduation-poster-guide-how-to-make-stunning-campus-memories-easily/",
-        "date": "2026-06-26T16:25:41+00:00",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      },
-      {
         "key": "f946f36effc9996d2a9c02087291654e7771767d",
         "url": "https://www.weshop.ai/blog/%f0%9f%93%b8-make-your-linkedin-headshot-stunning-easily-with-weshop-ai/",
         "date": "2026-06-27T12:48:38+00:00",
@@ -177,30 +165,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "e7f3475e56d2ffc06fded88e6e50c9e13019e40f",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-vs-seedance-2-0",
-        "date": "2026-06-26T10:01:50.606Z",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      },
-      {
-        "key": "7623846a0a3e0d0bc65da9da74acaebd138e9432",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-0-mini-performance-review",
-        "date": "2026-06-26T10:00:00.426Z",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      },
-      {
-        "key": "cd49f054fda910ef5e08f3057302a732b9162d5e",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-vs-runway-vs-luma",
-        "date": "2026-06-26T08:46:31.658Z",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      },
-      {
-        "key": "5b2bde7256ab7555447793190423fb28f7aac44c",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.0-mini-overview",
-        "date": "2026-06-26T08:36:40.542Z",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      },
       {
         "key": "2163507525be999fd3bcadd8024a1ebc2c409585",
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-free",
@@ -364,14 +328,7 @@
         "reportedAt": "2026-07-04T04:47:40.077Z"
       }
     ],
-    "TopMediai": [
-      {
-        "key": "93c6b9606468a330efe16aca98130f0276f56e40",
-        "url": "https://www.topmediai.com/video-tips/turn-image-into-video-ai/",
-        "date": "2026-06-26T17:47:04+08:00",
-        "reportedAt": "2026-06-27T05:02:43.321Z"
-      }
-    ],
+    "TopMediai": [],
     "JXP": []
   }
 }
