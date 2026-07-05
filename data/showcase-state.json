@@ -2603,6 +2603,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
         "id": "2596711360e18ac655192c0c400813f86d6841c9",
         "title": "Runway AI: What This Signal Means for Video Teams and Marketers",
         "url": "https://a2e.ai/runway-ai-what-this-signal-means-for-video-teams-and-marketers/"
@@ -2656,26 +2666,6 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
-      },
-      {
-        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
-        "title": "API Doc",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2925,11 +2915,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3059,59 +3044,64 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "af989b53555100278e06a63780acb87eb77c5e92",
-        "title": "ramzigalimov",
-        "url": "https://higgsfield.ai/@ramzigalimov"
+        "id": "bd985db99d5855951cdcd1262b6557b4f728fe56",
+        "title": "Next LevelOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/c455cf00-8540-444d-8df3-9ad11b904230/view"
       },
       {
-        "id": "5586a7cc68d57297bdf52b82094339c46279b046",
-        "title": "gani_kurkutov",
-        "url": "https://higgsfield.ai/@gani_kurkutov"
+        "id": "dadef4a518a0836e6a3c971712ac1a7216a0e73b",
+        "title": "Personal ClipperOpen",
+        "url": "https://higgsfield.ai/supercomputer/marketplace/employees/e8dbf288-4adc-4609-8300-6de46a239e59"
       },
       {
-        "id": "acbb9c42d6a6afb7c815a22c94231cde0c635af7",
-        "title": "mansuronn",
-        "url": "https://higgsfield.ai/@mansuronn"
+        "id": "fb27a2e5a4138a7da265f88d5bfb9c6a6121abd4",
+        "title": "Thumbnail MakerOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/9685e9bb-3d9c-4514-8bdc-61d343a572c5/view"
       },
       {
-        "id": "34b7392714c3b8afd55fcfca6ff093be061c202c",
-        "title": "ayalbyn",
-        "url": "https://higgsfield.ai/@ayalbyn"
+        "id": "151662f748bc36d1d8f6d1b78052e210360322d4",
+        "title": "CanvasOpen",
+        "url": "https://higgsfield.ai/canvas"
       },
       {
-        "id": "cea3c59a202fda1d8c12c311ce42a0ffdd48c542",
-        "title": "manyer",
-        "url": "https://higgsfield.ai/@manyer"
+        "id": "b6ee035cb8dfb9269d390e5c72a4c33c9ddad0a7",
+        "title": "SummitOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/2aea65f0-4092-4335-bf72-ea3154dbc113/view"
       },
       {
-        "id": "64789ad80c844fde20933df4206428dcb8766b3b",
-        "title": "adventuringelephant1158",
-        "url": "https://higgsfield.ai/@adventuringelephant1158"
+        "id": "b550072280ddb92ffe00a509ddd854cae929bc62",
+        "title": "Marketing StudioOpen",
+        "url": "https://higgsfield.ai/marketing-studio"
       },
       {
-        "id": "0a8c0b34c7365f59c5dc00721537df2f1b729d34",
-        "title": "dxkonay",
-        "url": "https://higgsfield.ai/@dxkonay"
+        "id": "b495d7743a99840eb6d41437dfc0b86eeae18838",
+        "title": "Retro WingOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/6961a29e-7fb7-4d82-b46e-23ad96d2c6f4/view"
       },
       {
-        "id": "158e471818053aba93726ed04a46d9475f374f6b",
-        "title": "gavais",
-        "url": "https://higgsfield.ai/@gavais"
+        "id": "2e7b460b44fb8b5ada2710b85ab9dd2b304be0c4",
+        "title": "Angles 2.0Open",
+        "url": "https://higgsfield.ai/apps/angles"
       },
       {
-        "id": "e860cefa2e0c4be488b04c8a1f914261cfcaf36d",
-        "title": "nursoultan_higgsfield",
-        "url": "https://higgsfield.ai/@nursoultan_higgsfield"
+        "id": "50765ab05295a255308b6310b9ed4ca731e0384a",
+        "title": "Cinema Studio 4DOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/4ee97cab-07f5-4bb0-aaec-b8ea7495cf75/view"
       },
       {
-        "id": "2679cb5bf89a503717e32fd8aa461d6e1d84be5f",
-        "title": "kavkaz",
-        "url": "https://higgsfield.ai/@kavkaz"
+        "id": "7e569c31da7061b3daea53729fdb767b0191df10",
+        "title": "ShotsOpen",
+        "url": "https://higgsfield.ai/apps/shots"
       },
       {
-        "id": "84e43679d36075409278c1a814195498060158fe",
-        "title": "quantumgrape1273",
-        "url": "https://higgsfield.ai/@quantumgrape1273"
+        "id": "ef5be67c33d3e07e7b46b2dfaf416ffc9892ee77",
+        "title": "SpinForgeOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/66e2f63f-8505-4cdb-a5ca-3cc6386b2a66/view"
+      },
+      {
+        "id": "0b0176216b7a98e18651114b55b0dba9f124b200",
+        "title": "DV DiaryOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/ab1441e6-398d-4749-b39d-eb7d28d4c31b/view"
       },
       {
         "id": "6922b2fe4980b99a54ee99859292f781c91090c6",
@@ -3402,26 +3392,6 @@
         "id": "f157643e9c91bdc76617d2a7dd261963c4afc730",
         "title": "Trust",
         "url": "https://higgsfield.ai/trust"
-      },
-      {
-        "id": "1380cb2140a6bb1f6bee014ee381ce3329c48904",
-        "title": "Soul ID Character",
-        "url": "https://higgsfield.ai/character"
-      },
-      {
-        "id": "996e8a5fabd1652631e8bc3b6fc0b2099395503f",
-        "title": "Mixed media",
-        "url": "https://higgsfield.ai/mixed-media-intro"
-      },
-      {
-        "id": "528a0cacc40892f7308d96e6a4cd4fcacf22952e",
-        "title": "Banana Placement",
-        "url": "https://higgsfield.ai/edit?model=banana_placement"
-      },
-      {
-        "id": "77673b33a2d75f792ddd9d53d769f47f210a9a1f",
-        "title": "Product Placement",
-        "url": "https://higgsfield.ai/edit?model=canvas"
       },
       {
         "id": "a9872bcbb4261f47280a02a35063a64593fdc30c",
