@@ -1074,13 +1074,13 @@
         "url": "https://viddo.ai/video-effects"
       },
       {
-        "id": "580a3b34a295e3d13c293f64f60b2b8fb250c032",
-        "title": "Prompt Library",
+        "id": "c772055a37f156c0fc8bfb3608fe43dc1a406e46",
+        "title": "Prompt LibraryEarn Credits",
         "url": "https://viddo.ai/prompt"
       },
       {
-        "id": "45fc8f590bf557af46e2994225cd4ef1087bca38",
-        "title": "Operation Tutorial",
+        "id": "bb91ce614457a8ee4dafe1c6e09277a6124a7c87",
+        "title": "Operation TutorialEarn Credits",
         "url": "https://viddo.ai/tutorial"
       },
       {
@@ -3044,13 +3044,13 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "bd985db99d5855951cdcd1262b6557b4f728fe56",
-        "title": "Next LevelOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/c455cf00-8540-444d-8df3-9ad11b904230/view"
+        "id": "4a9ef6e6d223990a866e70a1f46f5433053449c9",
+        "title": "Your browser does not support the video.DV DiaryOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/ab1441e6-398d-4749-b39d-eb7d28d4c31b/view"
       },
       {
-        "id": "dadef4a518a0836e6a3c971712ac1a7216a0e73b",
-        "title": "Personal ClipperOpen",
+        "id": "16c71ca0bc3012ba07bdba2b78089800ee67a338",
+        "title": "Your browser does not support the video.Personal ClipperOpen",
         "url": "https://higgsfield.ai/supercomputer/marketplace/employees/e8dbf288-4adc-4609-8300-6de46a239e59"
       },
       {
@@ -3059,49 +3059,54 @@
         "url": "https://higgsfield.ai/supercomputer/apps/9685e9bb-3d9c-4514-8bdc-61d343a572c5/view"
       },
       {
-        "id": "151662f748bc36d1d8f6d1b78052e210360322d4",
-        "title": "CanvasOpen",
+        "id": "cf6a6c379360e0aae9e5b1b19080368117430033",
+        "title": "Your browser does not support the video.CanvasOpen",
         "url": "https://higgsfield.ai/canvas"
       },
       {
-        "id": "b6ee035cb8dfb9269d390e5c72a4c33c9ddad0a7",
-        "title": "SummitOpen",
+        "id": "33a026164b3d8bb434bec641093ba7d64be3738c",
+        "title": "Your browser does not support the video.SummitOpen",
         "url": "https://higgsfield.ai/supercomputer/apps/2aea65f0-4092-4335-bf72-ea3154dbc113/view"
       },
       {
-        "id": "b550072280ddb92ffe00a509ddd854cae929bc62",
-        "title": "Marketing StudioOpen",
+        "id": "e4dc2ea5023830e7ad1e7f37c56dfd0fc2d1da3f",
+        "title": "Your browser does not support the video.Marketing StudioOpen",
         "url": "https://higgsfield.ai/marketing-studio"
       },
       {
-        "id": "b495d7743a99840eb6d41437dfc0b86eeae18838",
-        "title": "Retro WingOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/6961a29e-7fb7-4d82-b46e-23ad96d2c6f4/view"
+        "id": "fb369804c5d29e9fb869ec3281a1739f6038972c",
+        "title": "Your browser does not support the video.Photobooth CreatorOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/7ff29220-2dbc-493b-93ac-759823d56192/view"
       },
       {
-        "id": "2e7b460b44fb8b5ada2710b85ab9dd2b304be0c4",
-        "title": "Angles 2.0Open",
+        "id": "d04ad82c0be2e188a440a04d2a31ce2fbf7fb939",
+        "title": "Your browser does not support the video.Angles 2.0Open",
         "url": "https://higgsfield.ai/apps/angles"
       },
       {
-        "id": "50765ab05295a255308b6310b9ed4ca731e0384a",
-        "title": "Cinema Studio 4DOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/4ee97cab-07f5-4bb0-aaec-b8ea7495cf75/view"
-      },
-      {
-        "id": "7e569c31da7061b3daea53729fdb767b0191df10",
-        "title": "ShotsOpen",
-        "url": "https://higgsfield.ai/apps/shots"
-      },
-      {
-        "id": "ef5be67c33d3e07e7b46b2dfaf416ffc9892ee77",
-        "title": "SpinForgeOpen",
+        "id": "2bafe9332a52526256cb7b5b42c23f4467806db2",
+        "title": "Your browser does not support the video.SpinForgeOpen",
         "url": "https://higgsfield.ai/supercomputer/apps/66e2f63f-8505-4cdb-a5ca-3cc6386b2a66/view"
       },
       {
-        "id": "0b0176216b7a98e18651114b55b0dba9f124b200",
-        "title": "DV DiaryOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/ab1441e6-398d-4749-b39d-eb7d28d4c31b/view"
+        "id": "45d5f374c9c3ef2c24560888c62ab5b3952fcd77",
+        "title": "Your browser does not support the video.ShotsOpen",
+        "url": "https://higgsfield.ai/apps/shots"
+      },
+      {
+        "id": "fb9584e2c8a9bb24391e945308caa4e1646165e8",
+        "title": "Cinema Studio 4D — direct the camera, not the promptOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/4ee97cab-07f5-4bb0-aaec-b8ea7495cf75/view"
+      },
+      {
+        "id": "4290f7b7c7998f5549acabd550e71946def0cbf2",
+        "title": "Your browser does not support the video.Retro WingOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/6961a29e-7fb7-4d82-b46e-23ad96d2c6f4/view"
+      },
+      {
+        "id": "3bc1e34cc9eac10a0ab110d5ff36cf0c07bab5ac",
+        "title": "View all apps",
+        "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
         "id": "6922b2fe4980b99a54ee99859292f781c91090c6",
@@ -3462,26 +3467,6 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
-      },
-      {
-        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
-        "title": "Cookie Policy",
-        "url": "https://higgsfield.ai/cookie-notice"
-      },
-      {
-        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
-        "title": "Your Privacy Choices",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
-        "title": "Privacy Policy",
-        "url": "https://higgsfield.ai/privacy-policy"
-      },
-      {
-        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
-        "title": "Terms of Use",
-        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
