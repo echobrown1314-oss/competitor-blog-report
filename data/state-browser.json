@@ -6,12 +6,6 @@
     "DataCamp": [],
     "WaveSpeed": [
       {
-        "key": "83153865f133f22a93d8f5c025b99387eb6493f9",
-        "url": "https://wavespeed.ai/blog/posts/triposplat-vs-hunyuan-3d/",
-        "date": "2026-06-29",
-        "reportedAt": "2026-06-30T05:16:18.129Z"
-      },
-      {
         "key": "243dbd1e5a7c7a693ef7c72fb6b1f0cb8bb509be",
         "url": "https://wavespeed.ai/blog/posts/gpt-5-6-sol-terra-luna/",
         "date": "2026-07-02",
@@ -19,12 +13,6 @@
       }
     ],
     "WeShop AI": [
-      {
-        "key": "ed1f398c9598f1f34a439bf43530c5ee539b2ee1",
-        "url": "https://www.weshop.ai/blog/ai-lingerie-generator-for-ecommerce-try-on-and-social-ready-fashion-visuals/",
-        "date": "2026-06-29T17:29:07+00:00",
-        "reportedAt": "2026-06-30T05:16:18.129Z"
-      },
       {
         "key": "462336d3a9075acb612b033899e3660ba551c722",
         "url": "https://www.weshop.ai/blog/animal-shorts-generator-make-ai-pet-videos-animal-memes-and-sticker-style-shorts/",
@@ -132,27 +120,27 @@
         "url": "https://www.weshop.ai/blog/how-to-make-a-stunning-ai-fashion-lookbook-fast/",
         "date": "2026-07-05T19:09:34+00:00",
         "reportedAt": "2026-07-06T05:21:23.637Z"
+      },
+      {
+        "key": "ac7606861a01d8db69bdf0766002250893526234",
+        "url": "https://www.weshop.ai/blog/polaroid-filter-online-make-your-photos-look-like-real-memories-again/",
+        "date": "2026-07-07T19:02:02+00:00",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "49f9ef1ca4e61ca75a8eff352bf24024f325d5d2",
+        "url": "https://www.weshop.ai/blog/dancing-girl-video-generator-create-viral-ai-dance-videos-from-one-photo/",
+        "date": "2026-07-07T18:01:35+00:00",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "57e35a685f90976054f772505b4079c8ab75b855",
+        "url": "https://www.weshop.ai/blog/one-product-photo-full-360-video-ai-360-video-production-makes-products-move/",
+        "date": "2026-07-07T17:58:35+00:00",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "2163507525be999fd3bcadd8024a1ebc2c409585",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-free",
-        "date": "2026-06-30T04:05:07.383Z",
-        "reportedAt": "2026-06-30T05:16:18.129Z"
-      },
-      {
-        "key": "43f5942491995af7a50314379794b5a9b77fcc30",
-        "url": "https://www.atlascloud.ai/blog/guides/free-opensource-ai-avatar-heygen-alternative",
-        "date": "2026-06-29T09:37:45.886Z",
-        "reportedAt": "2026-06-30T05:16:18.129Z"
-      },
-      {
-        "key": "24acc5d6ffecef48f5f41fa5c7937a4b7e5ecbba",
-        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-text-to-video",
-        "date": "2026-06-29T08:23:20.408Z",
-        "reportedAt": "2026-06-30T05:16:18.129Z"
-      },
       {
         "key": "9ca4b35e7729ae479a6cb57fbb53bb182cc6cd7e",
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-earth-zoom",
@@ -308,6 +296,72 @@
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-v6-review",
         "date": "2026-07-06T07:38:54.778Z",
         "reportedAt": "2026-07-07T05:04:15.400Z"
+      },
+      {
+        "key": "4dac3628871a6cefe4e046d39b841daccb072409",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-api-pricing-the-cheapest-provider-compared",
+        "date": "2026-07-08T03:43:26.216Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "39761a626b9ff6cb89771c1491421bdb2a496c4e",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-ai-video-generator-character-consistency",
+        "date": "2026-07-08T01:00:25.691Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "a4b6fbe569d515def031c012b54331cee82449bf",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-30-second-ai-video-ads",
+        "date": "2026-07-08T00:36:08.467Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "8bf95c1512c2b2afc0bd8f005fc7e7e9a6870507",
+        "url": "https://www.atlascloud.ai/blog/guides/audio-first-ai-video-workflow",
+        "date": "2026-07-07T11:25:19.946Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "ced56b85767e023870a31c30d9355ae185345db6",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-use-seedance-2.0-for-video-generation",
+        "date": "2026-07-07T10:51:42.032Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "4b788eb745daaf640e45a6decba3ebed98af7249",
+        "url": "https://www.atlascloud.ai/blog/case-studies/how-to-access-seedance-2-0-api-free",
+        "date": "2026-07-07T10:12:12.916Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "9b8be53d3bd83c4b7965c38c30e0724e288aecb4",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/best-seedance-2-0-prompts-guide",
+        "date": "2026-07-07T10:03:44.753Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "d49fc462ebec3e117212bfdce8e207ac195b88a3",
+        "url": "https://www.atlascloud.ai/blog/case-studies/seedance-2.0-pricing-full-cost-breakdown-2026",
+        "date": "2026-07-07T09:44:25.506Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "87e8d9cb23a866cfb3715d83675ef01be5cd1b07",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-prompts",
+        "date": "2026-07-07T08:16:04.947Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "d7d24987e1225db69580eb5d59df355a311b37cd",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-hug-free",
+        "date": "2026-07-07T08:05:58.024Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
+      },
+      {
+        "key": "9ee176e6670de9c3db4efb683c9662c7f6398711",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-v6-review",
+        "date": "2026-07-07T06:32:15.416Z",
+        "reportedAt": "2026-07-08T04:27:39.356Z"
       }
     ],
     "TopMediai": [],
