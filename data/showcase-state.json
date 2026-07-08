@@ -1119,6 +1119,11 @@
         "url": "https://viddo.ai/grok-imagine"
       },
       {
+        "id": "d298a839abc4ac3bd5c188bea83bfbc290319958",
+        "title": "Seedance 2.5",
+        "url": "https://viddo.ai/seedance-2-5"
+      },
+      {
         "id": "e7efccbce2b91c27e0f0c19be2b1753d71408b54",
         "title": "Seedance 2.0",
         "url": "https://viddo.ai/seedance-2-0"
@@ -2097,11 +2102,6 @@
         "id": "d4f931c8df9479e88d91b093b29eeeffde1fbf28",
         "title": "Head to Balloon",
         "url": "https://viddo.ai/video-effects/head_to_balloon"
-      },
-      {
-        "id": "a8ae88d92c3e176a6348626fd6299398eb319e14",
-        "title": "Clone",
-        "url": "https://viddo.ai/video-effects/cloning"
       }
     ],
     "DeeVid AI": [
@@ -2603,14 +2603,9 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+        "id": "e807de74ac63ac68b22d166bb118f0b226ef019f",
+        "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+        "url": "https://a2e.ai/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored-2/"
       },
       {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
@@ -2638,11 +2633,6 @@
         "url": "https://a2e.ai/ai-generated-tv-ads-small-brands/"
       },
       {
-        "id": "8cbe36d2ab88bc56d019bb6226eaf0833fd6a5e3",
-        "title": "A2E AI & Tripo: Improve a Visual Concept and Turn It into a 3D Model",
-        "url": "https://a2e.ai/a2e-ai-tripo-from-edited-image-to-3d-model/"
-      },
-      {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
         "title": "cost-effective",
         "url": "https://a2e.ai/why-choose-avatar-api-over-opensource/"
@@ -2666,6 +2656,26 @@
         "id": "1320f8350b49b5d65241e05c375062e37f399014",
         "title": "Guide",
         "url": "https://a2e.ai/how-do-i-cancel-my-subscription/"
+      },
+      {
+        "id": "3e70ae06dcb637e539d65b4a7fea6507a1a20ad9",
+        "title": "API Doc",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
       }
     ],
     "Kling AI": [
@@ -2915,6 +2925,11 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
+      },
+      {
+        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
+        "title": "here",
+        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -2979,9 +2994,14 @@
         "url": "https://higgsfield.ai/ai-influencer-studio"
       },
       {
-        "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
+        "id": "183324d3eeb6be5af6fec90ded5a9f79a8ca134a",
         "title": "Apps",
-        "url": "https://higgsfield.ai/apps"
+        "url": "https://higgsfield.ai/supercomputer/apps"
+      },
+      {
+        "id": "f5948771beb87c25d2b57a2880e45ee2947eb2a7",
+        "title": "Open App Builder",
+        "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
         "id": "79fbf1d5712b9fca1bee08954544b16ec2748f62",
@@ -3002,11 +3022,6 @@
         "id": "d5622b4001fac21440a4efc8a95aa23925109526",
         "title": "Open Gemini Omni Flash",
         "url": "https://higgsfield.ai/flow/video/prompt?from=gemini-omni&model=gemini-omni"
-      },
-      {
-        "id": "ba81938a3831bccf588ca91bc3544ce0fd28ed7b",
-        "title": "Open Nano Banana 2 Lite",
-        "url": "https://higgsfield.ai/mobile/image/nano-banana-2-lite"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
@@ -3044,9 +3059,14 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "4a9ef6e6d223990a866e70a1f46f5433053449c9",
-        "title": "Your browser does not support the video.DV DiaryOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/ab1441e6-398d-4749-b39d-eb7d28d4c31b/view"
+        "id": "604f37296e9977827a90c0fdc88634c1452ff74e",
+        "title": "Higgsfield Apps",
+        "url": "https://higgsfield.ai/supercomputer/apps"
+      },
+      {
+        "id": "6cf6d2694ceaa65afdb4ec4a7cec67e23249f98b",
+        "title": "Magic MirrorOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/c7b8ac3d-e0f8-4903-97af-503c280f54c7/view"
       },
       {
         "id": "16c71ca0bc3012ba07bdba2b78089800ee67a338",
@@ -3054,9 +3074,9 @@
         "url": "https://higgsfield.ai/supercomputer/marketplace/employees/e8dbf288-4adc-4609-8300-6de46a239e59"
       },
       {
-        "id": "fb27a2e5a4138a7da265f88d5bfb9c6a6121abd4",
-        "title": "Thumbnail MakerOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/9685e9bb-3d9c-4514-8bdc-61d343a572c5/view"
+        "id": "c3dd9547ae15c91bae18adcc3f1b29a9f4fc2cb0",
+        "title": "Your browser does not support the video.Cover StudioOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/a6e8620c-df6e-47a8-863d-3853f1b9c2f3/view"
       },
       {
         "id": "cf6a6c379360e0aae9e5b1b19080368117430033",
@@ -3064,9 +3084,9 @@
         "url": "https://higgsfield.ai/canvas"
       },
       {
-        "id": "33a026164b3d8bb434bec641093ba7d64be3738c",
-        "title": "Your browser does not support the video.SummitOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/2aea65f0-4092-4335-bf72-ea3154dbc113/view"
+        "id": "cbcc662c0d693925a2d9b83afb27ad84897c3c07",
+        "title": "Your browser does not support the video.OCTAGON — Two Photos. One Knockout.Open",
+        "url": "https://higgsfield.ai/supercomputer/apps/f4f4de44-4fd2-4987-8349-31c5d4e85f21/view"
       },
       {
         "id": "e4dc2ea5023830e7ad1e7f37c56dfd0fc2d1da3f",
@@ -3074,9 +3094,9 @@
         "url": "https://higgsfield.ai/marketing-studio"
       },
       {
-        "id": "fb369804c5d29e9fb869ec3281a1739f6038972c",
-        "title": "Your browser does not support the video.Photobooth CreatorOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/7ff29220-2dbc-493b-93ac-759823d56192/view"
+        "id": "fed28e074dc4d62958079bc389cfc5a751ef41d3",
+        "title": "Storybook About You — a children's book starring your childOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/72f208a3-7cc7-41f4-a582-dae6e6d19084/view"
       },
       {
         "id": "d04ad82c0be2e188a440a04d2a31ce2fbf7fb939",
@@ -3084,9 +3104,9 @@
         "url": "https://higgsfield.ai/apps/angles"
       },
       {
-        "id": "2bafe9332a52526256cb7b5b42c23f4467806db2",
-        "title": "Your browser does not support the video.SpinForgeOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/66e2f63f-8505-4cdb-a5ca-3cc6386b2a66/view"
+        "id": "870024e377f507dd05d595d1ce34f5a296dcbffb",
+        "title": "Cluck Flix — NatGeo Chicken Breed DocumentariesOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/648e4665-96b6-44ae-a998-0bd15d207058/view"
       },
       {
         "id": "45d5f374c9c3ef2c24560888c62ab5b3952fcd77",
@@ -3094,18 +3114,18 @@
         "url": "https://higgsfield.ai/apps/shots"
       },
       {
-        "id": "fb9584e2c8a9bb24391e945308caa4e1646165e8",
-        "title": "Cinema Studio 4D — direct the camera, not the promptOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/4ee97cab-07f5-4bb0-aaec-b8ea7495cf75/view"
+        "id": "9e4d7ea5af7e3ff86096f23aaa03c518016cb657",
+        "title": "Ad Studio — turn your product into adsOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/7cfffe5c-fb39-4219-be85-c146a4b595c1/view"
       },
       {
-        "id": "4290f7b7c7998f5549acabd550e71946def0cbf2",
-        "title": "Your browser does not support the video.Retro WingOpen",
-        "url": "https://higgsfield.ai/supercomputer/apps/6961a29e-7fb7-4d82-b46e-23ad96d2c6f4/view"
+        "id": "ab8363f15014999ac7bc2e443a6dd6caac4fc9fd",
+        "title": "Your browser does not support the video.Next LevelOpen",
+        "url": "https://higgsfield.ai/supercomputer/apps/c455cf00-8540-444d-8df3-9ad11b904230/view"
       },
       {
-        "id": "3bc1e34cc9eac10a0ab110d5ff36cf0c07bab5ac",
-        "title": "View all apps",
+        "id": "bb508f06e035e15c4be8ae49869b5dd041b555f6",
+        "title": "Explore & build apps",
         "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
@@ -3397,6 +3417,11 @@
         "id": "f157643e9c91bdc76617d2a7dd261963c4afc730",
         "title": "Trust",
         "url": "https://higgsfield.ai/trust"
+      },
+      {
+        "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
+        "title": "Apps",
+        "url": "https://higgsfield.ai/apps"
       },
       {
         "id": "a9872bcbb4261f47280a02a35063a64593fdc30c",
