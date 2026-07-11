@@ -2920,11 +2920,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3054,8 +3049,8 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "42b52ca77c8ca3b4f7fa0bd52756a5b49ecf72de",
-        "title": "12D10H04M$100 000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
+        "id": "5bd4186b5f8adf0e19ce89a8c212a9c660c398c7",
+        "title": "11D10H44M$100 000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
         "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
@@ -3129,6 +3124,11 @@
         "url": "https://higgsfield.ai/supercomputer/apps/6f01a9a0-e731-4618-abe5-4e08b11348fd/view"
       },
       {
+        "id": "a4f1dd70fba4e8e472e1e2a141c26fc1b2502022",
+        "title": "Explore all apps",
+        "url": "https://higgsfield.ai/supercomputer/apps"
+      },
+      {
         "id": "af989b53555100278e06a63780acb87eb77c5e92",
         "title": "ramzigalimov",
         "url": "https://higgsfield.ai/@ramzigalimov"
@@ -3169,9 +3169,9 @@
         "url": "https://higgsfield.ai/@gavais"
       },
       {
-        "id": "e860cefa2e0c4be488b04c8a1f914261cfcaf36d",
-        "title": "nursoultan_higgsfield",
-        "url": "https://higgsfield.ai/@nursoultan_higgsfield"
+        "id": "81f7e4d1601bf9f20ba41ff911bf90196079aad3",
+        "title": "xnursoultan",
+        "url": "https://higgsfield.ai/@xnursoultan"
       },
       {
         "id": "2679cb5bf89a503717e32fd8aa461d6e1d84be5f",
@@ -3547,6 +3547,26 @@
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
         "title": "Profile",
         "url": "https://higgsfield.ai/profile"
+      },
+      {
+        "id": "0783c4b5e8310e481c62cd5b0d8923cc1a0801ba",
+        "title": "Cookie Policy",
+        "url": "https://higgsfield.ai/cookie-notice"
+      },
+      {
+        "id": "ae2bfd81960d97c069e632e6378e6235f6a5492f",
+        "title": "Your Privacy Choices",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "a343d000c579a8e414eea37798673527d1ae8ed8",
+        "title": "Privacy Policy",
+        "url": "https://higgsfield.ai/privacy-policy"
+      },
+      {
+        "id": "0a6ed6fc079fc7a4dd9b75d6d1a139b033e981f3",
+        "title": "Terms of Use",
+        "url": "https://higgsfield.ai/terms-of-use-agreement"
       }
     ]
   }
