@@ -3,15 +3,16 @@
     "LitMedia": [],
     "MindVideo": [],
     "Topview": [],
-    "DataCamp": [],
+    "DataCamp": [
+      {
+        "key": "0ca515f7fb97e689e309287e57806031ae2e5507",
+        "url": "https://www.datacamp.com/blog/quantum-machine-learning",
+        "date": "2026-07-13T19:45:00.000Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      }
+    ],
     "WaveSpeed": [],
     "WeShop AI": [
-      {
-        "key": "f0b5ae77ed527731d66879591581f17b347dc0e1",
-        "url": "https://www.weshop.ai/blog/how-to-make-a-stunning-ai-fashion-lookbook-fast/",
-        "date": "2026-07-05T19:09:34+00:00",
-        "reportedAt": "2026-07-06T05:21:23.637Z"
-      },
       {
         "key": "ac7606861a01d8db69bdf0766002250893526234",
         "url": "https://www.weshop.ai/blog/polaroid-filter-online-make-your-photos-look-like-real-memories-again/",
@@ -313,6 +314,90 @@
         "url": "https://www.atlascloud.ai/blog/guides/does-seedream-5-pro-allow-nsfw",
         "date": "2026-07-13T03:09:11.074Z",
         "reportedAt": "2026-07-13T04:39:45.817Z"
+      },
+      {
+        "key": "497cdc9bba06b034e620bd658305abd98fcd97e7",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-lip-sync",
+        "date": "2026-07-14T04:08:10.790Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "34e7633f12afe96b762a672d7c8a00710518abd4",
+        "url": "https://www.atlascloud.ai/blog/guides/video-lipsync-wan-kling-veo",
+        "date": "2026-07-14T03:52:31.367Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "f856850b42c0115aee40b7e2c86b61f3e0dabeeb",
+        "url": "https://www.atlascloud.ai/blog/guides/one-api-seedance-wan-nanobanana-qwen",
+        "date": "2026-07-14T03:49:14.512Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "b2f7165f0d72f93931a07658bd3a7652b13407bc",
+        "url": "https://www.atlascloud.ai/blog/guides/self-host-wan-vs-api",
+        "date": "2026-07-14T03:48:41.270Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "0211d3e657e6586f34693e3d9580ed76e9b68010",
+        "url": "https://www.atlascloud.ai/blog/guides/nanobanana-14-reference-images-consistency",
+        "date": "2026-07-14T03:48:29.792Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "64d86e6792e50d330b45bd6a994cd876d7d8b4fa",
+        "url": "https://www.atlascloud.ai/blog/guides/nanobanana-batch-discount-pricing",
+        "date": "2026-07-14T03:48:19.764Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "752cdc512d5c271961adf6631e6441192eb7888b",
+        "url": "https://www.atlascloud.ai/blog/guides/migrate-sora-to-seedance-wan",
+        "date": "2026-07-14T03:48:11.040Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "299bd4eb6bd33436b7cd7d8ecf8f9a9b0a35ab31",
+        "url": "https://www.atlascloud.ai/blog/guides/tiktok-ad-creative-at-scale",
+        "date": "2026-07-14T03:47:59.370Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "ea9ae0d193a1b36f9e46cd55cbc0c17b59a31b1d",
+        "url": "https://www.atlascloud.ai/blog/guides/translate-product-videos-multilingual",
+        "date": "2026-07-14T03:47:50.708Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "17c3fbb658297b3bc4563620085797bfc6d310a3",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-enterprise-no-deposit",
+        "date": "2026-07-14T03:47:03.175Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "406012bce70e77f641ba7c475fe081b951756b46",
+        "url": "https://www.atlascloud.ai/blog/guides/vs-openrouter-vs-replicate",
+        "date": "2026-07-14T03:46:58.628Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "6de7ceef891ee9730050b00e927f316e3d8db343",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-r1",
+        "date": "2026-07-13T10:31:47.529Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "554747b6119e062828a93271d290184d017f487b",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-video-generation-prompt-guide",
+        "date": "2026-07-13T09:03:28.544Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "09647541f5167690e3138840c2285b444ee1128b",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-midjourney",
+        "date": "2026-07-13T07:32:01.487Z",
+        "reportedAt": "2026-07-14T04:13:30.609Z"
       }
     ],
     "TopMediai": [
