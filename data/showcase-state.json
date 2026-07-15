@@ -1119,11 +1119,6 @@
         "url": "https://viddo.ai/grok-imagine"
       },
       {
-        "id": "d298a839abc4ac3bd5c188bea83bfbc290319958",
-        "title": "Seedance 2.5",
-        "url": "https://viddo.ai/seedance-2-5"
-      },
-      {
         "id": "e7efccbce2b91c27e0f0c19be2b1753d71408b54",
         "title": "Seedance 2.0",
         "url": "https://viddo.ai/seedance-2-0"
@@ -2102,6 +2097,11 @@
         "id": "d4f931c8df9479e88d91b093b29eeeffde1fbf28",
         "title": "Head to Balloon",
         "url": "https://viddo.ai/video-effects/head_to_balloon"
+      },
+      {
+        "id": "a8ae88d92c3e176a6348626fd6299398eb319e14",
+        "title": "Clone",
+        "url": "https://viddo.ai/video-effects/cloning"
       }
     ],
     "DeeVid AI": [
@@ -2613,11 +2613,6 @@
         "url": "https://a2e.ai/how-to-search-google-from-claude-code-with-an-mcp-server/"
       },
       {
-        "id": "e807de74ac63ac68b22d166bb118f0b226ef019f",
-        "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
-        "url": "https://a2e.ai/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored-2/"
-      },
-      {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
         "title": "Best AI Video Generator for Marketing: Compare Tools by Workflow, Quality, and Control",
         "url": "https://a2e.ai/best-ai-video-generator-for-marketing/"
@@ -2626,6 +2621,11 @@
         "id": "392695fc1ebe5a834089ebbcd963cb9be2e1f097",
         "title": "AI Video Generator for TikTok Ads: Workflow Guide, Use Cases, and First Draft Tips",
         "url": "https://a2e.ai/ai-video-generator-for-tiktok-ads/"
+      },
+      {
+        "id": "2596711360e18ac655192c0c400813f86d6841c9",
+        "title": "Runway AI: What This Signal Means for Video Teams and Marketers",
+        "url": "https://a2e.ai/runway-ai-what-this-signal-means-for-video-teams-and-marketers/"
       },
       {
         "id": "616af7746620af76fa1d8df85eaca013187157d7",
@@ -2671,6 +2671,251 @@
         "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
         "title": "HappyHorse",
         "url": "https://video.a2e.ai/happy-horse"
+      },
+      {
+        "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
+        "title": "Service Status",
+        "url": "https://a2e.ai/realtime-status/"
+      },
+      {
+        "id": "404347ea2963c2949021bec3b57dfd537ceb3efc",
+        "title": "Media Assets",
+        "url": "https://a2e.ai/a2e-media-kit-brand-assets/"
+      },
+      {
+        "id": "85cf65af72f4f54b3f1dc8c43a3c5057f064af95",
+        "title": "Privacy Policies",
+        "url": "https://a2e.ai/privacy-policy/"
+      },
+      {
+        "id": "a7991fc8b8913250e34d0daccda8b36017253c2e",
+        "title": "Terms of Use",
+        "url": "https://a2e.ai/a2e-terms-of-use/"
+      },
+      {
+        "id": "12eedb762656356c3ad8b48756c50716270df588",
+        "title": "Refund Policy",
+        "url": "https://a2e.ai/refund-policy/"
+      },
+      {
+        "id": "74cfa44d645d64ab6408fe21f302155e495e06ff",
+        "title": "Report CSAM",
+        "url": "https://a2e.ai/a2e-csam/"
+      },
+      {
+        "id": "0d0857a0ea17b5d5365ff2bc62e8375a6996ba17",
+        "title": "Sitemap",
+        "url": "https://a2e.ai/sitemap.xml"
+      },
+      {
+        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
+        "title": "GPT Image 1.5",
+        "url": "https://video.a2e.ai/image-generator/gpt-image"
+      },
+      {
+        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
+        "title": "Kling 3.0 Image",
+        "url": "https://video.a2e.ai/image-generator/kling-image"
+      },
+      {
+        "id": "7ae7254a6e02a67cc84b43c4e45fc8e4d58f70c3",
+        "title": "Wan 2.7 Image",
+        "url": "https://video.a2e.ai/image-generator/wan27-image"
+      },
+      {
+        "id": "45011e89d9b71743aa733e5099ef9d9197b1d8fd",
+        "title": "Wan 2.6 Image",
+        "url": "https://video.a2e.ai/image-generator/wan26-image"
+      },
+      {
+        "id": "f0693236ef4fa741c1373f7764bcdb59ff53dca4",
+        "title": "Seedream 5.0",
+        "url": "https://video.a2e.ai/image-generator/text-to-image/seedream-5-0"
+      },
+      {
+        "id": "3246cd437f1ac1ac8cbdaa8f32a7273cdde8d676",
+        "title": "Seedream 4.5",
+        "url": "https://video.a2e.ai/image-generator/text-to-image"
+      },
+      {
+        "id": "37e1b3e987d936dfb457cf9f8301bb397c74f0d1",
+        "title": "Qwen Image 2.0",
+        "url": "https://video.a2e.ai/image-generator/qwen-image-2.0"
+      },
+      {
+        "id": "44a8f359a8869811110bbb783ddb0b5dc6072472",
+        "title": "Flux 2 Pro",
+        "url": "https://video.a2e.ai/image-generator/flux2"
+      },
+      {
+        "id": "8e6cdfb7f8983806e99b5793ad8da413c7e32dc4",
+        "title": "Nano Banana 2",
+        "url": "https://video.a2e.ai/image-generator/nano-banana-2"
+      },
+      {
+        "id": "eb6b93dc0e0e5a0bdac9c9e8d4fe508b6a9ef827",
+        "title": "Z-Image",
+        "url": "https://video.a2e.ai/image-generator/text-to-image/z-image"
+      },
+      {
+        "id": "889009fa6b81a999767ac145a1d999f490d0af4e",
+        "title": "A2E",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "c4fce6653d8519ee57bb5d611f4896068aef686d",
+        "title": "MiniMax",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "c18f5f40e87235c9a8dcd335671d4739d962185a",
+        "title": "Cartesia",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "d5bf090c33950e381451ae4481483e2245c058b4",
+        "title": "Elevenlabs",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
+        "title": "AI Image to Video",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
+        "title": "AI Head Swap",
+        "url": "https://video.a2e.ai/head-swap"
+      },
+      {
+        "id": "0e907cf14979f67d13a7bc6419509a262e4c6889",
+        "title": "AI Face Swap",
+        "url": "https://video.a2e.ai/face-swap"
+      },
+      {
+        "id": "97cc8902545be3f857bb044cbc3c4a35a7903a62",
+        "title": "AI Voice Clone",
+        "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "fc1ef0aa415c58442161f82f8e4e157e5d1c046b",
+        "title": "AI Video to Audio",
+        "url": "https://video.a2e.ai/voice-studio/video-to-audio"
+      },
+      {
+        "id": "a450d22d73fb632e108cae316fd20134bd6bc46e",
+        "title": "AI Avatar from Videos",
+        "url": "https://video.a2e.ai/ai-avatar/create-from-videos"
+      },
+      {
+        "id": "04fa7b6cddd7e3e8c8d1e02ace5019cd8af8b167",
+        "title": "AI Avatar from Images",
+        "url": "https://video.a2e.ai/ai-avatar/create-from-images"
+      },
+      {
+        "id": "c331196457812ed6113e12d61c7b3037988041b4",
+        "title": "AI Viggle(Actor Swap)",
+        "url": "https://video.a2e.ai/actor-swap"
+      },
+      {
+        "id": "7b7e666cef1909aeef639c863c22674be35f76b8",
+        "title": "AI Text to Image",
+        "url": "https://video.a2e.ai/image-generator/text-to-image"
+      },
+      {
+        "id": "89de056d6dde35b07915f99129db9d8c602e3fb4",
+        "title": "AI Upscale",
+        "url": "https://video.a2e.ai/video-toolbox/upscale"
+      },
+      {
+        "id": "d3e523319df5e25c0cfba552023c5b8ed56e65c5",
+        "title": "AI Product Avatar",
+        "url": "https://video.a2e.ai/image-generator/product-avatar"
+      },
+      {
+        "id": "aa68eec60181b264ef4fbf9e544451b5f26b0be8",
+        "title": "AI Virtual Try-On",
+        "url": "https://video.a2e.ai/image-generator/virtual-try-on"
+      },
+      {
+        "id": "34465bcd1eb53fa3009ab79bac845bd29bbce284",
+        "title": "AI Talking Photo",
+        "url": "https://video.a2e.ai/video-generator/talking-photo"
+      },
+      {
+        "id": "f8c7634db102dfa8b30a41d908f33510004cf09c",
+        "title": "AI Talking Video",
+        "url": "https://video.a2e.ai/talking-video"
+      },
+      {
+        "id": "aa1caf9a4da643b7d5c2fc32b64e30b6cd5279c8",
+        "title": "AI Video to Video",
+        "url": "https://video.a2e.ai/video-generator/video-to-video"
+      },
+      {
+        "id": "d67e8a547c7b35fb832664e94cebc4a90ebe52ab",
+        "title": "AI Subtitle Remover",
+        "url": "https://video.a2e.ai/video-toolbox/subtitle-remover"
+      },
+      {
+        "id": "e23ad824681f388b9c3c464669efdd90feda80ae",
+        "title": "AI Video Downloader",
+        "url": "https://video.a2e.ai/video-toolbox/video-downloader"
+      },
+      {
+        "id": "e0b59de982f4e50716b649ead9158a92d49f8f46",
+        "title": "AI Models",
+        "url": "https://a2e.ai/models/"
+      },
+      {
+        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
+        "title": "Seedance 1.5 Pro",
+        "url": "https://video.a2e.ai/seedance-video"
+      },
+      {
+        "id": "a6f91fd26f21b0f27239c0ad454f335dd0e02e94",
+        "title": "Kling 3.0",
+        "url": "https://video.a2e.ai/kling-video-3.0"
+      },
+      {
+        "id": "8320180e7269b2b4f83168a6606719414be8c5c9",
+        "title": "Kling 2.6",
+        "url": "https://video.a2e.ai/kling-video"
+      },
+      {
+        "id": "9b77331e8c4bc7e44143282098e1751b2f20f01b",
+        "title": "Wan 2.7",
+        "url": "https://video.a2e.ai/wan-2-7"
+      },
+      {
+        "id": "1fe10d7399bddc7ffb2f0261f0423a1362860b53",
+        "title": "Wan 2.6",
+        "url": "https://video.a2e.ai/wan-2-6"
+      },
+      {
+        "id": "10b700af98c1555bc78f912b6483901b00c4278a",
+        "title": "Wan 2.6 R2V",
+        "url": "https://video.a2e.ai/wan-r2v"
+      },
+      {
+        "id": "c5d7f838f6f7690aebeaf0141eb3d39e90eb0f5f",
+        "title": "Grok Imagine",
+        "url": "https://video.a2e.ai/grok-video"
+      },
+      {
+        "id": "9c023b669900f34e897a121c6aa30627f0f69bc4",
+        "title": "Hailuo 2.3",
+        "url": "https://video.a2e.ai/hailuo-video"
+      },
+      {
+        "id": "dc283f6a5d4495c0afa3aa50aaa8c9d13555da40",
+        "title": "Veo 3.1",
+        "url": "https://video.a2e.ai/veo-video"
+      },
+      {
+        "id": "a9399def21e86642cc39afcd348f332f9d5d9d4b",
+        "title": "Sora 2 Pro",
+        "url": "https://video.a2e.ai/sora-video"
       }
     ],
     "Kling AI": [
@@ -2920,11 +3165,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -2994,6 +3234,11 @@
         "url": "https://higgsfield.ai/supercomputer/apps?source=higgsfield"
       },
       {
+        "id": "ee639593cbd266f3bb0090caf2cac435c122c830",
+        "title": "Open Higgsfield MCP/Plugin for After Effects",
+        "url": "https://higgsfield.ai/plugins/after-effects"
+      },
+      {
         "id": "51cbe0895e678f6cf17ac2fcea8b6eb71af61ed8",
         "title": "Open $100K APP CONTEST",
         "url": "https://higgsfield.ai/supercomputer/apps"
@@ -3012,16 +3257,6 @@
         "id": "79fbf1d5712b9fca1bee08954544b16ec2748f62",
         "title": "Open Gemini Omni Flash & Seed Audio 1.0, now in Higgsfield Plugins",
         "url": "https://higgsfield.ai/plugins/premiere-pro"
-      },
-      {
-        "id": "5904b38cbb490a89cde9e64a99c60a17fd813005",
-        "title": "Open Higgsfield Explainer",
-        "url": "https://higgsfield.ai/supercomputer/marketplace/skills/higgsfield-explainer"
-      },
-      {
-        "id": "939b50a10d91410ec8fe32d9c2c6726139aa19c7",
-        "title": "Higgsfield app contestBuild your best app on HiggsfieldJoin the contest",
-        "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
         "id": "dc0ce84f00631c570cf43352f269b272737b756d",
@@ -3079,14 +3314,19 @@
         "url": "https://higgsfield.ai/community/@adilinthewild/projects/tv-4k"
       },
       {
-        "id": "9a72ef03abc058e6fd8f8db29e9398a0cb9eb782",
-        "title": "Your browser does not support the video.One More Time by Higgsfield SoulPublic",
+        "id": "1e2becbb121a4c6199f268dca816a391ae5da716",
+        "title": "Seed Audio 1.0 - Launch Video by Higgsfield LaunchPublic",
+        "url": "https://higgsfield.ai/community/@daniallll/projects/seed-audio-1-0-launch-video"
+      },
+      {
+        "id": "05167511f969f329dd163a7cf69ef29ac35d6d34",
+        "title": "One More Time by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/community/@sateesfaction/projects/one-more-time"
       },
       {
-        "id": "21636fc5de73041c0c59d3c3467754cf5ddd0e38",
-        "title": "Your browser does not support the video.The Miss by adilinthewildPublic",
-        "url": "https://higgsfield.ai/community/@adilinthewild/projects/the-miss-short-film"
+        "id": "3d6770225e55c9be1d2a7d909dd85aafae2de419",
+        "title": "\"Top Up\" Cinematic AD Breakdown by adilinthewildPublic",
+        "url": "https://higgsfield.ai/community/@adilinthewild/projects/top-up"
       },
       {
         "id": "6a3bae09e7e638deb51104e991b6f361f0857c20",
@@ -3094,9 +3334,14 @@
         "url": "https://higgsfield.ai/community"
       },
       {
-        "id": "a2873a4523b964616dede89abbbf0d7b3c8828b4",
-        "title": "8D10H53M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
+        "id": "99e8687b38b9d4e06dcc446a914a677875240da2",
+        "title": "7D10H52M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
         "url": "https://higgsfield.ai/supercomputer/apps"
+      },
+      {
+        "id": "911f1fd3a097b7b2caaaca8e60bdd233d58d7bd1",
+        "title": "Open",
+        "url": "https://higgsfield.ai/supercomputer/apps/210155f2-c89b-4fea-95f0-f6b4fb953697/view"
       },
       {
         "id": "4691018dd2edce5c05ab72ff7e41a98baa722536",
@@ -3172,11 +3417,6 @@
         "id": "9d906bb7d0d1b25c4574501f82c6b2dce56d4336",
         "title": "Open",
         "url": "https://higgsfield.ai/supercomputer/apps/77603634-1fcf-48bd-9e27-2f5e820677b2/view"
-      },
-      {
-        "id": "54cc136b1e286c469640f796bfe739f37b83b1dd",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/6f01a9a0-e731-4618-abe5-4e08b11348fd/view"
       },
       {
         "id": "a4f1dd70fba4e8e472e1e2a141c26fc1b2502022",
