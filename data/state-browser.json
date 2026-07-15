@@ -82,18 +82,6 @@
     ],
     "Atlas Cloud": [
       {
-        "key": "a1cc2dfc3b59670c2c1ed65c55409d48e02a5d7d",
-        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-pricing-cost",
-        "date": "2026-07-06T08:18:00.136Z",
-        "reportedAt": "2026-07-07T05:04:15.400Z"
-      },
-      {
-        "key": "4d0c69481eec09fbace49b9843ba66299fce4a25",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-v6-review",
-        "date": "2026-07-06T07:38:54.778Z",
-        "reportedAt": "2026-07-07T05:04:15.400Z"
-      },
-      {
         "key": "4dac3628871a6cefe4e046d39b841daccb072409",
         "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-api-pricing-the-cheapest-provider-compared",
         "date": "2026-07-08T03:43:26.216Z",
@@ -398,6 +386,102 @@
         "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-midjourney",
         "date": "2026-07-13T07:32:01.487Z",
         "reportedAt": "2026-07-14T04:13:30.609Z"
+      },
+      {
+        "key": "44988218529cad8abb02cea2cdf66aed8d2c25a4",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-free",
+        "date": "2026-07-14T11:15:56.397Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "8f26094efc2a794faacda48e0b68a43f793bbf22",
+        "url": "https://www.atlascloud.ai/blog/guides/does-pixverse-allow-nsfw",
+        "date": "2026-07-14T10:49:35.567Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "8a2f267c83236558c9505feba7677642d6204a6b",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-vs-runway-vs-luma",
+        "date": "2026-07-14T10:45:34.877Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "1c6b525b50219fd54ec5b2669e2a7debb3dd5eba",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-api-pricing",
+        "date": "2026-07-14T10:45:32.031Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "368871bd6bd03db00ecb46dc7b78eef28d26e08e",
+        "url": "https://www.atlascloud.ai/blog/guides/advanced-kling-3-cinematic-video-tutorial",
+        "date": "2026-07-14T10:45:16.535Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "4f6fc42c0bbcc97f491a7d3943e566116fe918a1",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-lip-sync",
+        "date": "2026-07-14T10:45:07.690Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "d77e593be617366d6c3fbc642dd65a50ba7a0dab",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-video-prompt-guide",
+        "date": "2026-07-14T10:44:49.438Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "166feb710bed5d6b5584eef7cb2e0ea6e51f8627",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade",
+        "date": "2026-07-14T10:44:41.048Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "dd15e160802846915eaba2800a8d1e49be8a81ed",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-2-6-review",
+        "date": "2026-07-14T10:44:32.082Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "458843f66bf1379805b5d8edba8de0c67a5d63ce",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-2-1-review",
+        "date": "2026-07-14T10:44:27.164Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "dcadc665d47f956a862e813f328a612a45cbb909",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-2-0-review",
+        "date": "2026-07-14T10:44:24.378Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "c6790b566225279b82e6b612036cd4d84436815c",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-1-6-review",
+        "date": "2026-07-14T10:44:19.657Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "aa0837d945242becae83a74098d2588ab65c439b",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-free",
+        "date": "2026-07-14T10:44:11.397Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "3786e6beb5d811e79abf6cf221495bc15aef327b",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-pricing",
+        "date": "2026-07-14T10:44:06.901Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "57ff4c7550b5c1a781453ae87ede970f08c2c4a3",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-video-length-limit",
+        "date": "2026-07-14T10:10:25.847Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "9b428fbbeacc3fa226b40233a2165ba45e0b522d",
+        "url": "https://www.atlascloud.ai/blog/guides/kling-ai-nsfw-policy",
+        "date": "2026-07-14T10:10:23.148Z",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
       }
     ],
     "TopMediai": [
@@ -406,6 +490,18 @@
         "url": "https://www.topmediai.com/video-tips/seedance-2-5-review/",
         "date": "2026-07-10T19:06:58+08:00",
         "reportedAt": "2026-07-11T04:24:01.094Z"
+      },
+      {
+        "key": "b1392694c0d63fcd20ca14ca4de690a90913eed6",
+        "url": "https://www.topmediai.com/video-tips/how-to-use-seedance-2-5/",
+        "date": "2026-07-14T16:38:17+08:00",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
+      },
+      {
+        "key": "e53db085da4dabd12090e81e4fa8f98e2b6e9b2a",
+        "url": "https://www.topmediai.com/video-tips/seedance-2-5-review/",
+        "date": "2026-07-14T16:27:56+08:00",
+        "reportedAt": "2026-07-15T04:15:28.343Z"
       }
     ],
     "JXP": [

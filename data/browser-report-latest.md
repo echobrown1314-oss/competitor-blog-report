@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/07/14 12:13（上海）
+生成时间：2026/07/15 12:15（上海）
 
-新增文章总数：15
+新增文章总数：18
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -13,8 +13,8 @@
 ## Topview（0）
 - 今日未发现新文章
 
-## DataCamp（1）
-- [Quantum Machine Learning Explained: Concepts and Uses | DataCamp](https://www.datacamp.com/blog/quantum-machine-learning) | 2026-07-13T19:45:00.000Z
+## DataCamp（0）
+- 今日未发现新文章
 
 ## WaveSpeed（0）
 - 今日未发现新文章
@@ -22,24 +22,27 @@
 ## WeShop AI（0）
 - 今日未发现新文章
 
-## Atlas Cloud（14）
-- [PixVerse AI Lip Sync Feature: How It Works in 2026](https://www.atlascloud.ai/blog/guides/pixverse-lip-sync) | 2026-07-14T04:08:10.790Z
-- [Best Lip-Sync AI Video: Wan, Kling, Veo | Atlas Cloud](https://www.atlascloud.ai/blog/guides/video-lipsync-wan-kling-veo) | 2026-07-14T03:52:31.367Z
-- [One API for Seedance, Wan, Nano Banana, Qwen | Atlas Cloud](https://www.atlascloud.ai/blog/guides/one-api-seedance-wan-nanobanana-qwen) | 2026-07-14T03:49:14.512Z
-- [Self-host Wan 2.2 vs API: which is cheaper | Atlas Cloud](https://www.atlascloud.ai/blog/guides/self-host-wan-vs-api) | 2026-07-14T03:48:41.270Z
-- [Nano Banana Pro: 14 reference images | Atlas Cloud](https://www.atlascloud.ai/blog/guides/nanobanana-14-reference-images-consistency) | 2026-07-14T03:48:29.792Z
-- [Nano Banana Batch API Discount Facts | Atlas Cloud](https://www.atlascloud.ai/blog/guides/nanobanana-batch-discount-pricing) | 2026-07-14T03:48:19.764Z
-- [Migrate a Sora API app to Seedance or Wan | Atlas Cloud](https://www.atlascloud.ai/blog/guides/migrate-sora-to-seedance-wan) | 2026-07-14T03:48:11.040Z
-- [AI Video for TikTok Ad Creative at Scale | Atlas Cloud](https://www.atlascloud.ai/blog/guides/tiktok-ad-creative-at-scale) | 2026-07-14T03:47:59.370Z
-- [Translate Product Videos With AI | Atlas Cloud](https://www.atlascloud.ai/blog/guides/translate-product-videos-multilingual) | 2026-07-14T03:47:50.708Z
-- [No Deposit for Seedance 2.0 API Access | Atlas Cloud](https://www.atlascloud.ai/blog/guides/seedance-enterprise-no-deposit) | 2026-07-14T03:47:03.175Z
-- [Atlas Cloud vs OpenRouter vs Replicate | Atlas Cloud](https://www.atlascloud.ai/blog/guides/vs-openrouter-vs-replicate) | 2026-07-14T03:46:58.628Z
-- [PixVerse R1: Inside the Real-Time AI World Model](https://www.atlascloud.ai/blog/guides/pixverse-r1) | 2026-07-13T10:31:47.529Z
-- [How to Master Cinematic AI Video Using the Hailuo Prompt Guide](https://www.atlascloud.ai/blog/guides/hailuo-ai-video-generation-prompt-guide) | 2026-07-13T09:03:28.544Z
-- [Seedream 5.0 Pro vs Midjourney: Which Wins in 2026?](https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-midjourney) | 2026-07-13T07:32:01.487Z
+## Atlas Cloud（16）
+- [Is PixVerse AI Free? Free Credits & Daily Limits 2026](https://www.atlascloud.ai/blog/guides/pixverse-ai-free) | 2026-07-14T11:15:56.397Z
+- [Does PixVerse Allow NSFW? Policy 2026 and the Bypass Myth](https://www.atlascloud.ai/blog/guides/does-pixverse-allow-nsfw) | 2026-07-14T10:49:35.567Z
+- [Kling AI vs Runway vs Luma: 2026 AI Video Models Compared](https://www.atlascloud.ai/blog/guides/kling-ai-vs-runway-vs-luma) | 2026-07-14T10:45:34.877Z
+- [Kling AI API Pricing Breakdown and Developer Cost Analysis](https://www.atlascloud.ai/blog/guides/kling-ai-api-pricing) | 2026-07-14T10:45:32.031Z
+- [Kling 3.0 Production Guide for Cinematic Realism and Motion](https://www.atlascloud.ai/blog/guides/advanced-kling-3-cinematic-video-tutorial) | 2026-07-14T10:45:16.535Z
+- [Kling AI Lip Sync Tutorial: Steps, Limits & Languages](https://www.atlascloud.ai/blog/guides/kling-ai-lip-sync) | 2026-07-14T10:45:07.690Z
+- [Kling AI Video Prompt Guide 2026: Formula + Examples](https://www.atlascloud.ai/blog/guides/kling-ai-video-prompt-guide) | 2026-07-14T10:44:49.438Z
+- [Kling 3.0 Omni Upgrade: 4K Editing and More (2026)](https://www.atlascloud.ai/blog/guides/kling-3-0-omni-upgrade) | 2026-07-14T10:44:41.048Z
+- [Kling 2.6 Review: The Ultimate Guide to Perfect Native Audio Sync](https://www.atlascloud.ai/blog/guides/kling-2-6-review) | 2026-07-14T10:44:32.082Z
+- [Kling 2.1 Review: Performance, Tiers & Genuine API Cost Tested](https://www.atlascloud.ai/blog/guides/kling-2-1-review) | 2026-07-14T10:44:27.164Z
+- [Kling 2.0 Review: Is It Worth the Credit Burn for Cinematic AI Video?](https://www.atlascloud.ai/blog/guides/kling-2-0-review) | 2026-07-14T10:44:24.378Z
+- [Kling AI 1.6 Review & Newer Model Updates Compared](https://www.atlascloud.ai/blog/guides/kling-ai-1-6-review) | 2026-07-14T10:44:19.657Z
+- [How to Get Kling AI Free Credits & Render Cinematic Videos (2026)](https://www.atlascloud.ai/blog/guides/kling-ai-free) | 2026-07-14T10:44:11.397Z
+- [Kling AI Pricing (2026): Free vs Paid Plans & Real Video Costs](https://www.atlascloud.ai/blog/guides/kling-ai-pricing) | 2026-07-14T10:44:06.901Z
+- [Kling AI Video Length Limit: Max Duration by Plan 2026](https://www.atlascloud.ai/blog/guides/kling-ai-video-length-limit) | 2026-07-14T10:10:25.847Z
+- [Kling AI NSFW Policy 2026: What](https://www.atlascloud.ai/blog/guides/kling-ai-nsfw-policy) | 2026-07-14T10:10:23.148Z
 
-## TopMediai（0）
-- 今日未发现新文章
+## TopMediai（2）
+- [How to Use Seedance 2.5: Prompt Tutorial & Templates](https://www.topmediai.com/video-tips/how-to-use-seedance-2-5/) | 2026-07-14T16:38:17+08:00
+- [Seedance 2.5 Review 2026: 30s Video, 50 Refs & 4K Explained](https://www.topmediai.com/video-tips/seedance-2-5-review/) | 2026-07-14T16:27:56+08:00
 
 ## JXP（0）
 - 今日未发现新文章
