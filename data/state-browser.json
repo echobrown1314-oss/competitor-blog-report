@@ -14,12 +14,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "95fa703f337c2f505309098efc11e4ddb6f3bae5",
-        "url": "https://www.weshop.ai/blog/powerful-ai-instrument-playing-video-ideas-to-make-your-song-feel-alive/",
-        "date": "2026-07-08T16:50:41+00:00",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
-      {
         "key": "b6dc9592b5a05c41b64bbebf267ca5517c0246c3",
         "url": "https://www.weshop.ai/blog/i-created-a-latina-fashion-model-with-ai-the-results-look-surprisingly-real/",
         "date": "2026-07-09T20:10:31+00:00",
@@ -66,45 +60,15 @@
         "url": "https://www.weshop.ai/blog/3d-cartoon-generator-turn-one-image-into-a-mini-movie/",
         "date": "2026-07-15T06:12:22+00:00",
         "reportedAt": "2026-07-16T04:20:44.660Z"
+      },
+      {
+        "key": "478bc321bbb1479fd159ac542ad2affe9b834e56",
+        "url": "https://www.weshop.ai/blog/digital-camera-filter-online-and-the-art-of-looking-accidental/",
+        "date": "2026-07-17T03:15:00+00:00",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "058f6482dcce5fa62a1291e71121b275f556cbf4",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedream-5-0-pro-price",
-        "date": "2026-07-09T03:13:39.564Z",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
-      {
-        "key": "4bc23c4be14c3a610200aadb959d8069567ebee8",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedream-5-0-pro-interactive-editing",
-        "date": "2026-07-09T02:49:08.473Z",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
-      {
-        "key": "bccb0145db72b0ad87667769a61e4c26cbc900b4",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-face-swap",
-        "date": "2026-07-09T02:13:51.008Z",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
-      {
-        "key": "18ca25233822eae72abdaf7694e72442b6bc58a9",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-image-to-video",
-        "date": "2026-07-08T10:50:36.416Z",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
-      {
-        "key": "70cba3f53dfd59a644714f4fdd1eeffa0314bc21",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-native-4k-ai-video-preview",
-        "date": "2026-07-08T07:59:51.192Z",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
-      {
-        "key": "bdc2548503dbc464226316b800cc7ab96bd19d1b",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-github-repository-documentation-codewiki",
-        "date": "2026-07-08T07:20:09.716Z",
-        "reportedAt": "2026-07-09T05:08:27.550Z"
-      },
       {
         "key": "ab0595ef5494ccfce8e85a9b058a3ecdaedc1285",
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-pardon-dance",
@@ -440,6 +404,42 @@
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-local-alternative",
         "date": "2026-07-15T06:47:13.476Z",
         "reportedAt": "2026-07-16T04:20:44.660Z"
+      },
+      {
+        "key": "a621f773a9032cfb26dcea921e337752c180ecb7",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/seedream-5-0-pro",
+        "date": "2026-07-16T11:57:14.295Z",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "7aa3e8ec490e5d54e8ff05d42d55a74bbaf4dffe",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-image-to-video",
+        "date": "2026-07-16T11:05:07.464Z",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "15ff93ba0a057c966d0e03494c39ea16d5202598",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-jungle-book",
+        "date": "2026-07-16T10:36:01.779Z",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "9b3a7d30e843d2d73aaf5a567367a9693222171f",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-pokemon",
+        "date": "2026-07-16T10:26:39.107Z",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "b31f42f9aaf6bd47fd2980a8f4975923c37963f7",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-nsfw-content-restrictions-guide",
+        "date": "2026-07-16T08:16:38.998Z",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "251a53f2d5a5bf8f6aeb4806cbf1c652a79d86ce",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-pixar",
+        "date": "2026-07-16T07:11:18.126Z",
+        "reportedAt": "2026-07-17T04:19:02.970Z"
       }
     ],
     "TopMediai": [
