@@ -1,7 +1,14 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [],
+    "MindVideo": [
+      {
+        "key": "60f70003a7901eb90cb7ebd0aa2907ec7fc82fd1",
+        "url": "https://www.mindvideo.ai/blog/top-ai-headshot-generators-2026/",
+        "date": "2026-07-17",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      }
+    ],
     "Topview": [],
     "DataCamp": [
       {
@@ -13,18 +20,6 @@
     ],
     "WaveSpeed": [],
     "WeShop AI": [
-      {
-        "key": "b6dc9592b5a05c41b64bbebf267ca5517c0246c3",
-        "url": "https://www.weshop.ai/blog/i-created-a-latina-fashion-model-with-ai-the-results-look-surprisingly-real/",
-        "date": "2026-07-09T20:10:31+00:00",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "07e3604fb80ecdfd77392cef87f79b1f55a15679",
-        "url": "https://www.weshop.ai/blog/this-ai-video-replication-hack-turns-any-video-into-a-new-viral-hit/",
-        "date": "2026-07-09T20:00:47+00:00",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
       {
         "key": "c7a3c140f6538b5fee310119e80d4c070189a228",
         "url": "https://www.weshop.ai/blog/seedream-5-0-pro-review-what-early-tests-reveal/",
@@ -66,93 +61,39 @@
         "url": "https://www.weshop.ai/blog/digital-camera-filter-online-and-the-art-of-looking-accidental/",
         "date": "2026-07-17T03:15:00+00:00",
         "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "6e1125d0164eef939a7a847075595e1eaf7185f5",
+        "url": "https://www.weshop.ai/blog/3d-cartoon-generator-turn-one-image-into-a-mini-movie/",
+        "date": "2026-07-17T11:15:26+00:00",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "db029f01a61dd730aa2cdc93ec64f84e13f6ad5a",
+        "url": "https://www.weshop.ai/blog/animal-shorts-generator-the-ultimate-way-to-make-viral-pet-videos/",
+        "date": "2026-07-17T11:13:10+00:00",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "333f4f963f8d7f471b71f746ab6f30c520a29420",
+        "url": "https://www.weshop.ai/blog/first-person-pov-video-generator-create-viral-videos-viewers-cant-ignore/",
+        "date": "2026-07-17T10:46:22+00:00",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "f38ef310e1af4be3db72f101008b3119c717d6e1",
+        "url": "https://www.weshop.ai/blog/seen-mahadev-generator-create-powerful-shiva-ai-photos/",
+        "date": "2026-07-17T09:42:13+00:00",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "f6b0bc4e7f56f3111e5caac8485495a02294692e",
+        "url": "https://www.weshop.ai/blog/i-tried-a-stardew-valley-portrait-maker-and-created-the-ultimate-pixel-twin/",
+        "date": "2026-07-17T09:05:16+00:00",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "ab0595ef5494ccfce8e85a9b058a3ecdaedc1285",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-pardon-dance",
-        "date": "2026-07-10T02:31:50.333Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "f22948f4c0cae4d3a6790229a6cedb55ee1cce03",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-pricing",
-        "date": "2026-07-09T11:03:06.305Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "d85b1d9b34937f2fc93a5d7549e6bf04c1f23c1a",
-        "url": "https://www.atlascloud.ai/blog/guides/best-uncensored-ai-image-to-image-generators",
-        "date": "2026-07-09T10:13:56.650Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "34505a4ad84083ad5627831a9cdf0c5c4dbc7b13",
-        "url": "https://www.atlascloud.ai/blog/guides/uncensored-anime-ai-image-generators",
-        "date": "2026-07-09T10:07:03.832Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "a2309009d4680876692b328075dadb0d81316c5a",
-        "url": "https://www.atlascloud.ai/blog/guides/uncensored-ai-image-generator-guide",
-        "date": "2026-07-09T10:03:05.834Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "8937e3b6978fdb28631623ac06d9cb02037bb9b3",
-        "url": "https://www.atlascloud.ai/blog/guides/best-uncensored-nsfw-ai-image-generators",
-        "date": "2026-07-09T09:57:06.123Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "65a0da5a0f35d8acbac719d5871a45f563234e8f",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-github-repository-documentation-codewiki",
-        "date": "2026-07-09T09:50:24.549Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "377c69c4015bf08813e445ebdb06a3df22d8dac9",
-        "url": "https://www.atlascloud.ai/blog/guides/grok-xai-nsfw-image-generation-policy",
-        "date": "2026-07-09T09:48:41.354Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "ca5d671b4267442f5b9de72014e28cce0252f089",
-        "url": "https://www.atlascloud.ai/blog/guides/uncensored-ai-prompt-guide",
-        "date": "2026-07-09T09:48:33.118Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "06c8ce8d756fd2cef8ecc05e8b379b4974a946d2",
-        "url": "https://www.atlascloud.ai/blog/guides/uncensored-ai-image-to-video-generator",
-        "date": "2026-07-09T09:48:25.879Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "ff434d768f2ba09166039ca8bbfe4f59f6931fcb",
-        "url": "https://www.atlascloud.ai/blog/guides/best-uncensored-ai-image-editor",
-        "date": "2026-07-09T09:48:18.593Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "24bdf656c04022d43c4f8b64973e1b7f83945f1f",
-        "url": "https://www.atlascloud.ai/blog/guides/best-uncensored-ai-models",
-        "date": "2026-07-09T09:48:11.369Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "46c2fb8fa9a94ed660bdcc5706f335a27a059610",
-        "url": "https://www.atlascloud.ai/blog/guides/anycrawl-llm-ready-json-tutorial",
-        "date": "2026-07-09T09:43:35.217Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
-      {
-        "key": "b9af0c39d6e9519c9e59fe9a2e93631f3ebf0a7b",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-release-date-4k-workflow-guide",
-        "date": "2026-07-09T08:17:47.473Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      },
       {
         "key": "3ba091256a58b5a382aeae9d66e3c11b7ebbfe43",
         "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-gpt-image-2",
@@ -440,6 +381,96 @@
         "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-pixar",
         "date": "2026-07-16T07:11:18.126Z",
         "reportedAt": "2026-07-17T04:19:02.970Z"
+      },
+      {
+        "key": "4a6cd3e1afbb99c1f49eccbd8378c126531866b1",
+        "url": "https://www.atlascloud.ai/blog/guides/why-is-seedance-2-5-delayed",
+        "date": "2026-07-17T10:55:31.655Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "f84b79cb4ed0ed3a925869c140a8937e669d700c",
+        "url": "https://www.atlascloud.ai/blog/guides/best-replicate-alternatives",
+        "date": "2026-07-17T08:57:14.816Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "39f82aebe76bd3aa12d676ea0a46b56ce92c2372",
+        "url": "https://www.atlascloud.ai/blog/guides/best-together-ai-alternatives",
+        "date": "2026-07-17T08:55:35.820Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "9251744b5df2c0de982bd71e8d5b415082750194",
+        "url": "https://www.atlascloud.ai/blog/guides/most-affordable-api-provider-for-claude-code",
+        "date": "2026-07-17T08:54:48.314Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "8b5a1c987d0cc0d87165e1b4c0181c4bce3a1f92",
+        "url": "https://www.atlascloud.ai/blog/guides/best-kie-ai-alternative",
+        "date": "2026-07-17T08:54:38.293Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "64973d7b78002117d729fb9b2714eb1569022b74",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-kungfu-video-tutorial",
+        "date": "2026-07-17T08:17:23.895Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "86cc240d082b10c9db1ce8ead5eecbecfe9dc1c1",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-face-swap",
+        "date": "2026-07-17T08:01:58.859Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "1864a53da4f3e8b5898524ed8891cbabf0312035",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-tom-and-jerry",
+        "date": "2026-07-17T08:00:31.940Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "8f1340efe996652bdf5b35a4002de9d12a097618",
+        "url": "https://www.atlascloud.ai/blog/guides/deepseek-with-claude-code-cursor-codex",
+        "date": "2026-07-17T07:33:31.304Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "c96eeb135d48eb08856a242ea0dba5bb2135cdc8",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-video-model-for-cinematic-motion-storytelling",
+        "date": "2026-07-17T07:33:21.952Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "7a23301bb3ceceb71bad3a40a9cc013ad1ece2b3",
+        "url": "https://www.atlascloud.ai/blog/guides/best-openrouter-alternatives",
+        "date": "2026-07-17T07:33:11.679Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "9da8e2afaabb01c193cf5dc0837db623bb4fc2cf",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-cost-per-second",
+        "date": "2026-07-17T07:32:31.766Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "6f0e795d415c310e26e4314132f128f8819761d4",
+        "url": "https://www.atlascloud.ai/blog/guides/nano-banana-pro-vs-nano-banana-2",
+        "date": "2026-07-17T07:32:26.015Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "57e139498dd19dcf5ce8a3ab412ed10ee6a1b6be",
+        "url": "https://www.atlascloud.ai/blog/guides/pay-chinese-ai-apis-no-alipay-wechat",
+        "date": "2026-07-17T07:32:16.217Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "7f3687d0f20ec5ce507b2d4171d2cdf0bbcd3a0f",
+        "url": "https://www.atlascloud.ai/blog/guides/is-hollywood-trying-to-shut-down-seedance-2.0",
+        "date": "2026-07-17T05:54:32.387Z",
+        "reportedAt": "2026-07-18T04:11:00.443Z"
       }
     ],
     "TopMediai": [
@@ -462,13 +493,6 @@
         "reportedAt": "2026-07-15T04:15:28.343Z"
       }
     ],
-    "JXP": [
-      {
-        "key": "588f752fe1b196f8cf47170082ed9224392d8343",
-        "url": "https://www.jxp.com/blog/seedream-5-0-pro-review",
-        "date": "2026-07-09T08:58:25.000Z",
-        "reportedAt": "2026-07-10T05:04:22.371Z"
-      }
-    ]
+    "JXP": []
   }
 }
