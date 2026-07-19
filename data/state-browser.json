@@ -21,30 +21,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "c7a3c140f6538b5fee310119e80d4c070189a228",
-        "url": "https://www.weshop.ai/blog/seedream-5-0-pro-review-what-early-tests-reveal/",
-        "date": "2026-07-10T20:32:35+00:00",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "f9b1416e12751005693e9c045b77037b4ef1cb88",
-        "url": "https://www.weshop.ai/blog/the-photo-was-perfect-until-i-needed-it-wide-testing-a-portrait-to-landscape-converter/",
-        "date": "2026-07-10T18:51:23+00:00",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "ebd46c7c1ced9432fcb3c483d5296f886b7cc8d8",
-        "url": "https://www.weshop.ai/blog/can-a-candle-mockup-generator-make-people-feel-a-scent-online/",
-        "date": "2026-07-10T16:24:36+00:00",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "e596cf8915734e99b06237e27eadd03f92a988d9",
-        "url": "https://www.weshop.ai/blog/digital-camera-filter-online-and-the-art-of-looking-accidental/",
-        "date": "2026-07-10T06:01:06+00:00",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
         "key": "dca3df9ad7dd86865944eeb80a06bb3864680b25",
         "url": "https://www.weshop.ai/blog/ai-product-photography-tips-and-tricks-for-best-ai-photos/",
         "date": "2026-07-13T04:35:15+00:00",
@@ -91,39 +67,39 @@
         "url": "https://www.weshop.ai/blog/i-tried-a-stardew-valley-portrait-maker-and-created-the-ultimate-pixel-twin/",
         "date": "2026-07-17T09:05:16+00:00",
         "reportedAt": "2026-07-18T04:11:00.443Z"
+      },
+      {
+        "key": "c7bd3ca117361c3c6063f4171bc8571f70304abc",
+        "url": "https://www.weshop.ai/blog/ai-youtube-intro-maker-create-an-intro-viewers-remember/",
+        "date": "2026-07-18T16:27:14+00:00",
+        "reportedAt": "2026-07-19T04:30:44.092Z"
+      },
+      {
+        "key": "fc19dfbaf4c0eab12289cd75665437b1825a9c7d",
+        "url": "https://www.weshop.ai/blog/why-small-brands-love-using-a-candle-mockup-generator/",
+        "date": "2026-07-18T15:47:48+00:00",
+        "reportedAt": "2026-07-19T04:30:44.092Z"
+      },
+      {
+        "key": "fe4606bdb6a26b34f376219490a7344f0edb1a73",
+        "url": "https://www.weshop.ai/blog/the-surprising-secret-behind-a-real-2000s-camera-effect/",
+        "date": "2026-07-18T14:46:40+00:00",
+        "reportedAt": "2026-07-19T04:30:44.092Z"
+      },
+      {
+        "key": "6b4c6374b8ccb1ec1bfc5a0e627bd30dc68842b1",
+        "url": "https://www.weshop.ai/blog/your-shortcut-to-better-visuals-ai-latina-generator/",
+        "date": "2026-07-18T13:09:33+00:00",
+        "reportedAt": "2026-07-19T04:30:44.092Z"
+      },
+      {
+        "key": "eacc16a20d2fa8141e9216c60661d26af1093acd",
+        "url": "https://www.weshop.ai/blog/digital-camera-filter-online-the-easy-way-to-get-that-viral-2000s-look/",
+        "date": "2026-07-18T11:38:02+00:00",
+        "reportedAt": "2026-07-19T04:30:44.092Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "3ba091256a58b5a382aeae9d66e3c11b7ebbfe43",
-        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-gpt-image-2",
-        "date": "2026-07-11T03:56:39.520Z",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "5799cb9ae33eb00811132796499404ec99f0db69",
-        "url": "https://www.atlascloud.ai/blog/guides/open-source-ai-data-analysis-agent-tutorial-2026",
-        "date": "2026-07-10T11:48:24.066Z",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "61f7825b09b9f7db86c01f8ae5f07bb073f629f6",
-        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-nano-banana-2",
-        "date": "2026-07-10T09:12:39.345Z",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "d1ee57547cf59fcfc3e5e5e59a37667155483b7a",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-api-automated-video-workflows",
-        "date": "2026-07-10T08:18:15.130Z",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
-      {
-        "key": "9389016676f8445aa7a9d3f1a4e680068aa29c2b",
-        "url": "https://www.atlascloud.ai/blog/guides/is-seedream-5-pro-worse-than-seedream-4.5",
-        "date": "2026-07-10T07:54:00.082Z",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
       {
         "key": "05c27813aa6a050849ddd9cf9dc871d16a0eb9fc",
         "url": "https://www.atlascloud.ai/blog/guides/does-seedream-5-pro-allow-nsfw",
@@ -474,12 +450,6 @@
       }
     ],
     "TopMediai": [
-      {
-        "key": "7975e5995e553f481150ff00d58e4d7d8007237a",
-        "url": "https://www.topmediai.com/video-tips/seedance-2-5-review/",
-        "date": "2026-07-10T19:06:58+08:00",
-        "reportedAt": "2026-07-11T04:24:01.094Z"
-      },
       {
         "key": "b1392694c0d63fcd20ca14ca4de690a90913eed6",
         "url": "https://www.topmediai.com/video-tips/how-to-use-seedance-2-5/",
