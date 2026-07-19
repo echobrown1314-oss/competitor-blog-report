@@ -2443,6 +2443,21 @@
         "url": "https://a2e.ai/faq/"
       },
       {
+        "id": "97bdcd3d77008dd1ed409d4774797d4c659303ad",
+        "title": "Português",
+        "url": "https://a2e.ai/pt/"
+      },
+      {
+        "id": "7abdca8e03dc74a078ee6f5b2c9c4f1e2642751e",
+        "title": "Espanol",
+        "url": "https://a2e.ai/es/"
+      },
+      {
+        "id": "6ddf74db3e15d482ba3233d4dd1ea96288867b76",
+        "title": "Français",
+        "url": "https://a2e.ai/fr/"
+      },
+      {
         "id": "07a8c4662766b69e4e0ddafc0d3e41c7f4d53050",
         "title": "AI Video Generator",
         "url": "https://video.a2e.ai/image-to-video"
@@ -3324,13 +3339,23 @@
         "url": "https://higgsfield.ai/@pocket_corallo_2/projects/kok-boru"
       },
       {
-        "id": "50030cb026b19c156cfd4c37881fec1d6afd35c0",
-        "title": "Your browser does not support the video.Сat story by Higgsfield SoulPublic",
+        "id": "0b3420deaadfcd5ec6ab46314cb730b983822a7f",
+        "title": "Сat story by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/@ailaa/projects/cat-story"
       },
       {
-        "id": "c7e3c8ecf3d6bffd49af0d2fcab07368d0dbc49c",
-        "title": "Your browser does not support the video.One More Time by Higgsfield SoulPublic",
+        "id": "273ea1261b46e9c2e9930fe493f9006f7251a6fa",
+        "title": "Ultra Realistic AI Short Film Breakdown by adilinthewildPublic",
+        "url": "https://higgsfield.ai/@adilinthewild/projects/tv-4k"
+      },
+      {
+        "id": "aef4813cba4dc472d9b10c2f43206364c7e5d289",
+        "title": "Seed Audio 1.0 - Launch Video by Higgsfield LaunchPublic",
+        "url": "https://higgsfield.ai/@daniallll/projects/seed-audio-1-0-launch-video"
+      },
+      {
+        "id": "e8bc96ed79b32379ff273e474e9795b3f33505b1",
+        "title": "One More Time by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/@sateesfaction/projects/one-more-time"
       },
       {
@@ -3339,93 +3364,8 @@
         "url": "https://higgsfield.ai/community"
       },
       {
-        "id": "56c69e9a7fb529c94f23d2048858c1c44f57490f",
-        "title": "4D11H02M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
-        "url": "https://higgsfield.ai/supercomputer/apps"
-      },
-      {
-        "id": "911f1fd3a097b7b2caaaca8e60bdd233d58d7bd1",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/210155f2-c89b-4fea-95f0-f6b4fb953697/view"
-      },
-      {
-        "id": "4691018dd2edce5c05ab72ff7e41a98baa722536",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/268ef125-85a4-4ea6-94d7-3c73e9adb14d/view"
-      },
-      {
-        "id": "fe1e8ee93410bd38999f2bcf0a5f7939d7380d45",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/f7fcbb0e-96c8-40f8-980c-1f53c8ffa7c7/view"
-      },
-      {
-        "id": "d750f9889bcbcf6b725241a2fca7ab136f3621df",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/c455cf00-8540-444d-8df3-9ad11b904230/view"
-      },
-      {
-        "id": "a410952115d12a9190c49ebcbb3ebe2d8e413dc7",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/c2fd7842-b2d6-4ec4-be8a-6e4454fb1710/view"
-      },
-      {
-        "id": "870f06685c4d9ef5b4cde3d8862060935c79dcd7",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/900497e3-ae1d-479c-97ba-3d492c160fa1/view"
-      },
-      {
-        "id": "b240fcd182c9dca1330c63fdfae0d629be0b21da",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/9d167a5e-643d-4c22-8fa4-8d5e2e437d15/view"
-      },
-      {
-        "id": "a1185dce99b5d8bf193f8cbed42308753d806d5f",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/b483a597-5c10-4955-9ec7-dbdd645faeaa/view"
-      },
-      {
-        "id": "27674e0a6b1efe17f2c87e88830a123cb20689ff",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/c7b8ac3d-e0f8-4903-97af-503c280f54c7/view"
-      },
-      {
-        "id": "4b69785cbb0edc0d438f5125c7d883743b06be21",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/9312fb05-b567-4b02-ac29-fd3aaccdfcb2/view"
-      },
-      {
-        "id": "7cc4a27a88125c4e51e26d1c4c87d99181cf120a",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/637e9e64-edf9-475e-9eb3-9544b0741ea2/view"
-      },
-      {
-        "id": "31ed87f1bd98a7142f4663ea6c375e4971497e89",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/1a2a8eef-5749-4ba6-aa8b-8ae439b96065/view"
-      },
-      {
-        "id": "0d4a124c6b59b81bb05f0ae750090a9e5bc1ae88",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/04b14bf0-c3cd-42fa-8ef9-68e28b1c2e5e/view"
-      },
-      {
-        "id": "2755f1fa382eae19d79d70d8c400d520b3022901",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/7be964a9-3c76-4c3d-b7a8-cb586f5a1d2b/view"
-      },
-      {
-        "id": "7dd288a015b07d23e0f39958d013900731ab0223",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/144430ce-5308-486c-874a-89009671e53f/view"
-      },
-      {
-        "id": "9d906bb7d0d1b25c4574501f82c6b2dce56d4336",
-        "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/77603634-1fcf-48bd-9e27-2f5e820677b2/view"
-      },
-      {
-        "id": "a4f1dd70fba4e8e472e1e2a141c26fc1b2502022",
-        "title": "Explore all apps",
+        "id": "979e8b685e58f637aa6fec9de7fd393948bb6370",
+        "title": "3D10H36M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
         "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
