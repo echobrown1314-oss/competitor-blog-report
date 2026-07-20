@@ -21,12 +21,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "dca3df9ad7dd86865944eeb80a06bb3864680b25",
-        "url": "https://www.weshop.ai/blog/ai-product-photography-tips-and-tricks-for-best-ai-photos/",
-        "date": "2026-07-13T04:35:15+00:00",
-        "reportedAt": "2026-07-13T04:39:45.817Z"
-      },
-      {
         "key": "6218d6879178334f18cd187b5d7b441e1cf1e514",
         "url": "https://www.weshop.ai/blog/3d-cartoon-generator-turn-one-image-into-a-mini-movie/",
         "date": "2026-07-15T06:12:22+00:00",
@@ -97,15 +91,33 @@
         "url": "https://www.weshop.ai/blog/digital-camera-filter-online-the-easy-way-to-get-that-viral-2000s-look/",
         "date": "2026-07-18T11:38:02+00:00",
         "reportedAt": "2026-07-19T04:30:44.092Z"
+      },
+      {
+        "key": "4641a29bfc5f539377ad3e0f3e527522cb8630ca",
+        "url": "https://www.weshop.ai/blog/ai-youtube-intro-maker-create-an-intro-viewers-remember/",
+        "date": "2026-07-19T20:09:40+00:00",
+        "reportedAt": "2026-07-20T04:47:50.582Z"
+      },
+      {
+        "key": "c9d989ecfca7417530819e584a399b3010d7b90d",
+        "url": "https://www.weshop.ai/blog/why-polaroid-filter-online-makes-imperfect-photos-feel-better/",
+        "date": "2026-07-19T20:06:58+00:00",
+        "reportedAt": "2026-07-20T04:47:50.582Z"
+      },
+      {
+        "key": "931b9a7ca8cb3a7d23ce2923ff2f3818a143dd37",
+        "url": "https://www.weshop.ai/blog/ai-outfit-changer-one-clothing-photo-seven-dream-looks/",
+        "date": "2026-07-19T19:00:18+00:00",
+        "reportedAt": "2026-07-20T04:47:50.582Z"
+      },
+      {
+        "key": "9d399374d2b09c9d8911c4994705ef7eef43b64a",
+        "url": "https://www.weshop.ai/blog/virtual-try-on-turn-product-photos-into-stunning-model-shots/",
+        "date": "2026-07-19T10:11:06+00:00",
+        "reportedAt": "2026-07-20T04:47:50.582Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "05c27813aa6a050849ddd9cf9dc871d16a0eb9fc",
-        "url": "https://www.atlascloud.ai/blog/guides/does-seedream-5-pro-allow-nsfw",
-        "date": "2026-07-13T03:09:11.074Z",
-        "reportedAt": "2026-07-13T04:39:45.817Z"
-      },
       {
         "key": "497cdc9bba06b034e620bd658305abd98fcd97e7",
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-lip-sync",
