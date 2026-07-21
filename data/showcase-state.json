@@ -2618,6 +2618,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
         "title": "Best AI Video Generator for Marketing: Compare Tools by Workflow, Quality, and Control",
         "url": "https://a2e.ai/best-ai-video-generator-for-marketing/"
@@ -2668,21 +2678,6 @@
         "url": "https://video.a2e.ai/dev"
       },
       {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
-      },
-      {
         "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
         "title": "Service Status",
         "url": "https://a2e.ai/realtime-status/"
@@ -2716,6 +2711,11 @@
         "id": "0d0857a0ea17b5d5365ff2bc62e8375a6996ba17",
         "title": "Sitemap",
         "url": "https://a2e.ai/sitemap.xml"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
       },
       {
         "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
@@ -2786,6 +2786,11 @@
         "id": "d5bf090c33950e381451ae4481483e2245c058b4",
         "title": "Elevenlabs",
         "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
       },
       {
         "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
@@ -2876,6 +2881,11 @@
         "id": "e0b59de982f4e50716b649ead9158a92d49f8f46",
         "title": "AI Models",
         "url": "https://a2e.ai/models/"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
       },
       {
         "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
@@ -3175,6 +3185,11 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
+      },
+      {
+        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
+        "title": "here",
+        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3274,11 +3289,6 @@
         "url": "htatps://higgsfield.ai/mobile/image/seedream_v5_pro"
       },
       {
-        "id": "f0fb02eb8b94f1cb208cbfa1c4b6a78f8cda9e90",
-        "title": "MCP & CLINewTurn Claude into a creative engineTry now",
-        "url": "https://higgsfield.ai/mcp"
-      },
-      {
         "id": "14ca9c7bddfe039e918a8e1bfc14c6edda234e64",
         "title": "Learn for FREEHiggsfield AcademyGenerate and learn how to use Higgsfield",
         "url": "https://higgsfield.ai/academy"
@@ -3314,43 +3324,43 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "bbbc481ff8d630ab128bbf7d4645d427b1c20d9b",
-        "title": "A4K Blockbuster Breakdown by adilinthewildPublic",
+        "id": "6e35c98daabbe6b4c3f4ef9565a1009f33994c15",
+        "title": "4K Blockbuster Breakdown by adilinthewildPublic",
         "url": "https://higgsfield.ai/@adilinthewild/projects/4k-blockbuster-breakdown"
       },
       {
-        "id": "561a2372255e1594403d8d0b9a67f1c30e299ab2",
-        "title": "HAnime production - Launch video by Higgsfield LaunchPublic",
+        "id": "d4f69d543162c2a65320554c2dd833a6fc287392",
+        "title": "Anime production - Launch video by Higgsfield LaunchPublic",
         "url": "https://higgsfield.ai/@mixingburrito1329/projects/anime-production"
       },
       {
-        "id": "f579ae39012949247abc7e087812512e1415d06d",
-        "title": "HNala - Heads Drop by Higgsfield CreativePublic",
+        "id": "a350207f67b3bd99c1d931910b3b493ee2d9db54",
+        "title": "Nala - Heads Drop by Higgsfield CreativePublic",
         "url": "https://higgsfield.ai/@higgscreator/projects/nala-heads-drop"
       },
       {
-        "id": "4a570da238a3d6af66d344797de6c71ec2f18a95",
-        "title": "HKok Boru by Higgsfield CreativePublic",
+        "id": "869ce03d45d123ffbabdf329555689190adebed6",
+        "title": "Kok Boru by Higgsfield CreativePublic",
         "url": "https://higgsfield.ai/@pocket_corallo_2/projects/kok-boru"
       },
       {
-        "id": "ce2aa70ff1a37be8abcc93f731d5e9550e6edd40",
-        "title": "HСat story by Higgsfield SoulPublic",
+        "id": "0b3420deaadfcd5ec6ab46314cb730b983822a7f",
+        "title": "Сat story by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/@ailaa/projects/cat-story"
       },
       {
-        "id": "a5899bfb7e11d8f72a25a122a28b105c96c6ff73",
-        "title": "AUltra Realistic AI Short Film Breakdown by adilinthewildPublic",
+        "id": "273ea1261b46e9c2e9930fe493f9006f7251a6fa",
+        "title": "Ultra Realistic AI Short Film Breakdown by adilinthewildPublic",
         "url": "https://higgsfield.ai/@adilinthewild/projects/tv-4k"
       },
       {
-        "id": "257740b4e0a47c6e08af06aac5123e58387f5dcf",
-        "title": "HSeed Audio 1.0 - Launch Video by Higgsfield LaunchPublic",
+        "id": "aef4813cba4dc472d9b10c2f43206364c7e5d289",
+        "title": "Seed Audio 1.0 - Launch Video by Higgsfield LaunchPublic",
         "url": "https://higgsfield.ai/@daniallll/projects/seed-audio-1-0-launch-video"
       },
       {
-        "id": "9615f4b76532a4304ef99181c8c4ebeab037c76d",
-        "title": "HOne More Time by Higgsfield SoulPublic",
+        "id": "e8bc96ed79b32379ff273e474e9795b3f33505b1",
+        "title": "One More Time by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/@sateesfaction/projects/one-more-time"
       },
       {
@@ -3359,8 +3369,8 @@
         "url": "https://higgsfield.ai/community"
       },
       {
-        "id": "6f041629d89587a440ad74d096da744cf47e5d28",
-        "title": "--D--H--M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
+        "id": "75f02bf28be39875fd935e1d9115bb3048b463d1",
+        "title": "1D10H42M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
         "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
@@ -3384,9 +3394,329 @@
         "url": "https://higgsfield.ai/viral-presets"
       },
       {
+        "id": "bbbec0c7303409a84781a90b722cad32ef4b9dba",
+        "title": "View all presets",
+        "url": "https://higgsfield.ai/viral-presets"
+      },
+      {
         "id": "aff186897ef8dbfb621cb2834554382a8d9baade",
         "title": "SupercomputerOne superagent for your entire creative stackTry Supercomputer",
         "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "dbe69cbbb307c2656512f9bb939e08d01031e805",
+        "title": "GPT Image 2",
+        "url": "https://higgsfield.ai/gpt-image-2-community"
+      },
+      {
+        "id": "f3cf79692f042e3ea5e3d056febd5b00c967fb75",
+        "title": "View all of GPT Image 2",
+        "url": "https://higgsfield.ai/gpt-image-2-community"
+      },
+      {
+        "id": "6b48cab748292bc932b4c65e089a0cf8a37546ce",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-community"
+      },
+      {
+        "id": "9eebc1ff593da179f5f7c959b2b90a963e68e3ae",
+        "title": "View all of Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-community"
+      },
+      {
+        "id": "02337abf06f1cd835da9b5b11760500056c32068",
+        "title": "Seedance 2.0",
+        "url": "https://higgsfield.ai/seedance-2-community"
+      },
+      {
+        "id": "11820136747f650fe3c54e8945d0e72c4b3096ed",
+        "title": "View all of Seedance 2.0",
+        "url": "https://higgsfield.ai/seedance-2-community"
+      },
+      {
+        "id": "fb4e03e99a9452a3affdd6e700ec66184dda908b",
+        "title": "Try Photodump",
+        "url": "https://higgsfield.ai/photodump/mobile?skip-preview=true"
+      },
+      {
+        "id": "532ab81c158a9c7f5886e6f0f98dd1256d826383",
+        "title": "Try Photodump",
+        "url": "https://higgsfield.ai/ai/image?modal-photo-dump=true&model=soul-v2&skip-preview=true"
+      },
+      {
+        "id": "7a7509037f9eccdcdf6adc115a4ffe76be00390e",
+        "title": "Higgsfield Soul Cinema",
+        "url": "https://higgsfield.ai/soul-cinema-community"
+      },
+      {
+        "id": "18fa8d0beaaf3e64c7540ea43702bb311c73ad79",
+        "title": "View all of Higgsfield Soul Cinema",
+        "url": "https://higgsfield.ai/soul-cinema-community"
+      },
+      {
+        "id": "39101ab4b61fb70f541f0eed221caa6b0b0bb858",
+        "title": "Higgsfield Soul 2.0",
+        "url": "https://higgsfield.ai/soul-community"
+      },
+      {
+        "id": "8e20f204b1e9c378eaedd897688892257eeef239",
+        "title": "View all of Higgsfield Soul 2.0",
+        "url": "https://higgsfield.ai/soul-community"
+      },
+      {
+        "id": "fed75cc92f5e867e95dc797230ec7b3a9baf60a6",
+        "title": "Cinema Studio",
+        "url": "https://higgsfield.ai/cinematic-video-generator"
+      },
+      {
+        "id": "29264350ea7fd7eca228a0cca0027291413ad528",
+        "title": "Visual Effects",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "53dffad0afa74a6473f54a4e13904920a8e871b6",
+        "title": "Higgsfield Soul",
+        "url": "https://higgsfield.ai/ai/image?model=soul"
+      },
+      {
+        "id": "1670f4963791a3d036ea42111649f500e7083912",
+        "title": "Kling 2.1 Master",
+        "url": "https://higgsfield.ai/ai/video?model=kling-v2-1-master"
+      },
+      {
+        "id": "004ad2305ed988d05743aed78c95499efb592c25",
+        "title": "Camera Controls",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "a7c146dc22050ae8e05d3174cf08cd6f65063b89",
+        "title": "Viral",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "4173d321560e19b5347a81d8fb579b3ece458ff6",
+        "title": "Action movements",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "1952a96ee756f98f95d762463ca64fe759bdeb64",
+        "title": "Commercial",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "e3157340db5b860c7f3c0f2e1b63546bb1ee6bd9",
+        "title": "MiniMax Hailuo 02",
+        "url": "https://higgsfield.ai/ai/video?model=minimax"
+      },
+      {
+        "id": "8e493cd7cc4025b16dacec4b93cf1f09e1414329",
+        "title": "Seedance Pro",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_pro"
+      },
+      {
+        "id": "a948fe9531d296c6b7c68aa463fba5ef270dc9ee",
+        "title": "Wan 2.2 Image",
+        "url": "https://higgsfield.ai/ai/image?model=wan2-2"
+      },
+      {
+        "id": "66714f6905781a45f7738eee77612a108b36b1c2",
+        "title": "Seedream 4.0",
+        "url": "https://higgsfield.ai/ai/image?model=seedream"
+      },
+      {
+        "id": "84f0e98f8ab0c64b57fccd6c3071fa8198f67666",
+        "title": "Nano Banana",
+        "url": "https://higgsfield.ai/ai/image?model=nano_banana"
+      },
+      {
+        "id": "472f4f365222b024e5050e4121a91ecf145f1b09",
+        "title": "Flux Kontext",
+        "url": "https://higgsfield.ai/ai/image?model=kontext"
+      },
+      {
+        "id": "69466b5d369e85afe4b366f6c21c6f808afd549d",
+        "title": "GPT Image",
+        "url": "https://higgsfield.ai/ai/image?model=gpt"
+      },
+      {
+        "id": "56fc534c7dba871d6c7131b33c89ca1726982700",
+        "title": "Topaz",
+        "url": "https://higgsfield.ai/upscale"
+      },
+      {
+        "id": "1d1c662e522b2219954f1f2bb91224a1d9b1baed",
+        "title": "Google Veo3",
+        "url": "https://higgsfield.ai/ai/video?model=veo-3-preview"
+      },
+      {
+        "id": "f31927755b0db6c46e48158ac5563c9352aabce1",
+        "title": "Kling 2.5 Turbo",
+        "url": "https://higgsfield.ai/ai/video?model=kling-v2-5-turbo"
+      },
+      {
+        "id": "f08f386c9a349f63161583779ab23a783e42a27f",
+        "title": "Kling Avatars 2.0",
+        "url": "https://higgsfield.ai/lipsync-studio"
+      },
+      {
+        "id": "bcddc4838bb74572711034d38d45e9949dd225ca",
+        "title": "Claude MCP",
+        "url": "https://higgsfield.ai/claude-ai-video-generator"
+      },
+      {
+        "id": "a5a70e682c409e5a794abb6b3b604f815bd81aa7",
+        "title": "Wan 2.5",
+        "url": "https://higgsfield.ai/wan-ai-video"
+      },
+      {
+        "id": "4e7b540c196d71713101f7bdb81d6e39d3d6924e",
+        "title": "Sora 2",
+        "url": "https://higgsfield.ai/sora-2"
+      },
+      {
+        "id": "00d05cf783dad2a69119f7de2679203c0170d01d",
+        "title": "Sora 2 Presets",
+        "url": "https://higgsfield.ai/sora-2-ai-video-presets"
+      },
+      {
+        "id": "f092f40d770768913019729e8ed99718b1416cf4",
+        "title": "Banana Placement",
+        "url": "https://higgsfield.ai/ai/image?model=nano_banana"
+      },
+      {
+        "id": "e54f735cf44b0d0df8a3d51e1515ddd75e165d56",
+        "title": "Product Placement",
+        "url": "https://higgsfield.ai/animate"
+      },
+      {
+        "id": "95e8a42cf79feda6798ba78d75525a0901d1772b",
+        "title": "Edit Image",
+        "url": "https://higgsfield.ai/edit?model=nano_banana_pro_inpaint"
+      },
+      {
+        "id": "3549ef098fb540825c8ce4496691db2a1ebe7477",
+        "title": "Multi Reference",
+        "url": "https://higgsfield.ai/character"
+      },
+      {
+        "id": "b010ce50b79c3a24e2dc11780518c26fcf111fbf",
+        "title": "Upscale",
+        "url": "https://higgsfield.ai/upscale"
+      },
+      {
+        "id": "76ff14bd96a9bde4093c215b75d790b268b8dcdf",
+        "title": "Assists",
+        "url": "https://higgsfield.ai/chat"
+      },
+      {
+        "id": "0ac168733335e7bd396bc7a5df3f349d42d24967",
+        "title": "YouTube",
+        "url": "https://higgsfield.ai/sora-2-youtube"
+      },
+      {
+        "id": "9f7648c6941735dff33b21a685d11ef9828999dd",
+        "title": "TikTok",
+        "url": "https://higgsfield.ai/sora-2-tiktok"
+      },
+      {
+        "id": "eb941b7e42f6c424b9b853a1d9564b25a26c3ed2",
+        "title": "Instagram Reels",
+        "url": "https://higgsfield.ai/sora-2-reels"
+      },
+      {
+        "id": "2859da9cab620756805c4a9f369da1480167cff3",
+        "title": "YouTube Shorts",
+        "url": "https://higgsfield.ai/sora-2-shorts"
+      },
+      {
+        "id": "bfaa168127c1485c32a9e56de60eb9aa57302225",
+        "title": "Nano Banana Pro",
+        "url": "https://higgsfield.ai/ai/image?model=nano-banana-pro"
+      },
+      {
+        "id": "272035e071b83e1ce5ceb296aa9072ca70e24162",
+        "title": "Kling o1",
+        "url": "https://higgsfield.ai/kling-3.0"
+      },
+      {
+        "id": "4f6b0e2f70a4916ca1b07d9cd661e34cd3110837",
+        "title": "Mixed Media Community",
+        "url": "https://higgsfield.ai/mixed-media-community"
+      },
+      {
+        "id": "11dfcccd068c6e2d19868d17ce0fe19506986662",
+        "title": "Soul Presets",
+        "url": "https://higgsfield.ai/soul"
+      },
+      {
+        "id": "bde910a1d6a4d3ff9b2d6b3d79ad764c20c7371f",
+        "title": "Visual Effects Collection",
+        "url": "https://higgsfield.ai/collection/effects"
+      },
+      {
+        "id": "f157643e9c91bdc76617d2a7dd261963c4afc730",
+        "title": "Trust",
+        "url": "https://higgsfield.ai/trust"
+      },
+      {
+        "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
+        "title": "Apps",
+        "url": "https://higgsfield.ai/apps"
+      },
+      {
+        "id": "a9872bcbb4261f47280a02a35063a64593fdc30c",
+        "title": "Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer-intro"
+      },
+      {
+        "id": "ef6b10866d80a72f7ef38ed55e5fd45133525b67",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-intro"
+      },
+      {
+        "id": "0d7ce54f655bb8f34a546aa0cc2334d62c7de535",
+        "title": "Higgsfield Canvas",
+        "url": "https://higgsfield.ai/canvas-intro"
+      },
+      {
+        "id": "aa0e84416530e9d5a712b5621550c91b5ddf60e8",
+        "title": "Higgsfield Collab",
+        "url": "https://higgsfield.ai/chat-intro"
+      },
+      {
+        "id": "f7d481a60c82b3aa5ebcceab7f2b83f94cb65678",
+        "title": "Higgsfield MCP",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
+        "id": "44b0b1797f922bfdb3d23b14e8c1c08e22939d7f",
+        "title": "Higgsfield Games",
+        "url": "https://higgsfield.ai/games-intro"
+      },
+      {
+        "id": "3ccdda5b5e6221cc2d612bd6690cb46713d69ee3",
+        "title": "AI Influencer",
+        "url": "https://higgsfield.ai/ai-influencer"
+      },
+      {
+        "id": "4c791019213fe9bcc2ae39485d500202431dc0f8",
+        "title": "Enterprise",
+        "url": "https://higgsfield.ai/enterprise"
+      },
+      {
+        "id": "be7d22e8b0b73a41950d46fb2be943a5d15fe43f",
+        "title": "Team",
+        "url": "https://higgsfield.ai/team-plan"
+      },
+      {
+        "id": "8f03754f7c9ecddd3eb2402696758a80ffeedf4c",
+        "title": "Copilot",
+        "url": "https://higgsfield.ai/chat"
+      },
+      {
+        "id": "de0253eaefc849ff95c5bb33fc2f415cda5e67af",
+        "title": "Contests",
+        "url": "https://higgsfield.ai/contests"
       },
       {
         "id": "80230dd3abcdef5d4faa2fb052a55661f5ec7f7c",
