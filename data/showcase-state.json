@@ -3185,11 +3185,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3289,6 +3284,11 @@
         "url": "htatps://higgsfield.ai/mobile/image/seedream_v5_pro"
       },
       {
+        "id": "d88f117624f7320dba169c16f4721fbe3d2922b4",
+        "title": "Seedance 2.0Create high-quality videos in secondsVideo",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_0"
+      },
+      {
         "id": "14ca9c7bddfe039e918a8e1bfc14c6edda234e64",
         "title": "Learn for FREEHiggsfield AcademyGenerate and learn how to use Higgsfield",
         "url": "https://higgsfield.ai/academy"
@@ -3302,11 +3302,6 @@
         "id": "61fb804a44388281382bb8b3fe578601f9207a12",
         "title": "Nano Banana ProGenerate high-quality visualsImage",
         "url": "https://higgsfield.ai/nano-banana-pro"
-      },
-      {
-        "id": "d88f117624f7320dba169c16f4721fbe3d2922b4",
-        "title": "Seedance 2.0Create high-quality videos in secondsVideo",
-        "url": "https://higgsfield.ai/ai/video?model=seedance_2_0"
       },
       {
         "id": "252cc45ea2c7093ab58a4a1e193cef4c221d9de3",
@@ -3324,9 +3319,14 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "6e35c98daabbe6b4c3f4ef9565a1009f33994c15",
-        "title": "4K Blockbuster Breakdown by adilinthewildPublic",
-        "url": "https://higgsfield.ai/@adilinthewild/projects/4k-blockbuster-breakdown"
+        "id": "9d2f677d5676cbc0caad94a7b39f754967f13896",
+        "title": "Higgsfield Academy by Higgsfield LaunchPublic",
+        "url": "https://higgsfield.ai/@askar_yedil/projects/higgsfield-academy"
+      },
+      {
+        "id": "7b1dda44032c79777b5fa98511b960c137af1de7",
+        "title": "The new girl by Higgsfield SoulPublic",
+        "url": "https://higgsfield.ai/@alishaqantaar/projects/the-new-girl"
       },
       {
         "id": "d4f69d543162c2a65320554c2dd833a6fc287392",
@@ -3339,29 +3339,19 @@
         "url": "https://higgsfield.ai/@higgscreator/projects/nala-heads-drop"
       },
       {
-        "id": "869ce03d45d123ffbabdf329555689190adebed6",
-        "title": "Kok Boru by Higgsfield CreativePublic",
+        "id": "cdbe54eebcedea95b7a85eb31e9ba2011f78225b",
+        "title": "Your browser does not support the video.4K Blockbuster Breakdown by adilinthewildPublic",
+        "url": "https://higgsfield.ai/@adilinthewild/projects/4k-blockbuster-breakdown"
+      },
+      {
+        "id": "711c9d16c27e488a17138e7d85400dc7437af436",
+        "title": "Your browser does not support the video.Kok Boru by Higgsfield CreativePublic",
         "url": "https://higgsfield.ai/@pocket_corallo_2/projects/kok-boru"
       },
       {
-        "id": "0b3420deaadfcd5ec6ab46314cb730b983822a7f",
-        "title": "Сat story by Higgsfield SoulPublic",
+        "id": "50030cb026b19c156cfd4c37881fec1d6afd35c0",
+        "title": "Your browser does not support the video.Сat story by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/@ailaa/projects/cat-story"
-      },
-      {
-        "id": "273ea1261b46e9c2e9930fe493f9006f7251a6fa",
-        "title": "Ultra Realistic AI Short Film Breakdown by adilinthewildPublic",
-        "url": "https://higgsfield.ai/@adilinthewild/projects/tv-4k"
-      },
-      {
-        "id": "aef4813cba4dc472d9b10c2f43206364c7e5d289",
-        "title": "Seed Audio 1.0 - Launch Video by Higgsfield LaunchPublic",
-        "url": "https://higgsfield.ai/@daniallll/projects/seed-audio-1-0-launch-video"
-      },
-      {
-        "id": "e8bc96ed79b32379ff273e474e9795b3f33505b1",
-        "title": "One More Time by Higgsfield SoulPublic",
-        "url": "https://higgsfield.ai/@sateesfaction/projects/one-more-time"
       },
       {
         "id": "6a3bae09e7e638deb51104e991b6f361f0857c20",
@@ -3369,8 +3359,8 @@
         "url": "https://higgsfield.ai/community"
       },
       {
-        "id": "75f02bf28be39875fd935e1d9115bb3048b463d1",
-        "title": "1D10H42M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
+        "id": "5267419715b13da17d23a6a8d398cf606645f23c",
+        "title": "0D10H40M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
         "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
