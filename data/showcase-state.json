@@ -2618,16 +2618,6 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
-      },
-      {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
         "title": "Best AI Video Generator for Marketing: Compare Tools by Workflow, Quality, and Control",
         "url": "https://a2e.ai/best-ai-video-generator-for-marketing/"
@@ -2678,6 +2668,21 @@
         "url": "https://video.a2e.ai/dev"
       },
       {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
+      },
+      {
         "id": "cc5416eba0189b1dc1a8b2f298a59cf5af722eb8",
         "title": "Service Status",
         "url": "https://a2e.ai/realtime-status/"
@@ -2711,11 +2716,6 @@
         "id": "0d0857a0ea17b5d5365ff2bc62e8375a6996ba17",
         "title": "Sitemap",
         "url": "https://a2e.ai/sitemap.xml"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
       },
       {
         "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
@@ -2786,11 +2786,6 @@
         "id": "d5bf090c33950e381451ae4481483e2245c058b4",
         "title": "Elevenlabs",
         "url": "https://video.a2e.ai/voice-studio/voice-clone"
-      },
-      {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
       },
       {
         "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
@@ -2881,11 +2876,6 @@
         "id": "e0b59de982f4e50716b649ead9158a92d49f8f46",
         "title": "AI Models",
         "url": "https://a2e.ai/models/"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
       },
       {
         "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
@@ -3357,11 +3347,6 @@
         "id": "6a3bae09e7e638deb51104e991b6f361f0857c20",
         "title": "Explore community",
         "url": "https://higgsfield.ai/community"
-      },
-      {
-        "id": "5267419715b13da17d23a6a8d398cf606645f23c",
-        "title": "0D10H40M$100,000HiggsfieldApp ContestBuild your best app on HiggsfieldJoin the contest",
-        "url": "https://higgsfield.ai/supercomputer/apps"
       },
       {
         "id": "6922b2fe4980b99a54ee99859292f781c91090c6",
