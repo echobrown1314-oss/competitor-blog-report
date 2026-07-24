@@ -14,12 +14,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "478bc321bbb1479fd159ac542ad2affe9b834e56",
-        "url": "https://www.weshop.ai/blog/digital-camera-filter-online-and-the-art-of-looking-accidental/",
-        "date": "2026-07-17T03:15:00+00:00",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
-      {
         "key": "6e1125d0164eef939a7a847075595e1eaf7185f5",
         "url": "https://www.weshop.ai/blog/3d-cartoon-generator-turn-one-image-into-a-mini-movie/",
         "date": "2026-07-17T11:15:26+00:00",
@@ -216,45 +210,57 @@
         "url": "https://www.weshop.ai/blog/ai-product-photography-create-better-ecommerce-images-without-expensive-photoshoots/",
         "date": "2026-07-22T12:48:20+00:00",
         "reportedAt": "2026-07-23T04:27:42.244Z"
+      },
+      {
+        "key": "7776d22abd2bddcf2fccd0db9db5783b94d8a8e5",
+        "url": "https://www.weshop.ai/blog/beautiful-or-misleading-the-ai-lingerie-generator-product-truth-test/",
+        "date": "2026-07-23T21:53:27+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "fb0abd39292067d9fc833735c5afca4f09958830",
+        "url": "https://www.weshop.ai/blog/why-some-product-ads-look-expensive-7-happyhorse-1-1-design-lessons/",
+        "date": "2026-07-23T20:52:14+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "0808e708ca1bdc75389b5bd6a2bd45d015b4bddd",
+        "url": "https://www.weshop.ai/blog/one-photo-six-tools-which-image-to-video-ai-generator-should-you-choose/",
+        "date": "2026-07-23T19:48:52+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "2fa3c2324d1f1266b5e531c00ee640d9416733cb",
+        "url": "https://www.weshop.ai/blog/ai-lingerie-generator-cut-shoot-costs-and-launch-faster/",
+        "date": "2026-07-23T18:58:58+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "e88331e66f04ca36d9736156d0f2572aa4afff28",
+        "url": "https://www.weshop.ai/blog/one-product-many-campaigns-a-smarter-ai-lingerie-generator-workflow/",
+        "date": "2026-07-23T17:46:34+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "9569d2700ce15c36d9884158e86e70121c17638f",
+        "url": "https://www.weshop.ai/blog/a-better-way-to-write-seedream-5-0-pro-prompts/",
+        "date": "2026-07-23T17:45:09+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "4493b52dacf8b8f8a4e23c257ee6e37391aac78e",
+        "url": "https://www.weshop.ai/blog/https-www-weshop-ai-blog-ai-product-photography-guide/",
+        "date": "2026-07-23T16:54:19+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "cde55abbbfeeddd96dbfbe6ec3e48f482c07aef7",
+        "url": "https://www.weshop.ai/blog/seedream5-0-how-to-edit-one-part-without-changing-everything-else/",
+        "date": "2026-07-23T08:35:43+00:00",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "a621f773a9032cfb26dcea921e337752c180ecb7",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedream-5-0-pro",
-        "date": "2026-07-16T11:57:14.295Z",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
-      {
-        "key": "7aa3e8ec490e5d54e8ff05d42d55a74bbaf4dffe",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-image-to-video",
-        "date": "2026-07-16T11:05:07.464Z",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
-      {
-        "key": "15ff93ba0a057c966d0e03494c39ea16d5202598",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-jungle-book",
-        "date": "2026-07-16T10:36:01.779Z",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
-      {
-        "key": "9b3a7d30e843d2d73aaf5a567367a9693222171f",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-pokemon",
-        "date": "2026-07-16T10:26:39.107Z",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
-      {
-        "key": "b31f42f9aaf6bd47fd2980a8f4975923c37963f7",
-        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-nsfw-content-restrictions-guide",
-        "date": "2026-07-16T08:16:38.998Z",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
-      {
-        "key": "251a53f2d5a5bf8f6aeb4806cbf1c652a79d86ce",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-pixar",
-        "date": "2026-07-16T07:11:18.126Z",
-        "reportedAt": "2026-07-17T04:19:02.970Z"
-      },
       {
         "key": "4a6cd3e1afbb99c1f49eccbd8378c126531866b1",
         "url": "https://www.atlascloud.ai/blog/guides/why-is-seedance-2-5-delayed",
@@ -482,6 +488,102 @@
         "url": "https://www.atlascloud.ai/blog/guides/how-to-unsubscribe-from-pixverse",
         "date": "2026-07-22T05:44:02.933Z",
         "reportedAt": "2026-07-23T04:27:42.244Z"
+      },
+      {
+        "key": "e12ed49cd77a0f478f79e78f0e04d21944282616",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-transition",
+        "date": "2026-07-24T04:03:36.943Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "4b78e9147e52d5822a197fb2a87faeea01617dd7",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-login",
+        "date": "2026-07-23T14:22:25.036Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "9da704b4d8526414ab7b60af5fa427b5766c86fc",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-api",
+        "date": "2026-07-23T13:57:13.718Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "6386baf7be05ff5e259d883407eb5f7470262993",
+        "url": "https://www.atlascloud.ai/blog/guides/multiple-face-swap",
+        "date": "2026-07-23T13:07:12.196Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "799174f97ee1498d4635b8304158402156a20e08",
+        "url": "https://www.atlascloud.ai/blog/guides/mike-wazowski-face-swap",
+        "date": "2026-07-23T13:05:19.039Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "28afecd0763bf4ab401fc88ccb274b7388dde924",
+        "url": "https://www.atlascloud.ai/blog/guides/bella-ramsey-face-swap",
+        "date": "2026-07-23T13:02:39.515Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "89d127f7963ea2327dc79cd8bbaf5dec89a658fd",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-micro-drama-guide",
+        "date": "2026-07-23T11:50:59.263Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "542041158c0712265659626c34d650e4692c5aff",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-ecommerce-ad-creative",
+        "date": "2026-07-23T11:50:57.294Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "84f497589cf00bd034568851eff8fd75a39ac91d",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-seedance-mv-workflow",
+        "date": "2026-07-23T11:50:55.199Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "e95858d851d3ed8ae84fb609b1f9a0563954f40c",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-text-rendering",
+        "date": "2026-07-23T11:50:53.306Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "a15ac8ee31ed6a6b4d9f355df5a4a0ae72011ca5",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-prompt-guide",
+        "date": "2026-07-23T11:50:51.294Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "f6915bed4d65b08583837bb936cd6625027a16e4",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-realistic-portraits",
+        "date": "2026-07-23T11:50:49.341Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "6bf918346d6847b32a35bfbd5eccb2cdb13a4b24",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-midjourney",
+        "date": "2026-07-23T11:50:47.312Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "883b6c89031235db2472d2ec16591ffbe394c8f1",
+        "url": "https://www.atlascloud.ai/blog/guides/does-seedream-5-pro-allow-nsfw",
+        "date": "2026-07-23T11:50:45.266Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "c49fe0d94c589ea2d1387edaae007b180572fa95",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-gpt-image-2",
+        "date": "2026-07-23T11:50:44.238Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "579079a00b85c4b538b27bf19e67f57f8edf8dde",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-nano-banana-2",
+        "date": "2026-07-23T11:50:42.602Z",
+        "reportedAt": "2026-07-24T04:26:59.013Z"
       }
     ],
     "TopMediai": [],
