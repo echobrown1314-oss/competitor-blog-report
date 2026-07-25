@@ -1,48 +1,11 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [
-      {
-        "key": "60f70003a7901eb90cb7ebd0aa2907ec7fc82fd1",
-        "url": "https://www.mindvideo.ai/blog/top-ai-headshot-generators-2026/",
-        "date": "2026-07-17",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      }
-    ],
+    "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
     "WaveSpeed": [],
     "WeShop AI": [
-      {
-        "key": "6e1125d0164eef939a7a847075595e1eaf7185f5",
-        "url": "https://www.weshop.ai/blog/3d-cartoon-generator-turn-one-image-into-a-mini-movie/",
-        "date": "2026-07-17T11:15:26+00:00",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "db029f01a61dd730aa2cdc93ec64f84e13f6ad5a",
-        "url": "https://www.weshop.ai/blog/animal-shorts-generator-the-ultimate-way-to-make-viral-pet-videos/",
-        "date": "2026-07-17T11:13:10+00:00",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "333f4f963f8d7f471b71f746ab6f30c520a29420",
-        "url": "https://www.weshop.ai/blog/first-person-pov-video-generator-create-viral-videos-viewers-cant-ignore/",
-        "date": "2026-07-17T10:46:22+00:00",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "f38ef310e1af4be3db72f101008b3119c717d6e1",
-        "url": "https://www.weshop.ai/blog/seen-mahadev-generator-create-powerful-shiva-ai-photos/",
-        "date": "2026-07-17T09:42:13+00:00",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "f6b0bc4e7f56f3111e5caac8485495a02294692e",
-        "url": "https://www.weshop.ai/blog/i-tried-a-stardew-valley-portrait-maker-and-created-the-ultimate-pixel-twin/",
-        "date": "2026-07-17T09:05:16+00:00",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
       {
         "key": "c7bd3ca117361c3c6063f4171bc8571f70304abc",
         "url": "https://www.weshop.ai/blog/ai-youtube-intro-maker-create-an-intro-viewers-remember/",
@@ -258,99 +221,69 @@
         "url": "https://www.weshop.ai/blog/seedream5-0-how-to-edit-one-part-without-changing-everything-else/",
         "date": "2026-07-23T08:35:43+00:00",
         "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "f55afae54e38b0056e2bbcd7c9a36b9da0dcfef5",
+        "url": "https://www.weshop.ai/blog/how-gpt-image-2-turns-simple-ideas-into-cinematic-worlds/",
+        "date": "2026-07-24T20:33:45+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "42a2e9ad350b9d8135151e8419388c92a3a8157b",
+        "url": "https://www.weshop.ai/blog/i-asked-gpt-image-2-to-create-vacation-photos-from-impossible-places/",
+        "date": "2026-07-24T20:07:11+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "97fd29c7d8411a5e036a338edf83f809dc60c86d",
+        "url": "https://www.weshop.ai/blog/ai-photo-recolor-how-to-build-accurate-product-colorways-from-one-master-image/",
+        "date": "2026-07-24T17:55:09+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "dfd278f883d683c016717b453b59b2c2ea114389",
+        "url": "https://www.weshop.ai/blog/ai-clothing-piece-generator-turn-worn-looks-into-reusable-product-assets/",
+        "date": "2026-07-24T17:25:58+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "a01fb026fdc7882d8e7fe3a69afe3a59a95c6fe4",
+        "url": "https://www.weshop.ai/blog/test-campaign-motion-before-the-cameras-start-rolling/",
+        "date": "2026-07-24T15:47:59+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "c3882a82df950e153160cb81eb63b49e221658a7",
+        "url": "https://www.weshop.ai/blog/turn-a-forgotten-photo-archive-into-a-working-video-library/",
+        "date": "2026-07-24T15:23:39+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "30557e3a6f36af176960c035eff22f0aa0e7148e",
+        "url": "https://www.weshop.ai/blog/ai-design-repair-fix-images-without-starting-over/",
+        "date": "2026-07-24T15:08:56+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "d287a5014b26b00c54babfec902044497340eab6",
+        "url": "https://www.weshop.ai/blog/stop-reshooting-everything-improve-video-quality-online-instead/",
+        "date": "2026-07-24T14:48:43+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "08829b83c4619aa01416ca66a0f8a0d8be4e2ea0",
+        "url": "https://www.weshop.ai/blog/your-video-is-not-ruined-fix-it-with-an-ai-video-enhancer/",
+        "date": "2026-07-24T14:12:44+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "385050ed2c04df44addea98c331898a6b197fae4",
+        "url": "https://www.weshop.ai/blog/create-better-store-pages-with-ai-product-detail-page/",
+        "date": "2026-07-24T14:06:35+00:00",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "4a6cd3e1afbb99c1f49eccbd8378c126531866b1",
-        "url": "https://www.atlascloud.ai/blog/guides/why-is-seedance-2-5-delayed",
-        "date": "2026-07-17T10:55:31.655Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "f84b79cb4ed0ed3a925869c140a8937e669d700c",
-        "url": "https://www.atlascloud.ai/blog/guides/best-replicate-alternatives",
-        "date": "2026-07-17T08:57:14.816Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "39f82aebe76bd3aa12d676ea0a46b56ce92c2372",
-        "url": "https://www.atlascloud.ai/blog/guides/best-together-ai-alternatives",
-        "date": "2026-07-17T08:55:35.820Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "9251744b5df2c0de982bd71e8d5b415082750194",
-        "url": "https://www.atlascloud.ai/blog/guides/most-affordable-api-provider-for-claude-code",
-        "date": "2026-07-17T08:54:48.314Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "8b5a1c987d0cc0d87165e1b4c0181c4bce3a1f92",
-        "url": "https://www.atlascloud.ai/blog/guides/best-kie-ai-alternative",
-        "date": "2026-07-17T08:54:38.293Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "64973d7b78002117d729fb9b2714eb1569022b74",
-        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-kungfu-video-tutorial",
-        "date": "2026-07-17T08:17:23.895Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "86cc240d082b10c9db1ce8ead5eecbecfe9dc1c1",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-face-swap",
-        "date": "2026-07-17T08:01:58.859Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "1864a53da4f3e8b5898524ed8891cbabf0312035",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-tom-and-jerry",
-        "date": "2026-07-17T08:00:31.940Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "8f1340efe996652bdf5b35a4002de9d12a097618",
-        "url": "https://www.atlascloud.ai/blog/guides/deepseek-with-claude-code-cursor-codex",
-        "date": "2026-07-17T07:33:31.304Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "c96eeb135d48eb08856a242ea0dba5bb2135cdc8",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-video-model-for-cinematic-motion-storytelling",
-        "date": "2026-07-17T07:33:21.952Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "7a23301bb3ceceb71bad3a40a9cc013ad1ece2b3",
-        "url": "https://www.atlascloud.ai/blog/guides/best-openrouter-alternatives",
-        "date": "2026-07-17T07:33:11.679Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "9da8e2afaabb01c193cf5dc0837db623bb4fc2cf",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-cost-per-second",
-        "date": "2026-07-17T07:32:31.766Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "6f0e795d415c310e26e4314132f128f8819761d4",
-        "url": "https://www.atlascloud.ai/blog/guides/nano-banana-pro-vs-nano-banana-2",
-        "date": "2026-07-17T07:32:26.015Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "57e139498dd19dcf5ce8a3ab412ed10ee6a1b6be",
-        "url": "https://www.atlascloud.ai/blog/guides/pay-chinese-ai-apis-no-alipay-wechat",
-        "date": "2026-07-17T07:32:16.217Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
-      {
-        "key": "7f3687d0f20ec5ce507b2d4171d2cdf0bbcd3a0f",
-        "url": "https://www.atlascloud.ai/blog/guides/is-hollywood-trying-to-shut-down-seedance-2.0",
-        "date": "2026-07-17T05:54:32.387Z",
-        "reportedAt": "2026-07-18T04:11:00.443Z"
-      },
       {
         "key": "b0fcdec8f95c0eba160d026d3a5949029d0ff9c8",
         "url": "https://www.atlascloud.ai/blog/guides/disney-face-swap",
@@ -584,6 +517,102 @@
         "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-vs-nano-banana-2",
         "date": "2026-07-23T11:50:42.602Z",
         "reportedAt": "2026-07-24T04:26:59.013Z"
+      },
+      {
+        "key": "4df977ceaad192cc2434923b7c126c7e40d2bc9f",
+        "url": "https://www.atlascloud.ai/blog/guides/best-kie-ai-alternative",
+        "date": "2026-07-24T12:58:35.921Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "ef6c3a47bc89a30f8f8e9920164dcf0ee783c319",
+        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-cost-per-second",
+        "date": "2026-07-24T12:56:24.187Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "04cc245f92542c64c2e0cfc787a43878188b6b89",
+        "url": "https://www.atlascloud.ai/blog/guides/low-cost-image-generation-api-runware-segmind",
+        "date": "2026-07-24T12:56:22.537Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "9329c71d9d06fa3de7432e5c49a03b6d556a7052",
+        "url": "https://www.atlascloud.ai/blog/guides/best-fal-ai-alternatives",
+        "date": "2026-07-24T12:56:20.818Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "dbe28ecfdd56d1ffa6191ad48ccf4729bff2d7d7",
+        "url": "https://www.atlascloud.ai/blog/guides/best-together-ai-alternatives",
+        "date": "2026-07-24T12:56:19.249Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "b895f8825e84c5ef3caeed3e9fff6fd3daecb394",
+        "url": "https://www.atlascloud.ai/blog/guides/best-replicate-alternatives",
+        "date": "2026-07-24T12:56:16.010Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "f7275913f83a49987139f0e2d59a42d0086a818f",
+        "url": "https://www.atlascloud.ai/blog/guides/api-provider-claude-code-cursor-codex-opencode-openclaw",
+        "date": "2026-07-24T12:56:14.390Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "b87319ec6a8045091f1a7f7a3063acb183ff1711",
+        "url": "https://www.atlascloud.ai/blog/guides/nano-banana-pro-vs-nano-banana-2",
+        "date": "2026-07-24T12:56:12.799Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "678ffcd52d98a1d1830156a45f2cda248b3f4cb8",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-video-model-for-cinematic-motion-storytelling",
+        "date": "2026-07-24T12:56:11.167Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "637a7fdbc9f190ede7a0e9b17d23ca4a8accfb91",
+        "url": "https://www.atlascloud.ai/blog/guides/best-funny-face-swap",
+        "date": "2026-07-24T12:04:16.029Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "ea9a2d2537542ff00296d68f0f8a63a1e848ecdc",
+        "url": "https://www.atlascloud.ai/blog/guides/best-openrouter-alternatives",
+        "date": "2026-07-24T11:09:01.205Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "7a89b2a3048057da592cf20208a81b03235877a9",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-4.5",
+        "date": "2026-07-24T10:58:31.777Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "093a3bd96c41ea5572b9a0076c966c33c09f77f8",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-v5",
+        "date": "2026-07-24T10:56:45.313Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "7a9d91880a07a5140bcdec1f7135cda69a901d91",
+        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-transition",
+        "date": "2026-07-24T10:49:37.801Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "79c3031ec037e863c89e9fecc7fa264ea7493e8e",
+        "url": "https://www.atlascloud.ai/blog/guides/thomas-the-train-face-swap",
+        "date": "2026-07-24T10:46:29.404Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
+      },
+      {
+        "key": "529d9c8865eb06ed25dfbe87725df011c483c6af",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-bugs-fixes",
+        "date": "2026-07-24T10:22:36.919Z",
+        "reportedAt": "2026-07-25T04:22:21.552Z"
       }
     ],
     "TopMediai": [],
