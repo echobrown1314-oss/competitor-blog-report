@@ -7,42 +7,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "154e1b7150df760d725203ecfab66f57954ab3bb",
-        "url": "https://www.weshop.ai/blog/turn-one-product-photo-into-a-better-sales-asset-with-a-360-product-video-generator/",
-        "date": "2026-07-20T19:18:06+00:00",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "f1f91ee713401ff0a9bf3bc17ab0a5138bd0a9aa",
-        "url": "https://www.weshop.ai/blog/ai-360-video-production-makes-one-image-feel-like-a-full-story/",
-        "date": "2026-07-20T18:33:56+00:00",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "f1d78729443998d94bbaf30da037f1569a0774d7",
-        "url": "https://www.weshop.ai/blog/virtual-try-on-turn-product-photos-into-stunning-model-shots/",
-        "date": "2026-07-20T16:45:00+00:00",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "630265a344b6d13b3d3cc8a605529e0bcd7ee240",
-        "url": "https://www.weshop.ai/blog/ai-pose-generator-7-ways-to-improve-ecommerce-photos/",
-        "date": "2026-07-20T16:32:07+00:00",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "2961e0dd9f30e53ded5f19b8d5cd9133ea821bbc",
-        "url": "https://www.weshop.ai/blog/one-photo-endless-poses-try-an-ai-pose-generator/",
-        "date": "2026-07-20T15:43:31+00:00",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "8bf70b2dc544b8a46afa869bc51bea67ab5b9025",
-        "url": "https://www.weshop.ai/blog/pixel-art-guide-how-to-make-hilarious-lo-fi-memes-easily/",
-        "date": "2026-07-20T14:51:13+00:00",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
         "key": "6ee7a522bb95427caed0b0b7d13de39364badf49",
         "url": "https://www.weshop.ai/blog/can-a-product-image-survive-motion-a-happyhorse-1-1-ai-video-generator-guide/",
         "date": "2026-07-21T19:09:14+00:00",
@@ -287,39 +251,69 @@
         "url": "https://www.weshop.ai/blog/%f0%9f%9b%8d%ef%b8%8f-amazon-product-background-remover-easy-listing-upgrade/",
         "date": "2026-07-27T07:32:35+00:00",
         "reportedAt": "2026-07-28T04:22:15.711Z"
+      },
+      {
+        "key": "0bdc48048f7f0758fe73bb8a4285cc5a48b52a88",
+        "url": "https://www.weshop.ai/blog/ai-mannequin-generator-a-smarter-way-to-sell-fashion/",
+        "date": "2026-07-28T17:59:40+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "d50327a4fb2747f288c11168bcf1513c750b6dcf",
+        "url": "https://www.weshop.ai/blog/how-to-turn-disconnected-ai-clips-into-one-cohesive-video/",
+        "date": "2026-07-28T17:59:22+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "0bf4a91b73e38459e860469b2de49811e9158c21",
+        "url": "https://www.weshop.ai/blog/ai-image-expander-one-photo-for-every-platform/",
+        "date": "2026-07-28T17:18:32+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "dd45aaece73e70c0b7ca89bdab7e6c831467c33b",
+        "url": "https://www.weshop.ai/blog/ai-clipart-generator-for-easy-classroom-visuals/",
+        "date": "2026-07-28T17:05:53+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "956c321b6f7a7cfa35718bb91d046d88c8b28ef8",
+        "url": "https://www.weshop.ai/blog/how-to-create-packaging-mockups-for-amazon-and-shopify-with-ai-packaging-design-generator/",
+        "date": "2026-07-28T16:18:19+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "8a9fb8617289fcf0156ebc5190ca430a3c30a6f6",
+        "url": "https://www.weshop.ai/blog/ai-relight-make-one-product-photo-fit-every-mood/",
+        "date": "2026-07-28T16:12:14+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "12d164251eee3594f1ea0d3b9042d9c9c98a3ce9",
+        "url": "https://www.weshop.ai/blog/stop-guessing-paint-colors-with-ai-paint-color-visualizer/",
+        "date": "2026-07-28T15:45:51+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "7b575ce4c47ddbfe2f63ea77e7a4572fd7e37150",
+        "url": "https://www.weshop.ai/blog/turn-product-descriptions-into-sales-videos-with-ai-spokesperson-video/",
+        "date": "2026-07-28T13:47:47+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "bbc3bb252e3a5df550b59657cca32408bf764e83",
+        "url": "https://www.weshop.ai/blog/how-to-create-an-interactive-product-video-with-ai-a-step-by-step-guide/",
+        "date": "2026-07-28T11:50:56+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "ec197a45721682a5eb3b33e7cebdbb36e8c2092c",
+        "url": "https://www.weshop.ai/blog/%f0%9f%91%97-ai-clothes-changer-turn-one-photo-into-endless-fashion-ideas/",
+        "date": "2026-07-28T10:58:40+00:00",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "b0fcdec8f95c0eba160d026d3a5949029d0ff9c8",
-        "url": "https://www.atlascloud.ai/blog/guides/disney-face-swap",
-        "date": "2026-07-21T03:45:23.100Z",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "087e2d9192228838559b861ce8022d11d21b0d5e",
-        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-prompt-guide",
-        "date": "2026-07-20T10:36:34.987Z",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "7841c632bfc64ed6a72f5e736ccbb7ea18e6a0ff",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-tutorial-ecommerce-video-workflow",
-        "date": "2026-07-20T09:08:30.819Z",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "5751fb32ca3da701b1e4f2b93618eee1e401af60",
-        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-realistic-portraits",
-        "date": "2026-07-20T08:56:09.841Z",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
-      {
-        "key": "28330f1c0b3aa5af372fd06b9dfad3dde7c47ca6",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-animation-2d",
-        "date": "2026-07-20T07:20:35.881Z",
-        "reportedAt": "2026-07-21T04:26:38.558Z"
-      },
       {
         "key": "4c3d1daab447b9a9a65722c782fa81000c728573",
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-text-to-video",
@@ -751,6 +745,96 @@
         "url": "https://www.atlascloud.ai/blog/guides/translate-product-videos-multilingual",
         "date": "2026-07-27T06:14:21.131Z",
         "reportedAt": "2026-07-28T04:22:15.711Z"
+      },
+      {
+        "key": "4ff1bf9249de80f6e24a2c5b297924a32a242101",
+        "url": "https://www.atlascloud.ai/blog/guides/face-swap-app-snapchat",
+        "date": "2026-07-29T03:09:05.005Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "e2d8efa6bc65b93ec030b56ffb5316322d509bcf",
+        "url": "https://www.atlascloud.ai/blog/guides/pica-ai-face-swap",
+        "date": "2026-07-28T11:51:52.249Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "907d224ebc4192dbfe80a83ab4923e61c6098239",
+        "url": "https://www.atlascloud.ai/blog/guides/akool-face-swap-alternative",
+        "date": "2026-07-28T10:29:17.358Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "37acbc5bed37dd0426b989ebd3e0df73d6085a47",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-face-swap-on-canva",
+        "date": "2026-07-28T09:37:31.893Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "38f7948cd30e326f41cf81072a2d778db3ba308e",
+        "url": "https://www.atlascloud.ai/blog/guides/vismz-face-swap-alternative",
+        "date": "2026-07-28T08:26:33.094Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "21d2beae36e302fec624147e44faaffd6fa59580",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-free-credits",
+        "date": "2026-07-28T05:53:08.691Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "8bfc75c02ce341040bf0cb77667e6b32b60d3b8f",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-lip-sync-feature-guide",
+        "date": "2026-07-28T05:52:42.760Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "23482c88546350f3abd781decaa284a74625a4cd",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-kungfu-video-tutorial",
+        "date": "2026-07-28T05:52:14.128Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "37a985709ea523fcfe7c69e60cab70b01099dd6b",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-nsfw-content-restrictions-guide",
+        "date": "2026-07-28T05:51:49.606Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "b94ef152e3047345f05c7349c8a93d39aee02443",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-api-automated-workflows",
+        "date": "2026-07-28T05:51:21.921Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "ee54e451492e70add40ca70bba87c410f213029d",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-vs-kling-ai",
+        "date": "2026-07-28T05:50:54.487Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "8b02a5cd4fd2f5035a29463017f93b421ecec760",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-video-generation-prompt-guide",
+        "date": "2026-07-28T05:50:28.560Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "de4cd72e13043a41dbdd377c1efed980397a6c6d",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-pricing-cost",
+        "date": "2026-07-28T05:50:03.632Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "384b1086c1670bb4874a17463af6a9412a56cf68",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-video-generator-review",
+        "date": "2026-07-28T05:49:37.381Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "22af21f06659e32f1a5b9e3543a8de37804a0d67",
+        "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-kiss",
+        "date": "2026-07-28T05:49:27.896Z",
+        "reportedAt": "2026-07-29T04:25:22.939Z"
       }
     ],
     "TopMediai": [],
