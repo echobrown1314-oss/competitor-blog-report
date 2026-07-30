@@ -7,24 +7,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "6ee7a522bb95427caed0b0b7d13de39364badf49",
-        "url": "https://www.weshop.ai/blog/can-a-product-image-survive-motion-a-happyhorse-1-1-ai-video-generator-guide/",
-        "date": "2026-07-21T19:09:14+00:00",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "994a5023fb24eb5f70db104fe85fa216b1af32c7",
-        "url": "https://www.weshop.ai/blog/your-mascot-needs-a-plot-build-a-3d-cartoon-ai-video-series/",
-        "date": "2026-07-21T12:59:00+00:00",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "99dafdffba06f0951355847cbb0605e07b844e72",
-        "url": "https://www.weshop.ai/blog/one-clip-four-worlds-how-a-video-to-video-ai-generator-refreshes-social-content/",
-        "date": "2026-07-21T08:57:31+00:00",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
         "key": "9906d8ebb92f2d5b182ef80d6655b6b41da98a1d",
         "url": "https://www.weshop.ai/blog/seedream5-0-how-to-edit-one-part-without-changing-everything-else/",
         "date": "2026-07-22T21:06:23+00:00",
@@ -311,45 +293,69 @@
         "url": "https://www.weshop.ai/blog/%f0%9f%91%97-ai-clothes-changer-turn-one-photo-into-endless-fashion-ideas/",
         "date": "2026-07-28T10:58:40+00:00",
         "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "5cab9a2dc973298f2ed5a63ac0cb4e0690d00bfc",
+        "url": "https://www.weshop.ai/blog/ai-pose-changer-build-a-better-fashion-pose-set/",
+        "date": "2026-07-29T19:51:25+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "f9b4d578d3d6bf9e1e8a24a983ff39b870ad11b4",
+        "url": "https://www.weshop.ai/blog/ai-clothing-flatlay-build-a-clean-catalog-from-mixed-photos/",
+        "date": "2026-07-29T19:23:44+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "cd020e83640921ebafb1f4057d6216fe0e0cedde",
+        "url": "https://www.weshop.ai/blog/ai-full-body-generator-from-one-photo-to-a-content-set/",
+        "date": "2026-07-29T19:00:22+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "6a48db9d7e0f582405ad70e97d49d751c43cba41",
+        "url": "https://www.weshop.ai/blog/how-to-make-a-youtube-banner-that-looks-good-on-every-screen/",
+        "date": "2026-07-29T18:38:44+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "13dad9774a5b2763ab4bef4d164de6c7e9281aae",
+        "url": "https://www.weshop.ai/blog/ai-fashion-video-generator-turn-photos-into-sales/",
+        "date": "2026-07-29T17:54:40+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "e56987cce5aedbd0a90c8a9c48d54788c82d4f12",
+        "url": "https://www.weshop.ai/blog/how-to-make-workout-class-teasers-without-filming/",
+        "date": "2026-07-29T17:16:29+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "adf8c1d1fd3baa450bb88412d9413a2d85b0bb90",
+        "url": "https://www.weshop.ai/blog/how-to-make-caption-safe-x-videos-with-ai/",
+        "date": "2026-07-29T16:36:33+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "2a8047b71e5591abba27f2fa26eda96620d6107f",
+        "url": "https://www.weshop.ai/blog/magic-eraser-the-5-second-product-photo-audit-before-you-publish/",
+        "date": "2026-07-29T16:20:40+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "5b242f6b1afc4d025d53e62506cf8d4d2d668ad8",
+        "url": "https://www.weshop.ai/blog/clothing-sketch-ai-test-fashion-ideas-before-sampling/",
+        "date": "2026-07-29T15:18:48+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "24f04112b8320632f47f5f2f4ec200d9e49da28a",
+        "url": "https://www.weshop.ai/blog/ai-mannequin-generator-a-smarter-way-to-sell-fashion/",
+        "date": "2026-07-29T08:24:47+00:00",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "4c3d1daab447b9a9a65722c782fa81000c728573",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-text-to-video",
-        "date": "2026-07-22T00:25:33.278Z",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "1ce8c82fb1adbb6240bcde71aeda57b0ec73a21e",
-        "url": "https://www.atlascloud.ai/blog/guides/pixverse-video-length-limit",
-        "date": "2026-07-21T10:51:57.882Z",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "7bafc148c2cd945db6c4db87b4c341ec7e261e72",
-        "url": "https://www.atlascloud.ai/blog/guides/seedream-seedance-mv-workflow",
-        "date": "2026-07-21T10:24:21.784Z",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "34ebe3202425e6b92322f8f4862ac85e51321564",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.5-camera-control-guide",
-        "date": "2026-07-21T08:17:48.457Z",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "601d9424559c92621926c255b74c71fd3ab76463",
-        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-text-rendering",
-        "date": "2026-07-21T06:42:59.748Z",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
-      {
-        "key": "61b0d76670a239c73211d8aa6fdae3153704fc0e",
-        "url": "https://www.atlascloud.ai/blog/case-studies/grok-xai-image-editing-capabilities",
-        "date": "2026-07-21T05:52:21.430Z",
-        "reportedAt": "2026-07-22T04:29:09.650Z"
-      },
       {
         "key": "7dc00c3704e639ca1f5b04006ed34c1168552a28",
         "url": "https://www.atlascloud.ai/blog/guides/pixverse-ai-video-generator-review",
@@ -835,6 +841,54 @@
         "url": "https://www.atlascloud.ai/blog/guides/hailuo-ai-kiss",
         "date": "2026-07-28T05:49:27.896Z",
         "reportedAt": "2026-07-29T04:25:22.939Z"
+      },
+      {
+        "key": "699674b21b3bf10bcebeb19da1e75fc72e8bb4f7",
+        "url": "https://www.atlascloud.ai/blog/guides/does-seedream-5-pro-allow-nsfw",
+        "date": "2026-07-30T04:01:59.329Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "44d557b6a5e039da197f4992fd8cc382aca38d9c",
+        "url": "https://www.atlascloud.ai/blog/guides/pixlr-face-swap",
+        "date": "2026-07-30T04:00:25.305Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "4dc2e6973f23e99854b72531d1f5fa4c63e1d569",
+        "url": "https://www.atlascloud.ai/blog/guides/fotor-face-swap",
+        "date": "2026-07-29T12:29:45.387Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "60d278e79e64669f26bbb529fb5ac28384212e3b",
+        "url": "https://www.atlascloud.ai/blog/guides/youcam-ai-face-swap",
+        "date": "2026-07-29T11:14:25.532Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "335f4644aec271f8b0155322f88b37ddf57ce15d",
+        "url": "https://www.atlascloud.ai/blog/guides/does-grok-have-face-swap",
+        "date": "2026-07-29T11:02:20.233Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "1e6369ee3bfd599e45bff86621f0641d19970bad",
+        "url": "https://www.atlascloud.ai/blog/guides/pixnova-ai-face-swap",
+        "date": "2026-07-29T10:51:19.494Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "a829c2167ed88c4898713421158ce4809f63c8dc",
+        "url": "https://www.atlascloud.ai/blog/guides/seedream-5-0-pro-vs-krea-2-nsfw-capabilities",
+        "date": "2026-07-29T09:57:49.052Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
+      },
+      {
+        "key": "2fdaa40d7c52e15122442771020e8e594317e34b",
+        "url": "https://www.atlascloud.ai/blog/guides/vidnoz-ai-face-swap",
+        "date": "2026-07-29T09:47:48.715Z",
+        "reportedAt": "2026-07-30T04:15:50.904Z"
       }
     ],
     "TopMediai": [],
