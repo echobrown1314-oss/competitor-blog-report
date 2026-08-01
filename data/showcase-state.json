@@ -3045,6 +3045,11 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
+      },
+      {
+        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
+        "title": "here",
+        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3149,39 +3154,44 @@
         "url": "htatps://higgsfield.ai/mobile/image/seedream_v5_pro"
       },
       {
-        "id": "d88f117624f7320dba169c16f4721fbe3d2922b4",
-        "title": "Seedance 2.0Create high-quality videos in secondsVideo",
+        "id": "11605c272d7ccdc4593c840418a054c0360641a0",
+        "title": "Seedance 2.5NewThe most advanced video modelComing soon",
+        "url": "https://higgsfield.ai/seedance-2.5"
+      },
+      {
+        "id": "74912bdac3af8687c39a2a02ec916abaab16bab1",
+        "title": "Seedance 2.0Create high-quality videosVideo",
         "url": "https://higgsfield.ai/ai/video?model=seedance_2_0"
       },
       {
-        "id": "14ca9c7bddfe039e918a8e1bfc14c6edda234e64",
-        "title": "Learn for FREEHiggsfield AcademyGenerate and learn how to use Higgsfield",
-        "url": "https://higgsfield.ai/academy"
-      },
-      {
-        "id": "9e2e9462d32fc0125a4e2b2a80d16cfbb8066b03",
-        "title": "NewSupercomputerAgents, automation, skills & more",
+        "id": "c585468102490aeedda8e4bed7b6f3e56ebd34a1",
+        "title": "SupercomputerAutomation, skills, apps and more",
         "url": "https://higgsfield.ai/supercomputer"
       },
       {
-        "id": "61fb804a44388281382bb8b3fe578601f9207a12",
-        "title": "Nano Banana ProGenerate high-quality visualsImage",
-        "url": "https://higgsfield.ai/nano-banana-pro"
+        "id": "5803b3e531689bc42efee88e9763d12a6861ce77",
+        "title": "Higgsfield AcademyLearn how to use Higgsfield",
+        "url": "https://higgsfield.ai/academy"
       },
       {
-        "id": "90045f0f4e2ee97396661253e452e1108ec60e6e",
-        "title": "$0 Unlimited trialMCP & CLITurn Claude into a creative engine",
+        "id": "e0c8914971bf7be3900fc2b62485d4d1c82deff6",
+        "title": "MCP & CLITurn Claude into a creative engine",
         "url": "https://higgsfield.ai/mcp"
-      },
-      {
-        "id": "62800ae619ab2a7765339ad15c9946d060918c4d",
-        "title": "NewGemini Omni FlashGenerate and edit video from any input",
-        "url": "https://higgsfield.ai/ai/video?model=gemini-omni"
       },
       {
         "id": "2a0cb83edcffa8f4d38e5d629992f9f9fd73771b",
         "title": "Cinema Studio 3.5Create cinematic scenes effortlessly",
         "url": "https://higgsfield.ai/generate"
+      },
+      {
+        "id": "f88db8a29464cff6cdfa11df3819a6a436e67ddf",
+        "title": "Explore Seedance 2.5",
+        "url": "https://higgsfield.ai/seedance-2.5"
+      },
+      {
+        "id": "6d5989c11b3d8021f82e8b0ff048c0d8a040ceb8",
+        "title": "Learn more about Seedance 2.5",
+        "url": "https://higgsfield.ai/seedance-2.5"
       },
       {
         "id": "b068f213c38e168a4ccb1b207c558e6e1debf48a",
@@ -3194,23 +3204,18 @@
         "url": "https://higgsfield.ai/viral-presets"
       },
       {
-        "id": "9d2f677d5676cbc0caad94a7b39f754967f13896",
-        "title": "Higgsfield Academy by Higgsfield LaunchPublic",
+        "id": "44b8af720b33a78f9c0ebb74d6b41c51db33cd72",
+        "title": "Your browser does not support the video.Higgsfield Academy by Higgsfield LaunchPublic",
         "url": "https://higgsfield.ai/@askar_yedil/projects/higgsfield-academy"
       },
       {
-        "id": "7b1dda44032c79777b5fa98511b960c137af1de7",
-        "title": "The new girl by Higgsfield SoulPublic",
+        "id": "1f1e8c3a5df87ada9c64d6391d492794968bd2d7",
+        "title": "Your browser does not support the video.The new girl by Higgsfield SoulPublic",
         "url": "https://higgsfield.ai/@alishaqantaar/projects/the-new-girl"
       },
       {
-        "id": "d4f69d543162c2a65320554c2dd833a6fc287392",
-        "title": "Anime production - Launch video by Higgsfield LaunchPublic",
-        "url": "https://higgsfield.ai/@mixingburrito1329/projects/anime-production"
-      },
-      {
-        "id": "a350207f67b3bd99c1d931910b3b493ee2d9db54",
-        "title": "Nala - Heads Drop by Higgsfield CreativePublic",
+        "id": "d46c6614d3c7747e9d12c56a459cf59918fa661a",
+        "title": "Your browser does not support the video.Nala - Heads Drop by Higgsfield CreativePublic",
         "url": "https://higgsfield.ai/@higgscreator/projects/nala-heads-drop"
       },
       {
@@ -3234,84 +3239,84 @@
         "url": "https://higgsfield.ai/community"
       },
       {
-        "id": "5d4aa03e76913f7377eb74a21be9d59c176c8c68",
+        "id": "6c9885901fac149b4cda0af8c56336c8a699b6d5",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/210155f2-c89b-4fea-95f0-f6b4fb953697/view?pos=0&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/268ef125-85a4-4ea6-94d7-3c73e9adb14d/view?pos=0&src=home_contest_banner"
       },
       {
-        "id": "4a69edc9cd300473c8b2290ebc0891657b4076ff",
+        "id": "8c5db675adf0e7dd76d9340027b5d53e90c4ac26",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/268ef125-85a4-4ea6-94d7-3c73e9adb14d/view?pos=1&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/f7fcbb0e-96c8-40f8-980c-1f53c8ffa7c7/view?pos=1&src=home_contest_banner"
       },
       {
-        "id": "9fab504cbf69bf8b4827f6e4295594a8ba8e5a53",
+        "id": "6e9ca8ca5f3868dd4f349b971ec2ef10c6eb3755",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/f7fcbb0e-96c8-40f8-980c-1f53c8ffa7c7/view?pos=2&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/c455cf00-8540-444d-8df3-9ad11b904230/view?pos=2&src=home_contest_banner"
       },
       {
-        "id": "4fda84cce52178f6d1ca89cd074b503cd50b6860",
+        "id": "7488da85889e9d21eff21d4fec532cb8df4feb7f",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/c455cf00-8540-444d-8df3-9ad11b904230/view?pos=3&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/c2fd7842-b2d6-4ec4-be8a-6e4454fb1710/view?pos=3&src=home_contest_banner"
       },
       {
-        "id": "b505b7cc40306a64b233c47ac3c72f90caf2f2e1",
+        "id": "fee0fd3aa45e9a3e76a3ea5ae83b2ad646a2167a",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/c2fd7842-b2d6-4ec4-be8a-6e4454fb1710/view?pos=4&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/900497e3-ae1d-479c-97ba-3d492c160fa1/view?pos=4&src=home_contest_banner"
       },
       {
-        "id": "acb7b157095a71a6868ebdea2fa31cdc36f0d331",
+        "id": "477e59167a9ce894dce04fd67ec680df65e42a5d",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/900497e3-ae1d-479c-97ba-3d492c160fa1/view?pos=5&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/9d167a5e-643d-4c22-8fa4-8d5e2e437d15/view?pos=5&src=home_contest_banner"
       },
       {
-        "id": "0d79ef3ba85cc966efef46176123f0f016e38512",
+        "id": "1d181da52caea3c1ca5336bd383ffc7a79bd2e37",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/9d167a5e-643d-4c22-8fa4-8d5e2e437d15/view?pos=6&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/b483a597-5c10-4955-9ec7-dbdd645faeaa/view?pos=6&src=home_contest_banner"
       },
       {
-        "id": "192a16c030cf1037d87e2322f36a034c35f15c22",
+        "id": "4109db24cf4073f021ebc918aa7c8b0343606546",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/b483a597-5c10-4955-9ec7-dbdd645faeaa/view?pos=7&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/c7b8ac3d-e0f8-4903-97af-503c280f54c7/view?pos=7&src=home_contest_banner"
       },
       {
-        "id": "856e0c003568749061747ab754235c41633992b9",
+        "id": "186e60ce58ffb40980829d1f8d6ceb4e1e9b3249",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/c7b8ac3d-e0f8-4903-97af-503c280f54c7/view?pos=8&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/9312fb05-b567-4b02-ac29-fd3aaccdfcb2/view?pos=8&src=home_contest_banner"
       },
       {
-        "id": "efcfd8fc861a5ddf4f748cd69b7b67086792d4b7",
+        "id": "044e8d4ce154c85c9cd532ed7dea73a3a14f43df",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/9312fb05-b567-4b02-ac29-fd3aaccdfcb2/view?pos=9&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/637e9e64-edf9-475e-9eb3-9544b0741ea2/view?pos=9&src=home_contest_banner"
       },
       {
-        "id": "f761c3516c278062e3c846370e6f4fd07f527114",
+        "id": "3f94e58c400c0adde5082a6ae618afd408b61534",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/637e9e64-edf9-475e-9eb3-9544b0741ea2/view?pos=10&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/1a2a8eef-5749-4ba6-aa8b-8ae439b96065/view?pos=10&src=home_contest_banner"
       },
       {
-        "id": "37306e1a858f7a4ac80ce5b5ad11f44a33010e03",
+        "id": "28b9c15de847fdde4e91e8ecb03125fe36e5ec68",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/1a2a8eef-5749-4ba6-aa8b-8ae439b96065/view?pos=11&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/04b14bf0-c3cd-42fa-8ef9-68e28b1c2e5e/view?pos=11&src=home_contest_banner"
       },
       {
-        "id": "74b232326728fd87b5fdc23cc14672fc42685073",
+        "id": "bbdc20882ac8779f4716cda2001367a671525169",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/04b14bf0-c3cd-42fa-8ef9-68e28b1c2e5e/view?pos=12&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/7be964a9-3c76-4c3d-b7a8-cb586f5a1d2b/view?pos=12&src=home_contest_banner"
       },
       {
-        "id": "e99afb151bb2d790e7b15eb5c394376e80ffafb8",
+        "id": "87a21ea7d2ed6edf0eec4dbdc7bb10969e790bcf",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/7be964a9-3c76-4c3d-b7a8-cb586f5a1d2b/view?pos=13&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/144430ce-5308-486c-874a-89009671e53f/view?pos=13&src=home_contest_banner"
       },
       {
-        "id": "3e81e7ecac3290ae3275e84d016c0d823fd382a3",
+        "id": "4399572bbb5cfd2bf11454713fb2da6147f78816",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/144430ce-5308-486c-874a-89009671e53f/view?pos=14&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/77603634-1fcf-48bd-9e27-2f5e820677b2/view?pos=14&src=home_contest_banner"
       },
       {
-        "id": "b2abf5a6f63ff4d3366eef615cf9cd0f13ef2e40",
+        "id": "3cc2b1e09c91c90551ff02046debafbb0514cc94",
         "title": "Open",
-        "url": "https://higgsfield.ai/supercomputer/apps/77603634-1fcf-48bd-9e27-2f5e820677b2/view?pos=15&src=home_contest_banner"
+        "url": "https://higgsfield.ai/supercomputer/apps/6f01a9a0-e731-4618-abe5-4e08b11348fd/view?pos=15&src=home_contest_banner"
       },
       {
         "id": "a4f1dd70fba4e8e472e1e2a141c26fc1b2502022",
