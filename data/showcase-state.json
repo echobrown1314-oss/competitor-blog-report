@@ -2623,6 +2623,16 @@
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
       },
       {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
+      },
+      {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
         "title": "Best AI Video Generator for Marketing: Compare Tools by Workflow, Quality, and Control",
         "url": "https://a2e.ai/best-ai-video-generator-for-marketing/"
@@ -2678,46 +2688,6 @@
         "url": "https://a2e.ai/realtime-status/"
       },
       {
-        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
-        "title": "AI LipSync",
-        "url": "https://video.a2e.ai/create"
-      },
-      {
-        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
-        "title": "AI Image to Video",
-        "url": "https://video.a2e.ai/image-to-video"
-      },
-      {
-        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
-        "title": "AI Head Swap",
-        "url": "https://video.a2e.ai/head-swap"
-      },
-      {
-        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
-        "title": "GPT Image 2",
-        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
-      },
-      {
-        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
-        "title": "GPT Image 1.5",
-        "url": "https://video.a2e.ai/image-generator/gpt-image"
-      },
-      {
-        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
-        "title": "Kling 3.0 Image",
-        "url": "https://video.a2e.ai/image-generator/kling-image"
-      },
-      {
-        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
-        "title": "HappyHorse",
-        "url": "https://video.a2e.ai/happy-horse"
-      },
-      {
-        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
-        "title": "Seedance 1.5 Pro",
-        "url": "https://video.a2e.ai/seedance-video"
-      },
-      {
         "id": "404347ea2963c2949021bec3b57dfd537ceb3efc",
         "title": "Media Assets",
         "url": "https://a2e.ai/a2e-media-kit-brand-assets/"
@@ -2746,6 +2716,21 @@
         "id": "0d0857a0ea17b5d5365ff2bc62e8375a6996ba17",
         "title": "Sitemap",
         "url": "https://a2e.ai/sitemap.xml"
+      },
+      {
+        "id": "86478c0fa39468bf652c8e023898cf1a51446abe",
+        "title": "GPT Image 2",
+        "url": "https://video.a2e.ai/image-generator/gpt-image-2"
+      },
+      {
+        "id": "4c9bbca4890a9da47085ce2d79ac1761dd620588",
+        "title": "GPT Image 1.5",
+        "url": "https://video.a2e.ai/image-generator/gpt-image"
+      },
+      {
+        "id": "9183a6aa3675d67e184b6d253f7ca47692a8a42b",
+        "title": "Kling 3.0 Image",
+        "url": "https://video.a2e.ai/image-generator/kling-image"
       },
       {
         "id": "7ae7254a6e02a67cc84b43c4e45fc8e4d58f70c3",
@@ -2806,6 +2791,21 @@
         "id": "d5bf090c33950e381451ae4481483e2245c058b4",
         "title": "Elevenlabs",
         "url": "https://video.a2e.ai/voice-studio/voice-clone"
+      },
+      {
+        "id": "e56f3f787d53e1b5a6af38d5c9f2c31af8e73dbd",
+        "title": "AI LipSync",
+        "url": "https://video.a2e.ai/create"
+      },
+      {
+        "id": "8cd9eef3a5a7afbf7380d3a106bd52d51219a4b6",
+        "title": "AI Image to Video",
+        "url": "https://video.a2e.ai/image-to-video"
+      },
+      {
+        "id": "083d336a0efd44f3ee3d98ea895fbfa799145173",
+        "title": "AI Head Swap",
+        "url": "https://video.a2e.ai/head-swap"
       },
       {
         "id": "0e907cf14979f67d13a7bc6419509a262e4c6889",
@@ -2886,6 +2886,16 @@
         "id": "e0b59de982f4e50716b649ead9158a92d49f8f46",
         "title": "AI Models",
         "url": "https://a2e.ai/models/"
+      },
+      {
+        "id": "9b0d15ae91fd61c6e7b9b5f1dba66099ec077e38",
+        "title": "HappyHorse",
+        "url": "https://video.a2e.ai/happy-horse"
+      },
+      {
+        "id": "3203fe1bb1aaf35eca9ce42d3eea84ca812c5b18",
+        "title": "Seedance 1.5 Pro",
+        "url": "https://video.a2e.ai/seedance-video"
       },
       {
         "id": "a6f91fd26f21b0f27239c0ad454f335dd0e02e94",
@@ -3045,11 +3055,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3154,9 +3159,9 @@
         "url": "htatps://higgsfield.ai/mobile/image/seedream_v5_pro"
       },
       {
-        "id": "11605c272d7ccdc4593c840418a054c0360641a0",
+        "id": "bc12bc78e53ceae0b9ce256ef4528b1d2bae442d",
         "title": "Seedance 2.5NewThe most advanced video modelComing soon",
-        "url": "https://higgsfield.ai/seedance-2.5"
+        "url": "https://higgsfield.ai/seedance/2.5"
       },
       {
         "id": "74912bdac3af8687c39a2a02ec916abaab16bab1",
@@ -3184,14 +3189,14 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "f88db8a29464cff6cdfa11df3819a6a436e67ddf",
+        "id": "2cdbbd78e58a9e28a9330d036e4e5a72a059cb84",
         "title": "Explore Seedance 2.5",
-        "url": "https://higgsfield.ai/seedance-2.5"
+        "url": "https://higgsfield.ai/seedance/2.5"
       },
       {
-        "id": "6d5989c11b3d8021f82e8b0ff048c0d8a040ceb8",
+        "id": "b1d83d3a88b9a944eb0aa6151b75b135015f2faf",
         "title": "Learn more about Seedance 2.5",
-        "url": "https://higgsfield.ai/seedance-2.5"
+        "url": "https://higgsfield.ai/seedance/2.5"
       },
       {
         "id": "b068f213c38e168a4ccb1b207c558e6e1debf48a",
