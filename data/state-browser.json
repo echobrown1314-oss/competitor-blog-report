@@ -239,6 +239,12 @@
         "url": "https://www.weshop.ai/blog/ai-hand-fixer-save-the-last-5-of-a-great-image/",
         "date": "2026-07-31T04:55:19+00:00",
         "reportedAt": "2026-08-01T04:30:38.795Z"
+      },
+      {
+        "key": "5899a86628fcbf87d1a6777f2d975dba30793353",
+        "url": "https://www.weshop.ai/blog/how-to-build-a-reusable-pose-library-with-ai-photoshoot/",
+        "date": "2026-08-01T18:26:03+00:00",
+        "reportedAt": "2026-08-02T04:33:19.071Z"
       }
     ],
     "Atlas Cloud": [
@@ -703,6 +709,18 @@
         "url": "https://www.atlascloud.ai/blog/guides/top-100-free-unlimited-video-face-swap",
         "date": "2026-07-31T06:55:40.026Z",
         "reportedAt": "2026-08-01T04:30:38.795Z"
+      },
+      {
+        "key": "d04031e73c8d7cc581797c6506b7946ad1100879",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-vs-minimax-h3",
+        "date": "2026-08-01T08:22:34.624Z",
+        "reportedAt": "2026-08-02T04:33:19.071Z"
+      },
+      {
+        "key": "cd72f339df0531e9f8de5f2b40458270951a2461",
+        "url": "https://www.atlascloud.ai/blog/guides/how-to-write-seedance-2.5-prompts",
+        "date": "2026-08-01T06:27:48.197Z",
+        "reportedAt": "2026-08-02T04:33:19.071Z"
       }
     ],
     "TopMediai": [],
