@@ -1,24 +1,20 @@
 # 竞品模板/玩法页监测日报
 
-生成时间：2026/08/04 12:16（上海）
+生成时间：2026/08/05 12:13（上海）
 
-新增页面总数：23
+新增页面总数：10
 
 ## MagicHour（0）
 - 今日未发现新页面
 
-## Viddo AI（4）
-- [MiniMax H3](https://viddo.ai/minimax-h-3)
-- [Hailuo 2.3](https://viddo.ai/hailuo-ai?model=hailuo-2-3)
-- [Pixverse V6](https://viddo.ai/pixverse)
-- [Video Trimmer](https://viddo.ai/trimmer)
+## Viddo AI（1）
+- [Happy Horse V1.1](https://viddo.ai/happy-horse)
 
 ## DeeVid AI（0）
 - 今日未发现新页面
 
-## A2E AI（2）
-- [Get API](https://video.a2e.ai/dev)
-- [Use MCP Now](https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/)
+## A2E AI（0）
+- 今日未发现新页面
 
 ## Kling AI（0）
 - 今日未发现新页面
@@ -26,21 +22,13 @@
 ## InVideo（0）
 - 今日未发现新页面
 
-## Higgsfield AI（17）
-- [Free Seedance 2.0 4KNew](https://higgsfield.ai/seedance-4k)
-- [Open Higgsfield Global Film Festival](https://higgsfield.ai/contests/higgsfield-global-film-festival)
-- [Open FREE Seedance 2.0 4K](https://higgsfield.ai/seedance-4k)
-- [Seedance 2.5NewThe most advanced video modelComing soon](https://higgsfield.ai/seedance-2.5)
-- [Higgsfield AcademyAcademyLearn how to use Higgsfield](https://higgsfield.ai/academy)
-- [Explore Seedance 2.5](https://higgsfield.ai/seedance-2.5)
-- [Learn more about Seedance 2.5](https://higgsfield.ai/seedance-2.5)
-- [Assists](https://higgsfield.ai/ai-assist)
-- [Soul ID Character](https://higgsfield.ai/character)
-- [Draw to Edit](https://higgsfield.ai/ai/video?image-inpaint=true)
-- [Mixed media](https://higgsfield.ai/mixed-media-intro)
-- [Sora 2 Introduction](https://higgsfield.ai/sora-2)
-- [Banana Placement](https://higgsfield.ai/edit?model=banana_placement)
-- [Product Placement](https://higgsfield.ai/edit?model=canvas)
-- [AI Assist](https://higgsfield.ai/ai-assist)
-- [Creator Hub](https://higgsfield.ai/creator-hub)
-- [Help center](https://higgsfield.ai/creator-hub/help-center)
+## Higgsfield AI（9）
+- [Plugins](https://higgsfield.ai/plugins/after-effects)
+- [Open Hell Grind](https://higgsfield.ai/@higgsfield.studio/projects/hell-grind)
+- [Your browser does not support the video.HELL GRIND by Higgsfield StudioPublic](https://higgsfield.ai/@higgsfield.studio/projects/hell-grind)
+- [Your browser does not support the video.Kok Boru by Higgsfield StudioPublic](https://higgsfield.ai/@pocket_corallo_2/projects/kok-boru)
+- [Your browser does not support the video.REWIND CLUB by Higgsfield SoulPublic](https://higgsfield.ai/@sateesfaction/projects/rewind-club)
+- [Your browser does not support the video.Space Chores by Higgsfield SoulPublic](https://higgsfield.ai/@sateesfaction/projects/spacechores)
+- [Fashion Factory](https://higgsfield.ai/fashion-factory)
+- [Veo 3.1 Introduction](https://higgsfield.ai/veo3.1)
+- [Multi Reference](https://higgsfield.ai/edit?model=multi)
