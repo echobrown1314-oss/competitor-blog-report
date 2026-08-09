@@ -3144,8 +3144,8 @@
         "url": "https://higgsfield.ai/enterprise"
       },
       {
-        "id": "04d2c593a17d1bc4cfc3d0d5495e000796567586",
-        "title": "Open Unlimited Seedance 2.5 for 33 days",
+        "id": "55c11c19f0c04c88a746f6f2602aa1c5bf380351",
+        "title": "Open Seedance 2.5 is live now",
         "url": "https://higgsfield.ai/ai/video?model=seedance_2_5"
       },
       {
@@ -3162,6 +3162,11 @@
         "id": "296f7132f6748eb2ac1616a83ff649ee419dc6df",
         "title": "Open Ed Catmull joins the jury",
         "url": "https://higgsfield.ai/contests/higgsfield-global-film-festival"
+      },
+      {
+        "id": "d3f7c264e17d55be04eaa7679676b5a0c5fa56a1",
+        "title": "Open Hell Grind",
+        "url": "https://higgsfield.ai/@higgsfield.studio/projects/hell-grind"
       },
       {
         "id": "6492f1db782509cb712999820583f4466f1ef286",
@@ -3199,49 +3204,14 @@
         "url": "https://higgsfield.ai/seedance-2-5-community"
       },
       {
-        "id": "f96651a3e60de1620a2faf9ea0ec5d71a31ddda4",
-        "title": "hyperrealisticwaffle1303",
-        "url": "https://higgsfield.ai/@hyperrealisticwaffle1303"
-      },
-      {
-        "id": "ccc21e30a5ba468230f6b15fe45b4132c8d69306",
-        "title": "kusamachair1465",
-        "url": "https://higgsfield.ai/@kusamachair1465"
-      },
-      {
         "id": "45ad09357322062097632993aa83c4a6d6871414",
         "title": "meditatingcheese1423",
         "url": "https://higgsfield.ai/@meditatingcheese1423"
       },
       {
-        "id": "4e47d06d5b84fa118d04de54a6b41b6921b22296",
-        "title": "floating_narwhal_micro",
-        "url": "https://higgsfield.ai/@floating_narwhal_micro"
-      },
-      {
-        "id": "675aeae47031648dc71c8e7a6da5263297235a33",
-        "title": "colonialaxolotl1413",
-        "url": "https://higgsfield.ai/@colonialaxolotl1413"
-      },
-      {
-        "id": "f58b0eb467fa77c99e9ed171c0ea5b7943fa8dfe",
-        "title": "evolvingfalcon1192",
-        "url": "https://higgsfield.ai/@evolvingfalcon1192"
-      },
-      {
-        "id": "e48141130c7fce3c15442ae77df211366f41f129",
-        "title": "minskycaterpillar1581",
-        "url": "https://higgsfield.ai/@minskycaterpillar1581"
-      },
-      {
-        "id": "b0baa2a4d51cfd4a26e5b676701c0f5176ae185d",
-        "title": "groovingbison1254",
-        "url": "https://higgsfield.ai/@groovingbison1254"
-      },
-      {
-        "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
-        "title": "futurist_ice_special",
-        "url": "https://higgsfield.ai/@futurist_ice_special"
+        "id": "588d45f5ab30bcf2ef9eac6370f600488350a784",
+        "title": "curie_hamster_200",
+        "url": "https://higgsfield.ai/@curie_hamster_200"
       },
       {
         "id": "c58b319c444c616d417495fe95a5ae7c492e7c6c",
@@ -3249,24 +3219,29 @@
         "url": "https://higgsfield.ai/@moonsteel"
       },
       {
-        "id": "44b6a640bdd8890c748c15060557014c23a76688",
-        "title": "exploringbutterfly1155",
-        "url": "https://higgsfield.ai/@exploringbutterfly1155"
+        "id": "3a7dde32c9362fcc447b7b38439ff25ccaed39a3",
+        "title": "beibarysqymqabek",
+        "url": "https://higgsfield.ai/@beibarysqymqabek"
       },
       {
-        "id": "81f856d696861ec2d02db3347a5302323d44ffc5",
-        "title": "smarthippo1455",
-        "url": "https://higgsfield.ai/@smarthippo1455"
+        "id": "ce71cc15ca76bcc7fa06db726a7ab461280eec2b",
+        "title": "euclid_kangaroo_legendary",
+        "url": "https://higgsfield.ai/@euclid_kangaroo_legendary"
       },
       {
-        "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
-        "title": "smartbeetle1651",
-        "url": "https://higgsfield.ai/@smartbeetle1651"
+        "id": "beaad95852f3e7f86ad81eae6774b11db90bcdf1",
+        "title": "dankol",
+        "url": "https://higgsfield.ai/@dankol"
       },
       {
-        "id": "2a6a1d5528ec32ba646ad5908f7e670da668cade",
-        "title": "land_art_pencil",
-        "url": "https://higgsfield.ai/@land_art_pencil"
+        "id": "675aeae47031648dc71c8e7a6da5263297235a33",
+        "title": "colonialaxolotl1413",
+        "url": "https://higgsfield.ai/@colonialaxolotl1413"
+      },
+      {
+        "id": "13541ae877c112f1decd47e5d782ec942dcf2abc",
+        "title": "screamingllama1380",
+        "url": "https://higgsfield.ai/@screamingllama1380"
       },
       {
         "id": "95f478a848555702d5c6b31744603f71f4ff7988",
@@ -3277,6 +3252,36 @@
         "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
         "title": "arpanetus",
         "url": "https://higgsfield.ai/@arpanetus"
+      },
+      {
+        "id": "2a6a1d5528ec32ba646ad5908f7e670da668cade",
+        "title": "land_art_pencil",
+        "url": "https://higgsfield.ai/@land_art_pencil"
+      },
+      {
+        "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
+        "title": "smartbeetle1651",
+        "url": "https://higgsfield.ai/@smartbeetle1651"
+      },
+      {
+        "id": "81f856d696861ec2d02db3347a5302323d44ffc5",
+        "title": "smarthippo1455",
+        "url": "https://higgsfield.ai/@smarthippo1455"
+      },
+      {
+        "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
+        "title": "futurist_ice_special",
+        "url": "https://higgsfield.ai/@futurist_ice_special"
+      },
+      {
+        "id": "aea368731ef3ce78f52cf58672d9ebce20c059cf",
+        "title": "jumpingwombat1191",
+        "url": "https://higgsfield.ai/@jumpingwombat1191"
+      },
+      {
+        "id": "44b6a640bdd8890c748c15060557014c23a76688",
+        "title": "exploringbutterfly1155",
+        "url": "https://higgsfield.ai/@exploringbutterfly1155"
       },
       {
         "id": "c68eaccdd9597149c02518f7398b09255d580901",
@@ -3774,9 +3779,9 @@
         "url": "https://higgsfield.ai/contests"
       },
       {
-        "id": "abac602472d27f7ec0d86e93f9dd9e9fd21303b5",
+        "id": "e0f84019ca943709e5afabb7bb7cc846708500ea",
         "title": "Library",
-        "url": "https://higgsfield.ai/library/video"
+        "url": "https://higgsfield.ai/library/all"
       },
       {
         "id": "6c5e1dfed3e07b29dd5f3c77891cca3e0b4b0dbc",
