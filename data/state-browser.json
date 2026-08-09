@@ -7,12 +7,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "9947dab52af7ba2a2d3dbab929996a57d5c9f65a",
-        "url": "https://www.weshop.ai/blog/ai-hand-fixer-save-the-last-5-of-a-great-image/",
-        "date": "2026-07-31T04:55:19+00:00",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
         "key": "5899a86628fcbf87d1a6777f2d975dba30793353",
         "url": "https://www.weshop.ai/blog/how-to-build-a-reusable-pose-library-with-ai-photoshoot/",
         "date": "2026-08-01T18:26:03+00:00",
@@ -104,102 +98,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "33fa150fc07981f10c38f4a39f69b1043d4d1f2a",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-vs-minimax-h3",
-        "date": "2026-08-01T04:04:13.550Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "272e789e6d398549f7455e181ef091c7c2962c56",
-        "url": "https://www.atlascloud.ai/blog/case-studies/how-yapper-adds-frontier-models-with-atlas-cloud",
-        "date": "2026-07-31T16:24:30.363Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "1fe4e0564caa061715f4006a09aa9b26c2388156",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-content-restrictions",
-        "date": "2026-07-31T16:04:38.862Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "6f5d9b1ad24165a4b48ca3e8dc6955fd326a4f35",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-api-automated-video-workflows",
-        "date": "2026-07-31T12:12:17.304Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "5a7fe5813859bb2a6c491fc89e46e9d766aed914",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-release-date-4k-workflow-guide",
-        "date": "2026-07-31T12:12:14.361Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "09093b8c13d7e35edf615401424926f141aa8d19",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-prompt-guide",
-        "date": "2026-07-31T12:07:25.315Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "2a1f40ad693c07c22e0596a7d0f7635997e6b628",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-native-4k-ai-video-preview",
-        "date": "2026-07-31T12:05:53.303Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "a291ed64568e8dcd9fa430e37364999faa679d29",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-30-second-ai-video-ads",
-        "date": "2026-07-31T12:05:25.424Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "b464ad7c181d4e93e0449525ea5e2e861e627787",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-ai-video-generator-character-consistency",
-        "date": "2026-07-31T11:57:21.219Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "780decc7d79aaba2a59c13898bcda55ffb601fda",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.5-pricing-guide",
-        "date": "2026-07-31T11:55:14.191Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "5032574cf6985425267afffe785bdc362930fca6",
-        "url": "https://www.atlascloud.ai/blog/guides/how-to-write-seedance-2.5-prompts",
-        "date": "2026-07-31T11:54:52.074Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "1e14f53dfd1cc0f563ca9799a36a2df8482185a1",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-vs-seedance-2",
-        "date": "2026-07-31T11:34:19.069Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "3cc9ac52e8f02f52cac0de7fc16481da8223faa6",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-review",
-        "date": "2026-07-31T11:21:07.116Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "177aa7a5dc2573d41e04aaad6906fa916ec54e73",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-whatsnew",
-        "date": "2026-07-31T11:14:29.921Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "e8c7c8d1e5e11b247631ea34331d6c5a0ee93728",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-face-swap-video-3.0",
-        "date": "2026-07-31T10:13:44.728Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
-      {
-        "key": "b423b9a532c5906f39a3ab77631a482b7bb9ac38",
-        "url": "https://www.atlascloud.ai/blog/guides/top-100-free-unlimited-video-face-swap",
-        "date": "2026-07-31T06:55:40.026Z",
-        "reportedAt": "2026-08-01T04:30:38.795Z"
-      },
       {
         "key": "d04031e73c8d7cc581797c6506b7946ad1100879",
         "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-vs-minimax-h3",
