@@ -2308,6 +2308,11 @@
         "url": "https://a2e.ai/happyhorse-1-0/"
       },
       {
+        "id": "e832ae39a8f1cb50cb2a0d4c7806af81ab8b53ad",
+        "title": "Wan 3.0",
+        "url": "https://a2e.ai/wan-3-0/"
+      },
+      {
         "id": "dc8937c47e300af6d866bc392673706f2aac2ed0",
         "title": "Wan 2.7",
         "url": "https://a2e.ai/wan-2-7/"
@@ -2478,6 +2483,21 @@
         "url": "https://a2e.ai/seedance-2-5/"
       },
       {
+        "id": "781d8d057a5731f1742f276184443b081b6d0444",
+        "title": "Try Seedance 2.5 now",
+        "url": "https://video.a2e.ai/seedance-2-5"
+      },
+      {
+        "id": "76337de09a467a9d5a81cf2b439efbbaecfcf778",
+        "title": "Explore Wan 3.0",
+        "url": "https://a2e.ai/wan-3-0/"
+      },
+      {
+        "id": "cd2f3e0746b4b452a11e51d911b0052336244693",
+        "title": "Try Wan 3.0 now",
+        "url": "https://video.a2e.ai/wan-3-0"
+      },
+      {
         "id": "afa3ebcdcf67de2d3e0b2ac8ee8f4c75fe51c5c5",
         "title": "Image to Video",
         "url": "https://video.a2e.ai/image-to-video"
@@ -2631,16 +2651,6 @@
         "id": "271a8f2f850f81c9cda56843564864f17f378d04",
         "title": "Try Now →",
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
-      },
-      {
-        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
-        "title": "Get API",
-        "url": "https://video.a2e.ai/dev"
-      },
-      {
-        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
-        "title": "Use MCP Now",
-        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
       },
       {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
@@ -2916,6 +2926,11 @@
         "id": "8320180e7269b2b4f83168a6606719414be8c5c9",
         "title": "Kling 2.6",
         "url": "https://video.a2e.ai/kling-video"
+      },
+      {
+        "id": "fc4767ead41c4c5a03c5a70b99cc61819c965f0f",
+        "title": "Wan 3.0",
+        "url": "https://video.a2e.ai/wan-3-0"
       },
       {
         "id": "9b77331e8c4bc7e44143282098e1751b2f20f01b",
@@ -3204,19 +3219,9 @@
         "url": "https://higgsfield.ai/seedance-2-5-community"
       },
       {
-        "id": "45ad09357322062097632993aa83c4a6d6871414",
-        "title": "meditatingcheese1423",
-        "url": "https://higgsfield.ai/@meditatingcheese1423"
-      },
-      {
-        "id": "588d45f5ab30bcf2ef9eac6370f600488350a784",
-        "title": "curie_hamster_200",
-        "url": "https://higgsfield.ai/@curie_hamster_200"
-      },
-      {
-        "id": "c58b319c444c616d417495fe95a5ae7c492e7c6c",
-        "title": "moonsteel",
-        "url": "https://higgsfield.ai/@moonsteel"
+        "id": "ccc21e30a5ba468230f6b15fe45b4132c8d69306",
+        "title": "kusamachair1465",
+        "url": "https://higgsfield.ai/@kusamachair1465"
       },
       {
         "id": "3a7dde32c9362fcc447b7b38439ff25ccaed39a3",
@@ -3224,9 +3229,29 @@
         "url": "https://higgsfield.ai/@beibarysqymqabek"
       },
       {
-        "id": "ce71cc15ca76bcc7fa06db726a7ab461280eec2b",
-        "title": "euclid_kangaroo_legendary",
-        "url": "https://higgsfield.ai/@euclid_kangaroo_legendary"
+        "id": "acd9ff9203e944bdb420b42b0e1af940e97e8e32",
+        "title": "hallucinatingcloud1254",
+        "url": "https://higgsfield.ai/@hallucinatingcloud1254"
+      },
+      {
+        "id": "f58b0eb467fa77c99e9ed171c0ea5b7943fa8dfe",
+        "title": "evolvingfalcon1192",
+        "url": "https://higgsfield.ai/@evolvingfalcon1192"
+      },
+      {
+        "id": "fb02ca69db17e99cef3c935c2c07aa9c93f772bc",
+        "title": "higgsfield-aj",
+        "url": "https://higgsfield.ai/@higgsfield-aj"
+      },
+      {
+        "id": "44b6a640bdd8890c748c15060557014c23a76688",
+        "title": "exploringbutterfly1155",
+        "url": "https://higgsfield.ai/@exploringbutterfly1155"
+      },
+      {
+        "id": "e48141130c7fce3c15442ae77df211366f41f129",
+        "title": "minskycaterpillar1581",
+        "url": "https://higgsfield.ai/@minskycaterpillar1581"
       },
       {
         "id": "beaad95852f3e7f86ad81eae6774b11db90bcdf1",
@@ -3234,24 +3259,19 @@
         "url": "https://higgsfield.ai/@dankol"
       },
       {
-        "id": "675aeae47031648dc71c8e7a6da5263297235a33",
-        "title": "colonialaxolotl1413",
-        "url": "https://higgsfield.ai/@colonialaxolotl1413"
+        "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
+        "title": "arpanetus",
+        "url": "https://higgsfield.ai/@arpanetus"
       },
       {
-        "id": "13541ae877c112f1decd47e5d782ec942dcf2abc",
-        "title": "screamingllama1380",
-        "url": "https://higgsfield.ai/@screamingllama1380"
+        "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
+        "title": "futurist_ice_special",
+        "url": "https://higgsfield.ai/@futurist_ice_special"
       },
       {
         "id": "95f478a848555702d5c6b31744603f71f4ff7988",
         "title": "folkemerald1346",
         "url": "https://higgsfield.ai/@folkemerald1346"
-      },
-      {
-        "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
-        "title": "arpanetus",
-        "url": "https://higgsfield.ai/@arpanetus"
       },
       {
         "id": "2a6a1d5528ec32ba646ad5908f7e670da668cade",
@@ -3264,24 +3284,19 @@
         "url": "https://higgsfield.ai/@smartbeetle1651"
       },
       {
-        "id": "81f856d696861ec2d02db3347a5302323d44ffc5",
-        "title": "smarthippo1455",
-        "url": "https://higgsfield.ai/@smarthippo1455"
+        "id": "422484fd3083464cbaf44a1d15e56d8898c5fbd9",
+        "title": "vaporwavepen1614",
+        "url": "https://higgsfield.ai/@vaporwavepen1614"
       },
       {
-        "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
-        "title": "futurist_ice_special",
-        "url": "https://higgsfield.ai/@futurist_ice_special"
+        "id": "588d45f5ab30bcf2ef9eac6370f600488350a784",
+        "title": "curie_hamster_200",
+        "url": "https://higgsfield.ai/@curie_hamster_200"
       },
       {
         "id": "aea368731ef3ce78f52cf58672d9ebce20c059cf",
         "title": "jumpingwombat1191",
         "url": "https://higgsfield.ai/@jumpingwombat1191"
-      },
-      {
-        "id": "44b6a640bdd8890c748c15060557014c23a76688",
-        "title": "exploringbutterfly1155",
-        "url": "https://higgsfield.ai/@exploringbutterfly1155"
       },
       {
         "id": "c68eaccdd9597149c02518f7398b09255d580901",
