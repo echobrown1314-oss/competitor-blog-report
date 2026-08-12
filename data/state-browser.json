@@ -3,39 +3,16 @@
     "LitMedia": [],
     "MindVideo": [],
     "Topview": [],
-    "DataCamp": [],
+    "DataCamp": [
+      {
+        "key": "d7991f00d17c80731bfca5e8c11d966d881589d8",
+        "url": "https://www.datacamp.com/blog/muse-glimmer",
+        "date": "2026-08-11T10:22:15.000Z",
+        "reportedAt": "2026-08-12T03:28:42.330Z"
+      }
+    ],
     "WaveSpeed": [],
     "WeShop AI": [
-      {
-        "key": "28e94d1c0e5d4c227e9d28b10f2e7c3e603b5c5c",
-        "url": "https://www.weshop.ai/blog/magic-eraser-rescue-product-photos-without-reshooting/",
-        "date": "2026-08-03T20:13:13+00:00",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "988a1c94c6c8003e11706c251ca35f4de230b5f6",
-        "url": "https://www.weshop.ai/blog/how-to-use-a-free-ai-avatar-generator-for-every-online-persona/",
-        "date": "2026-08-03T19:30:09+00:00",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "03c08a03c0f252574cd27d30d83e3d645d88695f",
-        "url": "https://www.weshop.ai/blog/ai-medical-video-generator-turn-reviewed-scripts-into-clear-videos/",
-        "date": "2026-08-03T18:33:47+00:00",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "45ced40836422d7cb33e416d50aa7496328f2ab2",
-        "url": "https://www.weshop.ai/blog/text-to-cad-ai-show-engineers-what-you-mean-before-the-first-cad-model/",
-        "date": "2026-08-03T16:06:07+00:00",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "b8d353cb8c137d7f7cacf8502b8e13cbc22d78d5",
-        "url": "https://www.weshop.ai/blog/how-to-turn-ordinary-photos-into-playful-speech-bubble-posts/",
-        "date": "2026-08-03T14:20:27+00:00",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
       {
         "key": "9fbb351f1194e36cc4d841df76191ceece49db24",
         "url": "https://www.weshop.ai/blog/crush-the-catalog-copy-trap-with-ai-product-detail-page/",
@@ -80,54 +57,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "5468a0f8365d0ce89a60e5da38abbcdf819d0448",
-        "url": "https://www.atlascloud.ai/blog/guides/how-to-write-seedance-2.5-prompts",
-        "date": "2026-08-03T15:12:01.109Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "aa83d3b7de96df032b3c88ffbc5b6382593fcae5",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-api-pricing",
-        "date": "2026-08-03T12:34:13.445Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "16f3d37dae233e94b9b3350aff438eee9720e5dc",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-credits-per-video",
-        "date": "2026-08-03T12:34:07.014Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "a199a1c29365e572822ed77285d784139da12ba9",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-open-source-weights",
-        "date": "2026-08-03T12:11:15.092Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "1800c3fa22f7fce19f2c0ea1116476669dfd8f66",
-        "url": "https://www.atlascloud.ai/blog/guides/aragon-ai-headshots",
-        "date": "2026-08-03T10:50:13.653Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "2020b992672f840bcd748a915b90bb77e0376cc8",
-        "url": "https://www.atlascloud.ai/blog/guides/why-is-seedance-2-5-delayed",
-        "date": "2026-08-03T09:21:03.606Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "1b59bb9c07e4e1560c7d0c8c69ded9adb977ffbd",
-        "url": "https://www.atlascloud.ai/blog/guides/free-ai-headshot-generator-for-linkedin",
-        "date": "2026-08-03T08:25:37.020Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
-      {
-        "key": "0670f1ef4a66529c7edbb26b69bde15b6c8c6f3e",
-        "url": "https://www.atlascloud.ai/blog/guides/batch-face-swap-tools",
-        "date": "2026-08-03T06:46:39.948Z",
-        "reportedAt": "2026-08-04T04:25:19.030Z"
-      },
       {
         "key": "2fdeb9ea57e8a2f7643ca55fbffa6cf79003a422",
         "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-api-quickstart-first-video-atlas-cloud",
@@ -387,7 +316,14 @@
         "reportedAt": "2026-08-11T03:09:27.965Z"
       }
     ],
-    "TopMediai": [],
+    "TopMediai": [
+      {
+        "key": "86b54fac8d4cac747fd37ad13d5467305e1f2686",
+        "url": "https://www.topmediai.com/video-tips/how-to-use-seedance-2-5/",
+        "date": "2026-08-12T10:53:44+08:00",
+        "reportedAt": "2026-08-12T03:28:42.330Z"
+      }
+    ],
     "JXP": []
   }
 }
