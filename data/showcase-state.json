@@ -2308,6 +2308,11 @@
         "url": "https://a2e.ai/happyhorse-1-0/"
       },
       {
+        "id": "cbf7bd3d9c8eda35707915aae8272672d14508b1",
+        "title": "MiniMax H3",
+        "url": "https://a2e.ai/minimax-h3/"
+      },
+      {
         "id": "e832ae39a8f1cb50cb2a0d4c7806af81ab8b53ad",
         "title": "Wan 3.0",
         "url": "https://a2e.ai/wan-3-0/"
@@ -2498,6 +2503,16 @@
         "url": "https://video.a2e.ai/wan-3-0"
       },
       {
+        "id": "457b0519aacf6c8208e6c8d039dfc07d31a08572",
+        "title": "Explore MiniMax H3",
+        "url": "https://a2e.ai/minimax-h3/"
+      },
+      {
+        "id": "e76bc040c94fcd12efdb3df09a45760d63d5716c",
+        "title": "Try MiniMax H3 now",
+        "url": "https://video.a2e.ai/minimax-h3"
+      },
+      {
         "id": "afa3ebcdcf67de2d3e0b2ac8ee8f4c75fe51c5c5",
         "title": "Image to Video",
         "url": "https://video.a2e.ai/image-to-video"
@@ -2651,6 +2666,16 @@
         "id": "271a8f2f850f81c9cda56843564864f17f378d04",
         "title": "Try Now →",
         "url": "https://video.a2e.ai/image-generator/change-cloth-ai"
+      },
+      {
+        "id": "7334f0e846f57a0f44cb914cfa94f1fa67192c68",
+        "title": "Get API",
+        "url": "https://video.a2e.ai/dev"
+      },
+      {
+        "id": "ed7ab4abef3e100ad9e2407bcc03429a6760b1e0",
+        "title": "Use MCP Now",
+        "url": "https://a2e.ai/supercharge-your-vibe-coding-with-a2e-mcp-server/"
       },
       {
         "id": "67792d7101eed3b9f33deec1388388d646c76e67",
@@ -3109,8 +3134,8 @@
         "url": "https://higgsfield.ai/layers"
       },
       {
-        "id": "fd1d81763afdefbbc1cdd82bcd42d8d8d6b5cff5",
-        "title": "Cinema Studio",
+        "id": "8fce5ba13e2437bad1d59255fe7709a6ab671966",
+        "title": "Cinema StudioNew",
         "url": "https://higgsfield.ai/generate"
       },
       {
@@ -3169,6 +3194,16 @@
         "url": "https://higgsfield.ai/enterprise"
       },
       {
+        "id": "de52e81efcbfbf97dd4598b8ef85eccb6108bad0",
+        "title": "Open Сinema Studio 4 Is Here",
+        "url": "https://higgsfield.ai/generate"
+      },
+      {
+        "id": "b229ddeac200f79aced6c501ab06d41c082a0059",
+        "title": "Open Higgsfield Plugin in ChatGPT",
+        "url": "https://higgsfield.ai/mcp?tab=chatgpt"
+      },
+      {
         "id": "8a94f1e6ac23c5f2a30cc049cc27665213a0140c",
         "title": "Open Higgsfield Layers",
         "url": "https://higgsfield.ai/layers"
@@ -3184,14 +3219,14 @@
         "url": "https://higgsfield.ai/contests/higgsfield-global-film-festival"
       },
       {
-        "id": "c4adfc177fc4a45a2331afc725293a2ca304e7a4",
-        "title": "Open The Cully Hill Boys",
-        "url": "https://higgsfield.ai/@higgsfield.studio/projects/cully-hill-boys"
-      },
-      {
         "id": "6492f1db782509cb712999820583f4466f1ef286",
         "title": "Seedance 2.5The most advanced video modelAvailable now",
         "url": "https://higgsfield.ai/ai/video?model=seedance_2_5"
+      },
+      {
+        "id": "f4415df5cacb99234c45454e64539903204b8a88",
+        "title": "Higgsfield AcademyAcademyLearn how to use Higgsfield",
+        "url": "https://higgsfield.ai/academy"
       },
       {
         "id": "74912bdac3af8687c39a2a02ec916abaab16bab1",
@@ -3204,18 +3239,13 @@
         "url": "https://higgsfield.ai/supercomputer"
       },
       {
-        "id": "f4415df5cacb99234c45454e64539903204b8a88",
-        "title": "Higgsfield AcademyAcademyLearn how to use Higgsfield",
-        "url": "https://higgsfield.ai/academy"
-      },
-      {
         "id": "e0c8914971bf7be3900fc2b62485d4d1c82deff6",
         "title": "MCP & CLITurn Claude into a creative engine",
         "url": "https://higgsfield.ai/mcp"
       },
       {
-        "id": "2a0cb83edcffa8f4d38e5d629992f9f9fd73771b",
-        "title": "Cinema Studio 3.5Create cinematic scenes effortlessly",
+        "id": "1f1e8873162668e40cb539ce73a56388dcb2ca13",
+        "title": "Cinema Studio 4.0NewCreate cinematic scenes effortlessly",
         "url": "https://higgsfield.ai/generate"
       },
       {
@@ -3224,34 +3254,19 @@
         "url": "https://higgsfield.ai/seedance-2-5-community"
       },
       {
-        "id": "ce71cc15ca76bcc7fa06db726a7ab461280eec2b",
-        "title": "euclid_kangaroo_legendary",
-        "url": "https://higgsfield.ai/@euclid_kangaroo_legendary"
-      },
-      {
         "id": "bcd180d4ad1dc474dbe99fec2839fe5b504c5cea",
         "title": "deconstructivistelephant1740",
         "url": "https://higgsfield.ai/@deconstructivistelephant1740"
       },
       {
-        "id": "f96651a3e60de1620a2faf9ea0ec5d71a31ddda4",
-        "title": "hyperrealisticwaffle1303",
-        "url": "https://higgsfield.ai/@hyperrealisticwaffle1303"
+        "id": "080fd71cc6ec7eadca1609e86dd24296a94e3134",
+        "title": "fibonacciraven1363",
+        "url": "https://higgsfield.ai/@fibonacciraven1363"
       },
       {
-        "id": "b0baa2a4d51cfd4a26e5b676701c0f5176ae185d",
-        "title": "groovingbison1254",
-        "url": "https://higgsfield.ai/@groovingbison1254"
-      },
-      {
-        "id": "e1b802be722ed1ca8579fe7e5f7bc3b75354fe67",
-        "title": "laplacekoala1312",
-        "url": "https://higgsfield.ai/@laplacekoala1312"
-      },
-      {
-        "id": "45ad09357322062097632993aa83c4a6d6871414",
-        "title": "meditatingcheese1423",
-        "url": "https://higgsfield.ai/@meditatingcheese1423"
+        "id": "beaad95852f3e7f86ad81eae6774b11db90bcdf1",
+        "title": "dankol",
+        "url": "https://higgsfield.ai/@dankol"
       },
       {
         "id": "23dc6d6c3060c1180f22006669f5f0e4921c6229",
@@ -3264,9 +3279,44 @@
         "url": "https://higgsfield.ai/@moonsteel"
       },
       {
+        "id": "ce71cc15ca76bcc7fa06db726a7ab461280eec2b",
+        "title": "euclid_kangaroo_legendary",
+        "url": "https://higgsfield.ai/@euclid_kangaroo_legendary"
+      },
+      {
+        "id": "13541ae877c112f1decd47e5d782ec942dcf2abc",
+        "title": "screamingllama1380",
+        "url": "https://higgsfield.ai/@screamingllama1380"
+      },
+      {
+        "id": "45ad09357322062097632993aa83c4a6d6871414",
+        "title": "meditatingcheese1423",
+        "url": "https://higgsfield.ai/@meditatingcheese1423"
+      },
+      {
         "id": "95f478a848555702d5c6b31744603f71f4ff7988",
         "title": "folkemerald1346",
         "url": "https://higgsfield.ai/@folkemerald1346"
+      },
+      {
+        "id": "4e47d06d5b84fa118d04de54a6b41b6921b22296",
+        "title": "floating_narwhal_micro",
+        "url": "https://higgsfield.ai/@floating_narwhal_micro"
+      },
+      {
+        "id": "aea368731ef3ce78f52cf58672d9ebce20c059cf",
+        "title": "jumpingwombat1191",
+        "url": "https://higgsfield.ai/@jumpingwombat1191"
+      },
+      {
+        "id": "fb02ca69db17e99cef3c935c2c07aa9c93f772bc",
+        "title": "higgsfield-aj",
+        "url": "https://higgsfield.ai/@higgsfield-aj"
+      },
+      {
+        "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
+        "title": "smartbeetle1651",
+        "url": "https://higgsfield.ai/@smartbeetle1651"
       },
       {
         "id": "2a6a1d5528ec32ba646ad5908f7e670da668cade",
@@ -3279,29 +3329,9 @@
         "url": "https://higgsfield.ai/@futurist_ice_special"
       },
       {
-        "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
-        "title": "smartbeetle1651",
-        "url": "https://higgsfield.ai/@smartbeetle1651"
-      },
-      {
-        "id": "080fd71cc6ec7eadca1609e86dd24296a94e3134",
-        "title": "fibonacciraven1363",
-        "url": "https://higgsfield.ai/@fibonacciraven1363"
-      },
-      {
         "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
         "title": "arpanetus",
         "url": "https://higgsfield.ai/@arpanetus"
-      },
-      {
-        "id": "588d45f5ab30bcf2ef9eac6370f600488350a784",
-        "title": "curie_hamster_200",
-        "url": "https://higgsfield.ai/@curie_hamster_200"
-      },
-      {
-        "id": "beaad95852f3e7f86ad81eae6774b11db90bcdf1",
-        "title": "dankol",
-        "url": "https://higgsfield.ai/@dankol"
       },
       {
         "id": "c68eaccdd9597149c02518f7398b09255d580901",
@@ -3319,23 +3349,23 @@
         "url": "https://higgsfield.ai/viral-presets"
       },
       {
-        "id": "ca0cedb9f49f628f324e75d6a3ab381aaca87df7",
-        "title": "Cully Hill Boys by Higgsfield StudioPublic",
+        "id": "f2beed3a7d54b428802a7b774653b273b039b44c",
+        "title": "Your browser does not support the video.Cully Hill Boys by Higgsfield StudioPublic",
         "url": "https://higgsfield.ai/@higgsfield.studio/projects/cully-hill-boys"
       },
       {
-        "id": "f8e97058f43f470e6ba236ffe1e9283e35ba5572",
-        "title": "ZEPHYR: Special by Higgsfield StudioPublic",
+        "id": "49a7e1c9253bc6c54848e2de8740825b0a11801f",
+        "title": "Your browser does not support the video.ZEPHYR: Special by Higgsfield StudioPublic",
         "url": "https://higgsfield.ai/@higgsfield.studio/projects/zephyr-special"
       },
       {
-        "id": "b985fd18b22b9ac3c6606a23d5a79d5551094167",
-        "title": "HELL GRIND by Higgsfield StudioPublic",
+        "id": "0c286d4731937406776a47212b3f2ac9e8320b21",
+        "title": "Your browser does not support the video.HELL GRIND by Higgsfield StudioPublic",
         "url": "https://higgsfield.ai/@higgsfield.studio/projects/hell-grind"
       },
       {
-        "id": "1441577b730476e84d4cf328766ddca5636ffa27",
-        "title": "ZEPHYR by Higgsfield StudioPublic",
+        "id": "67b69610e321bb78b270c99e133295888481dc2d",
+        "title": "Your browser does not support the video.ZEPHYR by Higgsfield StudioPublic",
         "url": "https://higgsfield.ai/@higgsfield.studio/projects/zephyr"
       },
       {
@@ -3704,6 +3734,11 @@
         "url": "https://higgsfield.ai/ai/video?image-inpaint=true"
       },
       {
+        "id": "b9655bb78245aed1438f379d7a0e09b262650c74",
+        "title": "Fashion Factory",
+        "url": "https://higgsfield.ai/fashion-factory"
+      },
+      {
         "id": "996e8a5fabd1652631e8bc3b6fc0b2099395503f",
         "title": "Mixed media",
         "url": "https://higgsfield.ai/mixed-media-intro"
@@ -3714,6 +3749,16 @@
         "url": "https://higgsfield.ai/sora-2"
       },
       {
+        "id": "8bed42d9304fc9be2413a61891dcd21b8b9267ea",
+        "title": "Veo 3.1 Introduction",
+        "url": "https://higgsfield.ai/veo3.1"
+      },
+      {
+        "id": "f394b6d82d8389382e0f4661740ef9f0b4c9742b",
+        "title": "Create Video",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
         "id": "528a0cacc40892f7308d96e6a4cd4fcacf22952e",
         "title": "Banana Placement",
         "url": "https://higgsfield.ai/edit?model=banana_placement"
@@ -3722,6 +3767,11 @@
         "id": "77673b33a2d75f792ddd9d53d769f47f210a9a1f",
         "title": "Product Placement",
         "url": "https://higgsfield.ai/edit?model=canvas"
+      },
+      {
+        "id": "bb2cd6a6b591945b9b1235f2de9ee4d99f95e4c5",
+        "title": "Multi Reference",
+        "url": "https://higgsfield.ai/edit?model=multi"
       },
       {
         "id": "19af2707c6903cdf42bbe190997e0b7cb97ccd8b",
