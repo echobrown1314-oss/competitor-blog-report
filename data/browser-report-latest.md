@@ -1,8 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/08/13 11:32（上海）
+生成时间：2026/08/14 11:29（上海）
 
-新增文章总数：3
+新增文章总数：1
 
 ## LitMedia（0）
 - 今日未发现新文章
@@ -23,11 +23,10 @@
 - 今日未发现新文章
 
 ## Atlas Cloud（1）
-- [Best Seedance 2.5 API Providers | Atlas Cloud](https://www.atlascloud.ai/blog/guides/best-seedance-2-5-api-providers-compared) | 2026-08-12T14:48:39.615Z
+- [Wan 3.0 vs Wan 2.7: The Spec Sheets Everyone Copied Are Wrong](https://www.atlascloud.ai/blog/guides/wan-3.0-vs-wan-2.7) | 2026-08-13T15:37:11.271Z
 
-## TopMediai（2）
-- [How to Make an AI Music Video: One-Click & Full Workflow](https://www.topmediai.com/video-tips/how-to-make-an-ai-music-video/) | 2026-08-12T19:52:45+08:00
-- [Seedance 2.5 Review 2026: 30s Video, 50 Refs & 4K Explained](https://www.topmediai.com/video-tips/seedance-2-5-review/) | 2026-08-12T11:46:37+08:00
+## TopMediai（0）
+- 今日未发现新文章
 
 ## JXP（0）
 - 今日未发现新文章

@@ -12,57 +12,8 @@
       }
     ],
     "WaveSpeed": [],
-    "WeShop AI": [
-      {
-        "key": "2c3d022fc56a3c742a8c7bc21a770ec233469c6d",
-        "url": "https://www.weshop.ai/blog/ai-sales-video-turns-one-image-into-a-viral-breakthrough/",
-        "date": "2026-08-05T15:37:14+00:00",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
-      {
-        "key": "e446ed0f72008d163f447476b9230d00bd7a9a3a",
-        "url": "https://www.weshop.ai/blog/polaroid-couple-photo-brings-a-lost-memory-back-to-life/",
-        "date": "2026-08-05T14:56:22+00:00",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      }
-    ],
+    "WeShop AI": [],
     "Atlas Cloud": [
-      {
-        "key": "78dff7dd51f696ad2fe13b370030506452a9c160",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-lip-sync-and-audio",
-        "date": "2026-08-05T11:20:04.369Z",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
-      {
-        "key": "f0a7a97840507f765a78da2329395bcd2b98ca89",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-commercial-use-license",
-        "date": "2026-08-05T10:42:00.945Z",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
-      {
-        "key": "f01c6d1e8908d19e6600f9a3954fc94b101ce549",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-2k-vs-768p",
-        "date": "2026-08-05T10:41:20.578Z",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
-      {
-        "key": "dda9951bd016065b5a1c5b49a11474b7966c9735",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-open-source-weights",
-        "date": "2026-08-05T10:34:17.137Z",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
-      {
-        "key": "8de399eda774d4b9f699afdd2b7088f61f00cd26",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-mini-to-seedance-2.5-draft-workflow",
-        "date": "2026-08-05T10:24:43.833Z",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
-      {
-        "key": "82e4270f63b812ef8a7c99d66871179b1e04eee7",
-        "url": "https://www.atlascloud.ai/blog/case-studies/how-yapper-adds-frontier-models-with-atlas-cloud",
-        "date": "2026-08-05T09:53:55.538Z",
-        "reportedAt": "2026-08-06T04:25:42.021Z"
-      },
       {
         "key": "3ae8468c433abab08628e0682f775229efe35f29",
         "url": "https://www.atlascloud.ai/blog/guides/seedream-5-pro-micro-drama-guide",
@@ -200,6 +151,12 @@
         "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-5-api-providers-compared",
         "date": "2026-08-12T14:48:39.615Z",
         "reportedAt": "2026-08-13T03:32:04.979Z"
+      },
+      {
+        "key": "c26d0fc9e64a4c1e7c637b5340757cb9b619ff2e",
+        "url": "https://www.atlascloud.ai/blog/guides/wan-3.0-vs-wan-2.7",
+        "date": "2026-08-13T15:37:11.271Z",
+        "reportedAt": "2026-08-14T03:29:22.794Z"
       }
     ],
     "TopMediai": [
