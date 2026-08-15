@@ -3110,11 +3110,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3199,9 +3194,19 @@
         "url": "https://higgsfield.ai/enterprise"
       },
       {
+        "id": "5d59289d3a3061ac5ce2c12297265bf356990540",
+        "title": "Open Seedance 2.5 in 1080p",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_5&resolution=1080p"
+      },
+      {
         "id": "080da3a05ee2a64e0775cace83420b1cea86873f",
         "title": "Open Marketing Studio",
         "url": "https://higgsfield.ai/marketing-studio"
+      },
+      {
+        "id": "978c26404c8d862b567b339c685a97600ef8f617",
+        "title": "Open Adiliada",
+        "url": "https://higgsfield.ai/@higgsfield.studio/projects/adiliada"
       },
       {
         "id": "0e0b67d46032fae6d44d9376c3d31fc014458308",
@@ -3214,19 +3219,9 @@
         "url": "https://higgsfield.ai/@higgsfield.studio/projects/oneiric"
       },
       {
-        "id": "de52e81efcbfbf97dd4598b8ef85eccb6108bad0",
-        "title": "Open Сinema Studio 4 Is Here",
-        "url": "https://higgsfield.ai/generate"
-      },
-      {
-        "id": "b229ddeac200f79aced6c501ab06d41c082a0059",
-        "title": "Open Higgsfield Plugin in ChatGPT",
-        "url": "https://higgsfield.ai/mcp?tab=chatgpt"
-      },
-      {
-        "id": "6492f1db782509cb712999820583f4466f1ef286",
-        "title": "Seedance 2.5The most advanced video modelAvailable now",
-        "url": "https://higgsfield.ai/ai/video?model=seedance_2_5"
+        "id": "4f4131bcc660db13dc9e8c3c7a3d912c35cde94d",
+        "title": "Seedance 2.5The most advanced video modelExclusive 1080p",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_5&resolution=1080p"
       },
       {
         "id": "f4415df5cacb99234c45454e64539903204b8a88",
@@ -3254,59 +3249,29 @@
         "url": "https://higgsfield.ai/generate"
       },
       {
-        "id": "b088aa2e4b8a2e1e8b3039f535ee576b14b9dbe2",
-        "title": "Explore Seedance 2.5",
+        "id": "a9ac62bbf007876e09a761a5ee6d761279f0bb2d",
+        "title": "Create a public project",
+        "url": "https://higgsfield.ai/contests/higgsfield-global-film-festival?festivalBuildInPublic=1&tab=create-public"
+      },
+      {
+        "id": "455c8dec66b1414fdb2d556bfef9a0bf2480a3ac",
+        "title": "Explore Seedance 2.5 at 1080p",
         "url": "https://higgsfield.ai/seedance-2-5-community"
       },
       {
-        "id": "45ad09357322062097632993aa83c4a6d6871414",
-        "title": "meditatingcheese1423",
-        "url": "https://higgsfield.ai/@meditatingcheese1423"
+        "id": "f0130070312accd7f41e57f940db970049509715",
+        "title": "banksy_pancake_gold22",
+        "url": "https://higgsfield.ai/@banksy_pancake_gold22"
       },
       {
-        "id": "beaad95852f3e7f86ad81eae6774b11db90bcdf1",
-        "title": "dankol",
-        "url": "https://higgsfield.ai/@dankol"
+        "id": "08cfe8a0d2d42cb9fc1623dba68e5f81ad586463",
+        "title": "gaziziz",
+        "url": "https://higgsfield.ai/@gaziziz"
       },
       {
-        "id": "4e47d06d5b84fa118d04de54a6b41b6921b22296",
-        "title": "floating_narwhal_micro",
-        "url": "https://higgsfield.ai/@floating_narwhal_micro"
-      },
-      {
-        "id": "ce71cc15ca76bcc7fa06db726a7ab461280eec2b",
-        "title": "euclid_kangaroo_legendary",
-        "url": "https://higgsfield.ai/@euclid_kangaroo_legendary"
-      },
-      {
-        "id": "23dc6d6c3060c1180f22006669f5f0e4921c6229",
-        "title": "surrealavocado1493",
-        "url": "https://higgsfield.ai/@surrealavocado1493"
-      },
-      {
-        "id": "c58b319c444c616d417495fe95a5ae7c492e7c6c",
-        "title": "moonsteel",
-        "url": "https://higgsfield.ai/@moonsteel"
-      },
-      {
-        "id": "fb02ca69db17e99cef3c935c2c07aa9c93f772bc",
-        "title": "higgsfield-aj",
-        "url": "https://higgsfield.ai/@higgsfield-aj"
-      },
-      {
-        "id": "aea368731ef3ce78f52cf58672d9ebce20c059cf",
-        "title": "jumpingwombat1191",
-        "url": "https://higgsfield.ai/@jumpingwombat1191"
-      },
-      {
-        "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
-        "title": "arpanetus",
-        "url": "https://higgsfield.ai/@arpanetus"
-      },
-      {
-        "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
-        "title": "smartbeetle1651",
-        "url": "https://higgsfield.ai/@smartbeetle1651"
+        "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
+        "title": "futurist_ice_special",
+        "url": "https://higgsfield.ai/@futurist_ice_special"
       },
       {
         "id": "95f478a848555702d5c6b31744603f71f4ff7988",
@@ -3319,24 +3284,59 @@
         "url": "https://higgsfield.ai/@land_art_pencil"
       },
       {
-        "id": "080fd71cc6ec7eadca1609e86dd24296a94e3134",
-        "title": "fibonacciraven1363",
-        "url": "https://higgsfield.ai/@fibonacciraven1363"
+        "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
+        "title": "arpanetus",
+        "url": "https://higgsfield.ai/@arpanetus"
       },
       {
-        "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
-        "title": "futurist_ice_special",
-        "url": "https://higgsfield.ai/@futurist_ice_special"
+        "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
+        "title": "smartbeetle1651",
+        "url": "https://higgsfield.ai/@smartbeetle1651"
       },
       {
-        "id": "13541ae877c112f1decd47e5d782ec942dcf2abc",
-        "title": "screamingllama1380",
-        "url": "https://higgsfield.ai/@screamingllama1380"
+        "id": "23dc6d6c3060c1180f22006669f5f0e4921c6229",
+        "title": "surrealavocado1493",
+        "url": "https://higgsfield.ai/@surrealavocado1493"
       },
       {
-        "id": "bcd180d4ad1dc474dbe99fec2839fe5b504c5cea",
-        "title": "deconstructivistelephant1740",
-        "url": "https://higgsfield.ai/@deconstructivistelephant1740"
+        "id": "639f23a10909076632b2971d4eac80409acd284a",
+        "title": "higgsfield_hall_of_fame",
+        "url": "https://higgsfield.ai/@higgsfield_hall_of_fame"
+      },
+      {
+        "id": "6768afe1f4ef27b35fd5913c490c34f973d9f167",
+        "title": "bourgeois_mean",
+        "url": "https://higgsfield.ai/@bourgeois_mean"
+      },
+      {
+        "id": "417fd8d5a43d28fa2e5b3c04f34d799fc638d60c",
+        "title": "jennifer_lopez",
+        "url": "https://higgsfield.ai/@jennifer_lopez"
+      },
+      {
+        "id": "3528a4575e8c027ab5011bb1d1daab16d293812a",
+        "title": "artificial_penguin",
+        "url": "https://higgsfield.ai/@artificial_penguin"
+      },
+      {
+        "id": "d14185bbb6ca7320dc57df20290b6160c07fa435",
+        "title": "jighit",
+        "url": "https://higgsfield.ai/@jighit"
+      },
+      {
+        "id": "0de1936d3cca2815bea748d71b2565d75be8bc25",
+        "title": "zhanay",
+        "url": "https://higgsfield.ai/@zhanay"
+      },
+      {
+        "id": "9eb32875e540b9fc1ada30083e0b1c8edb0574e9",
+        "title": "religious_raccoon_dark36",
+        "url": "https://higgsfield.ai/@religious_raccoon_dark36"
+      },
+      {
+        "id": "aa67d6b4d50ac6e3fa093ef8a6fcad847064ed1d",
+        "title": "radiating_crystal_deep60",
+        "url": "https://higgsfield.ai/@radiating_crystal_deep60"
       },
       {
         "id": "c68eaccdd9597149c02518f7398b09255d580901",
@@ -3757,11 +3757,6 @@
         "id": "8bed42d9304fc9be2413a61891dcd21b8b9267ea",
         "title": "Veo 3.1 Introduction",
         "url": "https://higgsfield.ai/veo3.1"
-      },
-      {
-        "id": "f394b6d82d8389382e0f4661740ef9f0b4c9742b",
-        "title": "Create Video",
-        "url": "https://higgsfield.ai/ai/video"
       },
       {
         "id": "528a0cacc40892f7308d96e6a4cd4fcacf22952e",
