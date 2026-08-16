@@ -15,30 +15,6 @@
     "WeShop AI": [],
     "Atlas Cloud": [
       {
-        "key": "f5eaae32d0e6e4a566cecd3fa3e9e3cf6edc3cfd",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-anime-video-generator",
-        "date": "2026-08-07T13:40:13.690Z",
-        "reportedAt": "2026-08-08T03:01:01.678Z"
-      },
-      {
-        "key": "f2297d8890b21531edd26ccb9f951ec9c4b259a9",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-vs-veo-31-anime",
-        "date": "2026-08-07T13:08:39.229Z",
-        "reportedAt": "2026-08-08T03:01:01.678Z"
-      },
-      {
-        "key": "1f23deccba24bfb70ce43a6189cfc914d55329e7",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-whatsnew",
-        "date": "2026-08-07T11:16:48.389Z",
-        "reportedAt": "2026-08-08T03:01:01.678Z"
-      },
-      {
-        "key": "59ba9020ba9d93a734d73a89d9bc236d5de1482f",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/veo-3.1-prompt-guide",
-        "date": "2026-08-07T08:24:28.568Z",
-        "reportedAt": "2026-08-08T03:01:01.678Z"
-      },
-      {
         "key": "f8f68ac26773154c9b8e2625478bf46f2334a8a7",
         "url": "https://www.atlascloud.ai/blog/ai-updates/minimax-h3-asmr-video",
         "date": "2026-08-10T17:53:11.017Z",
@@ -61,6 +37,12 @@
         "url": "https://www.atlascloud.ai/blog/guides/wan-3.0-vs-wan-2.7",
         "date": "2026-08-13T15:37:11.271Z",
         "reportedAt": "2026-08-14T03:29:22.794Z"
+      },
+      {
+        "key": "09fb2be9c0d79a251ba1562e442d88882bbd80b6",
+        "url": "https://www.atlascloud.ai/blog/case-studies/how-moke-runs-ai-film-pipeline-atlas-cloud",
+        "date": "2026-08-15T16:21:11.608Z",
+        "reportedAt": "2026-08-16T02:33:14.687Z"
       }
     ],
     "TopMediai": [
