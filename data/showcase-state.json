@@ -3110,11 +3110,6 @@
         "id": "602910a8155bfbc4f39f3da664e3a1ee4360cf15",
         "title": "invideo Studio",
         "url": "https://invideo.io/studio"
-      },
-      {
-        "id": "f44b10c1236c9eb6eb9bbcef8f52372147169569",
-        "title": "here",
-        "url": "https://invideo.io/privacy-policy/"
       }
     ],
     "Higgsfield AI": [
@@ -3224,8 +3219,8 @@
         "url": "https://higgsfield.ai/@higgsfield.studio/projects/oneiric"
       },
       {
-        "id": "4f4131bcc660db13dc9e8c3c7a3d912c35cde94d",
-        "title": "Seedance 2.5The most advanced video modelExclusive 1080p",
+        "id": "f53c012c49b7d8b6541e759670a2822fe00a5006",
+        "title": "Seedance 2.5The most advanced video modelAvailable now",
         "url": "https://higgsfield.ai/ai/video?model=seedance_2_5&resolution=1080p"
       },
       {
@@ -3259,8 +3254,8 @@
         "url": "https://higgsfield.ai/contests/higgsfield-global-film-festival?festivalBuildInPublic=1&tab=create-public"
       },
       {
-        "id": "455c8dec66b1414fdb2d556bfef9a0bf2480a3ac",
-        "title": "Explore Seedance 2.5 at 1080p",
+        "id": "b088aa2e4b8a2e1e8b3039f535ee576b14b9dbe2",
+        "title": "Explore Seedance 2.5",
         "url": "https://higgsfield.ai/seedance-2-5-community"
       },
       {
@@ -3274,6 +3269,11 @@
         "url": "https://higgsfield.ai/@gaziziz"
       },
       {
+        "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
+        "title": "arpanetus",
+        "url": "https://higgsfield.ai/@arpanetus"
+      },
+      {
         "id": "2a6a1d5528ec32ba646ad5908f7e670da668cade",
         "title": "land_art_pencil",
         "url": "https://higgsfield.ai/@land_art_pencil"
@@ -3282,11 +3282,6 @@
         "id": "7c752db2e98452aa8aaa503413c55a1ae54d519a",
         "title": "futurist_ice_special",
         "url": "https://higgsfield.ai/@futurist_ice_special"
-      },
-      {
-        "id": "5f8ea21c792c1993910d54f159c2ff3062dadfe5",
-        "title": "arpanetus",
-        "url": "https://higgsfield.ai/@arpanetus"
       },
       {
         "id": "e099af8c09ac8b95258372de6d20e7a4dceb84c6",
@@ -3299,9 +3294,9 @@
         "url": "https://higgsfield.ai/@folkemerald1346"
       },
       {
-        "id": "13541ae877c112f1decd47e5d782ec942dcf2abc",
-        "title": "screamingllama1380",
-        "url": "https://higgsfield.ai/@screamingllama1380"
+        "id": "44b6a640bdd8890c748c15060557014c23a76688",
+        "title": "exploringbutterfly1155",
+        "url": "https://higgsfield.ai/@exploringbutterfly1155"
       },
       {
         "id": "639f23a10909076632b2971d4eac80409acd284a",
