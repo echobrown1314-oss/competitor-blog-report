@@ -15,18 +15,6 @@
     "WeShop AI": [],
     "Atlas Cloud": [
       {
-        "key": "f8f68ac26773154c9b8e2625478bf46f2334a8a7",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/minimax-h3-asmr-video",
-        "date": "2026-08-10T17:53:11.017Z",
-        "reportedAt": "2026-08-11T03:09:27.965Z"
-      },
-      {
-        "key": "6844046f97d0100b1a077100e3c434225cb2b1f3",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/minimax-h3-music-video",
-        "date": "2026-08-10T17:30:39.524Z",
-        "reportedAt": "2026-08-11T03:09:27.965Z"
-      },
-      {
         "key": "a597c8a53241f603fd974705eda4920448ff0308",
         "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-5-api-providers-compared",
         "date": "2026-08-12T14:48:39.615Z",
@@ -139,6 +127,18 @@
         "url": "https://www.atlascloud.ai/blog/guides/best-openrouter-alternatives",
         "date": "2026-08-16T05:47:54.146Z",
         "reportedAt": "2026-08-17T02:24:23.087Z"
+      },
+      {
+        "key": "693abbbe29e41981e3b2c9845ac9182e099a7ca9",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-prompt-for-professional-headshot",
+        "date": "2026-08-18T10:34:02.411Z",
+        "reportedAt": "2026-08-19T02:25:28.498Z"
+      },
+      {
+        "key": "d8d70956050c22834fb109504ed807707d2b6b11",
+        "url": "https://www.atlascloud.ai/blog/guides/fotor-ai-headshot-generator",
+        "date": "2026-08-18T08:47:03.640Z",
+        "reportedAt": "2026-08-19T02:25:28.498Z"
       }
     ],
     "TopMediai": [
