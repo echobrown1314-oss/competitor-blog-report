@@ -4,6 +4,10 @@
 
 目标是每天自动检查指定竞品站点过去 24 小时内发布或更新的文章，并把结果发送到钉钉群。
 
+另外，项目也支持一套独立的“模板/玩法页监测日报”，用于跟踪模板库、效果页、产品玩法页的新增页面。
+
+如果你现在更想盯“新功能 / 新工具页”，项目里也已经准备了一套独立的功能页监控。
+
 ## 当前监控站点
 
 - https://www.litmedia.ai/resource/
@@ -15,6 +19,27 @@
 - https://www.atlascloud.ai/blog
 - https://www.topmediai.com/video-tips
 - https://www.jxp.com/blog
+
+## 模板/玩法页监控站点
+
+- https://magichour.ai/products/
+- https://viddo.ai/video-effects
+- https://deevid.ai/
+- https://a2e.ai/
+- https://kling.ai/
+- https://invideo.io/
+- https://higgsfield.ai/
+
+## 功能/工具页监控站点
+
+- Higgsfield
+- Pollo AI
+- LibTV
+- Flova AI
+- Deevid AI
+- Topview AI
+- Yapper
+- Artlist
 
 ## 规则
 
@@ -30,18 +55,26 @@
 工作流文件：
 
 - `.github/workflows/competitor-blog-report.yml`
+- `.github/workflows/competitor-showcase-report.yml`
+- `.github/workflows/competitor-feature-report.yml`
 
 主脚本：
 
 - `monitor-browser.mjs`
+- `monitor-showcase-browser.mjs`
+- `monitor-feature-browser.mjs`
 
 状态文件：
 
 - `data/state-browser.json`
+- `data/showcase-state.json`
+- `data/feature-state.json`
 
 最新日报：
 
 - `data/browser-report-latest.md`
+- `data/showcase-report-latest.md`
+- `data/feature-report-latest.md`
 
 ## GitHub 需要配置的 Secrets
 
@@ -63,6 +96,20 @@ npm install
 ```bash
 npm run run:cloud
 ```
+
+模板/玩法页日报：
+
+```bash
+npm run run:showcase
+```
+
+功能/工具页日报：
+
+```bash
+npm run run:feature
+```
+
+功能/工具页日报只展示有新增页面的竞品；没有新增的竞品不会出现在日报正文里。
 
 如果只想本地生成报告，不发钉钉，可以设置：
 
