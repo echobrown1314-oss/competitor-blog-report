@@ -1,6 +1,6 @@
 # 竞品博客监测日报
 
-生成时间：2026/08/19 10:25（上海）
+生成时间：2026/08/20 10:22（上海）
 
 新增文章总数：2
 
@@ -23,8 +23,8 @@
 - 今日未发现新文章
 
 ## Atlas Cloud（2）
-- [AI Prompt for Professional Headshot: What Actually Works](https://www.atlascloud.ai/blog/guides/ai-prompt-for-professional-headshot) | 2026-08-18T10:34:02.411Z
-- [Fotor AI Headshot Generator: What Free Really Buys You](https://www.atlascloud.ai/blog/guides/fotor-ai-headshot-generator) | 2026-08-18T08:47:03.640Z
+- [AI Selfie to Headshot: What the Model Rewrites](https://www.atlascloud.ai/blog/guides/ai-selfie-to-headshot) | 2026-08-19T07:22:03.850Z
+- [AI Headshot API for Developers: How to Pick the Right Endpoint](https://www.atlascloud.ai/blog/guides/ai-headshot-api-for-developers) | 2026-08-19T03:43:27.439Z
 
 ## TopMediai（0）
 - 今日未发现新文章

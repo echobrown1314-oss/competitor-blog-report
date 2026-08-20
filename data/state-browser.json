@@ -3,14 +3,7 @@
     "LitMedia": [],
     "MindVideo": [],
     "Topview": [],
-    "DataCamp": [
-      {
-        "key": "d7991f00d17c80731bfca5e8c11d966d881589d8",
-        "url": "https://www.datacamp.com/blog/muse-glimmer",
-        "date": "2026-08-11T10:22:15.000Z",
-        "reportedAt": "2026-08-12T03:28:42.330Z"
-      }
-    ],
+    "DataCamp": [],
     "WaveSpeed": [],
     "WeShop AI": [],
     "Atlas Cloud": [
@@ -139,15 +132,21 @@
         "url": "https://www.atlascloud.ai/blog/guides/fotor-ai-headshot-generator",
         "date": "2026-08-18T08:47:03.640Z",
         "reportedAt": "2026-08-19T02:25:28.498Z"
+      },
+      {
+        "key": "85b8ba1fbced3e2f5315a2a9f0f769ae2c1ad679",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-selfie-to-headshot",
+        "date": "2026-08-19T07:22:03.850Z",
+        "reportedAt": "2026-08-20T02:22:03.898Z"
+      },
+      {
+        "key": "a39a65deafc0b269ae7465c1a1aad7fc81f75a4a",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-headshot-api-for-developers",
+        "date": "2026-08-19T03:43:27.439Z",
+        "reportedAt": "2026-08-20T02:22:03.898Z"
       }
     ],
     "TopMediai": [
-      {
-        "key": "86b54fac8d4cac747fd37ad13d5467305e1f2686",
-        "url": "https://www.topmediai.com/video-tips/how-to-use-seedance-2-5/",
-        "date": "2026-08-12T10:53:44+08:00",
-        "reportedAt": "2026-08-12T03:28:42.330Z"
-      },
       {
         "key": "67020374f48d2b12c16aac03851cd2fc7a1f06a9",
         "url": "https://www.topmediai.com/video-tips/how-to-make-an-ai-music-video/",
