@@ -465,6 +465,1042 @@
         "title": "Download for macOS",
         "url": "https://getyapper.app/"
       }
+    ],
+    "Pollo AI": [
+      {
+        "id": "6461dfc131222ed897f2690c246af1cf3c66a491",
+        "title": "AI Video",
+        "url": "https://pollo.ai/ai-video",
+        "canonicalKey": "pollo.ai/ai-video"
+      },
+      {
+        "id": "a2958dca79251f566b62522971cbe91ef74e1a68",
+        "title": "Image To Video",
+        "url": "https://pollo.ai/image-to-video",
+        "canonicalKey": "pollo.ai/image-to-video"
+      },
+      {
+        "id": "b229317a2934c39c8196cc19673a001ae878c31a",
+        "title": "Text To Video",
+        "url": "https://pollo.ai/text-to-video",
+        "canonicalKey": "pollo.ai/text-to-video"
+      },
+      {
+        "id": "ac54383e760dd9e4295cd3a9b24716e52d430c23",
+        "title": "AI Video Editor",
+        "url": "https://pollo.ai/ai-video-editor",
+        "canonicalKey": "pollo.ai/ai-video-editor"
+      },
+      {
+        "id": "001dd66ac2cbec8a60f76e7a8a94069168db72ab",
+        "title": "Video To Video",
+        "url": "https://pollo.ai/video-to-video",
+        "canonicalKey": "pollo.ai/video-to-video"
+      },
+      {
+        "id": "351ea623e20c65fbad0e8371a7a41a1d6b55d053",
+        "title": "Face Swap Video",
+        "url": "https://pollo.ai/face-swap-video",
+        "canonicalKey": "pollo.ai/face-swap-video"
+      },
+      {
+        "id": "ffdbb5eaf2a0e17db4908e7632eb680d3e00784c",
+        "title": "Tool",
+        "url": "https://pollo.ai/tool",
+        "canonicalKey": "pollo.ai/tool"
+      },
+      {
+        "id": "2c22fb804581197d0146fb0ffc3aa1d45cd863c5",
+        "title": "Happy Horse",
+        "url": "https://pollo.ai/m/happy-horse",
+        "canonicalKey": "pollo.ai/m/happy-horse"
+      },
+      {
+        "id": "84846cbbb74ded542912b7480a1fdeb807c62fb8",
+        "title": "AI Avatar",
+        "url": "https://pollo.ai/ai-avatar",
+        "canonicalKey": "pollo.ai/ai-avatar"
+      },
+      {
+        "id": "fcaa4b491b727373b77fa32fd9ec6f83b00748e7",
+        "title": "AI Product Avatar",
+        "url": "https://pollo.ai/ai-product-avatar",
+        "canonicalKey": "pollo.ai/ai-product-avatar"
+      },
+      {
+        "id": "4ab17b73efbec2cade5fa7c9fbe4f7231ff114c9",
+        "title": "AI Talking Avatar",
+        "url": "https://pollo.ai/ai-avatar/ai-talking-avatar",
+        "canonicalKey": "pollo.ai/ai-avatar/ai-talking-avatar"
+      },
+      {
+        "id": "b1a56e5a4aecfe550cfdb6684fcd228fffd783a5",
+        "title": "AI Voice Generator",
+        "url": "https://pollo.ai/ai-voice-generator",
+        "canonicalKey": "pollo.ai/ai-voice-generator"
+      },
+      {
+        "id": "47f13e2ecf18bcfb0e0ede44edf83b193d83cda3",
+        "title": "AI Image Generator",
+        "url": "https://pollo.ai/ai-image-generator",
+        "canonicalKey": "pollo.ai/ai-image-generator"
+      },
+      {
+        "id": "cfb45230c714282428261d8757bfc22c223ad4e3",
+        "title": "Photo Face Swap",
+        "url": "https://pollo.ai/photo-face-swap",
+        "canonicalKey": "pollo.ai/photo-face-swap"
+      },
+      {
+        "id": "507ab1dcd147e08dcfd3dd8a9c48d7c6edf61619",
+        "title": "Image Tools",
+        "url": "https://pollo.ai/image-tools",
+        "canonicalKey": "pollo.ai/image-tools"
+      },
+      {
+        "id": "08f09dcfab4e8b016a34ea8ad009f494e1818435",
+        "title": "AI Art Generator",
+        "url": "https://pollo.ai/ai-art-generator",
+        "canonicalKey": "pollo.ai/ai-art-generator"
+      },
+      {
+        "id": "9bf4c0f8c8ecb67abb65873757c1210083204dab",
+        "title": "Girl",
+        "url": "https://pollo.ai/ai-image-generator/girl",
+        "canonicalKey": "pollo.ai/ai-image-generator/girl"
+      },
+      {
+        "id": "617a3f87b647445d755e3119d33ccc4d589e4405",
+        "title": "Fantasy Art",
+        "url": "https://pollo.ai/ai-image-generator/fantasy-art",
+        "canonicalKey": "pollo.ai/ai-image-generator/fantasy-art"
+      },
+      {
+        "id": "66e73dad11c11b71d690378e9bdd8b497babe71d",
+        "title": "Pixel Art",
+        "url": "https://pollo.ai/ai-image-generator/pixel-art",
+        "canonicalKey": "pollo.ai/ai-image-generator/pixel-art"
+      },
+      {
+        "id": "182356ee39923b75752111d17b7adfa90dd8a8ca",
+        "title": "AI Character Generator",
+        "url": "https://pollo.ai/ai-character-generator",
+        "canonicalKey": "pollo.ai/ai-character-generator"
+      },
+      {
+        "id": "d3001a1880cd390f1c2d3b1178301d4ffba92eeb",
+        "title": "AI Logo Generator",
+        "url": "https://pollo.ai/ai-logo-generator",
+        "canonicalKey": "pollo.ai/ai-logo-generator"
+      },
+      {
+        "id": "a5e6c66c653dccd2e76fb2985e5587b557e07d4c",
+        "title": "AI Tattoo Generator",
+        "url": "https://pollo.ai/ai-tattoo-generator",
+        "canonicalKey": "pollo.ai/ai-tattoo-generator"
+      },
+      {
+        "id": "d2c68ed887daf7c4ff0770ad4f33993056fae6c1",
+        "title": "Graffiti",
+        "url": "https://pollo.ai/ai-image-generator/graffiti",
+        "canonicalKey": "pollo.ai/ai-image-generator/graffiti"
+      },
+      {
+        "id": "44ccf7da3879dd67bf88dc394be2c0c737ec8dbd",
+        "title": "Image Generators",
+        "url": "https://pollo.ai/image-generators",
+        "canonicalKey": "pollo.ai/image-generators"
+      },
+      {
+        "id": "5036a1ece9344bb8ca4b6dc782d9954a23199bee",
+        "title": "Marketing Studio",
+        "url": "https://pollo.ai/marketing-studio",
+        "canonicalKey": "pollo.ai/marketing-studio"
+      },
+      {
+        "id": "29cd5aeacf8dac652786d32bd4e8aad83198d60c",
+        "title": "Url To Video Ads",
+        "url": "https://pollo.ai/app/url-to-video-ads",
+        "canonicalKey": "pollo.ai/app/url-to-video-ads"
+      },
+      {
+        "id": "873bf963040154a9f79fe8893dbfcbc3d1621bf5",
+        "title": "Photo To Video Ads",
+        "url": "https://pollo.ai/app/photo-to-video-ads",
+        "canonicalKey": "pollo.ai/app/photo-to-video-ads"
+      },
+      {
+        "id": "eaac8c636198ceecbca49b2b6849396c1eded13b",
+        "title": "Script To Video Ads",
+        "url": "https://pollo.ai/app/script-to-video-ads",
+        "canonicalKey": "pollo.ai/app/script-to-video-ads"
+      },
+      {
+        "id": "0153bc8a73c1e8a10fd3c9408b679d39a6ff3b1f",
+        "title": "AI UGC Video Generator",
+        "url": "https://pollo.ai/app/ai-ugc-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-ugc-video-generator"
+      },
+      {
+        "id": "0aec3cadffc3ba077633d603f000ce0c76e57480",
+        "title": "Clone Video Ads",
+        "url": "https://pollo.ai/app/clone-video-ads",
+        "canonicalKey": "pollo.ai/app/clone-video-ads"
+      },
+      {
+        "id": "5b2b789e515f038de0fbd16593c0c1e7f8b135b1",
+        "title": "AI Ad Generator",
+        "url": "https://pollo.ai/app/ai-ad-generator",
+        "canonicalKey": "pollo.ai/app/ai-ad-generator"
+      },
+      {
+        "id": "f3d71699b4908a4a54a2358c77e315037748a779",
+        "title": "AI Product Video Generator",
+        "url": "https://pollo.ai/app/ai-product-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-product-video-generator"
+      },
+      {
+        "id": "977cbaa47ea959a39dc5d9d1e801b9c02dd6cdc4",
+        "title": "AI Product Photo Generator",
+        "url": "https://pollo.ai/ai-product-photo-generator",
+        "canonicalKey": "pollo.ai/ai-product-photo-generator"
+      },
+      {
+        "id": "1ce998d39b5b3c6003275a3c2cf3663f73a1fb1a",
+        "title": "AI Product Listing Image Set Generator",
+        "url": "https://pollo.ai/ai-product-listing-image-set-generator",
+        "canonicalKey": "pollo.ai/ai-product-listing-image-set-generator"
+      },
+      {
+        "id": "6b8b1bb5dbfa10c3e303bde1c6c58ec770b15243",
+        "title": "AI Flat Lay Generator",
+        "url": "https://pollo.ai/ai-flat-lay-generator",
+        "canonicalKey": "pollo.ai/ai-flat-lay-generator"
+      },
+      {
+        "id": "ffde8e921af7fdfb04f778cfbe85be282abd39f0",
+        "title": "AI Ghost Mannequin Generator",
+        "url": "https://pollo.ai/ai-ghost-mannequin-generator",
+        "canonicalKey": "pollo.ai/ai-ghost-mannequin-generator"
+      },
+      {
+        "id": "d089d94c106e36b6769aacf8aa92b3904d3a5e52",
+        "title": "Facebook Ad Video",
+        "url": "https://pollo.ai/app/facebook-ad-video",
+        "canonicalKey": "pollo.ai/app/facebook-ad-video"
+      },
+      {
+        "id": "81e4eaf9db043d62c2a58c6a0b65a02cd33fcbd2",
+        "title": "AI Tiktok Video Ad Maker",
+        "url": "https://pollo.ai/app/ai-tiktok-video-ad-maker",
+        "canonicalKey": "pollo.ai/app/ai-tiktok-video-ad-maker"
+      },
+      {
+        "id": "5306fd4f82304c3c0a1d7acf1e8384841eb26c8e",
+        "title": "AI Youtube Video Ad Maker",
+        "url": "https://pollo.ai/app/ai-youtube-video-ad-maker",
+        "canonicalKey": "pollo.ai/app/ai-youtube-video-ad-maker"
+      },
+      {
+        "id": "b3dcfefbba253cd90a5cc18dc27b1f51d7b775d1",
+        "title": "AI Instagram Story Ads Maker",
+        "url": "https://pollo.ai/app/ai-instagram-story-ads-maker",
+        "canonicalKey": "pollo.ai/app/ai-instagram-story-ads-maker"
+      },
+      {
+        "id": "5d24dac948b2947c6e375379b9791a7de2964291",
+        "title": "AI Shein Product Video Maker",
+        "url": "https://pollo.ai/app/ai-shein-product-video-maker",
+        "canonicalKey": "pollo.ai/app/ai-shein-product-video-maker"
+      },
+      {
+        "id": "0cd687adb194db51fe6366f40c9667a5879e18d3",
+        "title": "Amazon Url To Video",
+        "url": "https://pollo.ai/app/amazon-url-to-video",
+        "canonicalKey": "pollo.ai/app/amazon-url-to-video"
+      },
+      {
+        "id": "fb68bb2c5201c20397481c58d02dc65c983b4fb7",
+        "title": "Shopify Url To Video",
+        "url": "https://pollo.ai/app/shopify-url-to-video",
+        "canonicalKey": "pollo.ai/app/shopify-url-to-video"
+      },
+      {
+        "id": "bc0ff34a406d9d216977761738ca75d454e6798c",
+        "title": "Tiktok Shop Url To Video",
+        "url": "https://pollo.ai/app/tiktok-shop-url-to-video",
+        "canonicalKey": "pollo.ai/app/tiktok-shop-url-to-video"
+      },
+      {
+        "id": "985e24e139bc21c3444dd8a8de05785714fb87ea",
+        "title": "Agent",
+        "url": "https://pollo.ai/agent",
+        "canonicalKey": "pollo.ai/agent"
+      },
+      {
+        "id": "8a807ddf4d34a2e63ed3c5c313d236ce02d86fbf",
+        "title": "AI Anime Video Generator",
+        "url": "https://pollo.ai/app/ai-anime-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-anime-video-generator"
+      },
+      {
+        "id": "4248c30bedbe79ae15e10f4547f5f7431e5016a6",
+        "title": "Kids Story Video Generator",
+        "url": "https://pollo.ai/app/kids-story-video-generator",
+        "canonicalKey": "pollo.ai/app/kids-story-video-generator"
+      },
+      {
+        "id": "e2bd080b32d187d8874664c364a7ef723fda766a",
+        "title": "AI Love Story Video Generator",
+        "url": "https://pollo.ai/app/ai-love-story-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-love-story-video-generator"
+      },
+      {
+        "id": "6cb173b4413c224256e817ea7f81e02052781d78",
+        "title": "AI Poster Generator",
+        "url": "https://pollo.ai/ai-poster-generator",
+        "canonicalKey": "pollo.ai/ai-poster-generator"
+      },
+      {
+        "id": "4993af9dc3ca0a73559a6e81cb478bc079f874f6",
+        "title": "AI Menu Maker",
+        "url": "https://pollo.ai/app/ai-menu-maker",
+        "canonicalKey": "pollo.ai/app/ai-menu-maker"
+      },
+      {
+        "id": "fb623b79a03a1812a6d551efa73e81dc2e8f07d9",
+        "title": "AI Flyer Generator",
+        "url": "https://pollo.ai/ai-flyer-generator",
+        "canonicalKey": "pollo.ai/ai-flyer-generator"
+      },
+      {
+        "id": "6c2aef17341868e6d16b9420715322ff53b8e2b9",
+        "title": "AI Invitation Maker",
+        "url": "https://pollo.ai/app/ai-invitation-maker",
+        "canonicalKey": "pollo.ai/app/ai-invitation-maker"
+      },
+      {
+        "id": "c109c3cc54ca54897e7632bc6ceebffdd9a91371",
+        "title": "AI Business Card Generator",
+        "url": "https://pollo.ai/ai-business-card-generator",
+        "canonicalKey": "pollo.ai/ai-business-card-generator"
+      },
+      {
+        "id": "65dedd319dcfe17d87e50bd071e769b73acd7cd4",
+        "title": "AI Instagram Post Generator",
+        "url": "https://pollo.ai/app/ai-instagram-post-generator",
+        "canonicalKey": "pollo.ai/app/ai-instagram-post-generator"
+      },
+      {
+        "id": "9ea33b3b590a3f04f37c3db53bd5f4b8316fc013",
+        "title": "Youtube Thumbnail Maker",
+        "url": "https://pollo.ai/app/youtube-thumbnail-maker",
+        "canonicalKey": "pollo.ai/app/youtube-thumbnail-maker"
+      },
+      {
+        "id": "f503330d7e1d876711823a22c9f96a62d22802be",
+        "title": "Linkedin Post Generator",
+        "url": "https://pollo.ai/app/linkedin-post-generator",
+        "canonicalKey": "pollo.ai/app/linkedin-post-generator"
+      },
+      {
+        "id": "b4bb8b9c86f9840b3e2b98d4b5c90d259c73797d",
+        "title": "Facebook Cover Photo Maker",
+        "url": "https://pollo.ai/app/facebook-cover-photo-maker",
+        "canonicalKey": "pollo.ai/app/facebook-cover-photo-maker"
+      },
+      {
+        "id": "64ac3c67b16f583b19bee9d6f9069f8e3f2e3991",
+        "title": "Facebook Post Generator",
+        "url": "https://pollo.ai/app/facebook-post-generator",
+        "canonicalKey": "pollo.ai/app/facebook-post-generator"
+      },
+      {
+        "id": "fe81e29b88929724178f9c2be01ba853567f8a8a",
+        "title": "AI Profile Picture Generator",
+        "url": "https://pollo.ai/ai-profile-picture-generator",
+        "canonicalKey": "pollo.ai/ai-profile-picture-generator"
+      },
+      {
+        "id": "449691e86902921f002382517557179fe10759b3",
+        "title": "Sign Up",
+        "url": "https://pollo.ai/sign-up",
+        "canonicalKey": "pollo.ai/sign-up"
+      },
+      {
+        "id": "4e87765b9e0ad33885a28af5ff61b6fcb2f45937",
+        "title": "Text To Speech",
+        "url": "https://pollo.ai/text-to-speech",
+        "canonicalKey": "pollo.ai/text-to-speech"
+      },
+      {
+        "id": "f7d356fd9474c0e72884ec1906ff8a745da02702",
+        "title": "AI Sound Effect Generator",
+        "url": "https://pollo.ai/ai-sound-effect-generator",
+        "canonicalKey": "pollo.ai/ai-sound-effect-generator"
+      },
+      {
+        "id": "3ccb69053c80edc2cd61d178fe7bffdaa1a7b62f",
+        "title": "AI Story Video Generator",
+        "url": "https://pollo.ai/app/ai-story-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-story-video-generator"
+      },
+      {
+        "id": "9b126ec2e98c0924ee0ac2cb68486f43666bee84",
+        "title": "AI UGC Video Generator",
+        "url": "https://pollo.ai/ai-ugc-video-generator",
+        "canonicalKey": "pollo.ai/ai-ugc-video-generator"
+      },
+      {
+        "id": "e2fe335af1d1e443191fdbd963ea896eb91bf309",
+        "title": "AI Product Video Generator",
+        "url": "https://pollo.ai/ai-product-video-generator",
+        "canonicalKey": "pollo.ai/ai-product-video-generator"
+      },
+      {
+        "id": "db99c1f70ba8c52662d8b915d8909dc2f78ddc0d",
+        "title": "AI Ad Generator",
+        "url": "https://pollo.ai/ai-ad-generator",
+        "canonicalKey": "pollo.ai/ai-ad-generator"
+      },
+      {
+        "id": "0540ef7040d842c8249df27da1a195b13d24fd2d",
+        "title": "AI Anime Video Generator",
+        "url": "https://pollo.ai/ai-anime-video-generator",
+        "canonicalKey": "pollo.ai/ai-anime-video-generator"
+      },
+      {
+        "id": "02ee6195e0a8e5e96b02088074859953e7c60eaf",
+        "title": "AI Celebrity Video Generator",
+        "url": "https://pollo.ai/ai-celebrity-video-generator",
+        "canonicalKey": "pollo.ai/ai-celebrity-video-generator"
+      },
+      {
+        "id": "36ea9d1550d48d4d2fecfea0bc12ea87ba1b7049",
+        "title": "Apps",
+        "url": "https://pollo.ai/apps",
+        "canonicalKey": "pollo.ai/apps"
+      },
+      {
+        "id": "13f46148f5c107564ab5a14b28a69e9dbe96e23f",
+        "title": "Seedance 2 5",
+        "url": "https://pollo.ai/m/seedance-2-5",
+        "canonicalKey": "pollo.ai/m/seedance-2-5"
+      },
+      {
+        "id": "1c553d0a0c695ce3003020284e3e863baa83fd81",
+        "title": "Minimax H3",
+        "url": "https://pollo.ai/m/minimax-h3",
+        "canonicalKey": "pollo.ai/m/minimax-h3"
+      },
+      {
+        "id": "c465c3b7d2f1497e32becede0c9b6dfa61c61bb6",
+        "title": "Pollo AI",
+        "url": "https://pollo.ai/m/pollo-ai",
+        "canonicalKey": "pollo.ai/m/pollo-ai"
+      },
+      {
+        "id": "4f83f650084f742541eb291ec3d48df90e15afe9",
+        "title": "Seedance 2 0",
+        "url": "https://pollo.ai/m/seedance-2-0",
+        "canonicalKey": "pollo.ai/m/seedance-2-0"
+      },
+      {
+        "id": "c7fdd03b96f965a7dc319cb0962c82bfe8c997f5",
+        "title": "Veo 3",
+        "url": "https://pollo.ai/m/veo-3",
+        "canonicalKey": "pollo.ai/m/veo-3"
+      },
+      {
+        "id": "37c5e126ad18046f52e118b775e419fb06e5993e",
+        "title": "Sora 2",
+        "url": "https://pollo.ai/m/sora-2",
+        "canonicalKey": "pollo.ai/m/sora-2"
+      },
+      {
+        "id": "4b7ce3d28623c3b645c94750e2a4cdc246a25a90",
+        "title": "Kling AI",
+        "url": "https://pollo.ai/m/kling-ai",
+        "canonicalKey": "pollo.ai/m/kling-ai"
+      },
+      {
+        "id": "0e301fc1d68f6dff094a646efd2efa50720edd23",
+        "title": "Hailuo AI",
+        "url": "https://pollo.ai/m/hailuo-ai",
+        "canonicalKey": "pollo.ai/m/hailuo-ai"
+      },
+      {
+        "id": "2b88c290588f3fd7535a20439b01b52dfed77951",
+        "title": "Pixverse AI",
+        "url": "https://pollo.ai/m/pixverse-ai",
+        "canonicalKey": "pollo.ai/m/pixverse-ai"
+      },
+      {
+        "id": "f7824b0464d464d9d988af986d1b143a81a78aa5",
+        "title": "Runway AI",
+        "url": "https://pollo.ai/m/runway-ai",
+        "canonicalKey": "pollo.ai/m/runway-ai"
+      },
+      {
+        "id": "37541e90db1b2e77b1626aeff8fa40f232044f10",
+        "title": "Vidu AI",
+        "url": "https://pollo.ai/m/vidu-ai",
+        "canonicalKey": "pollo.ai/m/vidu-ai"
+      },
+      {
+        "id": "b3b2f468c6b6213903e0d9ba40a99e8bda75bd2e",
+        "title": "Luma AI",
+        "url": "https://pollo.ai/m/luma-ai",
+        "canonicalKey": "pollo.ai/m/luma-ai"
+      },
+      {
+        "id": "e73fd2a4d8f3521eb1dde2a77bf77e5df5f0e159",
+        "title": "Pika AI",
+        "url": "https://pollo.ai/m/pika-ai",
+        "canonicalKey": "pollo.ai/m/pika-ai"
+      },
+      {
+        "id": "4bb44c520ba247db0a230ba986451ae57071f783",
+        "title": "Wan AI",
+        "url": "https://pollo.ai/m/wan-ai",
+        "canonicalKey": "pollo.ai/m/wan-ai"
+      },
+      {
+        "id": "d1b6d53be40119a4843f2f0e0f4ae9812b3c7eed",
+        "title": "GPT Image 2",
+        "url": "https://pollo.ai/im/gpt-image-2",
+        "canonicalKey": "pollo.ai/im/gpt-image-2"
+      },
+      {
+        "id": "5dd2194952cd136df3c70d6e06349d31ebb5e675",
+        "title": "Nano Banana 2",
+        "url": "https://pollo.ai/im/nano-banana-2",
+        "canonicalKey": "pollo.ai/im/nano-banana-2"
+      },
+      {
+        "id": "e2f1a0b44b541cff12377897237a426e2a9e51e5",
+        "title": "Recraft",
+        "url": "https://pollo.ai/im/recraft",
+        "canonicalKey": "pollo.ai/im/recraft"
+      },
+      {
+        "id": "b97e566b307a6ce04b4bcbb7ea8aa35f4282f2a7",
+        "title": "Ideogram",
+        "url": "https://pollo.ai/im/ideogram",
+        "canonicalKey": "pollo.ai/im/ideogram"
+      },
+      {
+        "id": "e196691190303ab22925dd6a4b74843c56702067",
+        "title": "Stable Diffusion",
+        "url": "https://pollo.ai/im/stable-diffusion",
+        "canonicalKey": "pollo.ai/im/stable-diffusion"
+      },
+      {
+        "id": "2be0b5c3280e9a1b923cd8ff84b1effe7cda8dc5",
+        "title": "Flux AI",
+        "url": "https://pollo.ai/im/flux-ai",
+        "canonicalKey": "pollo.ai/im/flux-ai"
+      },
+      {
+        "id": "2e4b8f7326dc81e1c7fa08f9ffb3aca515e5148f",
+        "title": "Seedream",
+        "url": "https://pollo.ai/im/seedream",
+        "canonicalKey": "pollo.ai/im/seedream"
+      },
+      {
+        "id": "0dfbfc89be545109706454438379e4c89cfe797a",
+        "title": "Dall E",
+        "url": "https://pollo.ai/im/dall-e",
+        "canonicalKey": "pollo.ai/im/dall-e"
+      },
+      {
+        "id": "c334f17eb3a335cba744590a2b86273cf0b029cd",
+        "title": "Imagen",
+        "url": "https://pollo.ai/im/imagen",
+        "canonicalKey": "pollo.ai/im/imagen"
+      },
+      {
+        "id": "79878e8a0117e66b66775d4a7f80b1b0f769b701",
+        "title": "GPT 4o",
+        "url": "https://pollo.ai/im/gpt-4o",
+        "canonicalKey": "pollo.ai/im/gpt-4o"
+      },
+      {
+        "id": "077314b691ddcec1d0897241974d79ba31b0ecb0",
+        "title": "Flux Kontext",
+        "url": "https://pollo.ai/im/flux-kontext",
+        "canonicalKey": "pollo.ai/im/flux-kontext"
+      },
+      {
+        "id": "fdec9db6788233800d347b8620d7fc7470c8c867",
+        "title": "Qwen Image",
+        "url": "https://pollo.ai/im/qwen-image",
+        "canonicalKey": "pollo.ai/im/qwen-image"
+      },
+      {
+        "id": "5ad2c622a0cf489c5f0fc84bc8622669aa67a1c3",
+        "title": "Video Effects",
+        "url": "https://pollo.ai/video-effects",
+        "canonicalKey": "pollo.ai/video-effects"
+      },
+      {
+        "id": "7c5a706e687f8df9f6ab54ba0c43c2d181454c45",
+        "title": "Photo Effects",
+        "url": "https://pollo.ai/photo-effects",
+        "canonicalKey": "pollo.ai/photo-effects"
+      },
+      {
+        "id": "cf769bfbbc83712461879c7ed61ec00c88591b70",
+        "title": "Sky Fall",
+        "url": "https://pollo.ai/video-effects/sky-fall",
+        "canonicalKey": "pollo.ai/video-effects/sky-fall"
+      },
+      {
+        "id": "d2b778e108555cf1c897d8d88c80f1ae6b740e2b",
+        "title": "Mj Dance",
+        "url": "https://pollo.ai/video-effects/mj-dance",
+        "canonicalKey": "pollo.ai/video-effects/mj-dance"
+      },
+      {
+        "id": "ad0edd8c17c69e361e4e0cf3dec754ca194fc1c8",
+        "title": "Action Figure",
+        "url": "https://pollo.ai/video-effects/action-figure",
+        "canonicalKey": "pollo.ai/video-effects/action-figure"
+      },
+      {
+        "id": "dc5b94abb2a4c088dbf608e24afdb27027881964",
+        "title": "Askim Cok Pardon",
+        "url": "https://pollo.ai/video-effects/askim-cok-pardon",
+        "canonicalKey": "pollo.ai/video-effects/askim-cok-pardon"
+      },
+      {
+        "id": "8c7b5195625eabeb945dc15d06d239a1334df51a",
+        "title": "Pretends To Sleep",
+        "url": "https://pollo.ai/video-effects/pretends-to-sleep",
+        "canonicalKey": "pollo.ai/video-effects/pretends-to-sleep"
+      },
+      {
+        "id": "4907f19e1c8423161eb6e6563aad476bea0f3ed8",
+        "title": "Commercial",
+        "url": "https://pollo.ai/pro-effects/commercial",
+        "canonicalKey": "pollo.ai/pro-effects/commercial"
+      },
+      {
+        "id": "1ae1aae48be99fb1538e80a3e6eca00e545b8d33",
+        "title": "Transitions",
+        "url": "https://pollo.ai/pro-effects/transitions",
+        "canonicalKey": "pollo.ai/pro-effects/transitions"
+      },
+      {
+        "id": "10467de62a56b806fdcb51211a6234ca7fd399c7",
+        "title": "Visual Effects",
+        "url": "https://pollo.ai/pro-effects/visual-effects",
+        "canonicalKey": "pollo.ai/pro-effects/visual-effects"
+      },
+      {
+        "id": "d74dbda830b55c3041f0f370b4bd09c790e585fb",
+        "title": "Camera Control",
+        "url": "https://pollo.ai/pro-effects/camera-control",
+        "canonicalKey": "pollo.ai/pro-effects/camera-control"
+      },
+      {
+        "id": "d8bb9966eac0f8ba749c3e8490ef9d28fd672cd1",
+        "title": "Mimic",
+        "url": "https://pollo.ai/video-effects/mimic",
+        "canonicalKey": "pollo.ai/video-effects/mimic"
+      },
+      {
+        "id": "5f3be886c99f5ceecbe472cd327d2870eca2655c",
+        "title": "Viral",
+        "url": "https://pollo.ai/video-effects/viral",
+        "canonicalKey": "pollo.ai/video-effects/viral"
+      },
+      {
+        "id": "9fa42b208bcbe32fe903d90d1c7f7e3b5c9c9e62",
+        "title": "Pet Show",
+        "url": "https://pollo.ai/video-effects/pet-show",
+        "canonicalKey": "pollo.ai/video-effects/pet-show"
+      },
+      {
+        "id": "4f91d9548f7f168e04b123adb4f9389015c68c7c",
+        "title": "Persona Switch",
+        "url": "https://pollo.ai/video-effects/persona-switch",
+        "canonicalKey": "pollo.ai/video-effects/persona-switch"
+      },
+      {
+        "id": "6b9e1a61b4728d66b1d4c55a8931aa465dc9d3ca",
+        "title": "Festival",
+        "url": "https://pollo.ai/video-effects/festival",
+        "canonicalKey": "pollo.ai/video-effects/festival"
+      },
+      {
+        "id": "c0e9ea632eb3394bda0a83a4d9030f9bc05bc6bb",
+        "title": "Art",
+        "url": "https://pollo.ai/pro-effects/art",
+        "canonicalKey": "pollo.ai/pro-effects/art"
+      },
+      {
+        "id": "2c74fa51e1be769c5dc252241eac349c0eb5bcae",
+        "title": "Action Movements",
+        "url": "https://pollo.ai/pro-effects/action-movements",
+        "canonicalKey": "pollo.ai/pro-effects/action-movements"
+      },
+      {
+        "id": "f1774054b7c94bf92eb2ce9e755861fc4402682c",
+        "title": "Interaction",
+        "url": "https://pollo.ai/video-effects/interaction",
+        "canonicalKey": "pollo.ai/video-effects/interaction"
+      },
+      {
+        "id": "95e38f293404a8f8ed14c8a24374ee30d17c9317",
+        "title": "Create",
+        "url": "https://pollo.ai/create",
+        "canonicalKey": "pollo.ai/create"
+      },
+      {
+        "id": "ae84fdb9cd0c165ae22745439e9ba045e4d7333a",
+        "title": "Kling 3 0",
+        "url": "https://pollo.ai/m/kling-3-0",
+        "canonicalKey": "pollo.ai/m/kling-3-0"
+      },
+      {
+        "id": "cb4f02203faec83d9ac50be0b27c7ea530640701",
+        "title": "Marketing Video Maker",
+        "url": "https://pollo.ai/app/marketing-video-maker",
+        "canonicalKey": "pollo.ai/app/marketing-video-maker"
+      },
+      {
+        "id": "ae23ece45cc1dc673b2a65883f35181ea20d10a8",
+        "title": "Movie Trailer Maker",
+        "url": "https://pollo.ai/app/movie-trailer-maker",
+        "canonicalKey": "pollo.ai/app/movie-trailer-maker"
+      },
+      {
+        "id": "e876809765ddd77c5c97022d68807709446b3dc3",
+        "title": "AI Faceless Video Generator",
+        "url": "https://pollo.ai/app/ai-faceless-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-faceless-video-generator"
+      },
+      {
+        "id": "0cda29394a0437e39c7dc84e9165a686458b9a79",
+        "title": "Bulk AI Viral Video Generator",
+        "url": "https://pollo.ai/app/bulk-ai-viral-video-generator",
+        "canonicalKey": "pollo.ai/app/bulk-ai-viral-video-generator"
+      },
+      {
+        "id": "72e219ec977de311f7a68aed6f4bd5310a6ffd9d",
+        "title": "Bulk Clone Viral Videos",
+        "url": "https://pollo.ai/app/bulk-clone-viral-videos",
+        "canonicalKey": "pollo.ai/app/bulk-clone-viral-videos"
+      },
+      {
+        "id": "da95551ff9a8b320c2c0f7f183bdefb85931599c",
+        "title": "Testimonial Video Maker",
+        "url": "https://pollo.ai/app/testimonial-video-maker",
+        "canonicalKey": "pollo.ai/app/testimonial-video-maker"
+      },
+      {
+        "id": "e5959b524a76fdbd944f4bb9aa6e5e3bb5a4d14b",
+        "title": "AI Promo Video Maker",
+        "url": "https://pollo.ai/app/ai-promo-video-maker",
+        "canonicalKey": "pollo.ai/app/ai-promo-video-maker"
+      },
+      {
+        "id": "17ae968b9ddfdf59238643b0f590c8db31fbb5c0",
+        "title": "AI Youtube Shopping Ads Maker",
+        "url": "https://pollo.ai/app/ai-youtube-shopping-ads-maker",
+        "canonicalKey": "pollo.ai/app/ai-youtube-shopping-ads-maker"
+      },
+      {
+        "id": "5c87b3e4de0db912f12faeeba0c04b91506d1079",
+        "title": "AI Pinterest Shopping Ads Maker",
+        "url": "https://pollo.ai/app/ai-pinterest-shopping-ads-maker",
+        "canonicalKey": "pollo.ai/app/ai-pinterest-shopping-ads-maker"
+      },
+      {
+        "id": "f6b5e3da18c996ec7e922d3deebe1697af318a79",
+        "title": "Reference To Video",
+        "url": "https://pollo.ai/reference-to-video",
+        "canonicalKey": "pollo.ai/reference-to-video"
+      },
+      {
+        "id": "0b67793a5c64a0073785cb4e67a7faf7e37fc1dd",
+        "title": "AI Animation Generator",
+        "url": "https://pollo.ai/ai-animation-generator",
+        "canonicalKey": "pollo.ai/ai-animation-generator"
+      },
+      {
+        "id": "5be33ba82ddc7b3ba6aa145a8d17e948b652a949",
+        "title": "AI Video Extender",
+        "url": "https://pollo.ai/ai-video-extender",
+        "canonicalKey": "pollo.ai/ai-video-extender"
+      },
+      {
+        "id": "be15e476e492ecce4334852d5ef7f1f05481da8c",
+        "title": "Lip Sync",
+        "url": "https://pollo.ai/lip-sync",
+        "canonicalKey": "pollo.ai/lip-sync"
+      },
+      {
+        "id": "5d2622fdbc9bc33e2c10e2c1ca1cbdd9c9ad3756",
+        "title": "Animate A Picture",
+        "url": "https://pollo.ai/animate-a-picture",
+        "canonicalKey": "pollo.ai/animate-a-picture"
+      },
+      {
+        "id": "fd2b7a88d2d2e555dc4eb15dbc5cecdb84cc50fc",
+        "title": "Video Upscaler",
+        "url": "https://pollo.ai/video-upscaler",
+        "canonicalKey": "pollo.ai/video-upscaler"
+      },
+      {
+        "id": "2507243275f3fdd2eea9233121f95e44a31bb03c",
+        "title": "AI Talking Baby Podcast Generator",
+        "url": "https://pollo.ai/ai-talking-baby-podcast-generator",
+        "canonicalKey": "pollo.ai/ai-talking-baby-podcast-generator"
+      },
+      {
+        "id": "2a68332bfba6c39f121288709dcd4a003df92569",
+        "title": "Denoise Video",
+        "url": "https://pollo.ai/denoise-video",
+        "canonicalKey": "pollo.ai/denoise-video"
+      },
+      {
+        "id": "5090e2c43bef9a40d20d8c1266c47b7579e07c4f",
+        "title": "AI Dance Generator",
+        "url": "https://pollo.ai/ai-dance-generator",
+        "canonicalKey": "pollo.ai/ai-dance-generator"
+      },
+      {
+        "id": "03223ad2306223c5eabd5744fd6534bbfc4abe84",
+        "title": "Minimax H3 Vs Seedance 2 5",
+        "url": "https://pollo.ai/hub/minimax-h3-vs-seedance-2-5",
+        "canonicalKey": "pollo.ai/hub/minimax-h3-vs-seedance-2-5"
+      },
+      {
+        "id": "78e28e91f16c57d03a4071a42ee4456a3dc3b0e5",
+        "title": "Minimax H3 Review",
+        "url": "https://pollo.ai/hub/minimax-h3-review",
+        "canonicalKey": "pollo.ai/hub/minimax-h3-review"
+      },
+      {
+        "id": "515c6767ebc6faadb23e7427dd4ec1753f6818a1",
+        "title": "Pollo AI Free Credits",
+        "url": "https://pollo.ai/hub/pollo-ai-free-credits",
+        "canonicalKey": "pollo.ai/hub/pollo-ai-free-credits"
+      },
+      {
+        "id": "cac06ea235aa1aad092f6753858dd33a5347ec88",
+        "title": "Best AI Product Photo Generators",
+        "url": "https://pollo.ai/hub/best-ai-product-photo-generators",
+        "canonicalKey": "pollo.ai/hub/best-ai-product-photo-generators"
+      },
+      {
+        "id": "6cd8bb77995158f872689cb365586116903a26a1",
+        "title": "Seedance 2 5 Review",
+        "url": "https://pollo.ai/hub/seedance-2-5-review",
+        "canonicalKey": "pollo.ai/hub/seedance-2-5-review"
+      },
+      {
+        "id": "12ba2d0a1ca98d68f53f53954979ec41b4fc0d60",
+        "title": "How To Use Seedance 2 5",
+        "url": "https://pollo.ai/hub/how-to-use-seedance-2-5",
+        "canonicalKey": "pollo.ai/hub/how-to-use-seedance-2-5"
+      },
+      {
+        "id": "3d13e9590b1b2142491d82b6320a9bccf33dfe47",
+        "title": "Midjourney Review",
+        "url": "https://pollo.ai/hub/midjourney-review",
+        "canonicalKey": "pollo.ai/hub/midjourney-review"
+      },
+      {
+        "id": "88f676d32d3b89b14ee4f924e5399c51e8b70edf",
+        "title": "Best Times To Post On Instagram For Maximum Engagement And Reach",
+        "url": "https://pollo.ai/hub/best-times-to-post-on-instagram-for-maximum-engagement-and-reach",
+        "canonicalKey": "pollo.ai/hub/best-times-to-post-on-instagram-for-maximum-engagement-and-reach"
+      },
+      {
+        "id": "f6ce7e96999a9920714d8b51065aa75272195483",
+        "title": "Best Times To Post On Tiktok Based On Audience Activity And Trends",
+        "url": "https://pollo.ai/hub/best-times-to-post-on-tiktok-based-on-audience-activity-and-trends",
+        "canonicalKey": "pollo.ai/hub/best-times-to-post-on-tiktok-based-on-audience-activity-and-trends"
+      },
+      {
+        "id": "379d06ef1ab2d61b84988eddbb70cc1e206310e0",
+        "title": "How To Create Scroll Stopping Tutorial UGC Ads With AI",
+        "url": "https://pollo.ai/hub/how-to-create-scroll-stopping-tutorial-ugc-ads-with-ai",
+        "canonicalKey": "pollo.ai/hub/how-to-create-scroll-stopping-tutorial-ugc-ads-with-ai"
+      },
+      {
+        "id": "facdeae2796ee90d6586dd7614bad997f7a6b4c2",
+        "title": "Hub",
+        "url": "https://pollo.ai/hub",
+        "canonicalKey": "pollo.ai/hub"
+      },
+      {
+        "id": "630e246561edd103e0aabaea6294a1d36e3d8cd2",
+        "title": "Highlight Video Maker",
+        "url": "https://pollo.ai/app/highlight-video-maker",
+        "canonicalKey": "pollo.ai/app/highlight-video-maker"
+      },
+      {
+        "id": "95a2a5519ca74080b7253bc962838d0c8a8df4ab",
+        "title": "AI Tiktok Video Generator",
+        "url": "https://pollo.ai/app/ai-tiktok-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-tiktok-video-generator"
+      },
+      {
+        "id": "01c212a3e53f6b839626ae19ce44a2c076ffd200",
+        "title": "AI Youtube Shorts Generator",
+        "url": "https://pollo.ai/app/ai-youtube-shorts-generator",
+        "canonicalKey": "pollo.ai/app/ai-youtube-shorts-generator"
+      },
+      {
+        "id": "d0154334cfb4c9d3d4513ccfe0d56760ccf85bdb",
+        "title": "AI Product Demo Video Maker",
+        "url": "https://pollo.ai/app/ai-product-demo-video-maker",
+        "canonicalKey": "pollo.ai/app/ai-product-demo-video-maker"
+      },
+      {
+        "id": "e7bc1d42970bbfa2b645022639d2333e5941637e",
+        "title": "AI Training Video Generator",
+        "url": "https://pollo.ai/app/ai-training-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-training-video-generator"
+      },
+      {
+        "id": "d934ecb37b5775050af107923abd456975d0e4ab",
+        "title": "Video Presentation Maker",
+        "url": "https://pollo.ai/app/video-presentation-maker",
+        "canonicalKey": "pollo.ai/app/video-presentation-maker"
+      },
+      {
+        "id": "f6310313c815c41c81cfb6f1cd3659d5caff454f",
+        "title": "Mimic Motion",
+        "url": "https://pollo.ai/mimic-motion",
+        "canonicalKey": "pollo.ai/mimic-motion"
+      },
+      {
+        "id": "81f4ca2443ec66c65b0c5c8cc2193404cd7ab953",
+        "title": "Instagram Video Maker",
+        "url": "https://pollo.ai/app/instagram-video-maker",
+        "canonicalKey": "pollo.ai/app/instagram-video-maker"
+      }
+    ],
+    "Artlist": [
+      {
+        "id": "764870a2105937796bdad50b131902e22ecc4116",
+        "title": "Music Generator",
+        "url": "https://artlist.io/ai/music-generator",
+        "canonicalKey": "artlist.io/ai/music-generator"
+      },
+      {
+        "id": "bf9d70c9abb2cc31b4495d83231190013a6460ba",
+        "title": "Image Generator",
+        "url": "https://artlist.io/ai/image-generator",
+        "canonicalKey": "artlist.io/ai/image-generator"
+      },
+      {
+        "id": "13b622234896e0d99500ad12790c4a9521f4ea38",
+        "title": "Video Generator",
+        "url": "https://artlist.io/ai/video-generator",
+        "canonicalKey": "artlist.io/ai/video-generator"
+      },
+      {
+        "id": "b2f7f4c19a860ff3e5d3204c1ea6642b2dfa865f",
+        "title": "Voice Generator",
+        "url": "https://artlist.io/ai/voice-generator",
+        "canonicalKey": "artlist.io/ai/voice-generator"
+      },
+      {
+        "id": "1e9552059048c7dbc50b96ddac3ee4e9f2fc8b73",
+        "title": "Voice Over Generator",
+        "url": "https://toolkit.artlist.io/voice-over-generator",
+        "canonicalKey": "toolkit.artlist.io/voice-over-generator"
+      },
+      {
+        "id": "83fae6e05f2de090ca5827c389d081bcfdbdd333",
+        "title": "Avatars",
+        "url": "https://artlist.io/ai/avatars",
+        "canonicalKey": "artlist.io/ai/avatars"
+      },
+      {
+        "id": "bf720b7e7cebbe257962b55977e4543e443e7f5b",
+        "title": "Lipsync",
+        "url": "https://artlist.io/artlist.io/ai/lipsync",
+        "canonicalKey": "artlist.io/artlist.io/ai/lipsync"
+      },
+      {
+        "id": "42ae5f5e7cb009c9dd6935f9a46d1f34381167e9",
+        "title": "Dubbing",
+        "url": "https://artlist.io/ai/dubbing",
+        "canonicalKey": "artlist.io/ai/dubbing"
+      },
+      {
+        "id": "8b562305a644fae442334e2049faed3a0cc89928",
+        "title": "GPT Image 2",
+        "url": "https://artlist.io/ai/models/gpt-image-2",
+        "canonicalKey": "artlist.io/ai/models/gpt-image-2"
+      },
+      {
+        "id": "e0294720b145b4b9158613224b8a28f500456f6c",
+        "title": "29489082949405 A Free Trial Explained",
+        "url": "https://help.artlist.io/hc/en-us/articles/29489082949405-A-free-Trial-explained",
+        "canonicalKey": "help.artlist.io/hc/en-us/articles/29489082949405-a-free-trial-explained"
+      },
+      {
+        "id": "3dcd30df6c3c96655f06700cba9bcb29606778d0",
+        "title": "Lipsync",
+        "url": "https://artlist.io/ai/lipsync",
+        "canonicalKey": "artlist.io/ai/lipsync"
+      },
+      {
+        "id": "ecccbf983dba3528b4438799106e717e6e35bb09",
+        "title": "33334572931997 AI Plans",
+        "url": "https://help.artlist.io/hc/en-us/sections/33334572931997-AI-Plans",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/33334572931997-ai-plans"
+      },
+      {
+        "id": "0e5a42081e5286e9ce3d310798462b1d368fd266",
+        "title": "33334424159005 AI Toolkit",
+        "url": "https://help.artlist.io/hc/en-us/categories/33334424159005-AI-Toolkit",
+        "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
+      },
+      {
+        "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
+        "title": "Seedream 5 0",
+        "url": "https://artlist.io/ai/models/seedream-5-0",
+        "canonicalKey": "artlist.io/ai/models/seedream-5-0"
+      },
+      {
+        "id": "e6d2f4f8dcfb0be6b4a14a89000985c888f97b1e",
+        "title": "Studio",
+        "url": "https://artlist.io/studio",
+        "canonicalKey": "artlist.io/studio"
+      },
+      {
+        "id": "9a899ceffcf7ac7f1c839d2c9afb5987f3b7890e",
+        "title": "33334513271581 AI Image And Video",
+        "url": "https://help.artlist.io/hc/en-us/sections/33334513271581-AI-Image-and-Video",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/33334513271581-ai-image-and-video"
+      },
+      {
+        "id": "c01a15610b2424924c2df7ad3c4994b69a98ebd9",
+        "title": "33334526950301 AI Voiceover",
+        "url": "https://help.artlist.io/hc/en-us/sections/33334526950301-AI-Voiceover",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/33334526950301-ai-voiceover"
+      },
+      {
+        "id": "9c52ad486a8c50d755a84ab4505ab22c36d190b2",
+        "title": "34885548541469 AI Music",
+        "url": "https://help.artlist.io/hc/en-us/sections/34885548541469-AI-Music",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/34885548541469-ai-music"
+      },
+      {
+        "id": "c96a1965108c958e78cc14d3e0f6f997c73bd695",
+        "title": "33334550497181 AI Models",
+        "url": "https://help.artlist.io/hc/en-us/sections/33334550497181-AI-Models",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/33334550497181-ai-models"
+      }
     ]
   }
 }
