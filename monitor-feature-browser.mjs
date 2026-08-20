@@ -98,6 +98,7 @@ const HARD_REJECT_PATH_KEYWORDS = [
   "academy",
   "contests",
   "projects",
+  "home",
   "pricing",
   "contact",
   "about",
@@ -206,9 +207,8 @@ const SOURCES = [
       "mcp"
     ],
     sitemapIncludePaths: [
-      "^/apps(?:/[^/]+)?/?$",
       "^/plugins(?:/[^/]+)?/?$",
-      "^/(?:supercomputer|canvas|canvas-intro|mcp|marketing-studio|marketing-studio-intro|cinematic-video-generator|ai-image|ai-video|ai-influencer-studio|app-builder-intro)/?$"
+      "^/(?:supercomputer|supercomputer-intro|canvas|canvas-intro|mcp|marketing-studio|marketing-studio-intro|cinematic-video-generator|generate|ai-image|ai-video|ai-influencer-studio|app-builder-intro|ai-assist|lipsync-studio|upscale|character|edit)/?$"
     ],
     rejectKeywords: ["blog", "pricing", "contact", "about", "careers", "jobs", "privacy", "terms"],
     maxItems: 120
@@ -274,6 +274,10 @@ const SOURCES = [
     seedUrls: ["https://deevid.ai/", "https://deevid.ai/explore"],
     allowedHosts: ["deevid.ai", "www.deevid.ai"],
     pathKeywords: ["explore", "ai-video", "video", "tool", "tools", "app", "apps", "create", "generator", "template", "templates", "effect", "effects", "avatar", "voice", "music", "image"],
+    pageIncludePaths: [
+      "^/(?:reference-to-video|image-to-video|text-to-video|ai-image-generator|ai-image-editor|ai-video-editor|ai-avatar|ai-music-generator|text-to-speech|ai-video-tools|ai-ad|viral-video-clone)/?$",
+      "^/app/explore/[^/]+/?$"
+    ],
     rejectKeywords: ["blog", "pricing", "contact", "about", "privacy", "terms"],
     maxItems: 140
   },
@@ -283,7 +287,7 @@ const SOURCES = [
     allowedHosts: ["topview.ai", "www.topview.ai"],
     pathKeywords: ["motion", "motion-studio", "video-agent", "ai-video", "ai-image", "ai-avatar", "ai-audio", "tool", "tools", "feature", "features", "studio", "generator", "board", "ads", "image", "audio"],
     sitemapIncludePaths: [
-      "^/(?:motion-studio|drama-studio|board|canvas|topview-skill|ai-image-generator|ai-video-generator|ai-avatar|ai-audio|video-character-swap|video-upscale|motion-control|inpaint|image-character-swap|image-face-swap|image-upscale|photo-angle-editor|virtual-try-on|product-photography|voiceover)/?$"
+      "^/(?:motion-studio|film-studio|drama-studio|board|canvas|topview-skill|ai-image-generator|ai-video-generator|ai-avatar|ai-audio|video-character-swap|video-upscale|motion-control|inpaint|image-character-swap|image-face-swap|image-upscale|photo-angle-editor|virtual-try-on|product-photography|voiceover)/?$"
     ],
     rejectKeywords: ["blog", "pricing", "contact", "about", "privacy", "terms"],
     maxItems: 160
@@ -390,7 +394,7 @@ function canonicalPageKey(url) {
     const hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
     let pathname = stripLocalePath(parsed.pathname.toLowerCase()).replace(/\/+$/, "");
     if (!pathname) pathname = "/";
-    return `${hostname}${pathname}${parsed.search}`;
+    return `${hostname}${pathname}`;
   } catch {
     return normalizeUrl(url);
   }
@@ -438,11 +442,16 @@ function matchesPathPatterns(pathname, patterns = []) {
   return patterns.some((pattern) => new RegExp(pattern, "i").test(normalized));
 }
 
+function includePatternsFor(source) {
+  return source.pageIncludePaths || source.sitemapIncludePaths || [];
+}
+
 function shouldKeepSitemapCandidate(candidate, source) {
   try {
     const parsed = new URL(candidate.url);
     const pathname = parsed.pathname.toLowerCase();
-    if (source.sitemapIncludePaths?.length && !matchesPathPatterns(pathname, source.sitemapIncludePaths)) {
+    const patterns = source.sitemapIncludePaths || source.pageIncludePaths || [];
+    if (patterns.length && !matchesPathPatterns(pathname, patterns)) {
       return false;
     }
   } catch {
@@ -478,6 +487,10 @@ function shouldKeepCandidate(candidate, source) {
   try {
     const parsed = new URL(url);
     const pathname = parsed.pathname.toLowerCase();
+    const patterns = includePatternsFor(source);
+    if (parsed.search) return false;
+    if (pathname === "/" || stripLocalePath(pathname) === "/") return false;
+    if (patterns.length && !matchesPathPatterns(pathname, patterns)) return false;
     if (ASSET_PATH_RE.test(pathname)) return false;
     if (isHardRejectedPath(pathname, source)) return false;
     const candidateCopy = { ...candidate, url, pathname };
@@ -488,7 +501,7 @@ function shouldKeepCandidate(candidate, source) {
 }
 
 function itemId(item) {
-  return crypto.createHash("sha1").update(item.canonicalKey || `${item.title}|${item.url}`).digest("hex");
+  return crypto.createHash("sha1").update(item.canonicalKey || canonicalPageKey(item.url)).digest("hex");
 }
 
 function titleFromUrl(url) {
@@ -645,9 +658,9 @@ async function extractItemsFromPage(page, source) {
   const deduped = new Map();
   for (const anchor of anchors) {
     if (anchor.navLike) continue;
-    const title = normalizeText(anchor.text);
     const url = normalizeUrl(anchor.href);
-    if (!url || !title) continue;
+    if (!url) continue;
+    const title = titleFromUrl(url);
 
     const candidate = {
       title,
@@ -658,12 +671,13 @@ async function extractItemsFromPage(page, source) {
 
     if (!shouldKeepCandidate(candidate, source)) continue;
 
-    const id = itemId(candidate);
-    if (!deduped.has(id)) {
-      deduped.set(id, {
-        id,
+    const canonicalKey = canonicalPageKey(candidate.url);
+    if (!deduped.has(canonicalKey)) {
+      deduped.set(canonicalKey, {
+        id: itemId({ ...candidate, canonicalKey }),
         title: candidate.title,
-        url: candidate.url
+        url: candidate.url,
+        canonicalKey
       });
     }
   }
@@ -717,7 +731,8 @@ async function scrapeSource(browser, source) {
 
 function diffNewItems(previousItems, currentItems) {
   const previousIds = new Set((previousItems || []).map((item) => item.id));
-  return currentItems.filter((item) => !previousIds.has(item.id));
+  const previousKeys = new Set((previousItems || []).map((item) => item.canonicalKey || canonicalPageKey(item.url)));
+  return currentItems.filter((item) => !previousIds.has(item.id) && !previousKeys.has(item.canonicalKey || canonicalPageKey(item.url)));
 }
 
 function renderDingTalkText(items, generatedAt) {
