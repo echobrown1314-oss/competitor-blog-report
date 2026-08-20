@@ -1,0 +1,1622 @@
+{
+  "snapshots": {
+    "Higgsfield": [
+      {
+        "id": "f4e132ca478521c0bd51eefe0f7cbaa9dd4e0e0a",
+        "title": "Apps",
+        "url": "https://higgsfield.ai/apps",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps"
+      },
+      {
+        "id": "1025451940508462993d47dc10b293e47c566a5d",
+        "title": "Marketing Studio Intro",
+        "url": "https://higgsfield.ai/marketing-studio-intro",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/marketing-studio-intro"
+      },
+      {
+        "id": "0a20d77b00c136516d9699871b241dbaa55b5cf4",
+        "title": "App Builder Intro",
+        "url": "https://higgsfield.ai/app-builder-intro",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/app-builder-intro"
+      },
+      {
+        "id": "8007f17ba1269523eb61e54d19ca72addc2ed2c7",
+        "title": "AI Influencer Studio",
+        "url": "https://higgsfield.ai/ai-influencer-studio",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/ai-influencer-studio"
+      },
+      {
+        "id": "10adb9d272266e6dba996d598b12c8ed995091b6",
+        "title": "Angles",
+        "url": "https://higgsfield.ai/apps/angles",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/angles"
+      },
+      {
+        "id": "74aec5f6a81b30b8681dbef3a97c65a21da509f7",
+        "title": "Whats Next",
+        "url": "https://higgsfield.ai/apps/whats-next",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/whats-next"
+      },
+      {
+        "id": "9fb60b8110c4347fdfda9f6bcf2da956dde5a4f2",
+        "title": "AI Stylist",
+        "url": "https://higgsfield.ai/apps/ai-stylist",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/ai-stylist"
+      },
+      {
+        "id": "2d2455d81baa2a8f1460e66aa14a7733be38af74",
+        "title": "Relight",
+        "url": "https://higgsfield.ai/apps/relight",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/relight"
+      },
+      {
+        "id": "50f2e6dc1e2f9f57b02cccddb5fbe3db8aed4543",
+        "title": "Shots",
+        "url": "https://higgsfield.ai/apps/shots",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/shots"
+      },
+      {
+        "id": "d65bbde09fa8b42d73ceedaff79194b6481f82ac",
+        "title": "Zooms",
+        "url": "https://higgsfield.ai/apps/zooms",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/zooms"
+      },
+      {
+        "id": "5cf4097494d0a616a17b406f9ef939bc03587e63",
+        "title": "Skin Enhancer",
+        "url": "https://higgsfield.ai/apps/skin-enhancer",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/skin-enhancer"
+      },
+      {
+        "id": "fdd381a56c76dd2f5da769995fdd0675eb00fb3e",
+        "title": "Clipcut",
+        "url": "https://higgsfield.ai/apps/clipcut",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/clipcut"
+      },
+      {
+        "id": "a271efc17dca26926e66f3fe8f6d38f60800aa80",
+        "title": "Behind The Scenes",
+        "url": "https://higgsfield.ai/apps/behind-the-scenes",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/behind-the-scenes"
+      },
+      {
+        "id": "c09d46c61a5b3c2a953fc8a680c5228422b3b981",
+        "title": "Urban Cuts",
+        "url": "https://higgsfield.ai/apps/urban-cuts",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/urban-cuts"
+      },
+      {
+        "id": "c173cdda2e9b5c57512b0149dcd0100afdcb38df",
+        "title": "Sticker Matchcut",
+        "url": "https://higgsfield.ai/apps/sticker-matchcut",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/sticker-matchcut"
+      },
+      {
+        "id": "b6808c4b110164311dd42cefed752d986787e851",
+        "title": "Outfit Swap",
+        "url": "https://higgsfield.ai/apps/outfit-swap",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/outfit-swap"
+      },
+      {
+        "id": "f5d9464079481711cdac55e24dc3a7113d286dfa",
+        "title": "Game Dump",
+        "url": "https://higgsfield.ai/apps/game-dump",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/game-dump"
+      },
+      {
+        "id": "0cfb202c5a658889f7544e1fe797d3865be26481",
+        "title": "Style Snap",
+        "url": "https://higgsfield.ai/apps/style-snap",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/style-snap"
+      },
+      {
+        "id": "d391be3a79a04d473eb8cb190054afec84d7d124",
+        "title": "Paint App",
+        "url": "https://higgsfield.ai/apps/paint-app",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/paint-app"
+      },
+      {
+        "id": "399c0dd40174261d631211c9ff9233a21f3e1ecc",
+        "title": "Nano Strike",
+        "url": "https://higgsfield.ai/apps/nano-strike",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/nano-strike"
+      },
+      {
+        "id": "f15effec90594277d34e6ae6ede012813c132956",
+        "title": "Nano Theft",
+        "url": "https://higgsfield.ai/apps/nano-theft",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/nano-theft"
+      },
+      {
+        "id": "6edd18488597fe209bb67bbd7c66b1ffa292de9e",
+        "title": "Breakdown",
+        "url": "https://higgsfield.ai/apps/breakdown",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/breakdown"
+      },
+      {
+        "id": "179319387b6c775d8b0859f0cc023322bd6bb213",
+        "title": "Simlife",
+        "url": "https://higgsfield.ai/apps/simlife",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/simlife"
+      },
+      {
+        "id": "b421462259a0d66290f8d9039fb75d88cefa995e",
+        "title": "Japanese Show",
+        "url": "https://higgsfield.ai/apps/japanese-show",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/japanese-show"
+      },
+      {
+        "id": "8aa0e8191120c18cc24801e6c874aeebce2a6d22",
+        "title": "Vending Machine",
+        "url": "https://higgsfield.ai/apps/vending-machine",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/vending-machine"
+      },
+      {
+        "id": "174f6a184316018170be886dc2308bb8bc84a1cd",
+        "title": "Signboard",
+        "url": "https://higgsfield.ai/apps/signboard",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/signboard"
+      },
+      {
+        "id": "0c422e5624a22987053a1d8782540a29a04b16c2",
+        "title": "Glitter Sticker",
+        "url": "https://higgsfield.ai/apps/glitter-sticker",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/glitter-sticker"
+      },
+      {
+        "id": "fcd8c7d2e2929846e52660b2d9bbc0b4e7e9c647",
+        "title": "Plushies",
+        "url": "https://higgsfield.ai/apps/plushies",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/plushies"
+      },
+      {
+        "id": "95230817215b19de03349214e5542438e996d377",
+        "title": "Click To Ad",
+        "url": "https://higgsfield.ai/apps/click-to-ad",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/click-to-ad"
+      },
+      {
+        "id": "810ed021cbb2ddf5fae47abadbbdcf7f6919f4a1",
+        "title": "Surrounded By Animals",
+        "url": "https://higgsfield.ai/apps/surrounded-by-animals",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/surrounded-by-animals"
+      },
+      {
+        "id": "de288a064bc6d8d7bdedc00505c9442e6f2fc8f8",
+        "title": "Transitions",
+        "url": "https://higgsfield.ai/apps/transitions",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/transitions"
+      },
+      {
+        "id": "2befe594239ffebe2ac0f2dc2ec5e0c669b58965",
+        "title": "Recast",
+        "url": "https://higgsfield.ai/apps/recast",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/recast"
+      },
+      {
+        "id": "770acd04aabdd9f7de68eba5b76bc92d49346ce7",
+        "title": "Character Swap",
+        "url": "https://higgsfield.ai/apps/character-swap",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/character-swap"
+      },
+      {
+        "id": "4361c000b3e3ba731474fb282339f0c4968c7722",
+        "title": "Face Swap",
+        "url": "https://higgsfield.ai/apps/face-swap",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/face-swap"
+      },
+      {
+        "id": "352a0b65f4895c03cc12857898aa0b099c1f59f0",
+        "title": "Commercial Faces",
+        "url": "https://higgsfield.ai/apps/commercial-faces",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/commercial-faces"
+      },
+      {
+        "id": "8dcb8eee3658813ad1c49f28e9a3d4bfa3433d9b",
+        "title": "Asmr Add On",
+        "url": "https://higgsfield.ai/apps/asmr-add-on",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/asmr-add-on"
+      },
+      {
+        "id": "77b202d01c40f10746536bc18d3aacef31c6afa9",
+        "title": "Asmr Classic",
+        "url": "https://higgsfield.ai/apps/asmr-classic",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/asmr-classic"
+      },
+      {
+        "id": "e2ca9f3ee71fffd942d585a572f469438b874cbd",
+        "title": "Poster",
+        "url": "https://higgsfield.ai/apps/poster",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/poster"
+      },
+      {
+        "id": "ef678d9b9aae19fd61b3ed0bfd4225cc9dcbee7b",
+        "title": "Video Face Swap",
+        "url": "https://higgsfield.ai/apps/video-face-swap",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/video-face-swap"
+      },
+      {
+        "id": "535fcfe6f0c47a4d18cc0201db6fec8c756b6a8e",
+        "title": "3d Render",
+        "url": "https://higgsfield.ai/apps/3d-render",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/3d-render"
+      },
+      {
+        "id": "22b94ec894f8b1b622892cfa69276bb5741b3891",
+        "title": "Bullet Time Scene",
+        "url": "https://higgsfield.ai/apps/bullet-time-scene",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/bullet-time-scene"
+      },
+      {
+        "id": "503cd1712ce128cf9de14474aae974fdcfacc1d4",
+        "title": "Chameleon",
+        "url": "https://higgsfield.ai/apps/chameleon",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/chameleon"
+      },
+      {
+        "id": "439fb20664e1808dc9ed01d22444a9b828bafccb",
+        "title": "Asmr Host",
+        "url": "https://higgsfield.ai/apps/asmr-host",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/asmr-host"
+      },
+      {
+        "id": "ef7d667f767257a4bcc168c66d8f69a70940602c",
+        "title": "3d Figure",
+        "url": "https://higgsfield.ai/apps/3d-figure",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/3d-figure"
+      },
+      {
+        "id": "ea97ab83e94740d8b570cad21a62a2f3b0f18b1c",
+        "title": "Asmr Promo",
+        "url": "https://higgsfield.ai/apps/asmr-promo",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/asmr-promo"
+      },
+      {
+        "id": "c5933b7860467cdf9899a010209e565fefa42f70",
+        "title": "Packshot",
+        "url": "https://higgsfield.ai/apps/packshot",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/packshot"
+      },
+      {
+        "id": "793c6929e9b005e35a4625890265eb59ea57478e",
+        "title": "Macroshot Scene",
+        "url": "https://higgsfield.ai/apps/macroshot-scene",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/macroshot-scene"
+      },
+      {
+        "id": "d7030b504a94b54e11eeee722eff90352ef8486c",
+        "title": "Magic Button",
+        "url": "https://higgsfield.ai/apps/magic-button",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/magic-button"
+      },
+      {
+        "id": "1fb514734b96c5287a7a7547462698b12c8aa838",
+        "title": "Truck Ad",
+        "url": "https://higgsfield.ai/apps/truck-ad",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/truck-ad"
+      },
+      {
+        "id": "c8d9918b004c5d60e96997ff41f0d2b87c3f8633",
+        "title": "Giant Product",
+        "url": "https://higgsfield.ai/apps/giant-product",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/giant-product"
+      },
+      {
+        "id": "c984e43543b8ffabc54cfcfe9d095e1e2afb49c7",
+        "title": "Outfit Shot",
+        "url": "https://higgsfield.ai/apps/outfit-shot",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/outfit-shot"
+      },
+      {
+        "id": "08f7769adb6fabcdf1a6737213161e45c9410c9a",
+        "title": "Yes Kiss",
+        "url": "https://higgsfield.ai/apps/yes-kiss",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/yes-kiss"
+      },
+      {
+        "id": "f64d633c054e2639708807ff155c9de9e040326e",
+        "title": "Bullet Time White",
+        "url": "https://higgsfield.ai/apps/bullet-time-white",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/bullet-time-white"
+      },
+      {
+        "id": "071a75302b49f366bc5d5c55ea2b1e4262d66a34",
+        "title": "Kick Ad",
+        "url": "https://higgsfield.ai/apps/kick-ad",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/kick-ad"
+      },
+      {
+        "id": "ba9ee5f4ef2c515f2534a9d76a8406c5d8f0f2b0",
+        "title": "Billboard",
+        "url": "https://higgsfield.ai/apps/billboard",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/billboard"
+      },
+      {
+        "id": "c8bb4dff61f0565be52bcde30ad1cc68da668a7e",
+        "title": "Graffiti Ad",
+        "url": "https://higgsfield.ai/apps/graffiti-ad",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/graffiti-ad"
+      },
+      {
+        "id": "5cb9ce324b1cc1fe3e34be9024646e3ece85e5f7",
+        "title": "Bullet Time Splash",
+        "url": "https://higgsfield.ai/apps/bullet-time-splash",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/bullet-time-splash"
+      },
+      {
+        "id": "0032a2a86742b21b11cfe2fe902ae2c1337c5bb2",
+        "title": "Fridge Ad",
+        "url": "https://higgsfield.ai/apps/fridge-ad",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/fridge-ad"
+      },
+      {
+        "id": "8c0b32bd7b7e9f3a00c5304c7d9c1ba55dafda80",
+        "title": "Volcano Ad",
+        "url": "https://higgsfield.ai/apps/volcano-ad",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/volcano-ad"
+      },
+      {
+        "id": "afa0d739e97ddaeb3b950dc1070d6fb61ae68756",
+        "title": "Macroshot Product",
+        "url": "https://higgsfield.ai/apps/macroshot-product",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/macroshot-product"
+      },
+      {
+        "id": "cf81ee280d85adf179e529df793d389cd392bb75",
+        "title": "Latex",
+        "url": "https://higgsfield.ai/apps/latex",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/latex"
+      },
+      {
+        "id": "283b69751105b7640500089e32db92ece5ee5275",
+        "title": "Pixel Game",
+        "url": "https://higgsfield.ai/apps/pixel-game",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/pixel-game"
+      },
+      {
+        "id": "661d03907a2624e8fd4bc97331c01937827b060e",
+        "title": "Gtai",
+        "url": "https://higgsfield.ai/apps/gtai",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/gtai"
+      },
+      {
+        "id": "19b3501de73d0d592043bab2512dd32ff1e23f1a",
+        "title": "J Magazine",
+        "url": "https://higgsfield.ai/apps/j-magazine",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/j-magazine"
+      },
+      {
+        "id": "724689bc742d46948d7cc0fe38dc3259a4648ae7",
+        "title": "Roller Coaster",
+        "url": "https://higgsfield.ai/apps/roller-coaster",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/roller-coaster"
+      },
+      {
+        "id": "7bca35a8909312a9b8d42303881ff650032b9727",
+        "title": "Brick Cube",
+        "url": "https://higgsfield.ai/apps/brick-cube",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/brick-cube"
+      },
+      {
+        "id": "6db521ef14b3e5ff8e699e0e2f5e593bf59f108d",
+        "title": "60s Cafe",
+        "url": "https://higgsfield.ai/apps/60s-cafe",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/60s-cafe"
+      },
+      {
+        "id": "d6945a0f60cfe75c3a315ce91f3c0848bdf80568",
+        "title": "Victory Card",
+        "url": "https://higgsfield.ai/apps/victory-card",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/victory-card"
+      },
+      {
+        "id": "5db7185fe1fadf453e6a12ed1ad895c06c996c41",
+        "title": "Sand Worm",
+        "url": "https://higgsfield.ai/apps/sand-worm",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/sand-worm"
+      },
+      {
+        "id": "6eb75745ceac484375a2d71167bb4d3836d98043",
+        "title": "Skibidi",
+        "url": "https://higgsfield.ai/apps/skibidi",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/skibidi"
+      },
+      {
+        "id": "9123dd851e951dfcadafb8d544cdb9614578bbc0",
+        "title": "J Poster",
+        "url": "https://higgsfield.ai/apps/j-poster",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/j-poster"
+      },
+      {
+        "id": "ea2a26e14eff7cb80ee0325c642e6a2d75a8fae8",
+        "title": "Mascot",
+        "url": "https://higgsfield.ai/apps/mascot",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/mascot"
+      },
+      {
+        "id": "73f8b74d9afd87446e6f223756886d29f7dcf29a",
+        "title": "Storm Creature",
+        "url": "https://higgsfield.ai/apps/storm-creature",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/storm-creature"
+      },
+      {
+        "id": "d367bfe95089614eb76392f9355803e81f818e7f",
+        "title": "3d Rotation",
+        "url": "https://higgsfield.ai/apps/3d-rotation",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/3d-rotation"
+      },
+      {
+        "id": "7d99dad03fcb27eca38307832c8bbbd1a8b9075b",
+        "title": "Burning Sunset",
+        "url": "https://higgsfield.ai/apps/burning-sunset",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/burning-sunset"
+      },
+      {
+        "id": "d8b37f6994ce41998b0bcfd8fdf5583769ca3329",
+        "title": "Sketch To Real",
+        "url": "https://higgsfield.ai/apps/sketch-to-real",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/sketch-to-real"
+      },
+      {
+        "id": "748d922459feebc1c6ac767f55b88099a66d557e",
+        "title": "This Is Fine",
+        "url": "https://higgsfield.ai/apps/this-is-fine",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/this-is-fine"
+      },
+      {
+        "id": "0d153aae4a271cfdc20fdfa85ad8dda62c7c3564",
+        "title": "Comic Book",
+        "url": "https://higgsfield.ai/apps/comic-book",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/comic-book"
+      },
+      {
+        "id": "dfddad97e2e306ff569ca13ab0bb16afb6d27cfa",
+        "title": "Cloud Surf",
+        "url": "https://higgsfield.ai/apps/cloud-surf",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/cloud-surf"
+      },
+      {
+        "id": "07b12483999e252b8e6c020f961fb37a10f2b8d5",
+        "title": "Mukbang",
+        "url": "https://higgsfield.ai/apps/mukbang",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/mukbang"
+      },
+      {
+        "id": "1a93e7e05f1da62a745e65122563e36509ba14c2",
+        "title": "Melting Doodle",
+        "url": "https://higgsfield.ai/apps/melting-doodle",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/melting-doodle"
+      },
+      {
+        "id": "fa19189b4b34d59f50af05faad5ee8ae7df04c8c",
+        "title": "Giallo Horror",
+        "url": "https://higgsfield.ai/apps/giallo-horror",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/giallo-horror"
+      },
+      {
+        "id": "3a67f925597f9cd6ec2da0bf8e8562dc50dd8750",
+        "title": "Renaissance",
+        "url": "https://higgsfield.ai/apps/renaissance",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/renaissance"
+      },
+      {
+        "id": "1a686b60c93382161b2f03204b428f1dbc0406af",
+        "title": "Rapgod",
+        "url": "https://higgsfield.ai/apps/rapgod",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/rapgod"
+      },
+      {
+        "id": "33387b7b3670635ece6795294efad3d9eaebf2db",
+        "title": "Mugshot",
+        "url": "https://higgsfield.ai/apps/mugshot",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/mugshot"
+      },
+      {
+        "id": "0dda6c1028eabf1019c21ea7302f59b88dcbe79e",
+        "title": "Ghoulgao",
+        "url": "https://higgsfield.ai/apps/ghoulgao",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/ghoulgao"
+      },
+      {
+        "id": "349f9be77766b1614ab0a40defbac926b8f54883",
+        "title": "Social Media Icon",
+        "url": "https://higgsfield.ai/apps/social-media-icon",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/social-media-icon"
+      },
+      {
+        "id": "3edc36cc5fc57eacd8a98bc0f8ec4f63d67c0030",
+        "title": "Idol",
+        "url": "https://higgsfield.ai/apps/idol",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/idol"
+      },
+      {
+        "id": "008ded2a4830260f6658a637c094bafcc2ed2517",
+        "title": "Banana Eating",
+        "url": "https://higgsfield.ai/apps/banana-eating",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/banana-eating"
+      },
+      {
+        "id": "b828b89dc59ca984a8ed327a89d51c593aeaf59c",
+        "title": "Meme Generator",
+        "url": "https://higgsfield.ai/apps/meme-generator",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/meme-generator"
+      },
+      {
+        "id": "2653979b57b8363fe968f09a762ddd38557c15e0",
+        "title": "AI Headshot Generator",
+        "url": "https://higgsfield.ai/apps/ai-headshot-generator",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/ai-headshot-generator"
+      },
+      {
+        "id": "238e5a1d98aefd676b340d5aac1ab253a61c1b00",
+        "title": "Expand Image",
+        "url": "https://higgsfield.ai/apps/expand-image",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/expand-image"
+      },
+      {
+        "id": "562ae5b879bca8567522ff70b9dae7603d465b5a",
+        "title": "Video Background Remover",
+        "url": "https://higgsfield.ai/apps/video-background-remover",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/video-background-remover"
+      },
+      {
+        "id": "98780492038d5c3b274bedee4ed0b987a60979b9",
+        "title": "Image Background Remover",
+        "url": "https://higgsfield.ai/apps/image-background-remover",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/image-background-remover"
+      },
+      {
+        "id": "67b590881a3d47b76dae770fd52bd5c4c46f352c",
+        "title": "Color Grading",
+        "url": "https://higgsfield.ai/apps/color-grading",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/color-grading"
+      },
+      {
+        "id": "fad4ab05befb2961f774cb30c36e494ca4aaa2a6",
+        "title": "Virality Predictor",
+        "url": "https://higgsfield.ai/apps/virality-predictor",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/virality-predictor"
+      },
+      {
+        "id": "fa7026d903861805652fb4b0f40e8ad89c3b844d",
+        "title": "Camera Motion",
+        "url": "https://higgsfield.ai/apps/camera-motion",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/camera-motion"
+      },
+      {
+        "id": "d074761ce2c40275542e0094411cee536be7302c",
+        "title": "Enhance Style",
+        "url": "https://higgsfield.ai/apps/enhance-style",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/enhance-style"
+      },
+      {
+        "id": "701c96c62c2637ca18b754220468342d13e845a9",
+        "title": "Face Identity",
+        "url": "https://higgsfield.ai/apps/face-identity",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/face-identity"
+      },
+      {
+        "id": "334c55741db2ffafd6476edec17fec8544f649ee",
+        "title": "Video Editing",
+        "url": "https://higgsfield.ai/apps/video-editing",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/video-editing"
+      },
+      {
+        "id": "8662566e2d4f87d2c5847cf2b99cd3096e70ceda",
+        "title": "Ads Products",
+        "url": "https://higgsfield.ai/apps/ads-products",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/ads-products"
+      },
+      {
+        "id": "e3a1e6cce00c221c3a9b54f478a171aa5d17a745",
+        "title": "Games Characters",
+        "url": "https://higgsfield.ai/apps/games-characters",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/games-characters"
+      },
+      {
+        "id": "5a49855ee3a7c92e7cd35042ba63a3723837c6db",
+        "title": "Extras",
+        "url": "https://higgsfield.ai/apps/extras",
+        "lastmod": "",
+        "canonicalKey": "higgsfield.ai/apps/extras"
+      },
+      {
+        "id": "8069ee83d46e8ffac7f1c6b50ad49dc030dac843",
+        "title": "Higgsfield",
+        "url": "https://higgsfield.ai/"
+      },
+      {
+        "id": "080da3a05ee2a64e0775cace83420b1cea86873f",
+        "title": "Open Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio"
+      },
+      {
+        "id": "f53c012c49b7d8b6541e759670a2822fe00a5006",
+        "title": "Seedance 2.5The most advanced video modelAvailable now",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_5&resolution=1080p"
+      },
+      {
+        "id": "74912bdac3af8687c39a2a02ec916abaab16bab1",
+        "title": "Seedance 2.0Create high-quality videosVideo",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_2_0"
+      },
+      {
+        "id": "c585468102490aeedda8e4bed7b6f3e56ebd34a1",
+        "title": "SupercomputerAutomation, skills, apps and more",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "e0c8914971bf7be3900fc2b62485d4d1c82deff6",
+        "title": "MCP & CLITurn Claude into a creative engine",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
+        "id": "1f1e8873162668e40cb539ce73a56388dcb2ca13",
+        "title": "Cinema Studio 4.0NewCreate cinematic scenes effortlessly",
+        "url": "https://higgsfield.ai/generate"
+      },
+      {
+        "id": "aff186897ef8dbfb621cb2834554382a8d9baade",
+        "title": "SupercomputerOne superagent for your entire creative stackTry Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer"
+      },
+      {
+        "id": "56d7efcad55152ef08f65b0f071bd4ae585c4094",
+        "title": "New featureONE CANVAS.EVERY WORKFLOW.Moodboard, chain workflows, and sharewith your team - all on one canvasTry Canvas",
+        "url": "https://higgsfield.ai/canvas-intro"
+      },
+      {
+        "id": "8a2a5a6eb412804f99ea99902eabc31133ef19e7",
+        "title": "New featureONE CANVAS.EVERY WORKFLOW.Moodboard, chain workflows, and sharewith your team - all on one canvasTry Canvas",
+        "url": "https://higgsfield.ai/canvas"
+      },
+      {
+        "id": "6b48cab748292bc932b4c65e089a0cf8a37546ce",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-community"
+      },
+      {
+        "id": "9eebc1ff593da179f5f7c959b2b90a963e68e3ae",
+        "title": "View all of Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio-community"
+      },
+      {
+        "id": "fed75cc92f5e867e95dc797230ec7b3a9baf60a6",
+        "title": "Cinema Studio",
+        "url": "https://higgsfield.ai/cinematic-video-generator"
+      },
+      {
+        "id": "29264350ea7fd7eca228a0cca0027291413ad528",
+        "title": "Visual Effects",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "53dffad0afa74a6473f54a4e13904920a8e871b6",
+        "title": "Higgsfield Soul",
+        "url": "https://higgsfield.ai/ai/image?model=soul"
+      },
+      {
+        "id": "1670f4963791a3d036ea42111649f500e7083912",
+        "title": "Kling 2.1 Master",
+        "url": "https://higgsfield.ai/ai/video?model=kling-v2-1-master"
+      },
+      {
+        "id": "004ad2305ed988d05743aed78c95499efb592c25",
+        "title": "Camera Controls",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "a7c146dc22050ae8e05d3174cf08cd6f65063b89",
+        "title": "Viral",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "4173d321560e19b5347a81d8fb579b3ece458ff6",
+        "title": "Action movements",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "1952a96ee756f98f95d762463ca64fe759bdeb64",
+        "title": "Commercial",
+        "url": "https://higgsfield.ai/ai/video"
+      },
+      {
+        "id": "e3157340db5b860c7f3c0f2e1b63546bb1ee6bd9",
+        "title": "MiniMax Hailuo 02",
+        "url": "https://higgsfield.ai/ai/video?model=minimax"
+      },
+      {
+        "id": "8e493cd7cc4025b16dacec4b93cf1f09e1414329",
+        "title": "Seedance Pro",
+        "url": "https://higgsfield.ai/ai/video?model=seedance_pro"
+      },
+      {
+        "id": "f08dd9103d9b83b102a803e93013416eee7ebd65",
+        "title": "Community",
+        "url": "https://higgsfield.ai/community"
+      },
+      {
+        "id": "a948fe9531d296c6b7c68aa463fba5ef270dc9ee",
+        "title": "Wan 2.2 Image",
+        "url": "https://higgsfield.ai/ai/image?model=wan2-2"
+      },
+      {
+        "id": "66714f6905781a45f7738eee77612a108b36b1c2",
+        "title": "Seedream 4.0",
+        "url": "https://higgsfield.ai/ai/image?model=seedream"
+      },
+      {
+        "id": "84f0e98f8ab0c64b57fccd6c3071fa8198f67666",
+        "title": "Nano Banana",
+        "url": "https://higgsfield.ai/ai/image?model=nano_banana"
+      },
+      {
+        "id": "472f4f365222b024e5050e4121a91ecf145f1b09",
+        "title": "Flux Kontext",
+        "url": "https://higgsfield.ai/ai/image?model=kontext"
+      },
+      {
+        "id": "69466b5d369e85afe4b366f6c21c6f808afd549d",
+        "title": "GPT Image",
+        "url": "https://higgsfield.ai/ai/image?model=gpt"
+      },
+      {
+        "id": "56fc534c7dba871d6c7131b33c89ca1726982700",
+        "title": "Topaz",
+        "url": "https://higgsfield.ai/upscale"
+      },
+      {
+        "id": "1d1c662e522b2219954f1f2bb91224a1d9b1baed",
+        "title": "Google Veo3",
+        "url": "https://higgsfield.ai/ai/video?model=veo-3-preview"
+      },
+      {
+        "id": "f31927755b0db6c46e48158ac5563c9352aabce1",
+        "title": "Kling 2.5 Turbo",
+        "url": "https://higgsfield.ai/ai/video?model=kling-v2-5-turbo"
+      },
+      {
+        "id": "f08f386c9a349f63161583779ab23a783e42a27f",
+        "title": "Kling Avatars 2.0",
+        "url": "https://higgsfield.ai/lipsync-studio"
+      },
+      {
+        "id": "bcddc4838bb74572711034d38d45e9949dd225ca",
+        "title": "Claude MCP",
+        "url": "https://higgsfield.ai/claude-ai-video-generator"
+      },
+      {
+        "id": "a5a70e682c409e5a794abb6b3b604f815bd81aa7",
+        "title": "Wan 2.5",
+        "url": "https://higgsfield.ai/wan-ai-video"
+      },
+      {
+        "id": "4e7b540c196d71713101f7bdb81d6e39d3d6924e",
+        "title": "Sora 2",
+        "url": "https://higgsfield.ai/sora-2"
+      },
+      {
+        "id": "f092f40d770768913019729e8ed99718b1416cf4",
+        "title": "Banana Placement",
+        "url": "https://higgsfield.ai/ai/image?model=nano_banana"
+      },
+      {
+        "id": "95e8a42cf79feda6798ba78d75525a0901d1772b",
+        "title": "Edit Image",
+        "url": "https://higgsfield.ai/edit?model=nano_banana_pro_inpaint"
+      },
+      {
+        "id": "3549ef098fb540825c8ce4496691db2a1ebe7477",
+        "title": "Multi Reference",
+        "url": "https://higgsfield.ai/character"
+      },
+      {
+        "id": "b010ce50b79c3a24e2dc11780518c26fcf111fbf",
+        "title": "Upscale",
+        "url": "https://higgsfield.ai/upscale"
+      },
+      {
+        "id": "94a5302de6f8f27e9b7e3b4987e892624f85742a",
+        "title": "Assists",
+        "url": "https://higgsfield.ai/ai-assist"
+      },
+      {
+        "id": "0ac168733335e7bd396bc7a5df3f349d42d24967",
+        "title": "YouTube",
+        "url": "https://higgsfield.ai/sora-2-youtube"
+      },
+      {
+        "id": "9f7648c6941735dff33b21a685d11ef9828999dd",
+        "title": "TikTok",
+        "url": "https://higgsfield.ai/sora-2-tiktok"
+      },
+      {
+        "id": "eb941b7e42f6c424b9b853a1d9564b25a26c3ed2",
+        "title": "Instagram Reels",
+        "url": "https://higgsfield.ai/sora-2-reels"
+      },
+      {
+        "id": "2859da9cab620756805c4a9f369da1480167cff3",
+        "title": "YouTube Shorts",
+        "url": "https://higgsfield.ai/sora-2-shorts"
+      },
+      {
+        "id": "bfaa168127c1485c32a9e56de60eb9aa57302225",
+        "title": "Nano Banana Pro",
+        "url": "https://higgsfield.ai/ai/image?model=nano-banana-pro"
+      },
+      {
+        "id": "272035e071b83e1ce5ceb296aa9072ca70e24162",
+        "title": "Kling o1",
+        "url": "https://higgsfield.ai/kling-3.0"
+      },
+      {
+        "id": "4f6b0e2f70a4916ca1b07d9cd661e34cd3110837",
+        "title": "Mixed Media Community",
+        "url": "https://higgsfield.ai/mixed-media-community"
+      },
+      {
+        "id": "11dfcccd068c6e2d19868d17ce0fe19506986662",
+        "title": "Soul Presets",
+        "url": "https://higgsfield.ai/soul"
+      },
+      {
+        "id": "bde910a1d6a4d3ff9b2d6b3d79ad764c20c7371f",
+        "title": "Visual Effects Collection",
+        "url": "https://higgsfield.ai/collection/effects"
+      },
+      {
+        "id": "dbe62126baf1177fe38dfc3ddb395224e4ebd068",
+        "title": "Try Canvas",
+        "url": "https://higgsfield.ai/canvas"
+      },
+      {
+        "id": "aab50cf2ae8f894835cb07f6475b83a26517025d",
+        "title": "Get started",
+        "url": "https://higgsfield.ai/canvas"
+      },
+      {
+        "id": "215d437cebe12dd8caf46a3b5f3fc53045fccb59",
+        "title": "After Effects",
+        "url": "https://higgsfield.ai/plugins/after-effects"
+      },
+      {
+        "id": "4a87455d229197d3f3e9f1ef0836c99ff50ab6b8",
+        "title": "Premiere Pro",
+        "url": "https://higgsfield.ai/plugins/premiere-pro"
+      },
+      {
+        "id": "d95ef6a3432106fc53e9a3e5d8e24748f7f11b82",
+        "title": "DaVinci Resolve",
+        "url": "https://higgsfield.ai/plugins/davinci"
+      },
+      {
+        "id": "01302d6497ff6a9de8d67c2d813006956ab29ec2",
+        "title": "Figma",
+        "url": "https://higgsfield.ai/plugins/figma"
+      },
+      {
+        "id": "ba1dbc2c27996e47dff98d1609ec74b45362b695",
+        "title": "AI Image Generator",
+        "url": "https://higgsfield.ai/ai-image"
+      },
+      {
+        "id": "cf6c365822942c54c8fd9ba2a220cc5a0f28442d",
+        "title": "AI Video Generator",
+        "url": "https://higgsfield.ai/ai-video"
+      },
+      {
+        "id": "0390d4eb9397cd142cd309b6e0e042bbb163c65c",
+        "title": "Nano Banana Pro Intro",
+        "url": "https://higgsfield.ai/nano-banana-pro-intro"
+      },
+      {
+        "id": "23cd71f67cec5542cbe67e221d661aa16ffcff9a",
+        "title": "FLUX 2 Intro",
+        "url": "https://higgsfield.ai/flux-2-intro"
+      },
+      {
+        "id": "028bd36dbc062da51aec6bec359c63c59dd0c2a4",
+        "title": "GPT 1.5",
+        "url": "https://higgsfield.ai/gpt-1.5"
+      },
+      {
+        "id": "ff2db54d37df61c6edba260d06d7fac685c75760",
+        "title": "GPT 2",
+        "url": "https://higgsfield.ai/gpt-2"
+      },
+      {
+        "id": "500da625c54f163e2ba91697114d48285770809d",
+        "title": "Seedream 5.0",
+        "url": "https://higgsfield.ai/seedream-5.0"
+      },
+      {
+        "id": "a2b669da22d521be45747ac225882ffbef73899a",
+        "title": "Soul Intro",
+        "url": "https://higgsfield.ai/soul-intro"
+      },
+      {
+        "id": "8f96501ad23d032502c88bbf133f85d9d20edb9c",
+        "title": "Soul",
+        "url": "https://higgsfield.ai/soul"
+      },
+      {
+        "id": "8f47cf98897cde0da2f7ec42e0f18c7f0b65a616",
+        "title": "Image Editing",
+        "url": "https://higgsfield.ai/image-editing"
+      },
+      {
+        "id": "6db09df8dc4b1320cc7f57c8b1bc71c937cd653c",
+        "title": "Claude AI Image Generator",
+        "url": "https://higgsfield.ai/claude-ai-image-generator"
+      },
+      {
+        "id": "6c895beaed8f683254919638972bbe86a54a1b90",
+        "title": "Kling 3.0",
+        "url": "https://higgsfield.ai/kling-3.0"
+      },
+      {
+        "id": "ab76aed88833503d41701854291dcd217a509cd2",
+        "title": "Seedance 2.0",
+        "url": "https://higgsfield.ai/seedance/2.0"
+      },
+      {
+        "id": "faeb7111d0bb0dd1d0bba56bf85495c9cf545caa",
+        "title": "Wan 2.6",
+        "url": "https://higgsfield.ai/wan-2.6"
+      },
+      {
+        "id": "51f7b08d988f220c2ea9392463e578d423d4730f",
+        "title": "Grok Imagine",
+        "url": "https://higgsfield.ai/grok-imagine"
+      },
+      {
+        "id": "796bfc96df3c9d70980d287bcd0540efc6623396",
+        "title": "Angles",
+        "url": "https://higgsfield.ai/apps/angles"
+      },
+      {
+        "id": "22b7f77a0388ffa3cb3884e1307be4f8efaf294b",
+        "title": "Relight",
+        "url": "https://higgsfield.ai/apps/relight"
+      },
+      {
+        "id": "75882d4f2def32e5739323704afaf8c644e13135",
+        "title": "Skin Enhancer",
+        "url": "https://higgsfield.ai/apps/skin-enhancer"
+      },
+      {
+        "id": "96c27d39874a6d3df01e91a042909c6154540530",
+        "title": "Style Snap",
+        "url": "https://higgsfield.ai/apps/style-snap"
+      },
+      {
+        "id": "e91d3c487fbdba630bac122c4bff1ac65d598789",
+        "title": "Breakdown",
+        "url": "https://higgsfield.ai/apps/breakdown"
+      },
+      {
+        "id": "ad9a53659af192773a7cde82a0fa8f75a3b9977a",
+        "title": "3D Render",
+        "url": "https://higgsfield.ai/apps/3d-render"
+      },
+      {
+        "id": "69fcbfd98db0221cc4363776a36324323b0ff68b",
+        "title": "J Poster",
+        "url": "https://higgsfield.ai/apps/j-poster"
+      },
+      {
+        "id": "a75f142101e10cde15b6ee43b077e056f2ada98e",
+        "title": "Renaissance",
+        "url": "https://higgsfield.ai/apps/renaissance"
+      },
+      {
+        "id": "5b7276ce456e97e5fce28930cd12a4e71929e691",
+        "title": "Meme Generator",
+        "url": "https://higgsfield.ai/apps/meme-generator"
+      },
+      {
+        "id": "a71ae554d123f04105f9508a681ad00787f5f34e",
+        "title": "AI Headshot Generator",
+        "url": "https://higgsfield.ai/apps/ai-headshot-generator"
+      },
+      {
+        "id": "c82f58a31184b2f872205728e11003dcae34e5ad",
+        "title": "Expand Image",
+        "url": "https://higgsfield.ai/apps/expand-image"
+      },
+      {
+        "id": "c37f7ba99753d931a4aba0a69f0d264d6b193d3b",
+        "title": "Image Background Remover",
+        "url": "https://higgsfield.ai/apps/image-background-remover"
+      },
+      {
+        "id": "98b39cc33eff6645cec0a5ba094439bfe92cf0e0",
+        "title": "Color Grading",
+        "url": "https://higgsfield.ai/apps/color-grading"
+      },
+      {
+        "id": "f8928f875a11828af55d2baf6443cab57c26577b",
+        "title": "Enhance Style",
+        "url": "https://higgsfield.ai/apps/enhance-style"
+      },
+      {
+        "id": "f3366b4417ae7b1d12b342e3424207af7bc29719",
+        "title": "Adobe Plugin",
+        "url": "https://higgsfield.ai/plugins/premiere-pro"
+      },
+      {
+        "id": "c944c0bb8031adaa644cedc1a80f93f8f1e8b36f",
+        "title": "Recreate",
+        "url": "https://higgsfield.ai/generate?mode=video&recreate=Locked+tripod%2C+zero+rotation%2C+zero+travel+%E2%80%94+the+entire+move+is+optical%2C+a+focal-length+change+only%3A+one+slow+perfectly+even+continuous+zoom+in+from+%5B84%5D+degrees+to+%5B29+or+18%5D+degrees+across+the+full+duration%2C+no+speed+changes%2C+no+steps%2C+no+wobble.+The+camera+position+is+fixed+and+never+moves%3B+only+the+field+of+view+changes%3B+perspective+stays+constant+and+there+is+no+parallax+%E2%80%94+the+background+keeps+the+exact+same+apparent+size+relative+to+the+subject+while+the+framing+tightens."
+      },
+      {
+        "id": "8f2c9ed38ac614342a77931b9acbef7bd57f1313",
+        "title": "Recreate",
+        "url": "https://higgsfield.ai/generate?mode=video&recreate=One+continuous+decisive+dolly+in+on+straight+ground+rails+%E2%80%94+pure+forward+travel+at+constant+speed+along+the+axis+toward+the+subject%2C+at+a+locked+constant+lens+height+of+%5B1.5%5D+meters%2C+decelerating+smoothly+into+a+static+hold+at+the+end+framing.+The+field+of+view+never+changes+%E2%80%94+no+zoom%3A+the+perspective+shifts+because+the+camera+physically+approaches%2C+near+objects+sweeping+out+past+the+frame+edges+with+strong+parallax.+No+pan%2C+no+tilt%2C+no+crane%2C+no+handheld+drift%3B+dead-level+travel+from+first+frame+to+last."
+      }
+    ],
+    "LibTV": [
+      {
+        "id": "6b6366677eb3f5e7e527888da9b2d8d13cba9be3",
+        "title": "开始创作",
+        "url": "https://libtv.org/create/"
+      },
+      {
+        "id": "11d564ee60779a3d3e1583b95204a21c5c4c71cf",
+        "title": "热门人物微表情让照片自然眨眼、微笑与转身立即体验 →",
+        "url": "https://libtv.org/create/?skill=motion"
+      },
+      {
+        "id": "290338ac9b324d53a8434d2df007e24e426677d5",
+        "title": "运镜电影感推进一键生成大景深镜头立即体验 →",
+        "url": "https://libtv.org/create/?skill=camera"
+      },
+      {
+        "id": "7e58de2b70a8abd1d6fa9014223ec41faf18865e",
+        "title": "特效粒子觉醒为画面注入未来能量立即体验 →",
+        "url": "https://libtv.org/create/?skill=effect"
+      },
+      {
+        "id": "40a18db05a7569a817fff228979ec968c51fc9b3",
+        "title": "故事奇幻预告片从单幅画面生成叙事镜头立即体验 →",
+        "url": "https://libtv.org/create/?skill=story"
+      }
+    ],
+    "Flova AI": [
+      {
+        "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
+        "title": "Skill",
+        "url": "https://www.flova.ai/en/skill/",
+        "lastmod": "2026-08-20T07:19:20.060Z",
+        "canonicalKey": "flova.ai/skill"
+      },
+      {
+        "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
+        "title": "Agent CLI",
+        "url": "https://www.flova.ai/en/agent-cli/",
+        "lastmod": "2026-08-20T07:19:20.060Z",
+        "canonicalKey": "flova.ai/agent-cli"
+      },
+      {
+        "id": "42da40e93f7485ad52c7ab83d7ed0aac50cd250d",
+        "title": "Agent",
+        "url": "https://www.flova.ai/en/docs/features/agent/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/agent"
+      },
+      {
+        "id": "6b6c71ace7b64dd4bad90b1c9307158873289fea",
+        "title": "Skills",
+        "url": "https://www.flova.ai/en/docs/features/skills/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/skills"
+      },
+      {
+        "id": "5936352576cad64c916d3cadb225420db2634e4f",
+        "title": "Project Content Editing",
+        "url": "https://www.flova.ai/en/docs/features/project-content-editing/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/project-content-editing"
+      },
+      {
+        "id": "182cf2ed3a81659eb7424e721bb3b2e075cef9d8",
+        "title": "Comment Generation",
+        "url": "https://www.flova.ai/en/docs/features/comment-generation/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/comment-generation"
+      },
+      {
+        "id": "6f026589b740381a39a7f58f576ac37dbf181bef",
+        "title": "Generation Tools",
+        "url": "https://www.flova.ai/en/docs/features/generation-tools/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/generation-tools"
+      },
+      {
+        "id": "72f958be287c7ce54c0301073a925a4d8390dcff",
+        "title": "Docs Panel",
+        "url": "https://www.flova.ai/en/docs/features/docs-panel/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/docs-panel"
+      },
+      {
+        "id": "4fdfe96d06af1316a4330a08c4e1d62619715d35",
+        "title": "Timeline Editing",
+        "url": "https://www.flova.ai/en/docs/features/timeline-editing/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/timeline-editing"
+      },
+      {
+        "id": "d89cd48f468a4c077624b5f54b21a565fbb2dd6f",
+        "title": "Flova CLI",
+        "url": "https://www.flova.ai/en/docs/features/flova-cli/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/flova-cli"
+      },
+      {
+        "id": "183c062ff18027b7a67b388c4000e795ef5ee0a3",
+        "title": "Download Export",
+        "url": "https://www.flova.ai/en/docs/features/download-export/",
+        "lastmod": "",
+        "canonicalKey": "flova.ai/docs/features/download-export"
+      },
+      {
+        "id": "6e77c73e7f6c600d3759969b91d9573347ac40da",
+        "title": "Features",
+        "url": "https://www.flova.ai/en/docs/features/agent/"
+      }
+    ],
+    "Deevid AI": [
+      {
+        "id": "bcff1307352917f4cbe3d8500dac21b095dc847b",
+        "title": "Create Now",
+        "url": "https://deevid.ai/app/video"
+      },
+      {
+        "id": "3e7fbdaa92f089dbdbf2f1673b59ba686bffe387",
+        "title": "Image to VideoDrop in a photo and watch it come to life in seconds.",
+        "url": "https://deevid.ai/app/explore/image-to-video"
+      },
+      {
+        "id": "d677e5a82a6144fb17020ddf1e3013d35be6ba82",
+        "title": "AI AdsDrop in a product and get ad videos ready for every platform.",
+        "url": "https://deevid.ai/app/explore/ai-ad"
+      },
+      {
+        "id": "8fb446cd176ee9d55ddb3df978b0bb0fa290fd0a",
+        "title": "AI Image GeneratorFrom a prompt or a reference image to the visual you want.",
+        "url": "https://deevid.ai/app/explore/ai-image-generator"
+      },
+      {
+        "id": "a5adcba7006cee87fb46f3a1a4f448a1ff5b4261",
+        "title": "AI AvatarTurn one photo into your own on-camera talent.",
+        "url": "https://deevid.ai/app/explore/ai-avatar"
+      },
+      {
+        "id": "13c985e446e5a19b03428d09c84a29254d6c3c76",
+        "title": "Text to SpeechType a script and hear it in a real-sounding voice.",
+        "url": "https://deevid.ai/app/explore/text-to-speech"
+      },
+      {
+        "id": "e0a823b8118a4d1c09ffd9e67a3b61affedfc5d1",
+        "title": "AI MusicPick a mood and get your own copyright-free soundtrack.",
+        "url": "https://deevid.ai/app/explore/ai-music-generator"
+      },
+      {
+        "id": "a6c539e3bfb9a731a4832b7a2f9d8b0112432c74",
+        "title": "Explore Now",
+        "url": "https://deevid.ai/app/video"
+      },
+      {
+        "id": "bc5edbec8d9212a8734587d585678101a56a3f18",
+        "title": "Start Creating for Free",
+        "url": "https://deevid.ai/app"
+      },
+      {
+        "id": "c597231edc9735d927a51ad9e78ec61a25fd5fb0",
+        "title": "Explore",
+        "url": "https://deevid.ai/explore"
+      },
+      {
+        "id": "75c6004cd79250c82431e182ae0b80ba020eb4ee",
+        "title": "Reference to VideoNew",
+        "url": "https://deevid.ai/reference-to-video"
+      },
+      {
+        "id": "40b823c9b9fe76094ba01cc3942d568c91bc6b4b",
+        "title": "Image to Video",
+        "url": "https://deevid.ai/image-to-video"
+      },
+      {
+        "id": "1f89b831d33690b3bb6ee817594b84a33d0e1327",
+        "title": "Text to Video",
+        "url": "https://deevid.ai/text-to-video"
+      },
+      {
+        "id": "386b8336f6b1dd41457dc35943b64b0852099d7a",
+        "title": "AI ImageNano Banana",
+        "url": "https://deevid.ai/ai-image-generator"
+      },
+      {
+        "id": "436d14adf5b5515899faddb84dec41b3804a1dd3",
+        "title": "AI Image Editor",
+        "url": "https://deevid.ai/ai-image-editor"
+      },
+      {
+        "id": "e61e30aaaf1e30e134330eddf345572201f3157f",
+        "title": "AI Video Editor",
+        "url": "https://deevid.ai/ai-video-editor"
+      },
+      {
+        "id": "f27a73f1c41782cb8d8203174165cc00e5905354",
+        "title": "AI Avatar",
+        "url": "https://deevid.ai/ai-avatar"
+      },
+      {
+        "id": "add79f5019eaf3615b60d60298e4c3d49fa14cb6",
+        "title": "AI Music",
+        "url": "https://deevid.ai/ai-music-generator"
+      },
+      {
+        "id": "adb1b54f3bfabd6dc3720bdfcde1cc3f7b14abdb",
+        "title": "Text To Speech",
+        "url": "https://deevid.ai/text-to-speech"
+      },
+      {
+        "id": "e942b2dd72e095e9a37244d26e1303a9294fa09e",
+        "title": "More",
+        "url": "https://deevid.ai/ai-video-tools"
+      },
+      {
+        "id": "49e56bc3579256e35a9a3b20a0b912ab826d94a8",
+        "title": "AI Ad",
+        "url": "https://deevid.ai/ai-ad"
+      },
+      {
+        "id": "f327db4472ab3f5272d6839dcd0f71e78ad4f183",
+        "title": "Viral CloneNew",
+        "url": "https://deevid.ai/viral-video-clone"
+      }
+    ],
+    "Topview AI": [
+      {
+        "id": "2655f5d0b06c642c1f1d1984a23c3018b0137c0a",
+        "title": "AI Avatar",
+        "url": "https://www.topview.ai/ai-avatar",
+        "lastmod": "2026-03-05",
+        "canonicalKey": "topview.ai/ai-avatar"
+      },
+      {
+        "id": "4c3710ddbdf676b4c24085f36eea9774cd3ee0a6",
+        "title": "AI Video Generator",
+        "url": "https://www.topview.ai/ai-video-generator",
+        "lastmod": "2026-03-05",
+        "canonicalKey": "topview.ai/ai-video-generator"
+      },
+      {
+        "id": "578cdb11daed52555ba57a02cfb69d22b4a325aa",
+        "title": "Motion Control",
+        "url": "https://www.topview.ai/motion-control",
+        "lastmod": "2026-04-23",
+        "canonicalKey": "topview.ai/motion-control"
+      },
+      {
+        "id": "a5675ae361acb38e92d9a1787aa66614bfd18fc1",
+        "title": "Image Character Swap",
+        "url": "https://www.topview.ai/image-character-swap",
+        "lastmod": "2026-04-23",
+        "canonicalKey": "topview.ai/image-character-swap"
+      },
+      {
+        "id": "595fe5ffcec7047fa6ee69a3f119260f42026683",
+        "title": "Image Face Swap",
+        "url": "https://www.topview.ai/image-face-swap",
+        "lastmod": "2026-04-23",
+        "canonicalKey": "topview.ai/image-face-swap"
+      },
+      {
+        "id": "8f5d8b8c8513ddbf986c0b78e6231dc92bdc09e1",
+        "title": "Image Upscale",
+        "url": "https://www.topview.ai/image-upscale",
+        "lastmod": "2026-04-23",
+        "canonicalKey": "topview.ai/image-upscale"
+      },
+      {
+        "id": "c5c033ff79a625cfacf4ba3056eae5239cf9c76d",
+        "title": "Drama Studio",
+        "url": "https://www.topview.ai/drama-studio",
+        "lastmod": "2026-05-15",
+        "canonicalKey": "topview.ai/drama-studio"
+      },
+      {
+        "id": "ed5e8440d6af277d50e65833c82805095382d602",
+        "title": "AI Image Generator",
+        "url": "https://www.topview.ai/ai-image-generator",
+        "lastmod": "2026-08-11",
+        "canonicalKey": "topview.ai/ai-image-generator"
+      },
+      {
+        "id": "9b49fd78d5219283dff382a7cf1ac03f5acbfd29",
+        "title": "Motion Studio",
+        "url": "https://www.topview.ai/motion-studio",
+        "lastmod": "2026-08-19",
+        "canonicalKey": "topview.ai/motion-studio"
+      },
+      {
+        "id": "67c7dadff9d1847169b5fefba5b20321fd2fa80c",
+        "title": "Seedance 2.5$3.6 / 30s·60-Day Unlimited|365-Day Unlimited:Wan 3.0 & MinMax H3 & GPT Image 2",
+        "url": "https://www.topview.ai/home"
+      },
+      {
+        "id": "6772e3b307282f6a64ebed361da2459d73b33ecd",
+        "title": "Seedance 2.560 DAYS UNLIMITEDThe most powerful model yet.",
+        "url": "https://www.topview.ai/board/my-first-board?model-id=seedance-2.5&tool-type=video-edit"
+      },
+      {
+        "id": "2a738b4fbb506b90cbda49582122c2be066b55b1",
+        "title": "Seedance 2.060 DAYS UNLIMITEDPro-level quality. Create without limits.",
+        "url": "https://www.topview.ai/board/my-first-board?model-id=seedance-2.0&tool-type=video-edit"
+      },
+      {
+        "id": "91c06103a3d9522d37135b77f671ca594274d069",
+        "title": "Wan 3.0Early access365 DAYS UNLIMITEDSeedance 2.0-level quality at half the cost.Available daily, 15:00-23:00 UTC",
+        "url": "https://www.topview.ai/board/my-first-board?model-id=qwen-wan3.0-video&tool-type=video-edit"
+      },
+      {
+        "id": "efe328c8c5bc86cc84a3fcb7ab6ee1c18c97471a",
+        "title": "MiniMax H3365 DAYS UNLIMITEDNear-Seedance 2.0 quality at 30% of the cost.",
+        "url": "https://www.topview.ai/board/my-first-board?model-id=minimax-h3&tool-type=video-edit"
+      },
+      {
+        "id": "cc586c6b230d09fab6f4b06f69eda2b2a9e97d75",
+        "title": "Drama Studio: Professional Micro-Drama Production",
+        "url": "https://www.topview.ai/drama-studio"
+      },
+      {
+        "id": "5a3d3bbe4ab54068be04c2afd75b24d7a244dd06",
+        "title": "Board: All-in-One Models and Asset Management",
+        "url": "https://www.topview.ai/board"
+      },
+      {
+        "id": "112289b6e9882e5b6c2f3dc3ee0c543ef62924f0",
+        "title": "Create a film scene",
+        "url": "https://www.topview.ai/gen/ai-creation?ref_tab=textToVideo&type=aiVideo"
+      },
+      {
+        "id": "2fc7bba73ce5597f63d4ce88feceff7b3309840d",
+        "title": "Create a short drama",
+        "url": "https://www.topview.ai/drama-studio"
+      },
+      {
+        "id": "c93da4a0c954273ba3f1299aadee0579962bf015",
+        "title": "Clone a video style",
+        "url": "https://www.topview.ai/gen/ai-creation?ref_tab=videoEdit&type=aiVideo"
+      },
+      {
+        "id": "7a682dd8a59434caaba0e7c26a1174f46ab86d5f",
+        "title": "Try AI UGC",
+        "url": "https://www.topview.ai/gen/avatar-video-creation"
+      },
+      {
+        "id": "adc773f19269d6f91df1a7cbbff27d4abc9f7db1",
+        "title": "Generate short videos",
+        "url": "https://www.topview.ai/gen/ai-creation?ref_tab=textToVideo&type=aiVideo"
+      },
+      {
+        "id": "ad115e42ef1d8a775f6cef31b2cad88f14dca198",
+        "title": "Create ad videos",
+        "url": "https://www.topview.ai/gen/product-avatar"
+      },
+      {
+        "id": "fed4e356e640fbc5693253b720ae13584c1c46d2",
+        "title": "AI Video AgentHot",
+        "url": "https://www.topview.ai/home"
+      },
+      {
+        "id": "9b4cf235d65bbc800698fff3e45895b9582d2479",
+        "title": "AI CanvasHot",
+        "url": "https://www.topview.ai/canvas"
+      },
+      {
+        "id": "5ae49d0e25634bff44772b16c4d4e712798f3663",
+        "title": "AI DramaHot",
+        "url": "https://www.topview.ai/drama-studio"
+      },
+      {
+        "id": "6214d4c5d427769ae72d32cd1511edd1aeaf1bc8",
+        "title": "AI Image GeneratorHot",
+        "url": "https://www.topview.ai/ai-image-generator"
+      },
+      {
+        "id": "c3007b7ff0ba1b3d75dcfab6c55cba399223e148",
+        "title": "Topview Skill",
+        "url": "https://www.topview.ai/topview-skill"
+      },
+      {
+        "id": "3cdbf71aa6095e419a6851ee9697c97cb2e2be1e",
+        "title": "AI Video Generator",
+        "url": "https://www.topview.ai/ai-video-generator"
+      },
+      {
+        "id": "77ae768d03c3032ee20d325cc65f5670ff0fdfff",
+        "title": "Video Character SwapHot",
+        "url": "https://www.topview.ai/video-character-swap"
+      },
+      {
+        "id": "1b2188c42303c0ba5f213b273c10940833845680",
+        "title": "Video Upscale",
+        "url": "https://www.topview.ai/video-upscale"
+      },
+      {
+        "id": "0d3cb13bb188a36199ce53cd67e9496a1978ff4a",
+        "title": "Motion Control",
+        "url": "https://www.topview.ai/motion-control"
+      },
+      {
+        "id": "030e56fe60999e70cfee6190a19d45e12a8a5319",
+        "title": "Inpaint",
+        "url": "https://www.topview.ai/inpaint"
+      },
+      {
+        "id": "ce21fe0c6fa475cc708b04bdd06c3ef02fb27671",
+        "title": "Image Character Swap",
+        "url": "https://www.topview.ai/image-character-swap"
+      },
+      {
+        "id": "0f9d20b02197d1b252b3f4b971a6707adac4e9d1",
+        "title": "Image Face Swap",
+        "url": "https://www.topview.ai/image-face-swap"
+      },
+      {
+        "id": "529e028757e789976c51bc16b725c317e8897d04",
+        "title": "Image Upscale",
+        "url": "https://www.topview.ai/image-upscale"
+      },
+      {
+        "id": "3b79699e1f6bcb54723410cdad7fa644b89ade20",
+        "title": "Photo Angle Editor",
+        "url": "https://www.topview.ai/photo-angle-editor"
+      },
+      {
+        "id": "b9795e916b4058a1497c41872040992c0c094ad5",
+        "title": "Virtual Try-On",
+        "url": "https://www.topview.ai/virtual-try-on"
+      },
+      {
+        "id": "ffb6af2464db42bac1a49bf828ccf65dddcdb495",
+        "title": "Product Photography",
+        "url": "https://www.topview.ai/product-photography"
+      },
+      {
+        "id": "c942a666c9b338f9ea190bc570b7ba5028e57b53",
+        "title": "Voiceover",
+        "url": "https://www.topview.ai/voiceover"
+      },
+      {
+        "id": "78857ea1d6d28aad3d7f7b3fbee7915ec23abede",
+        "title": "Open the full toolset",
+        "url": "https://www.topview.ai/home"
+      }
+    ],
+    "Yapper": [
+      {
+        "id": "397cc885b0fa21990a357af1946d0c143352dada",
+        "title": "Yapper",
+        "url": "https://getyapper.app/"
+      },
+      {
+        "id": "96a3a71490a5ac768faf360a91f1b96b076273e1",
+        "title": "Try Yapper",
+        "url": "https://getyapper.app/"
+      },
+      {
+        "id": "ea5bcfa59c64b7e946717022c93962b2c877824c",
+        "title": "Download for macOS",
+        "url": "https://getyapper.app/"
+      }
+    ]
+  }
+}
