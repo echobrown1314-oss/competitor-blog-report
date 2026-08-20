@@ -563,6 +563,7 @@ async function scrapeSource(browser, source) {
 }
 
 function renderDingTalkText(items, generatedAt) {
+  const visibleItems = items.filter((item) => item.articles.length > 0);
   const dateStr = new Intl.DateTimeFormat("zh-CN", {
     timeZone: REPORT_TIMEZONE,
     year: "numeric",
@@ -573,18 +574,13 @@ function renderDingTalkText(items, generatedAt) {
   }).format(generatedAt);
 
   const lines = ["竞品博客监测日报", `生成时间：${dateStr}（上海）`, ""];
-  for (const source of items) {
+  if (visibleItems.length === 0) {
+    lines.push("今日未发现新的细分竞品页面");
+    return lines.join("\n");
+  }
+
+  for (const source of visibleItems) {
     lines.push(`${source.name}：${source.articles.length} 篇`);
-    if (source.error) {
-      lines.push(`抓取异常：${source.error}`);
-      lines.push("");
-      continue;
-    }
-    if (source.articles.length === 0) {
-      lines.push("今日未发现新文章");
-      lines.push("");
-      continue;
-    }
     for (const article of source.articles) {
       lines.push(`- ${article.title} | ${effectiveArticleDate(article)}`);
       lines.push(article.url);
@@ -595,6 +591,7 @@ function renderDingTalkText(items, generatedAt) {
 }
 
 function renderMarkdownReport(items, generatedAt) {
+  const visibleItems = items.filter((item) => item.articles.length > 0);
   const dateStr = new Intl.DateTimeFormat("zh-CN", {
     timeZone: REPORT_TIMEZONE,
     year: "numeric",
@@ -605,19 +602,16 @@ function renderMarkdownReport(items, generatedAt) {
   }).format(generatedAt);
 
   const lines = ["# 竞品博客监测日报", "", `生成时间：${dateStr}（上海）`, ""];
-  const total = items.reduce((sum, item) => sum + item.articles.length, 0);
+  if (visibleItems.length === 0) {
+    lines.push("今日未发现新的细分竞品页面");
+    return lines.join("\n");
+  }
+
+  const total = visibleItems.reduce((sum, item) => sum + item.articles.length, 0);
   lines.push(`新增文章总数：${total}`, "");
 
-  for (const source of items) {
+  for (const source of visibleItems) {
     lines.push(`## ${source.name}（${source.articles.length}）`);
-    if (source.error) {
-      lines.push(`- 抓取异常：${source.error}`, "");
-      continue;
-    }
-    if (source.articles.length === 0) {
-      lines.push("- 今日未发现新文章", "");
-      continue;
-    }
     for (const article of source.articles) {
       lines.push(`- [${article.title}](${article.url}) | ${effectiveArticleDate(article)}`);
     }
@@ -694,8 +688,9 @@ async function main() {
     await browser.close().catch(() => {});
   }
 
-  const markdown = renderMarkdownReport(reportItems, generatedAt);
-  const dingTalkText = renderDingTalkText(reportItems, generatedAt);
+  const visibleItems = reportItems.filter((item) => item.articles.length > 0);
+  const markdown = renderMarkdownReport(visibleItems, generatedAt);
+  const dingTalkText = renderDingTalkText(visibleItems, generatedAt);
   await fs.writeFile(REPORT_FILE, markdown, "utf8");
 
   const sendResult = await sendToDingTalk(dingTalkText, env).catch((error) => ({
@@ -704,7 +699,7 @@ async function main() {
   }));
 
   if (!sendResult.skipped && !sendResult.error) {
-    for (const source of reportItems) {
+    for (const source of reportItems.filter((item) => item.articles.length > 0 && !item.error)) {
       appendReported(state, source.name, source.articles, generatedAt);
     }
   }
