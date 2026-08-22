@@ -21,12 +21,6 @@
     ],
     "Atlas Cloud": [
       {
-        "key": "c26d0fc9e64a4c1e7c637b5340757cb9b619ff2e",
-        "url": "https://www.atlascloud.ai/blog/guides/wan-3.0-vs-wan-2.7",
-        "date": "2026-08-13T15:37:11.271Z",
-        "reportedAt": "2026-08-14T03:29:22.794Z"
-      },
-      {
         "key": "09fb2be9c0d79a251ba1562e442d88882bbd80b6",
         "url": "https://www.atlascloud.ai/blog/case-studies/how-moke-runs-ai-film-pipeline-atlas-cloud",
         "date": "2026-08-15T16:21:11.608Z",
@@ -201,14 +195,7 @@
         "reportedAt": "2026-08-21T02:35:37.023Z"
       }
     ],
-    "TopMediai": [
-      {
-        "key": "0a5af9b5939f88e573002809963695e324e1633d",
-        "url": "https://www.topmediai.com/video-tips/seedance-2-5-review/",
-        "date": "2026-08-14T14:39:49+08:00",
-        "reportedAt": "2026-08-15T02:17:43.522Z"
-      }
-    ],
+    "TopMediai": [],
     "JXP": []
   }
 }
