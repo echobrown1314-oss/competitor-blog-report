@@ -30,10 +30,10 @@
         "canonicalKey": "higgsfield.ai/ai-influencer-studio"
       },
       {
-        "id": "88f61bad28a81bfe6c9c5ee625c7475505426a71",
-        "title": "Marketing Studio",
-        "url": "https://higgsfield.ai/marketing-studio",
-        "canonicalKey": "higgsfield.ai/marketing-studio"
+        "id": "73b4183d899aea0e823f188c8813e0a176eceab1",
+        "title": "Blender",
+        "url": "https://higgsfield.ai/plugins/blender",
+        "canonicalKey": "higgsfield.ai/plugins/blender"
       },
       {
         "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
@@ -133,14 +133,14 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-08-20T07:19:20.060Z",
+        "lastmod": "2026-08-21T10:01:32.816Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-08-20T07:19:20.060Z",
+        "lastmod": "2026-08-21T10:01:32.816Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -630,12 +630,6 @@
         "canonicalKey": "pollo.ai/app/photo-to-video-ads"
       },
       {
-        "id": "eaac8c636198ceecbca49b2b6849396c1eded13b",
-        "title": "Script To Video Ads",
-        "url": "https://pollo.ai/app/script-to-video-ads",
-        "canonicalKey": "pollo.ai/app/script-to-video-ads"
-      },
-      {
         "id": "0153bc8a73c1e8a10fd3c9408b679d39a6ff3b1f",
         "title": "AI UGC Video Generator",
         "url": "https://pollo.ai/app/ai-ugc-video-generator",
@@ -658,6 +652,12 @@
         "title": "AI Product Video Generator",
         "url": "https://pollo.ai/app/ai-product-video-generator",
         "canonicalKey": "pollo.ai/app/ai-product-video-generator"
+      },
+      {
+        "id": "e80fecc5395eb9e7605bd6c75f095d1d686f3d86",
+        "title": "AI Tvc Ad Video Maker",
+        "url": "https://pollo.ai/app/ai-tvc-ad-video-maker",
+        "canonicalKey": "pollo.ai/app/ai-tvc-ad-video-maker"
       },
       {
         "id": "977cbaa47ea959a39dc5d9d1e801b9c02dd6cdc4",
@@ -738,6 +738,12 @@
         "canonicalKey": "pollo.ai/agent"
       },
       {
+        "id": "eaac8c636198ceecbca49b2b6849396c1eded13b",
+        "title": "Script To Video Ads",
+        "url": "https://pollo.ai/app/script-to-video-ads",
+        "canonicalKey": "pollo.ai/app/script-to-video-ads"
+      },
+      {
         "id": "8a807ddf4d34a2e63ed3c5c313d236ce02d86fbf",
         "title": "AI Anime Video Generator",
         "url": "https://pollo.ai/app/ai-anime-video-generator",
@@ -750,10 +756,10 @@
         "canonicalKey": "pollo.ai/app/kids-story-video-generator"
       },
       {
-        "id": "e2bd080b32d187d8874664c364a7ef723fda766a",
-        "title": "AI Love Story Video Generator",
-        "url": "https://pollo.ai/app/ai-love-story-video-generator",
-        "canonicalKey": "pollo.ai/app/ai-love-story-video-generator"
+        "id": "3ccb69053c80edc2cd61d178fe7bffdaa1a7b62f",
+        "title": "AI Story Video Generator",
+        "url": "https://pollo.ai/app/ai-story-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-story-video-generator"
       },
       {
         "id": "6cb173b4413c224256e817ea7f81e02052781d78",
@@ -822,10 +828,46 @@
         "canonicalKey": "pollo.ai/ai-profile-picture-generator"
       },
       {
+        "id": "36ea9d1550d48d4d2fecfea0bc12ea87ba1b7049",
+        "title": "Apps",
+        "url": "https://pollo.ai/apps",
+        "canonicalKey": "pollo.ai/apps"
+      },
+      {
         "id": "449691e86902921f002382517557179fe10759b3",
         "title": "Sign Up",
         "url": "https://pollo.ai/sign-up",
         "canonicalKey": "pollo.ai/sign-up"
+      },
+      {
+        "id": "14e44aa0962aa61b7ea1fda964ef7d3681bbda7d",
+        "title": "AI Brand Story Generator",
+        "url": "https://pollo.ai/app/ai-brand-story-generator",
+        "canonicalKey": "pollo.ai/app/ai-brand-story-generator"
+      },
+      {
+        "id": "c822ddb9d17a48e95e1123701592d74c2700c732",
+        "title": "AI Virtual Try On Video",
+        "url": "https://pollo.ai/ai-virtual-try-on-video",
+        "canonicalKey": "pollo.ai/ai-virtual-try-on-video"
+      },
+      {
+        "id": "429dc3984e2613cf53c79a486a3d89063d71fe46",
+        "title": "AI Product Launch Video Generator",
+        "url": "https://pollo.ai/app/ai-product-launch-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-product-launch-video-generator"
+      },
+      {
+        "id": "042fa9432c72cd547258ef23fd8f99d7435e6756",
+        "title": "AI Unboxing UGC Ads",
+        "url": "https://pollo.ai/app/ai-unboxing-ugc-ads",
+        "canonicalKey": "pollo.ai/app/ai-unboxing-ugc-ads"
+      },
+      {
+        "id": "167238d29bdcda1bb7bdd21ff580877efcd84330",
+        "title": "AI Tutorial UGC Ads Maker",
+        "url": "https://pollo.ai/app/ai-tutorial-ugc-ads-maker",
+        "canonicalKey": "pollo.ai/app/ai-tutorial-ugc-ads-maker"
       },
       {
         "id": "4e87765b9e0ad33885a28af5ff61b6fcb2f45937",
@@ -838,12 +880,6 @@
         "title": "AI Sound Effect Generator",
         "url": "https://pollo.ai/ai-sound-effect-generator",
         "canonicalKey": "pollo.ai/ai-sound-effect-generator"
-      },
-      {
-        "id": "3ccb69053c80edc2cd61d178fe7bffdaa1a7b62f",
-        "title": "AI Story Video Generator",
-        "url": "https://pollo.ai/app/ai-story-video-generator",
-        "canonicalKey": "pollo.ai/app/ai-story-video-generator"
       },
       {
         "id": "9b126ec2e98c0924ee0ac2cb68486f43666bee84",
@@ -876,10 +912,10 @@
         "canonicalKey": "pollo.ai/ai-celebrity-video-generator"
       },
       {
-        "id": "36ea9d1550d48d4d2fecfea0bc12ea87ba1b7049",
-        "title": "Apps",
-        "url": "https://pollo.ai/apps",
-        "canonicalKey": "pollo.ai/apps"
+        "id": "0a866cdd842bed058b9d19caeb8ca6a738176b46",
+        "title": "Wan 3 0",
+        "url": "https://pollo.ai/m/wan-3-0",
+        "canonicalKey": "pollo.ai/m/wan-3-0"
       },
       {
         "id": "13f46148f5c107564ab5a14b28a69e9dbe96e23f",
@@ -1388,6 +1424,12 @@
     ],
     "Artlist": [
       {
+        "id": "f5d6fd07c594fe62fef29f70052dfcef7ed974b1",
+        "title": "Example",
+        "url": "https://studio.artlist.io/example",
+        "canonicalKey": "studio.artlist.io/example"
+      },
+      {
         "id": "764870a2105937796bdad50b131902e22ecc4116",
         "title": "Music Generator",
         "url": "https://artlist.io/ai/music-generator",
@@ -1466,10 +1508,238 @@
         "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
       },
       {
+        "id": "76164ddace47c9b4ec95026085c36f776c3ba89a",
+        "title": "Image To Video",
+        "url": "https://artlist.io/ai/video-generator/image-to-video",
+        "canonicalKey": "artlist.io/ai/video-generator/image-to-video"
+      },
+      {
+        "id": "6bca6664ebb0ffeb040bbdd6ba2cc459aa9e3a3a",
+        "title": "Text To Video",
+        "url": "https://artlist.io/ai/video-generator/text-to-video",
+        "canonicalKey": "artlist.io/ai/video-generator/text-to-video"
+      },
+      {
+        "id": "476c03431682304327aa645c1daf70bbe01b6a65",
+        "title": "Video To Video",
+        "url": "https://artlist.io/ai/video-generator/video-to-video",
+        "canonicalKey": "artlist.io/ai/video-generator/video-to-video"
+      },
+      {
+        "id": "0a637e420af4068899210eae3026861c9b85557c",
+        "title": "Audio To Video",
+        "url": "https://artlist.io/ai/video-generator/audio-to-video",
+        "canonicalKey": "artlist.io/ai/video-generator/audio-to-video"
+      },
+      {
+        "id": "7a8e66dfc80a924508cd3ca0be18bc7ef0789b5f",
+        "title": "Apps",
+        "url": "https://artlist.io/ai/apps",
+        "canonicalKey": "artlist.io/ai/apps"
+      },
+      {
+        "id": "9a7e1bdb860e7b5e66a026ffd3823a5d7d269742",
+        "title": "Seedance 2 5",
+        "url": "https://artlist.io/ai/models/seedance-2-5",
+        "canonicalKey": "artlist.io/ai/models/seedance-2-5"
+      },
+      {
+        "id": "f9249b34bd25c21642a1c8d0e6734ff712bdebd9",
+        "title": "Seedance 2 0",
+        "url": "https://artlist.io/ai/models/seedance-2-0",
+        "canonicalKey": "artlist.io/ai/models/seedance-2-0"
+      },
+      {
+        "id": "5aff40109100d38c0562e2e7ec2371fc0dd23fb4",
+        "title": "Gemini Omni Flash",
+        "url": "https://artlist.io/ai/models/gemini-omni-flash",
+        "canonicalKey": "artlist.io/ai/models/gemini-omni-flash"
+      },
+      {
+        "id": "4bc15acfbe42098091849b154f512398d408d597",
+        "title": "Veo 3 1",
+        "url": "https://artlist.io/ai/models/veo-3-1",
+        "canonicalKey": "artlist.io/ai/models/veo-3-1"
+      },
+      {
+        "id": "f3e91dc336820523e0424fde1fdc86a1333a759a",
+        "title": "Sora 2",
+        "url": "https://artlist.io/ai/models/sora-2",
+        "canonicalKey": "artlist.io/ai/models/sora-2"
+      },
+      {
+        "id": "64ea555008a49db4d2c7d46dd50254173482104e",
+        "title": "Heygen AI",
+        "url": "https://artlist.io/ai/models/heygen-ai",
+        "canonicalKey": "artlist.io/ai/models/heygen-ai"
+      },
+      {
+        "id": "bc6efc5d45c1f395d1da85bf8d0e2b044886b94e",
+        "title": "Kling O3",
+        "url": "https://artlist.io/ai/models/kling-o3",
+        "canonicalKey": "artlist.io/ai/models/kling-o3"
+      },
+      {
+        "id": "46b8c7faf715f6e8ef563f1a5c1416fac50e4267",
+        "title": "Kling 3 0",
+        "url": "https://artlist.io/ai/models/kling-3-0",
+        "canonicalKey": "artlist.io/ai/models/kling-3-0"
+      },
+      {
+        "id": "7c0790422b8cc36834ad55af597919830cc04080",
+        "title": "Text To Image",
+        "url": "https://artlist.io/ai/image-generator/text-to-image",
+        "canonicalKey": "artlist.io/ai/image-generator/text-to-image"
+      },
+      {
+        "id": "fc4c16e4c52de62e17dc477edb9cab4b866f1b23",
+        "title": "Image To Image",
+        "url": "https://artlist.io/ai/image-generator/image-to-image",
+        "canonicalKey": "artlist.io/ai/image-generator/image-to-image"
+      },
+      {
+        "id": "47f6239c64fda994ffdea5ae8090e2bb70d8f4c6",
+        "title": "Nano Banana",
+        "url": "https://artlist.io/ai/models/nano-banana",
+        "canonicalKey": "artlist.io/ai/models/nano-banana"
+      },
+      {
+        "id": "1811bd12a72e2ab7ea703fdc9d87330ba4d64c75",
+        "title": "Nano Banana Pro",
+        "url": "https://artlist.io/ai/models/nano-banana-pro",
+        "canonicalKey": "artlist.io/ai/models/nano-banana-pro"
+      },
+      {
+        "id": "290f753afa7f39e3455a1468e8e1b039be53a19e",
+        "title": "Nano Banana 2",
+        "url": "https://artlist.io/ai/models/nano-banana-2",
+        "canonicalKey": "artlist.io/ai/models/nano-banana-2"
+      },
+      {
+        "id": "15160f5bee9ec757c5874ca3792b15ebaacfc44d",
+        "title": "Artlist Original 1 0",
+        "url": "https://artlist.io/ai/models/artlist-original-1-0",
+        "canonicalKey": "artlist.io/ai/models/artlist-original-1-0"
+      },
+      {
+        "id": "f4e7322da4984b1c9bb48dec46027204a4ee8ce6",
+        "title": "Grok Imagine",
+        "url": "https://artlist.io/ai/models/grok-imagine",
+        "canonicalKey": "artlist.io/ai/models/grok-imagine"
+      },
+      {
         "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
         "title": "Seedream 5 0",
         "url": "https://artlist.io/ai/models/seedream-5-0",
         "canonicalKey": "artlist.io/ai/models/seedream-5-0"
+      },
+      {
+        "id": "8d64356f7de4321af73bb9e71a740d6453e86c4f",
+        "title": "Flux 2 Pro",
+        "url": "https://artlist.io/ai/models/flux-2-pro",
+        "canonicalKey": "artlist.io/ai/models/flux-2-pro"
+      },
+      {
+        "id": "7d54e76920efc58c266bea7637685c3896a61da4",
+        "title": "Flux 2 Dev",
+        "url": "https://artlist.io/ai/models/flux-2-dev",
+        "canonicalKey": "artlist.io/ai/models/flux-2-dev"
+      },
+      {
+        "id": "ffeadd592888e53352e5a07f3be1df56e161925f",
+        "title": "Text To Speech",
+        "url": "https://artlist.io/ai/voice-generator/text-to-speech",
+        "canonicalKey": "artlist.io/ai/voice-generator/text-to-speech"
+      },
+      {
+        "id": "cb660b3e2ac6eb6966205ae4435e3973d4a11507",
+        "title": "Speech To Speech",
+        "url": "https://artlist.io/ai/voice-generator/speech-to-speech",
+        "canonicalKey": "artlist.io/ai/voice-generator/speech-to-speech"
+      },
+      {
+        "id": "94ce6d73309836dda688d5ce586f4dfb8f1019cc",
+        "title": "Voice Cloning",
+        "url": "https://artlist.io/ai/voice-generator/voice-cloning",
+        "canonicalKey": "artlist.io/ai/voice-generator/voice-cloning"
+      },
+      {
+        "id": "c54720ef5ade62447a4208c8228c9d1b6d40a615",
+        "title": "Voice Effects",
+        "url": "https://artlist.io/ai/voice-generator/voice-effects",
+        "canonicalKey": "artlist.io/ai/voice-generator/voice-effects"
+      },
+      {
+        "id": "b06fe178670ef61ed8156773c3ac0251e8e9303d",
+        "title": "Elevenlabs",
+        "url": "https://artlist.io/ai/models/elevenlabs",
+        "canonicalKey": "artlist.io/ai/models/elevenlabs"
+      },
+      {
+        "id": "f77e9eccebffa8f95a22b9f615a7bda11f88f923",
+        "title": "Cartesia",
+        "url": "https://artlist.io/ai/models/cartesia",
+        "canonicalKey": "artlist.io/ai/models/cartesia"
+      },
+      {
+        "id": "c7a446972a7f908d9dbb8bc9a6344367c3d203b3",
+        "title": "Minimax",
+        "url": "https://artlist.io/ai/models/minimax",
+        "canonicalKey": "artlist.io/ai/models/minimax"
+      },
+      {
+        "id": "e8be5a78066be4f4ef3a204f2cdf19254330b8ec",
+        "title": "Text To Music",
+        "url": "https://artlist.io/ai/music-generator/text-to-music",
+        "canonicalKey": "artlist.io/ai/music-generator/text-to-music"
+      },
+      {
+        "id": "486bb504608edacf2d1556cf82998c3cba056fac",
+        "title": "Image To Music",
+        "url": "https://artlist.io/ai/music-generator/image-to-music",
+        "canonicalKey": "artlist.io/ai/music-generator/image-to-music"
+      },
+      {
+        "id": "f324f70b511ef81c1d0e1ffafe09c0d0dfa81b8f",
+        "title": "Lyria 3",
+        "url": "https://artlist.io/ai/models/lyria-3",
+        "canonicalKey": "artlist.io/ai/models/lyria-3"
+      },
+      {
+        "id": "f9aa67b92cbe3c0b2f5fe9f5d57baf5bbb02bc27",
+        "title": "Royalty Free Music",
+        "url": "https://artlist.io/royalty-free-music",
+        "canonicalKey": "artlist.io/royalty-free-music"
+      },
+      {
+        "id": "c19ef2919da935b87b24f99a83f8e36cfcf6567f",
+        "title": "Sfx",
+        "url": "https://artlist.io/sfx",
+        "canonicalKey": "artlist.io/sfx"
+      },
+      {
+        "id": "731b5debfabf4ee56e994bb4bc5ee631573cc71e",
+        "title": "Stock Footage",
+        "url": "https://artlist.io/stock-footage",
+        "canonicalKey": "artlist.io/stock-footage"
+      },
+      {
+        "id": "1b8aaccc2a4c455c67f87374740b7867b516ac77",
+        "title": "Luts",
+        "url": "https://artlist.io/luts",
+        "canonicalKey": "artlist.io/luts"
+      },
+      {
+        "id": "4c58910ad6e57e153f05df01b5193421e986d8fa",
+        "title": "Tools",
+        "url": "https://artlist.io/tools",
+        "canonicalKey": "artlist.io/tools"
+      },
+      {
+        "id": "82c30fc56670ae3d3852b92d5ec59c27c6f4b63e",
+        "title": "AI",
+        "url": "https://artlist.io/ai",
+        "canonicalKey": "artlist.io/ai"
       },
       {
         "id": "e6d2f4f8dcfb0be6b4a14a89000985c888f97b1e",
