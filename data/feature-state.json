@@ -36,12 +36,6 @@
         "canonicalKey": "higgsfield.ai/plugins/blender"
       },
       {
-        "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
-        "title": "Supercomputer",
-        "url": "https://higgsfield.ai/supercomputer",
-        "canonicalKey": "higgsfield.ai/supercomputer"
-      },
-      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
@@ -52,6 +46,12 @@
         "title": "Generate",
         "url": "https://higgsfield.ai/generate",
         "canonicalKey": "higgsfield.ai/generate"
+      },
+      {
+        "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
+        "title": "Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer",
+        "canonicalKey": "higgsfield.ai/supercomputer"
       },
       {
         "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
@@ -133,14 +133,14 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-08-21T10:01:32.816Z",
+        "lastmod": "2026-08-24T09:49:35.174Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-08-21T10:01:32.816Z",
+        "lastmod": "2026-08-24T09:49:35.174Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -510,12 +510,6 @@
         "canonicalKey": "pollo.ai/tool"
       },
       {
-        "id": "2c22fb804581197d0146fb0ffc3aa1d45cd863c5",
-        "title": "Happy Horse",
-        "url": "https://pollo.ai/m/happy-horse",
-        "canonicalKey": "pollo.ai/m/happy-horse"
-      },
-      {
         "id": "84846cbbb74ded542912b7480a1fdeb807c62fb8",
         "title": "AI Avatar",
         "url": "https://pollo.ai/ai-avatar",
@@ -786,10 +780,10 @@
         "canonicalKey": "pollo.ai/app/ai-invitation-maker"
       },
       {
-        "id": "c109c3cc54ca54897e7632bc6ceebffdd9a91371",
+        "id": "fe83d58cc50a7f9e1f313e6532ae8c6aa83ac330",
         "title": "AI Business Card Generator",
-        "url": "https://pollo.ai/ai-business-card-generator",
-        "canonicalKey": "pollo.ai/ai-business-card-generator"
+        "url": "https://pollo.ai/app/ai-business-card-generator",
+        "canonicalKey": "pollo.ai/app/ai-business-card-generator"
       },
       {
         "id": "65dedd319dcfe17d87e50bd071e769b73acd7cd4",
@@ -882,34 +876,28 @@
         "canonicalKey": "pollo.ai/ai-sound-effect-generator"
       },
       {
-        "id": "9b126ec2e98c0924ee0ac2cb68486f43666bee84",
-        "title": "AI UGC Video Generator",
-        "url": "https://pollo.ai/ai-ugc-video-generator",
-        "canonicalKey": "pollo.ai/ai-ugc-video-generator"
+        "id": "72e219ec977de311f7a68aed6f4bd5310a6ffd9d",
+        "title": "Bulk Clone Viral Videos",
+        "url": "https://pollo.ai/app/bulk-clone-viral-videos",
+        "canonicalKey": "pollo.ai/app/bulk-clone-viral-videos"
       },
       {
-        "id": "e2fe335af1d1e443191fdbd963ea896eb91bf309",
-        "title": "AI Product Video Generator",
-        "url": "https://pollo.ai/ai-product-video-generator",
-        "canonicalKey": "pollo.ai/ai-product-video-generator"
+        "id": "086a9bb0fa376758344c3994bde1e020ac2407ff",
+        "title": "Narrative Music Video",
+        "url": "https://pollo.ai/app/narrative-music-video",
+        "canonicalKey": "pollo.ai/app/narrative-music-video"
       },
       {
-        "id": "db99c1f70ba8c52662d8b915d8909dc2f78ddc0d",
-        "title": "AI Ad Generator",
-        "url": "https://pollo.ai/ai-ad-generator",
-        "canonicalKey": "pollo.ai/ai-ad-generator"
+        "id": "ae23ece45cc1dc673b2a65883f35181ea20d10a8",
+        "title": "Movie Trailer Maker",
+        "url": "https://pollo.ai/app/movie-trailer-maker",
+        "canonicalKey": "pollo.ai/app/movie-trailer-maker"
       },
       {
-        "id": "0540ef7040d842c8249df27da1a195b13d24fd2d",
-        "title": "AI Anime Video Generator",
-        "url": "https://pollo.ai/ai-anime-video-generator",
-        "canonicalKey": "pollo.ai/ai-anime-video-generator"
-      },
-      {
-        "id": "02ee6195e0a8e5e96b02088074859953e7c60eaf",
+        "id": "fd43145a45d253116c652ae48ad023f675713dc6",
         "title": "AI Celebrity Video Generator",
-        "url": "https://pollo.ai/ai-celebrity-video-generator",
-        "canonicalKey": "pollo.ai/ai-celebrity-video-generator"
+        "url": "https://pollo.ai/app/ai-celebrity-video-generator",
+        "canonicalKey": "pollo.ai/app/ai-celebrity-video-generator"
       },
       {
         "id": "0a866cdd842bed058b9d19caeb8ca6a738176b46",
@@ -952,6 +940,12 @@
         "title": "Sora 2",
         "url": "https://pollo.ai/m/sora-2",
         "canonicalKey": "pollo.ai/m/sora-2"
+      },
+      {
+        "id": "2c22fb804581197d0146fb0ffc3aa1d45cd863c5",
+        "title": "Happy Horse",
+        "url": "https://pollo.ai/m/happy-horse",
+        "canonicalKey": "pollo.ai/m/happy-horse"
       },
       {
         "id": "4b7ce3d28623c3b645c94750e2a4cdc246a25a90",
@@ -1206,12 +1200,6 @@
         "canonicalKey": "pollo.ai/app/marketing-video-maker"
       },
       {
-        "id": "ae23ece45cc1dc673b2a65883f35181ea20d10a8",
-        "title": "Movie Trailer Maker",
-        "url": "https://pollo.ai/app/movie-trailer-maker",
-        "canonicalKey": "pollo.ai/app/movie-trailer-maker"
-      },
-      {
         "id": "e876809765ddd77c5c97022d68807709446b3dc3",
         "title": "AI Faceless Video Generator",
         "url": "https://pollo.ai/app/ai-faceless-video-generator",
@@ -1222,12 +1210,6 @@
         "title": "Bulk AI Viral Video Generator",
         "url": "https://pollo.ai/app/bulk-ai-viral-video-generator",
         "canonicalKey": "pollo.ai/app/bulk-ai-viral-video-generator"
-      },
-      {
-        "id": "72e219ec977de311f7a68aed6f4bd5310a6ffd9d",
-        "title": "Bulk Clone Viral Videos",
-        "url": "https://pollo.ai/app/bulk-clone-viral-videos",
-        "canonicalKey": "pollo.ai/app/bulk-clone-viral-videos"
       },
       {
         "id": "da95551ff9a8b320c2c0f7f183bdefb85931599c",
@@ -1308,6 +1290,18 @@
         "canonicalKey": "pollo.ai/ai-dance-generator"
       },
       {
+        "id": "e31444d7b949a07d18b7a5215829d588875a0507",
+        "title": "Wan 3 0 Vs Seedance 2 5",
+        "url": "https://pollo.ai/hub/wan-3-0-vs-seedance-2-5",
+        "canonicalKey": "pollo.ai/hub/wan-3-0-vs-seedance-2-5"
+      },
+      {
+        "id": "5ee0bd813ef84ecd03d29fc23a51819279d52ca9",
+        "title": "How To Use Wan 3 0",
+        "url": "https://pollo.ai/hub/how-to-use-wan-3-0",
+        "canonicalKey": "pollo.ai/hub/how-to-use-wan-3-0"
+      },
+      {
         "id": "8c70aa63284b4c9f7a79d8af3e34c65950b743d2",
         "title": "Wan 3 0 Review",
         "url": "https://pollo.ai/hub/wan-3-0-review",
@@ -1354,18 +1348,6 @@
         "title": "Midjourney Review",
         "url": "https://pollo.ai/hub/midjourney-review",
         "canonicalKey": "pollo.ai/hub/midjourney-review"
-      },
-      {
-        "id": "88f676d32d3b89b14ee4f924e5399c51e8b70edf",
-        "title": "Best Times To Post On Instagram For Maximum Engagement And Reach",
-        "url": "https://pollo.ai/hub/best-times-to-post-on-instagram-for-maximum-engagement-and-reach",
-        "canonicalKey": "pollo.ai/hub/best-times-to-post-on-instagram-for-maximum-engagement-and-reach"
-      },
-      {
-        "id": "f6ce7e96999a9920714d8b51065aa75272195483",
-        "title": "Best Times To Post On Tiktok Based On Audience Activity And Trends",
-        "url": "https://pollo.ai/hub/best-times-to-post-on-tiktok-based-on-audience-activity-and-trends",
-        "canonicalKey": "pollo.ai/hub/best-times-to-post-on-tiktok-based-on-audience-activity-and-trends"
       },
       {
         "id": "facdeae2796ee90d6586dd7614bad997f7a6b4c2",
@@ -1500,12 +1482,6 @@
         "title": "33334424159005 AI Toolkit",
         "url": "https://help.artlist.io/hc/en-us/categories/33334424159005-AI-Toolkit",
         "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
-      },
-      {
-        "id": "82c30fc56670ae3d3852b92d5ec59c27c6f4b63e",
-        "title": "AI",
-        "url": "https://artlist.io/ai",
-        "canonicalKey": "artlist.io/ai"
       },
       {
         "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
