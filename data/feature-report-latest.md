@@ -1,12 +1,13 @@
 # 竞品功能/工具页监测日报
 
-生成时间：2026/08/25 10:22（上海）
+生成时间：2026/08/26 10:38（上海）
 
-新增页面总数：5
+新增页面总数：6
 
-## Pollo AI（5）
-- [AI Business Card Generator](https://pollo.ai/app/ai-business-card-generator)
-- [Narrative Music Video](https://pollo.ai/app/narrative-music-video)
-- [AI Celebrity Video Generator](https://pollo.ai/app/ai-celebrity-video-generator)
-- [Wan 3 0 Vs Seedance 2 5](https://pollo.ai/hub/wan-3-0-vs-seedance-2-5)
-- [How To Use Wan 3 0](https://pollo.ai/hub/how-to-use-wan-3-0)
+## Pollo AI（6）
+- [Vyond Review](https://pollo.ai/hub/vyond-review)
+- [How To Grow Your Youtube Channel Fast For Free](https://pollo.ai/hub/how-to-grow-your-youtube-channel-fast-for-free)
+- [How To Rank Videos On Youtube](https://pollo.ai/hub/how-to-rank-videos-on-youtube)
+- [How To Improve Reach On Youtube](https://pollo.ai/hub/how-to-improve-reach-on-youtube)
+- [Lumen5 Review](https://pollo.ai/hub/lumen5-review)
+- [What Is Wan 3 0](https://pollo.ai/hub/what-is-wan-3-0)
