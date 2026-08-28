@@ -5,70 +5,8 @@
     "Topview": [],
     "DataCamp": [],
     "WaveSpeed": [],
-    "WeShop AI": [
-      {
-        "key": "d5758690893a7595cf67b6739a714d4849f4047d",
-        "url": "https://www.weshop.ai/blog/weshop-ai-user-manual-and-tutorial/",
-        "date": "2026-08-20T09:46:04+00:00",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "db880a7aa71755dec3422cfda5eebe3fccfa7902",
-        "url": "https://www.weshop.ai/blog/magic-eraser-rescue-product-photos-without-reshooting/",
-        "date": "2026-08-20T09:27:56+00:00",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      }
-    ],
-    "Atlas Cloud": [
-      {
-        "key": "f569bec4bf4a7afa3ffc94c8f0b8cee62446a3aa",
-        "url": "https://www.atlascloud.ai/blog/case-studies/wan-2-7-vs-the-giants-is-this-the-new-king-of-ai-text-to-image-generator",
-        "date": "2026-08-20T16:30:28.581Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "55576deac9ab3b99a399d75e9c77baf3d05a4a44",
-        "url": "https://www.atlascloud.ai/blog/guides/minimax-h3-vs-veo-31-anime",
-        "date": "2026-08-20T16:05:24.851Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "ae61e3e0da572cfb3c695ba838947470791d0f0c",
-        "url": "https://www.atlascloud.ai/blog/case-studies/veo-3-1-vs-wan-2-6-which-image-to-video-ai-tool-wins-for-content-in-2026",
-        "date": "2026-08-20T15:52:41.535Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "41e872e85089eb506285e142c6d3c6543465adcd",
-        "url": "https://www.atlascloud.ai/blog/guides/nano-banana-pro-vs-nano-banana-2",
-        "date": "2026-08-20T15:49:18.339Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "bd1839163694ec6cdb12fcbefdb94740929db763",
-        "url": "https://www.atlascloud.ai/blog/guides/seedance-2-5-api-pricing-atlas-cloud-vs-official-providers",
-        "date": "2026-08-20T15:09:44.637Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "f99a4679aa9db5c923337ea49c0c8f24fc96c28a",
-        "url": "https://www.atlascloud.ai/blog/guides/api-provider-cline-roocode-vscode-cursor-multiple-llms",
-        "date": "2026-08-20T15:09:29.503Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "62f7caf987ba23725573c49373e41f2ad8b7f003",
-        "url": "https://www.atlascloud.ai/blog/guides/vs-openrouter-vs-replicate",
-        "date": "2026-08-20T15:09:28.047Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      },
-      {
-        "key": "f85090bd457d439faace249543e0fed3b1162d75",
-        "url": "https://www.atlascloud.ai/blog/ai-updates/seedance-2.5-vs-minimax-h3",
-        "date": "2026-08-20T14:58:57.173Z",
-        "reportedAt": "2026-08-21T02:35:37.023Z"
-      }
-    ],
+    "WeShop AI": [],
+    "Atlas Cloud": [],
     "TopMediai": [],
     "JXP": []
   }
