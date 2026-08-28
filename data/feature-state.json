@@ -30,12 +30,6 @@
         "canonicalKey": "higgsfield.ai/ai-influencer-studio"
       },
       {
-        "id": "73b4183d899aea0e823f188c8813e0a176eceab1",
-        "title": "Blender",
-        "url": "https://higgsfield.ai/plugins/blender",
-        "canonicalKey": "higgsfield.ai/plugins/blender"
-      },
-      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
@@ -118,6 +112,12 @@
         "title": "Figma",
         "url": "https://higgsfield.ai/plugins/figma",
         "canonicalKey": "higgsfield.ai/plugins/figma"
+      },
+      {
+        "id": "73b4183d899aea0e823f188c8813e0a176eceab1",
+        "title": "Blender",
+        "url": "https://higgsfield.ai/plugins/blender",
+        "canonicalKey": "higgsfield.ai/plugins/blender"
       }
     ],
     "LibTV": [
@@ -133,14 +133,14 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-08-27T09:52:24.561Z",
+        "lastmod": "2026-08-28T09:53:35.340Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-08-27T09:52:24.561Z",
+        "lastmod": "2026-08-28T09:53:35.340Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -1312,30 +1312,6 @@
         "title": "How To Improve Reach On Youtube",
         "url": "https://pollo.ai/hub/how-to-improve-reach-on-youtube",
         "canonicalKey": "pollo.ai/hub/how-to-improve-reach-on-youtube"
-      },
-      {
-        "id": "32bdccdfd97eb39e76368cc2a0f579a721052191",
-        "title": "Lumen5 Review",
-        "url": "https://pollo.ai/hub/lumen5-review",
-        "canonicalKey": "pollo.ai/hub/lumen5-review"
-      },
-      {
-        "id": "db4f79e08b1c2ced11045e51413e3ea126d3778b",
-        "title": "What Is Wan 3 0",
-        "url": "https://pollo.ai/hub/what-is-wan-3-0",
-        "canonicalKey": "pollo.ai/hub/what-is-wan-3-0"
-      },
-      {
-        "id": "e31444d7b949a07d18b7a5215829d588875a0507",
-        "title": "Wan 3 0 Vs Seedance 2 5",
-        "url": "https://pollo.ai/hub/wan-3-0-vs-seedance-2-5",
-        "canonicalKey": "pollo.ai/hub/wan-3-0-vs-seedance-2-5"
-      },
-      {
-        "id": "5ee0bd813ef84ecd03d29fc23a51819279d52ca9",
-        "title": "How To Use Wan 3 0",
-        "url": "https://pollo.ai/hub/how-to-use-wan-3-0",
-        "canonicalKey": "pollo.ai/hub/how-to-use-wan-3-0"
       },
       {
         "id": "facdeae2796ee90d6586dd7614bad997f7a6b4c2",
