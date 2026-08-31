@@ -690,8 +690,9 @@ async function main() {
     await browser.close().catch(() => {});
   }
 
-  const markdown = renderMarkdownReport(reportItems, generatedAt);
-  const dingTalkText = renderDingTalkText(reportItems, generatedAt);
+  const visibleItems = reportItems.filter((item) => item.articles.length > 0);
+  const markdown = renderMarkdownReport(visibleItems, generatedAt);
+  const dingTalkText = renderDingTalkText(visibleItems, generatedAt);
   await fs.writeFile(REPORT_FILE, markdown, "utf8");
 
   const sendResult = await sendToDingTalk(dingTalkText, env).catch((error) => ({
