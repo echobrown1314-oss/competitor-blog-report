@@ -18,6 +18,7 @@
 - https://www.weshop.ai/blog/
 - https://www.atlascloud.ai/blog
 - https://www.topmediai.com/video-tips
+- https://pollo.ai/hub/
 - https://www.jxp.com/blog
 
 ## 模板/玩法页监控站点
@@ -123,4 +124,3 @@ DRY_RUN_DINGTALK=1
 
 - `Imagine.art`
 - `InVideo`
-- `Pollo AI`

@@ -62,6 +62,12 @@ const SOURCES = [
     maxCandidates: 12
   },
   {
+    name: "Pollo AI",
+    home: "https://pollo.ai/hub/",
+    articlePatterns: [/^https:\/\/pollo\.ai\/hub\/[^/]+\/?$/i],
+    maxCandidates: 12
+  },
+  {
     name: "JXP",
     home: "https://www.jxp.com/blog",
     articlePatterns: [/^https:\/\/www\.jxp\.com\/blog\/[^/]+\/?$/i],
@@ -563,7 +569,6 @@ async function scrapeSource(browser, source) {
 }
 
 function renderDingTalkText(items, generatedAt) {
-  const visibleItems = items.filter((item) => item.articles.length > 0);
   const dateStr = new Intl.DateTimeFormat("zh-CN", {
     timeZone: REPORT_TIMEZONE,
     year: "numeric",
@@ -574,12 +579,11 @@ function renderDingTalkText(items, generatedAt) {
   }).format(generatedAt);
 
   const lines = ["竞品博客监测日报", `生成时间：${dateStr}（上海）`, ""];
-  if (visibleItems.length === 0) {
+  if (items.length === 0) {
     lines.push("今日未发现新的细分竞品页面");
     return lines.join("\n");
   }
-
-  for (const source of visibleItems) {
+  for (const source of items) {
     lines.push(`${source.name}：${source.articles.length} 篇`);
     for (const article of source.articles) {
       lines.push(`- ${article.title} | ${effectiveArticleDate(article)}`);
@@ -591,7 +595,6 @@ function renderDingTalkText(items, generatedAt) {
 }
 
 function renderMarkdownReport(items, generatedAt) {
-  const visibleItems = items.filter((item) => item.articles.length > 0);
   const dateStr = new Intl.DateTimeFormat("zh-CN", {
     timeZone: REPORT_TIMEZONE,
     year: "numeric",
@@ -602,15 +605,14 @@ function renderMarkdownReport(items, generatedAt) {
   }).format(generatedAt);
 
   const lines = ["# 竞品博客监测日报", "", `生成时间：${dateStr}（上海）`, ""];
-  if (visibleItems.length === 0) {
+  if (items.length === 0) {
     lines.push("今日未发现新的细分竞品页面");
     return lines.join("\n");
   }
-
-  const total = visibleItems.reduce((sum, item) => sum + item.articles.length, 0);
+  const total = items.reduce((sum, item) => sum + item.articles.length, 0);
   lines.push(`新增文章总数：${total}`, "");
 
-  for (const source of visibleItems) {
+  for (const source of items) {
     lines.push(`## ${source.name}（${source.articles.length}）`);
     for (const article of source.articles) {
       lines.push(`- [${article.title}](${article.url}) | ${effectiveArticleDate(article)}`);
@@ -688,9 +690,8 @@ async function main() {
     await browser.close().catch(() => {});
   }
 
-  const visibleItems = reportItems.filter((item) => item.articles.length > 0);
-  const markdown = renderMarkdownReport(visibleItems, generatedAt);
-  const dingTalkText = renderDingTalkText(visibleItems, generatedAt);
+  const markdown = renderMarkdownReport(reportItems, generatedAt);
+  const dingTalkText = renderDingTalkText(reportItems, generatedAt);
   await fs.writeFile(REPORT_FILE, markdown, "utf8");
 
   const sendResult = await sendToDingTalk(dingTalkText, env).catch((error) => ({
