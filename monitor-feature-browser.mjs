@@ -173,6 +173,7 @@ const GENERIC_LABELS = new Set([
   "image models",
   "video models",
   "voice model",
+  "ai",
   "company",
   "menu",
   "close"
@@ -244,7 +245,7 @@ const SOURCES = [
       "face-swap",
       "avatar"
     ],
-    rejectKeywords: ["blog", "pricing", "contact", "about", "careers", "jobs", "privacy", "terms"],
+    hardRejectKeywords: ["blog", "hub", "pricing", "contact", "about", "careers", "jobs", "privacy", "terms"],
     maxItems: 160
   },
   {
