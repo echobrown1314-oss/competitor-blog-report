@@ -133,14 +133,14 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-08-28T09:53:35.340Z",
+        "lastmod": "2026-08-31T07:33:39.887Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-08-28T09:53:35.340Z",
+        "lastmod": "2026-08-31T07:33:39.887Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -1446,12 +1446,6 @@
         "title": "33334424159005 AI Toolkit",
         "url": "https://help.artlist.io/hc/en-us/categories/33334424159005-AI-Toolkit",
         "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
-      },
-      {
-        "id": "82c30fc56670ae3d3852b92d5ec59c27c6f4b63e",
-        "title": "AI",
-        "url": "https://artlist.io/ai",
-        "canonicalKey": "artlist.io/ai"
       },
       {
         "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
