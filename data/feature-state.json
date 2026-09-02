@@ -30,6 +30,12 @@
         "canonicalKey": "higgsfield.ai/ai-influencer-studio"
       },
       {
+        "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
+        "title": "Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer",
+        "canonicalKey": "higgsfield.ai/supercomputer"
+      },
+      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
@@ -40,12 +46,6 @@
         "title": "Generate",
         "url": "https://higgsfield.ai/generate",
         "canonicalKey": "higgsfield.ai/generate"
-      },
-      {
-        "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
-        "title": "Supercomputer",
-        "url": "https://higgsfield.ai/supercomputer",
-        "canonicalKey": "higgsfield.ai/supercomputer"
       },
       {
         "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
@@ -133,14 +133,14 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-01T04:05:27.189Z",
+        "lastmod": "2026-09-02T05:43:09.001Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-01T04:05:27.189Z",
+        "lastmod": "2026-09-02T05:43:09.001Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -1370,12 +1370,6 @@
     ],
     "Artlist": [
       {
-        "id": "f5d6fd07c594fe62fef29f70052dfcef7ed974b1",
-        "title": "Example",
-        "url": "https://studio.artlist.io/example",
-        "canonicalKey": "studio.artlist.io/example"
-      },
-      {
         "id": "764870a2105937796bdad50b131902e22ecc4116",
         "title": "Music Generator",
         "url": "https://artlist.io/ai/music-generator",
@@ -1454,232 +1448,10 @@
         "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
       },
       {
-        "id": "76164ddace47c9b4ec95026085c36f776c3ba89a",
-        "title": "Image To Video",
-        "url": "https://artlist.io/ai/video-generator/image-to-video",
-        "canonicalKey": "artlist.io/ai/video-generator/image-to-video"
-      },
-      {
-        "id": "6bca6664ebb0ffeb040bbdd6ba2cc459aa9e3a3a",
-        "title": "Text To Video",
-        "url": "https://artlist.io/ai/video-generator/text-to-video",
-        "canonicalKey": "artlist.io/ai/video-generator/text-to-video"
-      },
-      {
-        "id": "476c03431682304327aa645c1daf70bbe01b6a65",
-        "title": "Video To Video",
-        "url": "https://artlist.io/ai/video-generator/video-to-video",
-        "canonicalKey": "artlist.io/ai/video-generator/video-to-video"
-      },
-      {
-        "id": "0a637e420af4068899210eae3026861c9b85557c",
-        "title": "Audio To Video",
-        "url": "https://artlist.io/ai/video-generator/audio-to-video",
-        "canonicalKey": "artlist.io/ai/video-generator/audio-to-video"
-      },
-      {
-        "id": "7a8e66dfc80a924508cd3ca0be18bc7ef0789b5f",
-        "title": "Apps",
-        "url": "https://artlist.io/ai/apps",
-        "canonicalKey": "artlist.io/ai/apps"
-      },
-      {
-        "id": "9a7e1bdb860e7b5e66a026ffd3823a5d7d269742",
-        "title": "Seedance 2 5",
-        "url": "https://artlist.io/ai/models/seedance-2-5",
-        "canonicalKey": "artlist.io/ai/models/seedance-2-5"
-      },
-      {
-        "id": "f9249b34bd25c21642a1c8d0e6734ff712bdebd9",
-        "title": "Seedance 2 0",
-        "url": "https://artlist.io/ai/models/seedance-2-0",
-        "canonicalKey": "artlist.io/ai/models/seedance-2-0"
-      },
-      {
-        "id": "5aff40109100d38c0562e2e7ec2371fc0dd23fb4",
-        "title": "Gemini Omni Flash",
-        "url": "https://artlist.io/ai/models/gemini-omni-flash",
-        "canonicalKey": "artlist.io/ai/models/gemini-omni-flash"
-      },
-      {
-        "id": "4bc15acfbe42098091849b154f512398d408d597",
-        "title": "Veo 3 1",
-        "url": "https://artlist.io/ai/models/veo-3-1",
-        "canonicalKey": "artlist.io/ai/models/veo-3-1"
-      },
-      {
-        "id": "f3e91dc336820523e0424fde1fdc86a1333a759a",
-        "title": "Sora 2",
-        "url": "https://artlist.io/ai/models/sora-2",
-        "canonicalKey": "artlist.io/ai/models/sora-2"
-      },
-      {
-        "id": "64ea555008a49db4d2c7d46dd50254173482104e",
-        "title": "Heygen AI",
-        "url": "https://artlist.io/ai/models/heygen-ai",
-        "canonicalKey": "artlist.io/ai/models/heygen-ai"
-      },
-      {
-        "id": "bc6efc5d45c1f395d1da85bf8d0e2b044886b94e",
-        "title": "Kling O3",
-        "url": "https://artlist.io/ai/models/kling-o3",
-        "canonicalKey": "artlist.io/ai/models/kling-o3"
-      },
-      {
-        "id": "46b8c7faf715f6e8ef563f1a5c1416fac50e4267",
-        "title": "Kling 3 0",
-        "url": "https://artlist.io/ai/models/kling-3-0",
-        "canonicalKey": "artlist.io/ai/models/kling-3-0"
-      },
-      {
-        "id": "7c0790422b8cc36834ad55af597919830cc04080",
-        "title": "Text To Image",
-        "url": "https://artlist.io/ai/image-generator/text-to-image",
-        "canonicalKey": "artlist.io/ai/image-generator/text-to-image"
-      },
-      {
-        "id": "fc4c16e4c52de62e17dc477edb9cab4b866f1b23",
-        "title": "Image To Image",
-        "url": "https://artlist.io/ai/image-generator/image-to-image",
-        "canonicalKey": "artlist.io/ai/image-generator/image-to-image"
-      },
-      {
-        "id": "47f6239c64fda994ffdea5ae8090e2bb70d8f4c6",
-        "title": "Nano Banana",
-        "url": "https://artlist.io/ai/models/nano-banana",
-        "canonicalKey": "artlist.io/ai/models/nano-banana"
-      },
-      {
-        "id": "1811bd12a72e2ab7ea703fdc9d87330ba4d64c75",
-        "title": "Nano Banana Pro",
-        "url": "https://artlist.io/ai/models/nano-banana-pro",
-        "canonicalKey": "artlist.io/ai/models/nano-banana-pro"
-      },
-      {
-        "id": "290f753afa7f39e3455a1468e8e1b039be53a19e",
-        "title": "Nano Banana 2",
-        "url": "https://artlist.io/ai/models/nano-banana-2",
-        "canonicalKey": "artlist.io/ai/models/nano-banana-2"
-      },
-      {
-        "id": "15160f5bee9ec757c5874ca3792b15ebaacfc44d",
-        "title": "Artlist Original 1 0",
-        "url": "https://artlist.io/ai/models/artlist-original-1-0",
-        "canonicalKey": "artlist.io/ai/models/artlist-original-1-0"
-      },
-      {
-        "id": "f4e7322da4984b1c9bb48dec46027204a4ee8ce6",
-        "title": "Grok Imagine",
-        "url": "https://artlist.io/ai/models/grok-imagine",
-        "canonicalKey": "artlist.io/ai/models/grok-imagine"
-      },
-      {
         "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
         "title": "Seedream 5 0",
         "url": "https://artlist.io/ai/models/seedream-5-0",
         "canonicalKey": "artlist.io/ai/models/seedream-5-0"
-      },
-      {
-        "id": "8d64356f7de4321af73bb9e71a740d6453e86c4f",
-        "title": "Flux 2 Pro",
-        "url": "https://artlist.io/ai/models/flux-2-pro",
-        "canonicalKey": "artlist.io/ai/models/flux-2-pro"
-      },
-      {
-        "id": "7d54e76920efc58c266bea7637685c3896a61da4",
-        "title": "Flux 2 Dev",
-        "url": "https://artlist.io/ai/models/flux-2-dev",
-        "canonicalKey": "artlist.io/ai/models/flux-2-dev"
-      },
-      {
-        "id": "ffeadd592888e53352e5a07f3be1df56e161925f",
-        "title": "Text To Speech",
-        "url": "https://artlist.io/ai/voice-generator/text-to-speech",
-        "canonicalKey": "artlist.io/ai/voice-generator/text-to-speech"
-      },
-      {
-        "id": "cb660b3e2ac6eb6966205ae4435e3973d4a11507",
-        "title": "Speech To Speech",
-        "url": "https://artlist.io/ai/voice-generator/speech-to-speech",
-        "canonicalKey": "artlist.io/ai/voice-generator/speech-to-speech"
-      },
-      {
-        "id": "94ce6d73309836dda688d5ce586f4dfb8f1019cc",
-        "title": "Voice Cloning",
-        "url": "https://artlist.io/ai/voice-generator/voice-cloning",
-        "canonicalKey": "artlist.io/ai/voice-generator/voice-cloning"
-      },
-      {
-        "id": "c54720ef5ade62447a4208c8228c9d1b6d40a615",
-        "title": "Voice Effects",
-        "url": "https://artlist.io/ai/voice-generator/voice-effects",
-        "canonicalKey": "artlist.io/ai/voice-generator/voice-effects"
-      },
-      {
-        "id": "b06fe178670ef61ed8156773c3ac0251e8e9303d",
-        "title": "Elevenlabs",
-        "url": "https://artlist.io/ai/models/elevenlabs",
-        "canonicalKey": "artlist.io/ai/models/elevenlabs"
-      },
-      {
-        "id": "f77e9eccebffa8f95a22b9f615a7bda11f88f923",
-        "title": "Cartesia",
-        "url": "https://artlist.io/ai/models/cartesia",
-        "canonicalKey": "artlist.io/ai/models/cartesia"
-      },
-      {
-        "id": "c7a446972a7f908d9dbb8bc9a6344367c3d203b3",
-        "title": "Minimax",
-        "url": "https://artlist.io/ai/models/minimax",
-        "canonicalKey": "artlist.io/ai/models/minimax"
-      },
-      {
-        "id": "e8be5a78066be4f4ef3a204f2cdf19254330b8ec",
-        "title": "Text To Music",
-        "url": "https://artlist.io/ai/music-generator/text-to-music",
-        "canonicalKey": "artlist.io/ai/music-generator/text-to-music"
-      },
-      {
-        "id": "486bb504608edacf2d1556cf82998c3cba056fac",
-        "title": "Image To Music",
-        "url": "https://artlist.io/ai/music-generator/image-to-music",
-        "canonicalKey": "artlist.io/ai/music-generator/image-to-music"
-      },
-      {
-        "id": "f324f70b511ef81c1d0e1ffafe09c0d0dfa81b8f",
-        "title": "Lyria 3",
-        "url": "https://artlist.io/ai/models/lyria-3",
-        "canonicalKey": "artlist.io/ai/models/lyria-3"
-      },
-      {
-        "id": "f9aa67b92cbe3c0b2f5fe9f5d57baf5bbb02bc27",
-        "title": "Royalty Free Music",
-        "url": "https://artlist.io/royalty-free-music",
-        "canonicalKey": "artlist.io/royalty-free-music"
-      },
-      {
-        "id": "c19ef2919da935b87b24f99a83f8e36cfcf6567f",
-        "title": "Sfx",
-        "url": "https://artlist.io/sfx",
-        "canonicalKey": "artlist.io/sfx"
-      },
-      {
-        "id": "731b5debfabf4ee56e994bb4bc5ee631573cc71e",
-        "title": "Stock Footage",
-        "url": "https://artlist.io/stock-footage",
-        "canonicalKey": "artlist.io/stock-footage"
-      },
-      {
-        "id": "1b8aaccc2a4c455c67f87374740b7867b516ac77",
-        "title": "Luts",
-        "url": "https://artlist.io/luts",
-        "canonicalKey": "artlist.io/luts"
-      },
-      {
-        "id": "4c58910ad6e57e153f05df01b5193421e986d8fa",
-        "title": "Tools",
-        "url": "https://artlist.io/tools",
-        "canonicalKey": "artlist.io/tools"
       },
       {
         "id": "e6d2f4f8dcfb0be6b4a14a89000985c888f97b1e",
