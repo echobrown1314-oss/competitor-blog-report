@@ -4,7 +4,14 @@
     "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
-    "WaveSpeed": [],
+    "WaveSpeed": [
+      {
+        "key": "06b2e78f4b3fc0e830fd78348147fa8154aac820",
+        "url": "https://wavespeed.ai/blog/posts/light-parse-pricing/",
+        "date": "2026-09-01",
+        "reportedAt": "2026-09-02T05:44:52.993Z"
+      }
+    ],
     "WeShop AI": [],
     "Atlas Cloud": [],
     "TopMediai": [],
