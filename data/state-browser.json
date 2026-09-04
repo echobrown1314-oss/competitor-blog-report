@@ -15,6 +15,12 @@
         "url": "https://www.datacamp.com/blog/claude-fable-5-1",
         "date": "2026-09-02T10:53:31.000Z",
         "reportedAt": "2026-09-03T05:43:47.746Z"
+      },
+      {
+        "key": "7fc45866ac8bb38cd1fdf5f21d01ea7f2b3a109e",
+        "url": "https://www.datacamp.com/blog/gpt-6-astra",
+        "date": "2026-09-03T20:18:38.000Z",
+        "reportedAt": "2026-09-04T05:51:22.815Z"
       }
     ],
     "WaveSpeed": [
@@ -23,6 +29,12 @@
         "url": "https://wavespeed.ai/blog/posts/light-parse-pricing/",
         "date": "2026-09-01",
         "reportedAt": "2026-09-02T05:44:52.993Z"
+      },
+      {
+        "key": "5fa65fe65051acbaf70aa5a68e8e16ddba8edfbc",
+        "url": "https://wavespeed.ai/blog/posts/nemotron-4-release-date/",
+        "date": "2026-09-03",
+        "reportedAt": "2026-09-04T05:51:22.815Z"
       }
     ],
     "WeShop AI": [],
@@ -59,6 +71,24 @@
         "url": "https://pollo.ai/hub/unlimited-music-video-breakdown",
         "date": "2026-09-02T10:26:46.836Z",
         "reportedAt": "2026-09-03T05:43:47.746Z"
+      },
+      {
+        "key": "2b9d26a3f756c27287a0d25db4999f6cc3515310",
+        "url": "https://pollo.ai/hub/digital-circus-video-breakdown",
+        "date": "2026-09-04T02:44:46.641Z",
+        "reportedAt": "2026-09-04T05:51:22.815Z"
+      },
+      {
+        "key": "faf31138c3bfcd589d0dbaf785c902187e01fb34",
+        "url": "https://pollo.ai/hub/sport-girl-video-breakdown",
+        "date": "2026-09-03T10:21:31.455Z",
+        "reportedAt": "2026-09-04T05:51:22.815Z"
+      },
+      {
+        "key": "a0fb9475ecd018ea705495cada94228bcf6aa2bd",
+        "url": "https://pollo.ai/hub/dream-land-video-breakdown",
+        "date": "2026-09-03T05:53:36.274Z",
+        "reportedAt": "2026-09-04T05:51:22.815Z"
       }
     ]
   }
