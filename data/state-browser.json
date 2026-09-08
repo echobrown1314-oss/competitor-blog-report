@@ -1,7 +1,14 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [],
+    "MindVideo": [
+      {
+        "key": "f8386e07257b1a178ec9ad985ca2cc154edb3675",
+        "url": "https://www.mindvideo.ai/blog/how-to-remove-text-from-video/",
+        "date": "2026-09-07",
+        "reportedAt": "2026-09-08T05:54:28.862Z"
+      }
+    ],
     "Topview": [],
     "DataCamp": [
       {
@@ -42,24 +49,6 @@
     "TopMediai": [],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "a8942f62a4e302c273cca5672906c23b0355d30b",
-        "url": "https://pollo.ai/hub/best-wan-3-0-use-cases",
-        "date": "2026-08-31T05:48:10.966Z",
-        "reportedAt": "2026-08-31T08:07:54.718Z"
-      },
-      {
-        "key": "de9ea444047717b63936d154ecd8d0d979695aa5",
-        "url": "https://pollo.ai/hub/video-marketing-strategy-for-social-media",
-        "date": "2026-08-31T03:22:45.088Z",
-        "reportedAt": "2026-08-31T08:07:54.718Z"
-      },
-      {
-        "key": "417095f1f6c734e8b3b7be84efbd04ec54c35a44",
-        "url": "https://pollo.ai/hub/best-time-to-post-on-facebook",
-        "date": "2026-08-31T02:26:07.292Z",
-        "reportedAt": "2026-08-31T08:07:54.718Z"
-      },
       {
         "key": "de0dfd886a2a49a909ffc1514db5b6ec93aa6ba0",
         "url": "https://pollo.ai/hub/dream-land-video-breakdown",
@@ -137,6 +126,30 @@
         "url": "https://pollo.ai/hub/dress-up-game-fashion-claw-video-breakdown",
         "date": "2026-09-07T03:01:21.450Z",
         "reportedAt": "2026-09-07T06:00:59.748Z"
+      },
+      {
+        "key": "4f4153ff5b73e9ef664dfb655d8594a915d40551",
+        "url": "https://pollo.ai/hub/deevid-ai-vs-pollo-ai",
+        "date": "2026-09-07T13:42:37.617Z",
+        "reportedAt": "2026-09-08T05:54:28.862Z"
+      },
+      {
+        "key": "b5fb8fe2e59463458a9868c72d05c8ef6cb29396",
+        "url": "https://pollo.ai/hub/pet-meme-street-vlog-video-breakdown",
+        "date": "2026-09-07T10:04:49.109Z",
+        "reportedAt": "2026-09-08T05:54:28.862Z"
+      },
+      {
+        "key": "bca4d6b9d5700ff2cb74fee54fe9fba4f6c5419b",
+        "url": "https://pollo.ai/hub/train-travel-time-video-breakdown",
+        "date": "2026-09-07T09:41:32.466Z",
+        "reportedAt": "2026-09-08T05:54:28.862Z"
+      },
+      {
+        "key": "57a6fa9365fc1eb826a55b264d40ad28e1b53de3",
+        "url": "https://pollo.ai/hub/animated-pv-video-breakdown",
+        "date": "2026-09-07T09:07:29.857Z",
+        "reportedAt": "2026-09-08T05:54:28.862Z"
       }
     ]
   }
