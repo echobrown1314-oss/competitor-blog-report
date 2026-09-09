@@ -1,14 +1,11 @@
 # 竞品博客监测日报
 
-生成时间：2026/09/08 13:54（上海）
+生成时间：2026/09/09 13:56（上海）
 
-新增文章总数：5
-
-## MindVideo（1）
-- [MindVideo AI: All-in-One AI Video Generator & Creative Platform](https://www.mindvideo.ai/blog/how-to-remove-text-from-video/) | 2026-09-07
+新增文章总数：4
 
 ## Pollo AI（4）
-- [DeeVid AI vs Pollo AI: Features, Quality, and Pricing | Pollo AI](https://pollo.ai/hub/deevid-ai-vs-pollo-ai) | 2026-09-07T13:42:37.617Z
-- [Pet Meme Street Vlog VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/pet-meme-street-vlog-video-breakdown) | 2026-09-07T10:04:49.109Z
-- [Train Travel Time VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/train-travel-time-video-breakdown) | 2026-09-07T09:41:32.466Z
-- [Animated PV VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/animated-pv-video-breakdown) | 2026-09-07T09:07:29.857Z
+- [Goofy Longhorn Fail VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/goofy-longhorn-fail-video-breakdown) | 2026-09-08T09:34:24.919Z
+- [Fallen Knight Rescue VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/fallen-knight-rescue-video-breakdown) | 2026-09-08T09:10:56.168Z
+- [Apartment Sitcom Comedy Part 1 VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/apartment-sitcom-comedy-part-1-video-breakdown) | 2026-09-08T08:52:19.494Z
+- [Famous painting Meme Street Vlog VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/famous-painting-meme-street-vlog-video-breakdown) | 2026-09-08T08:42:02.464Z
