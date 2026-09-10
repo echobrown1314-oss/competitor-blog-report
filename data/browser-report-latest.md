@@ -1,11 +1,14 @@
 # 竞品博客监测日报
 
-生成时间：2026/09/09 13:56（上海）
+生成时间：2026/09/10 13:55（上海）
 
-新增文章总数：4
+新增文章总数：5
+
+## DataCamp（1）
+- [Just a moment...](https://www.datacamp.com/blog/gpt-6-astra-projects) | September 9, 2026
 
 ## Pollo AI（4）
-- [Goofy Longhorn Fail VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/goofy-longhorn-fail-video-breakdown) | 2026-09-08T09:34:24.919Z
-- [Fallen Knight Rescue VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/fallen-knight-rescue-video-breakdown) | 2026-09-08T09:10:56.168Z
-- [Apartment Sitcom Comedy Part 1 VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/apartment-sitcom-comedy-part-1-video-breakdown) | 2026-09-08T08:52:19.494Z
-- [Famous painting Meme Street Vlog VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/famous-painting-meme-street-vlog-video-breakdown) | 2026-09-08T08:42:02.464Z
+- [French Woman Mecha Gorilla Battle VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/french-woman-mecha-gorilla-battle-video-breakdown) | 2026-09-10T05:49:03.376Z
+- [Cat Sitcom VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/cat-sitcom-video-breakdown) | 2026-09-10T03:24:31.086Z
+- [InVideo vs Pictory: Which AI Video Generator Is Better? | Pollo AI](https://pollo.ai/hub/invideo-vs-pictory) | 2026-09-09T12:59:06.198Z
+- [Zombie Dog Memory Rescue VIDEO Breakdown (Prompts Included) | Pollo AI](https://pollo.ai/hub/zombie-dog-memory-rescue-video-breakdown) | 2026-09-09T09:07:32.150Z
