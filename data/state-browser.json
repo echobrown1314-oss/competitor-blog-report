@@ -12,49 +12,18 @@
     "Topview": [],
     "DataCamp": [
       {
-        "key": "7fc45866ac8bb38cd1fdf5f21d01ea7f2b3a109e",
-        "url": "https://www.datacamp.com/blog/gpt-6-astra",
-        "date": "2026-09-03T20:18:38.000Z",
-        "reportedAt": "2026-09-04T05:51:22.815Z"
-      },
-      {
         "key": "c4f1b80e21448ba942ae5531f1d082edd2049a95",
         "url": "https://www.datacamp.com/blog/gpt-6-astra-projects",
         "date": "September 9, 2026",
         "reportedAt": "2026-09-10T05:55:10.282Z"
       }
     ],
-    "WaveSpeed": [
-      {
-        "key": "5fa65fe65051acbaf70aa5a68e8e16ddba8edfbc",
-        "url": "https://wavespeed.ai/blog/posts/nemotron-4-release-date/",
-        "date": "2026-09-03",
-        "reportedAt": "2026-09-04T05:51:22.815Z"
-      }
-    ],
+    "WaveSpeed": [],
     "WeShop AI": [],
     "Atlas Cloud": [],
     "TopMediai": [],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "2b9d26a3f756c27287a0d25db4999f6cc3515310",
-        "url": "https://pollo.ai/hub/digital-circus-video-breakdown",
-        "date": "2026-09-04T02:44:46.641Z",
-        "reportedAt": "2026-09-04T05:51:22.815Z"
-      },
-      {
-        "key": "faf31138c3bfcd589d0dbaf785c902187e01fb34",
-        "url": "https://pollo.ai/hub/sport-girl-video-breakdown",
-        "date": "2026-09-03T10:21:31.455Z",
-        "reportedAt": "2026-09-04T05:51:22.815Z"
-      },
-      {
-        "key": "a0fb9475ecd018ea705495cada94228bcf6aa2bd",
-        "url": "https://pollo.ai/hub/dream-land-video-breakdown",
-        "date": "2026-09-03T05:53:36.274Z",
-        "reportedAt": "2026-09-04T05:51:22.815Z"
-      },
       {
         "key": "c78b31dbfd79ad77ea1909c4cb2972e4e5b07916",
         "url": "https://pollo.ai/hub/dress-up-game-fashion-claw-video-breakdown",
@@ -174,6 +143,30 @@
         "url": "https://pollo.ai/hub/zombie-dog-memory-rescue-video-breakdown",
         "date": "2026-09-09T09:07:32.150Z",
         "reportedAt": "2026-09-10T05:55:10.282Z"
+      },
+      {
+        "key": "d38bcb4fbc481d968fbf7d61dbfbc9332081b6a3",
+        "url": "https://pollo.ai/hub/cozy-bedtime-family-3d-animation-video-breakdown",
+        "date": "2026-09-11T03:30:31.407Z",
+        "reportedAt": "2026-09-11T05:54:18.015Z"
+      },
+      {
+        "key": "23b664874afeb4772928625a835219ec4e47cd73",
+        "url": "https://pollo.ai/hub/open-world-car-wash-gameplay-video-breakdown",
+        "date": "2026-09-11T03:29:41.368Z",
+        "reportedAt": "2026-09-11T05:54:18.015Z"
+      },
+      {
+        "key": "eee717cee13f245827ea3a9d8e81a4498aa663cd",
+        "url": "https://pollo.ai/hub/underwater-shell-auction-3d-animation-video-breakdown",
+        "date": "2026-09-11T03:26:12.116Z",
+        "reportedAt": "2026-09-11T05:54:18.015Z"
+      },
+      {
+        "key": "904d40ea6d2ce2090e14ffd073ede2b45ab56b56",
+        "url": "https://pollo.ai/hub/openart-director-alternatives",
+        "date": "2026-09-11T03:20:36.297Z",
+        "reportedAt": "2026-09-11T05:54:18.015Z"
       }
     ]
   }
