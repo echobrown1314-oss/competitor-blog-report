@@ -30,12 +30,6 @@
         "canonicalKey": "higgsfield.ai/ai-influencer-studio"
       },
       {
-        "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
-        "title": "Supercomputer",
-        "url": "https://higgsfield.ai/supercomputer",
-        "canonicalKey": "higgsfield.ai/supercomputer"
-      },
-      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
@@ -46,6 +40,12 @@
         "title": "Generate",
         "url": "https://higgsfield.ai/generate",
         "canonicalKey": "higgsfield.ai/generate"
+      },
+      {
+        "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
+        "title": "Supercomputer",
+        "url": "https://higgsfield.ai/supercomputer",
+        "canonicalKey": "higgsfield.ai/supercomputer"
       },
       {
         "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
@@ -133,14 +133,14 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-10T03:08:21.429Z",
+        "lastmod": "2026-09-10T12:23:41.584Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-10T03:08:21.429Z",
+        "lastmod": "2026-09-10T12:23:41.584Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
