@@ -346,6 +346,194 @@ function pick(obj, ...keys) {
   return "";
 }
 
+function decodeHtml(text) {
+  return (text || "")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
+}
+
+function extractFirst(text, patterns) {
+  for (const pattern of patterns) {
+    const match = text.match(pattern);
+    if (match?.[1]) return decodeHtml(match[1].trim());
+  }
+  return "";
+}
+
+function stripTags(html) {
+  return (html || "")
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi, " ")
+    .replace(/<[^>]+>/g, " ");
+}
+
+function extractVisibleDate(text) {
+  const top = (text || "").slice(0, 8000);
+  const match = top.match(
+    /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}(?:\s+\d{1,2}:\d{2}(?::\d{2})?\s*(?:AM|PM)?)?\b|\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2},\s+\d{4}(?:\s+\d{1,2}:\d{2}(?::\d{2})?\s*(?:AM|PM)?)?\b|\b\d{4}-\d{2}-\d{2}(?:[T\s]\d{2}:\d{2}(?::\d{2})?(?:\.\d+)?)?(?:Z|[+-]\d{2}:?\d{2})?\b|\b\d{2}\/\d{2}\/\d{4}\b/i
+  );
+  return match?.[0] || "";
+}
+
+function shanghaiDayStamp(date) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: REPORT_TIMEZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(date);
+}
+
+function twentyFourHoursAgo(referenceDate) {
+  return new Date(referenceDate.getTime() - 24 * 60 * 60 * 1000);
+}
+
+function hasExplicitTime(value) {
+  return /T\d{2}:\d{2}|\b\d{1,2}:\d{2}(?::\d{2})?\b|Z$|[+-]\d{2}:?\d{2}$/.test(value || "");
+}
+
+function safeDate(value) {
+  if (!value) return null;
+  const normalized = String(value).trim();
+  const direct = new Date(normalized);
+  if (!Number.isNaN(direct.getTime())) return direct;
+
+  const monthDay = normalized.match(/^([A-Za-z]{3,9})\.?\s+(\d{1,2}),\s*(\d{4})$/);
+  if (monthDay) {
+    const parsed = new Date(`${monthDay[1]} ${monthDay[2]}, ${monthDay[3]} 12:00:00 GMT+0800`);
+    if (!Number.isNaN(parsed.getTime())) return parsed;
+  }
+
+  const slash = normalized.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+  if (slash) {
+    const [, mm, dd, yyyy] = slash;
+    const parsed = new Date(`${yyyy}-${mm}-${dd}T12:00:00+08:00`);
+    if (!Number.isNaN(parsed.getTime())) return parsed;
+  }
+
+  const isoDay = normalized.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (isoDay) {
+    const parsed = new Date(`${normalized}T12:00:00+08:00`);
+    if (!Number.isNaN(parsed.getTime())) return parsed;
+  }
+
+  return null;
+}
+
+function isRecentDateText(value, generatedAt) {
+  const date = safeDate(value);
+  if (!date) return false;
+  if (hasExplicitTime(value)) {
+    return date >= twentyFourHoursAgo(generatedAt);
+  }
+  return shanghaiDayStamp(date) === shanghaiDayStamp(generatedAt);
+}
+
+function extractItemDates(html, contextText = "", fallbackDate = "", headers = {}) {
+  const publishedAt = extractFirst(html, [
+    /<meta[^>]+property=["']article:published_time["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+name=["']article:published_time["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+property=["']og:published_time["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+name=["']datePublished["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+itemprop=["']datePublished["'][^>]+content=["']([^"']+)["']/i,
+    /"datePublished"\s*:\s*"([^"]+)"/i,
+    /"uploadDate"\s*:\s*"([^"]+)"/i,
+    /<time[^>]+datetime=["']([^"']+)["']/i
+  ]);
+
+  const updatedAt = extractFirst(html, [
+    /<meta[^>]+property=["']article:modified_time["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+property=["']og:updated_time["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+name=["']article:modified_time["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+name=["']dateModified["'][^>]+content=["']([^"']+)["']/i,
+    /<meta[^>]+itemprop=["']dateModified["'][^>]+content=["']([^"']+)["']/i,
+    /"dateModified"\s*:\s*"([^"]+)"/i,
+    /"lastmod"\s*:\s*"([^"]+)"/i
+  ]);
+
+  const visibleDate = extractVisibleDate(stripTags(html));
+  const contextDate = extractVisibleDate(contextText);
+  const httpLastModified = normalizeText(headers?.["last-modified"] || headers?.["Last-Modified"] || "");
+
+  return {
+    publishedAt: publishedAt || contextDate || visibleDate || "",
+    updatedAt: updatedAt || httpLastModified || fallbackDate || ""
+  };
+}
+
+function chooseDateText(current, candidate) {
+  const left = normalizeText(current);
+  const right = normalizeText(candidate);
+  if (!left) return right;
+  if (!right) return left;
+  const leftExact = hasExplicitTime(left);
+  const rightExact = hasExplicitTime(right);
+  if (rightExact && !leftExact) return right;
+  if (!rightExact && leftExact) return left;
+  return left;
+}
+
+function mergeItemRecords(existing, next) {
+  if (!existing) return { ...next };
+  return {
+    ...existing,
+    ...next,
+    title: normalizeText(existing.title || next.title),
+    url: normalizeUrl(existing.url || next.url),
+    canonicalKey: existing.canonicalKey || next.canonicalKey || canonicalPageKey(existing.url || next.url),
+    lastmod: chooseDateText(existing.lastmod || "", next.lastmod || ""),
+    publishedAt: chooseDateText(existing.publishedAt || "", next.publishedAt || ""),
+    updatedAt: chooseDateText(existing.updatedAt || "", next.updatedAt || ""),
+    contextText: existing.contextText || next.contextText || ""
+  };
+}
+
+function isReportableItem(item, generatedAt) {
+  return [item.publishedAt, item.updatedAt, item.lastmod]
+    .filter(Boolean)
+    .some((value) => isRecentDateText(value, generatedAt));
+}
+
+function needsDateEnrichment(item) {
+  return !hasExplicitTime(item.publishedAt || "");
+}
+
+async function enrichItemsWithDates(items) {
+  const enriched = new Array(items.length);
+  let cursor = 0;
+
+  async function worker() {
+    while (cursor < items.length) {
+      const index = cursor++;
+      const item = items[index];
+      if (!needsDateEnrichment(item)) {
+        enriched[index] = item;
+        continue;
+      }
+
+      try {
+        const response = await fetchText(item.url);
+        if (!response.ok) {
+          enriched[index] = item;
+          continue;
+        }
+
+        const dates = extractItemDates(response.text, item.contextText || "", item.lastmod || item.updatedAt || "", response.headers);
+        enriched[index] = mergeItemRecords(item, dates);
+      } catch {
+        enriched[index] = item;
+      }
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(5, items.length) }, () => worker()));
+  return enriched.map((item, index) => item || items[index]);
+}
+
 async function ensureDataDir() {
   await fs.mkdir(DATA_DIR, { recursive: true });
 }
@@ -555,7 +743,13 @@ async function fetchText(url, timeoutMs = 15000) {
         "user-agent": "Mozilla/5.0 (compatible; CompetitorFeatureMonitor/1.0)"
       }
     });
-    return { ok: response.ok, status: response.status, url: response.url, text: await response.text() };
+    return {
+      ok: response.ok,
+      status: response.status,
+      url: response.url,
+      headers: Object.fromEntries(response.headers.entries()),
+      text: await response.text()
+    };
   } finally {
     clearTimeout(timer);
   }
@@ -607,15 +801,16 @@ async function scrapeSitemaps(source) {
         const candidate = { title, url, contextText: title };
         if (!shouldKeepSitemapCandidate(candidate, source)) continue;
         const canonicalKey = canonicalPageKey(url);
-        if (!gathered.has(canonicalKey)) {
-          gathered.set(canonicalKey, {
-            id: itemId({ title, url, canonicalKey }),
-            title,
-            url,
-            lastmod: entry.lastmod,
-            canonicalKey
-          });
-        }
+        const nextItem = {
+          id: itemId({ title, url, canonicalKey }),
+          title,
+          url,
+          lastmod: entry.lastmod,
+          publishedAt: "",
+          updatedAt: entry.lastmod,
+          canonicalKey
+        };
+        gathered.set(canonicalKey, mergeItemRecords(gathered.get(canonicalKey), nextItem));
       }
     } catch (error) {
       console.log(`[跳过] ${source.name} sitemap -> ${sitemapUrl}：${error instanceof Error ? error.message : String(error)}`);
@@ -667,20 +862,26 @@ async function extractItemsFromPage(page, source) {
       title,
       url,
       contextText: normalizeText(anchor.contextText),
-      anchorDepth: Number(anchor.pathDepth || 0)
+      anchorDepth: Number(anchor.pathDepth || 0),
+      publishedAt: normalizeText(extractVisibleDate(anchor.contextText || "")),
+      updatedAt: ""
     };
 
     if (!shouldKeepCandidate(candidate, source)) continue;
 
     const canonicalKey = canonicalPageKey(candidate.url);
-    if (!deduped.has(canonicalKey)) {
-      deduped.set(canonicalKey, {
+    deduped.set(
+      canonicalKey,
+      mergeItemRecords(deduped.get(canonicalKey), {
         id: itemId({ ...candidate, canonicalKey }),
         title: candidate.title,
         url: candidate.url,
+        publishedAt: candidate.publishedAt,
+        updatedAt: candidate.updatedAt,
+        contextText: candidate.contextText,
         canonicalKey
-      });
-    }
+      })
+    );
   }
 
   return [...deduped.values()].slice(0, source.maxItems);
@@ -708,7 +909,7 @@ async function scrapeSource(browser, source) {
   const gathered = new Map();
   const sitemapItems = await scrapeSitemaps(source);
   for (const item of sitemapItems) {
-    if (!gathered.has(item.id)) gathered.set(item.id, item);
+    gathered.set(item.canonicalKey || canonicalPageKey(item.url), mergeItemRecords(gathered.get(item.canonicalKey || canonicalPageKey(item.url)), item));
   }
 
   for (const url of source.seedUrls) {
@@ -716,7 +917,7 @@ async function scrapeSource(browser, source) {
     try {
       const items = await scrapePage(browser, source, url);
       for (const item of items) {
-        if (!gathered.has(item.id)) gathered.set(item.id, item);
+        gathered.set(item.canonicalKey || canonicalPageKey(item.url), mergeItemRecords(gathered.get(item.canonicalKey || canonicalPageKey(item.url)), item));
       }
     } catch (error) {
       console.log(`[跳过] ${source.name} -> ${url}：${error instanceof Error ? error.message : String(error)}`);
@@ -727,7 +928,16 @@ async function scrapeSource(browser, source) {
   if (items.length === 0) {
     throw new Error("未提取到可用页面");
   }
-  return items;
+  const enriched = await enrichItemsWithDates(items);
+  return enriched.map((item) => ({
+    id: item.id,
+    title: item.title,
+    url: item.url,
+    lastmod: item.lastmod || "",
+    publishedAt: item.publishedAt || "",
+    updatedAt: item.updatedAt || "",
+    canonicalKey: item.canonicalKey || canonicalPageKey(item.url)
+  }));
 }
 
 function diffNewItems(previousItems, currentItems) {
@@ -749,7 +959,7 @@ function renderDingTalkText(items, generatedAt) {
   const changedSources = items.filter((source) => !source.error && source.newItems.length > 0);
   const lines = ["竞品功能/工具页监测日报", `生成时间：${dateStr}（上海）`, ""];
   if (changedSources.length === 0) {
-    lines.push("今日未发现新功能/工具页");
+    lines.push("今日未发现过去24小时内新功能/工具页");
     return lines.join("\n");
   }
 
@@ -780,7 +990,7 @@ function renderMarkdownReport(items, generatedAt) {
   lines.push(`新增页面总数：${total}`, "");
 
   if (changedSources.length === 0) {
-    lines.push("今日未发现新功能/工具页", "");
+    lines.push("今日未发现过去24小时内新功能/工具页", "");
     return lines.join("\n");
   }
 
@@ -846,7 +1056,9 @@ async function main() {
         const currentItems = await scrapeSource(browser, source);
         const previousItems = Array.isArray(state.snapshots[source.name]) ? state.snapshots[source.name] : null;
         const initialized = !previousItems;
-        const newItems = initialized ? [] : diffNewItems(previousItems, currentItems);
+        const newItems = initialized
+          ? []
+          : diffNewItems(previousItems, currentItems).filter((item) => isReportableItem(item, generatedAt));
         state.snapshots[source.name] = currentItems;
         reportItems.push({ name: source.name, newItems, initialized, error: "" });
         console.log(`[完成] ${source.name} 新增 ${newItems.length} 个页面`);
