@@ -2,115 +2,129 @@
   "snapshots": {
     "Higgsfield": [
       {
-        "id": "1025451940508462993d47dc10b293e47c566a5d",
-        "title": "Marketing Studio Intro",
-        "url": "https://higgsfield.ai/marketing-studio-intro",
-        "lastmod": "",
-        "canonicalKey": "higgsfield.ai/marketing-studio-intro"
-      },
-      {
-        "id": "d26098a0935bac5693376463310210814d38b9bc",
-        "title": "Supercomputer Intro",
-        "url": "https://higgsfield.ai/supercomputer-intro",
-        "lastmod": "",
-        "canonicalKey": "higgsfield.ai/supercomputer-intro"
-      },
-      {
-        "id": "0a20d77b00c136516d9699871b241dbaa55b5cf4",
-        "title": "App Builder Intro",
-        "url": "https://higgsfield.ai/app-builder-intro",
-        "lastmod": "",
-        "canonicalKey": "higgsfield.ai/app-builder-intro"
-      },
-      {
-        "id": "8007f17ba1269523eb61e54d19ca72addc2ed2c7",
-        "title": "AI Influencer Studio",
-        "url": "https://higgsfield.ai/ai-influencer-studio",
-        "lastmod": "",
-        "canonicalKey": "higgsfield.ai/ai-influencer-studio"
-      },
-      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/mcp"
       },
       {
         "id": "9dc11f3d263435cf925b9e2ae5f6c68d55ab6fdb",
         "title": "Generate",
         "url": "https://higgsfield.ai/generate",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/generate"
       },
       {
         "id": "2d2be644c06edd3922d0facea9c6d7f5e1995ec7",
         "title": "Supercomputer",
         "url": "https://higgsfield.ai/supercomputer",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/supercomputer"
       },
       {
         "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
         "title": "Canvas Intro",
         "url": "https://higgsfield.ai/canvas-intro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/canvas-intro"
       },
       {
         "id": "8bd607640ae6a74fa42be353347735f680fdd1cc",
         "title": "Canvas",
         "url": "https://higgsfield.ai/canvas",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/canvas"
       },
       {
         "id": "4fdbbc2f10df6c6f4cf60a75ebb59686ae377de9",
         "title": "Cinematic Video Generator",
         "url": "https://higgsfield.ai/cinematic-video-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/cinematic-video-generator"
       },
       {
         "id": "000b47223aef845bf5eca6c8d9999dfa86f94591",
         "title": "Upscale",
         "url": "https://higgsfield.ai/upscale",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/upscale"
       },
       {
         "id": "8080934ce3cd77dfb6d7045a3725fa76cb1ed319",
         "title": "Lipsync Studio",
         "url": "https://higgsfield.ai/lipsync-studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/lipsync-studio"
       },
       {
         "id": "389b2d96e84a48ab59006d635c2cd2d9f2889eb8",
         "title": "Character",
         "url": "https://higgsfield.ai/character",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/character"
       },
       {
         "id": "c436e4db66e27c0a13de5d024679f8c88c8b61e2",
         "title": "After Effects",
         "url": "https://higgsfield.ai/plugins/after-effects",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/plugins/after-effects"
       },
       {
         "id": "6c28a0618f585b324853c6b4de908f4ff98a2e23",
         "title": "Premiere Pro",
         "url": "https://higgsfield.ai/plugins/premiere-pro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/plugins/premiere-pro"
       },
       {
         "id": "eb7f56dbbb7609cce52790869d58f82204d93e52",
         "title": "Davinci",
         "url": "https://higgsfield.ai/plugins/davinci",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/plugins/davinci"
       },
       {
         "id": "42a1afc45150ac914266179b1df002dbf28b40ea",
         "title": "Figma",
         "url": "https://higgsfield.ai/plugins/figma",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/plugins/figma"
       },
       {
         "id": "73b4183d899aea0e823f188c8813e0a176eceab1",
         "title": "Blender",
         "url": "https://higgsfield.ai/plugins/blender",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "higgsfield.ai/plugins/blender"
       }
     ],
@@ -119,6 +133,9 @@
         "id": "61e630f2972983054c504a38ac262f159b554a80",
         "title": "Create",
         "url": "https://libtv.org/create/",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "libtv.org/create"
       }
     ],
@@ -127,14 +144,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-13T05:31:01.895Z",
+        "lastmod": "2026-09-14T06:08:03.768Z",
+        "publishedAt": "",
+        "updatedAt": "2026-09-14T06:08:03.768Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-13T05:31:01.895Z",
+        "lastmod": "2026-09-14T06:08:03.769Z",
+        "publishedAt": "",
+        "updatedAt": "2026-09-14T06:08:03.769Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -142,6 +163,8 @@
         "title": "Agent",
         "url": "https://www.flova.ai/en/docs/features/agent/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/agent"
       },
       {
@@ -149,6 +172,8 @@
         "title": "Skills",
         "url": "https://www.flova.ai/en/docs/features/skills/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/skills"
       },
       {
@@ -156,6 +181,8 @@
         "title": "Project Content Editing",
         "url": "https://www.flova.ai/en/docs/features/project-content-editing/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/project-content-editing"
       },
       {
@@ -163,6 +190,8 @@
         "title": "Comment Generation",
         "url": "https://www.flova.ai/en/docs/features/comment-generation/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/comment-generation"
       },
       {
@@ -170,6 +199,8 @@
         "title": "Generation Tools",
         "url": "https://www.flova.ai/en/docs/features/generation-tools/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/generation-tools"
       },
       {
@@ -177,6 +208,8 @@
         "title": "Docs Panel",
         "url": "https://www.flova.ai/en/docs/features/docs-panel/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/docs-panel"
       },
       {
@@ -184,6 +217,8 @@
         "title": "Timeline Editing",
         "url": "https://www.flova.ai/en/docs/features/timeline-editing/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/timeline-editing"
       },
       {
@@ -191,6 +226,8 @@
         "title": "Flova CLI",
         "url": "https://www.flova.ai/en/docs/features/flova-cli/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/flova-cli"
       },
       {
@@ -198,6 +235,8 @@
         "title": "Download Export",
         "url": "https://www.flova.ai/en/docs/features/download-export/",
         "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "flova.ai/docs/features/download-export"
       }
     ],
@@ -206,108 +245,162 @@
         "id": "8998003b13e858a11a014a8ac728fd0ad3023bbf",
         "title": "Image To Video",
         "url": "https://deevid.ai/app/explore/image-to-video",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/app/explore/image-to-video"
       },
       {
         "id": "b2af8794bcbd9f70f5f880dcc52618ff802c36bb",
         "title": "AI Ad",
         "url": "https://deevid.ai/app/explore/ai-ad",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/app/explore/ai-ad"
       },
       {
         "id": "c0cf84e121352df3a0fabc4d483fb1857bcfd9f6",
         "title": "AI Image Generator",
         "url": "https://deevid.ai/app/explore/ai-image-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/app/explore/ai-image-generator"
       },
       {
         "id": "3077b5e42c7f553fa8a5d1cdc81e648e72898ebb",
         "title": "AI Avatar",
         "url": "https://deevid.ai/app/explore/ai-avatar",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/app/explore/ai-avatar"
       },
       {
         "id": "750120982ee8456d82b6d30acb0a80251163c512",
         "title": "Text To Speech",
         "url": "https://deevid.ai/app/explore/text-to-speech",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/app/explore/text-to-speech"
       },
       {
         "id": "3066fa26d22b1061447a380bc346e3ba90a07cb3",
         "title": "AI Music Generator",
         "url": "https://deevid.ai/app/explore/ai-music-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/app/explore/ai-music-generator"
       },
       {
         "id": "5f597b2ce781d1cb75fea2969b9aa1f5249b255a",
         "title": "Reference To Video",
         "url": "https://deevid.ai/reference-to-video",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/reference-to-video"
       },
       {
         "id": "881b68d15c43ed08770e73ba7c69b11ae9900c1d",
         "title": "Image To Video",
         "url": "https://deevid.ai/image-to-video",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/image-to-video"
       },
       {
         "id": "08a59f9837f4aac693a5fed85395ded3f32d7aea",
         "title": "Text To Video",
         "url": "https://deevid.ai/text-to-video",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/text-to-video"
       },
       {
         "id": "f876c5b8027ae36dd4cad988f5457e2fe949b85d",
         "title": "AI Image Generator",
         "url": "https://deevid.ai/ai-image-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-image-generator"
       },
       {
         "id": "b367da9ac40c68d7bd515f24b004cb4f04445137",
         "title": "AI Image Editor",
         "url": "https://deevid.ai/ai-image-editor",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-image-editor"
       },
       {
         "id": "334a5c199900e9c8c64fbe470753205fbf50d45d",
         "title": "AI Video Editor",
         "url": "https://deevid.ai/ai-video-editor",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-video-editor"
       },
       {
         "id": "676751a37daf1cc6c10726de411ad6322a513d8a",
         "title": "AI Avatar",
         "url": "https://deevid.ai/ai-avatar",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-avatar"
       },
       {
         "id": "da6da03cd8d081d1de825490a62577dd83ee23eb",
         "title": "AI Music Generator",
         "url": "https://deevid.ai/ai-music-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-music-generator"
       },
       {
         "id": "7c575a6e3fe12699be966d45cbf1d75991a48ade",
         "title": "Text To Speech",
         "url": "https://deevid.ai/text-to-speech",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/text-to-speech"
       },
       {
         "id": "e267a09b1438ed4b254bf680742407b5c68784ef",
         "title": "AI Video Tools",
         "url": "https://deevid.ai/ai-video-tools",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-video-tools"
       },
       {
         "id": "dfdb44717b8fea344bde1e8abe35890e8fdbb189",
         "title": "AI Ad",
         "url": "https://deevid.ai/ai-ad",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/ai-ad"
       },
       {
         "id": "b269ab3027ae061dea4de9c2b31d0a1ad469ffde",
         "title": "Viral Video Clone",
         "url": "https://deevid.ai/viral-video-clone",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "deevid.ai/viral-video-clone"
       }
     ],
@@ -317,6 +410,8 @@
         "title": "AI Avatar",
         "url": "https://www.topview.ai/ai-avatar",
         "lastmod": "2026-03-05",
+        "publishedAt": "2026",
+        "updatedAt": "2026-03-05",
         "canonicalKey": "topview.ai/ai-avatar"
       },
       {
@@ -324,6 +419,8 @@
         "title": "AI Video Generator",
         "url": "https://www.topview.ai/ai-video-generator",
         "lastmod": "2026-03-05",
+        "publishedAt": "2026",
+        "updatedAt": "2026-03-05",
         "canonicalKey": "topview.ai/ai-video-generator"
       },
       {
@@ -331,6 +428,8 @@
         "title": "Motion Control",
         "url": "https://www.topview.ai/motion-control",
         "lastmod": "2026-04-23",
+        "publishedAt": "2026",
+        "updatedAt": "2026-04-23",
         "canonicalKey": "topview.ai/motion-control"
       },
       {
@@ -338,6 +437,8 @@
         "title": "Image Character Swap",
         "url": "https://www.topview.ai/image-character-swap",
         "lastmod": "2026-04-23",
+        "publishedAt": "2026",
+        "updatedAt": "2026-04-23",
         "canonicalKey": "topview.ai/image-character-swap"
       },
       {
@@ -345,6 +446,8 @@
         "title": "Image Face Swap",
         "url": "https://www.topview.ai/image-face-swap",
         "lastmod": "2026-04-23",
+        "publishedAt": "2026",
+        "updatedAt": "2026-04-23",
         "canonicalKey": "topview.ai/image-face-swap"
       },
       {
@@ -352,6 +455,8 @@
         "title": "Image Upscale",
         "url": "https://www.topview.ai/image-upscale",
         "lastmod": "2026-04-23",
+        "publishedAt": "2026",
+        "updatedAt": "2026-04-23",
         "canonicalKey": "topview.ai/image-upscale"
       },
       {
@@ -359,6 +464,8 @@
         "title": "Drama Studio",
         "url": "https://www.topview.ai/drama-studio",
         "lastmod": "2026-05-15",
+        "publishedAt": "2026",
+        "updatedAt": "2026-05-15",
         "canonicalKey": "topview.ai/drama-studio"
       },
       {
@@ -366,6 +473,8 @@
         "title": "Film Studio",
         "url": "https://www.topview.ai/film-studio",
         "lastmod": "2026-07-30",
+        "publishedAt": "",
+        "updatedAt": "2026-07-30",
         "canonicalKey": "topview.ai/film-studio"
       },
       {
@@ -373,6 +482,8 @@
         "title": "AI Image Generator",
         "url": "https://www.topview.ai/ai-image-generator",
         "lastmod": "2026-08-11",
+        "publishedAt": "2026",
+        "updatedAt": "2026-08-11",
         "canonicalKey": "topview.ai/ai-image-generator"
       },
       {
@@ -380,66 +491,98 @@
         "title": "Motion Studio",
         "url": "https://www.topview.ai/motion-studio",
         "lastmod": "2026-08-19",
+        "publishedAt": "2026",
+        "updatedAt": "2026-08-19",
         "canonicalKey": "topview.ai/motion-studio"
       },
       {
         "id": "14be9486b7b1177151630104f9d5e4bb87dfdb6a",
         "title": "Board",
         "url": "https://www.topview.ai/board",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/board"
       },
       {
         "id": "e8dc108af259d738cb4bd1f22633a6daf543fc17",
         "title": "Canvas",
         "url": "https://www.topview.ai/canvas",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/canvas"
       },
       {
         "id": "fc8f157d787cd061dd9cdd1ebae9ca673d77eccf",
         "title": "Topview Skill",
         "url": "https://www.topview.ai/topview-skill",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/topview-skill"
       },
       {
         "id": "559f2c1f6f32baa6edfcb8da5b8178ccd898b5e6",
         "title": "Video Character Swap",
         "url": "https://www.topview.ai/video-character-swap",
+        "lastmod": "",
+        "publishedAt": "2026-07-16",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/video-character-swap"
       },
       {
         "id": "cece3b7e3a2e95fc81d0b3cede6b2d663cd39065",
         "title": "Video Upscale",
         "url": "https://www.topview.ai/video-upscale",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/video-upscale"
       },
       {
         "id": "7a17950e1791e6f9daefa420d4de688c68147e7b",
         "title": "Inpaint",
         "url": "https://www.topview.ai/inpaint",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/inpaint"
       },
       {
         "id": "6dbc2da11a85c9b544de0fca76c467edcc332a98",
         "title": "Photo Angle Editor",
         "url": "https://www.topview.ai/photo-angle-editor",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/photo-angle-editor"
       },
       {
         "id": "ec4967e166138fba1151bcc3863db72ab5a966ed",
         "title": "Virtual Try On",
         "url": "https://www.topview.ai/virtual-try-on",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/virtual-try-on"
       },
       {
         "id": "9bf14f687799d5fabb17d6c120477327c2e7e8f7",
         "title": "Product Photography",
         "url": "https://www.topview.ai/product-photography",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/product-photography"
       },
       {
         "id": "c98ef3568c204eaa6a04e516f9aa5dd156fb6f1d",
         "title": "Voiceover",
         "url": "https://www.topview.ai/voiceover",
+        "lastmod": "",
+        "publishedAt": "2026",
+        "updatedAt": "",
         "canonicalKey": "topview.ai/voiceover"
       }
     ],
@@ -1367,114 +1510,171 @@
         "id": "764870a2105937796bdad50b131902e22ecc4116",
         "title": "Music Generator",
         "url": "https://artlist.io/ai/music-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/music-generator"
       },
       {
         "id": "bf9d70c9abb2cc31b4495d83231190013a6460ba",
         "title": "Image Generator",
         "url": "https://artlist.io/ai/image-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/image-generator"
       },
       {
         "id": "13b622234896e0d99500ad12790c4a9521f4ea38",
         "title": "Video Generator",
         "url": "https://artlist.io/ai/video-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/video-generator"
       },
       {
         "id": "b2f7f4c19a860ff3e5d3204c1ea6642b2dfa865f",
         "title": "Voice Generator",
         "url": "https://artlist.io/ai/voice-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/voice-generator"
       },
       {
         "id": "1e9552059048c7dbc50b96ddac3ee4e9f2fc8b73",
         "title": "Voice Over Generator",
         "url": "https://toolkit.artlist.io/voice-over-generator",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "toolkit.artlist.io/voice-over-generator"
       },
       {
         "id": "83fae6e05f2de090ca5827c389d081bcfdbdd333",
         "title": "Avatars",
         "url": "https://artlist.io/ai/avatars",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/avatars"
       },
       {
         "id": "bf720b7e7cebbe257962b55977e4543e443e7f5b",
         "title": "Lipsync",
         "url": "https://artlist.io/artlist.io/ai/lipsync",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/artlist.io/ai/lipsync"
       },
       {
         "id": "42ae5f5e7cb009c9dd6935f9a46d1f34381167e9",
         "title": "Dubbing",
         "url": "https://artlist.io/ai/dubbing",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/dubbing"
       },
       {
         "id": "8b562305a644fae442334e2049faed3a0cc89928",
         "title": "GPT Image 2",
         "url": "https://artlist.io/ai/models/gpt-image-2",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/models/gpt-image-2"
       },
       {
         "id": "e0294720b145b4b9158613224b8a28f500456f6c",
         "title": "29489082949405 A Free Trial Explained",
         "url": "https://help.artlist.io/hc/en-us/articles/29489082949405-A-free-Trial-explained",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/articles/29489082949405-a-free-trial-explained"
       },
       {
         "id": "3dcd30df6c3c96655f06700cba9bcb29606778d0",
         "title": "Lipsync",
         "url": "https://artlist.io/ai/lipsync",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/lipsync"
       },
       {
         "id": "ecccbf983dba3528b4438799106e717e6e35bb09",
         "title": "33334572931997 AI Plans",
         "url": "https://help.artlist.io/hc/en-us/sections/33334572931997-AI-Plans",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/sections/33334572931997-ai-plans"
       },
       {
         "id": "0e5a42081e5286e9ce3d310798462b1d368fd266",
         "title": "33334424159005 AI Toolkit",
         "url": "https://help.artlist.io/hc/en-us/categories/33334424159005-AI-Toolkit",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
       },
       {
         "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
         "title": "Seedream 5 0",
         "url": "https://artlist.io/ai/models/seedream-5-0",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/ai/models/seedream-5-0"
       },
       {
         "id": "e6d2f4f8dcfb0be6b4a14a89000985c888f97b1e",
         "title": "Studio",
         "url": "https://artlist.io/studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "artlist.io/studio"
       },
       {
         "id": "9a899ceffcf7ac7f1c839d2c9afb5987f3b7890e",
         "title": "33334513271581 AI Image And Video",
         "url": "https://help.artlist.io/hc/en-us/sections/33334513271581-AI-Image-and-Video",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/sections/33334513271581-ai-image-and-video"
       },
       {
         "id": "c01a15610b2424924c2df7ad3c4994b69a98ebd9",
         "title": "33334526950301 AI Voiceover",
         "url": "https://help.artlist.io/hc/en-us/sections/33334526950301-AI-Voiceover",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/sections/33334526950301-ai-voiceover"
       },
       {
         "id": "9c52ad486a8c50d755a84ab4505ab22c36d190b2",
         "title": "34885548541469 AI Music",
         "url": "https://help.artlist.io/hc/en-us/sections/34885548541469-AI-Music",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/sections/34885548541469-ai-music"
       },
       {
         "id": "c96a1965108c958e78cc14d3e0f6f997c73bd695",
         "title": "33334550497181 AI Models",
         "url": "https://help.artlist.io/hc/en-us/sections/33334550497181-AI-Models",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/sections/33334550497181-ai-models"
       }
     ]
