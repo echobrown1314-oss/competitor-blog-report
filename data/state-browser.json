@@ -1,14 +1,7 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [
-      {
-        "key": "f8386e07257b1a178ec9ad985ca2cc154edb3675",
-        "url": "https://www.mindvideo.ai/blog/how-to-remove-text-from-video/",
-        "date": "2026-09-07",
-        "reportedAt": "2026-09-08T05:54:28.862Z"
-      }
-    ],
+    "MindVideo": [],
     "Topview": [],
     "DataCamp": [
       {
@@ -24,30 +17,6 @@
     "TopMediai": [],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "4f4153ff5b73e9ef664dfb655d8594a915d40551",
-        "url": "https://pollo.ai/hub/deevid-ai-vs-pollo-ai",
-        "date": "2026-09-07T13:42:37.617Z",
-        "reportedAt": "2026-09-08T05:54:28.862Z"
-      },
-      {
-        "key": "b5fb8fe2e59463458a9868c72d05c8ef6cb29396",
-        "url": "https://pollo.ai/hub/pet-meme-street-vlog-video-breakdown",
-        "date": "2026-09-07T10:04:49.109Z",
-        "reportedAt": "2026-09-08T05:54:28.862Z"
-      },
-      {
-        "key": "bca4d6b9d5700ff2cb74fee54fe9fba4f6c5419b",
-        "url": "https://pollo.ai/hub/train-travel-time-video-breakdown",
-        "date": "2026-09-07T09:41:32.466Z",
-        "reportedAt": "2026-09-08T05:54:28.862Z"
-      },
-      {
-        "key": "57a6fa9365fc1eb826a55b264d40ad28e1b53de3",
-        "url": "https://pollo.ai/hub/animated-pv-video-breakdown",
-        "date": "2026-09-07T09:07:29.857Z",
-        "reportedAt": "2026-09-08T05:54:28.862Z"
-      },
       {
         "key": "c08a730a2eac90aa0801c3d4f0abbc35a7dd0ba4",
         "url": "https://pollo.ai/hub/goofy-longhorn-fail-video-breakdown",
@@ -131,6 +100,18 @@
         "url": "https://pollo.ai/hub/adobe-firefly-vs-canva",
         "date": "2026-09-14T01:19:45.172Z",
         "reportedAt": "2026-09-14T06:10:21.166Z"
+      },
+      {
+        "key": "0f78c0e1b1b0885ba0ef92921579875b585da0a5",
+        "url": "https://pollo.ai/hub/what-is-gpt-image-2-5",
+        "date": "2026-09-15T03:29:22.760Z",
+        "reportedAt": "2026-09-15T06:07:40.972Z"
+      },
+      {
+        "key": "37d2cdd0047c08b4dfedd648a3557eb344d1663f",
+        "url": "https://pollo.ai/hub/gpt-image-2-5-review",
+        "date": "2026-09-15T03:23:30.578Z",
+        "reportedAt": "2026-09-15T06:07:40.972Z"
       }
     ]
   }
