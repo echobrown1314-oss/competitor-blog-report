@@ -2,6 +2,42 @@
   "snapshots": {
     "Higgsfield": [
       {
+        "id": "1025451940508462993d47dc10b293e47c566a5d",
+        "title": "Marketing Studio Intro",
+        "url": "https://higgsfield.ai/marketing-studio-intro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/marketing-studio-intro"
+      },
+      {
+        "id": "d26098a0935bac5693376463310210814d38b9bc",
+        "title": "Supercomputer Intro",
+        "url": "https://higgsfield.ai/supercomputer-intro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/supercomputer-intro"
+      },
+      {
+        "id": "0a20d77b00c136516d9699871b241dbaa55b5cf4",
+        "title": "App Builder Intro",
+        "url": "https://higgsfield.ai/app-builder-intro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/app-builder-intro"
+      },
+      {
+        "id": "8007f17ba1269523eb61e54d19ca72addc2ed2c7",
+        "title": "AI Influencer Studio",
+        "url": "https://higgsfield.ai/ai-influencer-studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/ai-influencer-studio"
+      },
+      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
@@ -144,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-14T06:08:03.768Z",
+        "lastmod": "2026-09-15T03:42:02.012Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-14T06:08:03.768Z",
+        "updatedAt": "2026-09-15T03:42:02.012Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-14T06:08:03.769Z",
+        "lastmod": "2026-09-15T03:42:02.012Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-14T06:08:03.769Z",
+        "updatedAt": "2026-09-15T03:42:02.012Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
