@@ -3,44 +3,13 @@
     "LitMedia": [],
     "MindVideo": [],
     "Topview": [],
-    "DataCamp": [
-      {
-        "key": "c4f1b80e21448ba942ae5531f1d082edd2049a95",
-        "url": "https://www.datacamp.com/blog/gpt-6-astra-projects",
-        "date": "September 9, 2026",
-        "reportedAt": "2026-09-10T05:55:10.282Z"
-      }
-    ],
+    "DataCamp": [],
     "WaveSpeed": [],
     "WeShop AI": [],
     "Atlas Cloud": [],
     "TopMediai": [],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "58f0ac227620161d4b8b303174a20a37e05d6700",
-        "url": "https://pollo.ai/hub/french-woman-mecha-gorilla-battle-video-breakdown",
-        "date": "2026-09-10T05:49:03.376Z",
-        "reportedAt": "2026-09-10T05:55:10.282Z"
-      },
-      {
-        "key": "37bb55fb46c9069cf69c76d253b8697aa2bc8cb9",
-        "url": "https://pollo.ai/hub/cat-sitcom-video-breakdown",
-        "date": "2026-09-10T03:24:31.086Z",
-        "reportedAt": "2026-09-10T05:55:10.282Z"
-      },
-      {
-        "key": "e7a09b951a58fa34b48aa4451382297ad3ee9eec",
-        "url": "https://pollo.ai/hub/invideo-vs-pictory",
-        "date": "2026-09-09T12:59:06.198Z",
-        "reportedAt": "2026-09-10T05:55:10.282Z"
-      },
-      {
-        "key": "f51dfc781b5c00ef79f6738160645d461b3c5491",
-        "url": "https://pollo.ai/hub/zombie-dog-memory-rescue-video-breakdown",
-        "date": "2026-09-09T09:07:32.150Z",
-        "reportedAt": "2026-09-10T05:55:10.282Z"
-      },
       {
         "key": "d38bcb4fbc481d968fbf7d61dbfbc9332081b6a3",
         "url": "https://pollo.ai/hub/cozy-bedtime-family-3d-animation-video-breakdown",
@@ -88,6 +57,24 @@
         "url": "https://pollo.ai/hub/gpt-image-2-5-review",
         "date": "2026-09-15T03:23:30.578Z",
         "reportedAt": "2026-09-15T06:07:40.972Z"
+      },
+      {
+        "key": "56827ea401733b1417a4c64cf6116bef1e2e212e",
+        "url": "https://pollo.ai/hub/minimax-h3-max-review",
+        "date": "2026-09-16T09:28:30.751Z",
+        "reportedAt": "2026-09-17T06:05:13.556Z"
+      },
+      {
+        "key": "f5561b7aa3f9067371093e74c4527f1e5fa32a03",
+        "url": "https://pollo.ai/hub/minimax-h3-max-prompt-guide",
+        "date": "2026-09-16T09:21:06.829Z",
+        "reportedAt": "2026-09-17T06:05:13.556Z"
+      },
+      {
+        "key": "60f754fa7643ec007b3850d7299c473438cc5ad6",
+        "url": "https://pollo.ai/hub/how-to-use-minimax-h3-max",
+        "date": "2026-09-16T06:33:59.273Z",
+        "reportedAt": "2026-09-17T06:05:13.556Z"
       }
     ]
   }
