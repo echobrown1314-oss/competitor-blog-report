@@ -180,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-15T13:41:14.431Z",
+        "lastmod": "2026-09-17T05:19:36.155Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-15T13:41:14.431Z",
+        "updatedAt": "2026-09-17T05:19:36.155Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-15T13:41:14.431Z",
+        "lastmod": "2026-09-17T05:19:36.155Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-15T13:41:14.431Z",
+        "updatedAt": "2026-09-17T05:19:36.155Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -1658,6 +1658,24 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
+      },
+      {
+        "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
+        "title": "Seedream 5 0",
+        "url": "https://artlist.io/ai/models/seedream-5-0",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "artlist.io/ai/models/seedream-5-0"
+      },
+      {
+        "id": "e6d2f4f8dcfb0be6b4a14a89000985c888f97b1e",
+        "title": "Studio",
+        "url": "https://artlist.io/studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "artlist.io/studio"
       },
       {
         "id": "9a899ceffcf7ac7f1c839d2c9afb5987f3b7890e",
