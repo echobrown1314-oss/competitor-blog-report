@@ -5,13 +5,26 @@
     "Topview": [],
     "DataCamp": [],
     "WaveSpeed": [],
-    "WeShop AI": [],
+    "WeShop AI": [
+      {
+        "key": "d98171203aef594633437af4f3366426759b582a",
+        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
+        "date": "2026-09-19T19:12:18+00:00",
+        "reportedAt": "2026-09-20T06:09:00.006Z"
+      }
+    ],
     "Atlas Cloud": [
       {
         "key": "af3939adeb8e6e662115d85cfcc7a336bb82cd84",
         "url": "https://www.atlascloud.ai/blog/case-studies/lindy-agent-inference-costs-90-percent",
         "date": "2026-09-18T08:32:12.044Z",
         "reportedAt": "2026-09-19T05:47:16.588Z"
+      },
+      {
+        "key": "f6aa1f13bb140a354b3b7c6e6924e49dd25dbeab",
+        "url": "https://www.atlascloud.ai/blog/case-studies/lindy-agent-inference-costs-90-percent",
+        "date": "2026-09-20T03:33:58.185Z",
+        "reportedAt": "2026-09-20T06:09:00.006Z"
       }
     ],
     "TopMediai": [],
