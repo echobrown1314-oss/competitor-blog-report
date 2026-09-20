@@ -180,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-18T08:58:16.802Z",
+        "lastmod": "2026-09-20T02:44:06.544Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-18T08:58:16.802Z",
+        "updatedAt": "2026-09-20T02:44:06.544Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-18T08:58:16.802Z",
+        "lastmod": "2026-09-20T02:44:06.544Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-18T08:58:16.802Z",
+        "updatedAt": "2026-09-20T02:44:06.544Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -1543,33 +1543,6 @@
     ],
     "Artlist": [
       {
-        "id": "764870a2105937796bdad50b131902e22ecc4116",
-        "title": "Music Generator",
-        "url": "https://artlist.io/ai/music-generator",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/music-generator"
-      },
-      {
-        "id": "bf9d70c9abb2cc31b4495d83231190013a6460ba",
-        "title": "Image Generator",
-        "url": "https://artlist.io/ai/image-generator",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/image-generator"
-      },
-      {
-        "id": "13b622234896e0d99500ad12790c4a9521f4ea38",
-        "title": "Video Generator",
-        "url": "https://artlist.io/ai/video-generator",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/video-generator"
-      },
-      {
         "id": "b2f7f4c19a860ff3e5d3204c1ea6642b2dfa865f",
         "title": "Voice Generator",
         "url": "https://artlist.io/ai/voice-generator",
@@ -1577,87 +1550,6 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "artlist.io/ai/voice-generator"
-      },
-      {
-        "id": "1e9552059048c7dbc50b96ddac3ee4e9f2fc8b73",
-        "title": "Voice Over Generator",
-        "url": "https://toolkit.artlist.io/voice-over-generator",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "toolkit.artlist.io/voice-over-generator"
-      },
-      {
-        "id": "83fae6e05f2de090ca5827c389d081bcfdbdd333",
-        "title": "Avatars",
-        "url": "https://artlist.io/ai/avatars",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/avatars"
-      },
-      {
-        "id": "bf720b7e7cebbe257962b55977e4543e443e7f5b",
-        "title": "Lipsync",
-        "url": "https://artlist.io/artlist.io/ai/lipsync",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/artlist.io/ai/lipsync"
-      },
-      {
-        "id": "42ae5f5e7cb009c9dd6935f9a46d1f34381167e9",
-        "title": "Dubbing",
-        "url": "https://artlist.io/ai/dubbing",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/dubbing"
-      },
-      {
-        "id": "8b562305a644fae442334e2049faed3a0cc89928",
-        "title": "GPT Image 2",
-        "url": "https://artlist.io/ai/models/gpt-image-2",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/models/gpt-image-2"
-      },
-      {
-        "id": "e0294720b145b4b9158613224b8a28f500456f6c",
-        "title": "29489082949405 A Free Trial Explained",
-        "url": "https://help.artlist.io/hc/en-us/articles/29489082949405-A-free-Trial-explained",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "help.artlist.io/hc/en-us/articles/29489082949405-a-free-trial-explained"
-      },
-      {
-        "id": "3dcd30df6c3c96655f06700cba9bcb29606778d0",
-        "title": "Lipsync",
-        "url": "https://artlist.io/ai/lipsync",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "artlist.io/ai/lipsync"
-      },
-      {
-        "id": "ecccbf983dba3528b4438799106e717e6e35bb09",
-        "title": "33334572931997 AI Plans",
-        "url": "https://help.artlist.io/hc/en-us/sections/33334572931997-AI-Plans",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "help.artlist.io/hc/en-us/sections/33334572931997-ai-plans"
-      },
-      {
-        "id": "0e5a42081e5286e9ce3d310798462b1d368fd266",
-        "title": "33334424159005 AI Toolkit",
-        "url": "https://help.artlist.io/hc/en-us/categories/33334424159005-AI-Toolkit",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
       },
       {
         "id": "4d86fee824c67da633d22e2a6e55f2b4fc32c33f",
@@ -1676,6 +1568,15 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "artlist.io/studio"
+      },
+      {
+        "id": "0e5a42081e5286e9ce3d310798462b1d368fd266",
+        "title": "33334424159005 AI Toolkit",
+        "url": "https://help.artlist.io/hc/en-us/categories/33334424159005-AI-Toolkit",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "help.artlist.io/hc/en-us/categories/33334424159005-ai-toolkit"
       },
       {
         "id": "9a899ceffcf7ac7f1c839d2c9afb5987f3b7890e",
