@@ -31,18 +31,6 @@
     "JXP": [],
     "Pollo AI": [
       {
-        "key": "a7d89825203b2b0ab17961a90aa2cdb10ed584de",
-        "url": "https://pollo.ai/hub/adobe-firefly-vs-higgsfield",
-        "date": "2026-09-14T05:36:52.256Z",
-        "reportedAt": "2026-09-14T06:10:21.166Z"
-      },
-      {
-        "key": "6ece8ebd99f802e255a78cf8c2a1035bbf7d25b4",
-        "url": "https://pollo.ai/hub/adobe-firefly-vs-canva",
-        "date": "2026-09-14T01:19:45.172Z",
-        "reportedAt": "2026-09-14T06:10:21.166Z"
-      },
-      {
         "key": "0f78c0e1b1b0885ba0ef92921579875b585da0a5",
         "url": "https://pollo.ai/hub/what-is-gpt-image-2-5",
         "date": "2026-09-15T03:29:22.760Z",
@@ -71,6 +59,24 @@
         "url": "https://pollo.ai/hub/how-to-use-minimax-h3-max",
         "date": "2026-09-16T06:33:59.273Z",
         "reportedAt": "2026-09-17T06:05:13.556Z"
+      },
+      {
+        "key": "c092d43eccb4cf87e4d3ce70d2456076d356a8b3",
+        "url": "https://pollo.ai/hub/invideo-vs-synthesia",
+        "date": "2026-09-21T05:59:28.425Z",
+        "reportedAt": "2026-09-21T06:15:00.646Z"
+      },
+      {
+        "key": "bbb6fc52dd3e266d553559e59578090812b06184",
+        "url": "https://pollo.ai/hub/artguru-review",
+        "date": "2026-09-21T01:30:13.791Z",
+        "reportedAt": "2026-09-21T06:15:00.646Z"
+      },
+      {
+        "key": "c7c7c941d5ac161e140d88abcbbedd3b3d85d388",
+        "url": "https://pollo.ai/hub/invideo-vs-heygen",
+        "date": "2026-09-20T09:57:28.281Z",
+        "reportedAt": "2026-09-21T06:15:00.646Z"
       }
     ]
   }

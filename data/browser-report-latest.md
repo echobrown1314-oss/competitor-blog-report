@@ -1,11 +1,10 @@
 # 竞品博客监测日报
 
-生成时间：2026/09/20 14:09（上海）
+生成时间：2026/09/21 14:15（上海）
 
-新增文章总数：2
+新增文章总数：3
 
-## WeShop AI（1）
-- [How to Cancel Your WeShop AI Subscription – WeShop AI Blog](https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/) | 2026-09-19T19:12:18+00:00
-
-## Atlas Cloud（1）
-- [How Lindy Cut AI Agent Inference Costs 90% on Atlas Cloud](https://www.atlascloud.ai/blog/case-studies/lindy-agent-inference-costs-90-percent) | 2026-09-20T03:33:58.185Z
+## Pollo AI（3）
+- [InVideo vs Synthesia: Which AI Video Tool Is Right for Your Workflow? | Pollo AI](https://pollo.ai/hub/invideo-vs-synthesia) | 2026-09-21T05:59:28.425Z
+- [Artguru Review: I Tested Its One-Click Photo Enhancer | Pollo AI](https://pollo.ai/hub/artguru-review) | 2026-09-21T01:30:13.791Z
+- [InVideo vs HeyGen: Which One Fits Your Video Needs? | Pollo AI](https://pollo.ai/hub/invideo-vs-heygen) | 2026-09-20T09:57:28.281Z
