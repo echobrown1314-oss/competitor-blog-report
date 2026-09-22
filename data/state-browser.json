@@ -25,9 +25,22 @@
         "url": "https://www.atlascloud.ai/blog/case-studies/lindy-agent-inference-costs-90-percent",
         "date": "2026-09-20T03:33:58.185Z",
         "reportedAt": "2026-09-20T06:09:00.006Z"
+      },
+      {
+        "key": "a21a2095dd3bd566550ef6ead22673dfc3924a8a",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-tools-for-api-testing",
+        "date": "2026-09-21T16:38:35.226Z",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
       }
     ],
-    "TopMediai": [],
+    "TopMediai": [
+      {
+        "key": "5a083b1e68ef8ce93e11f0403865e125403ec2d0",
+        "url": "https://www.topmediai.com/video-tips/ai-wedding-video-generator/",
+        "date": "2026-09-21T16:57:08+08:00",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      }
+    ],
     "JXP": [],
     "Pollo AI": [
       {
@@ -77,6 +90,62 @@
         "url": "https://pollo.ai/hub/invideo-vs-heygen",
         "date": "2026-09-20T09:57:28.281Z",
         "reportedAt": "2026-09-21T06:15:00.646Z"
+      }
+    ],
+    "Higgsfield": [
+      {
+        "key": "c1a88dfa501e8faa54f17e477abd779e96dc0fc5",
+        "url": "https://higgsfield.ai/blog/cinema-studio-4-0",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "9805c66bd76566a69b4aba35eef7472da50d8580",
+        "url": "https://higgsfield.ai/blog/claude-ad-production-end-to-end",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "9f909ac33ff117847e1a3c7b3a17620f2e60d55a",
+        "url": "https://higgsfield.ai/blog/unlimited-nano-banana-2-plans",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "2bfe95a35e3857df3e9b7b12475671fbff432671",
+        "url": "https://higgsfield.ai/blog/100-plus-ad-variations-ai",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "9c49a5b7706cfe152456f400dfb226ee34a8346d",
+        "url": "https://higgsfield.ai/blog/ai-batch-generation-tools-2026",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "b8170b5b93ee64253ae5830c3745b8677a7ab620",
+        "url": "https://higgsfield.ai/blog/cinema-studio-3",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "6d2df93da7554f672866bfc8a54a1ae5f8743cb6",
+        "url": "https://higgsfield.ai/blog/blog-original-series",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "33ec68415a1bb02469ef7705ee8bd8e559ed26f7",
+        "url": "https://higgsfield.ai/blog/content-scoring-higgsfield",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "8301b034ba852064eb7b40dc6d69acfa2e74589f",
+        "url": "https://higgsfield.ai/blog/AI-Tool-That-Allows-You-to-Replace-Faces-in-a-Movie-Scene",
+        "date": "2026-09-21",
+        "reportedAt": "2026-09-22T02:19:40.793Z"
       }
     ]
   }
