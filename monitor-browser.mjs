@@ -72,6 +72,14 @@ const SOURCES = [
     home: "https://www.jxp.com/blog",
     articlePatterns: [/^https:\/\/www\.jxp\.com\/blog\/[^/]+\/?$/i],
     maxCandidates: 12
+  },
+  {
+    name: "Higgsfield",
+    home: "https://higgsfield.ai/blog/",
+    articlePatterns: [
+      /^https:\/\/higgsfield\.ai\/blog\/(?!guides\/?$|listicles\/?$|editorials\/?$|inside-higgsfield\/?$)[^/]+\/?$/i
+    ],
+    maxCandidates: 16
   }
 ];
 
