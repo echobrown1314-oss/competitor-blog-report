@@ -11,6 +11,18 @@
         "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
         "date": "2026-09-19T19:12:18+00:00",
         "reportedAt": "2026-09-20T06:09:00.006Z"
+      },
+      {
+        "key": "f2aa5c63fb16432cf1f4525f1bd584d3e544d34b",
+        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription-on-shopify/",
+        "date": "2026-09-23T04:13:55+00:00",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "2586d3ffb056108669f9dfe0927482375e02c36d",
+        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
+        "date": "2026-09-23T04:07:33+00:00",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
       }
     ],
     "Atlas Cloud": [
@@ -43,6 +55,24 @@
         "url": "https://www.atlascloud.ai/blog/guides/best-ai-api-for-coding",
         "date": "2026-09-22T02:31:20.545Z",
         "reportedAt": "2026-09-22T06:06:54.702Z"
+      },
+      {
+        "key": "9bff0c36aa56ff53327536eb3b068479d68d3da4",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-ai-apps",
+        "date": "2026-09-22T15:37:45.755Z",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "b9bf98f79b4818b0da4afee0f18ff5c398ee7a2e",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-startups",
+        "date": "2026-09-22T15:26:16.790Z",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "aff72313831c9f39b0fc41293e2e11aafdf92a02",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-saas",
+        "date": "2026-09-22T14:16:26.971Z",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
       }
     ],
     "TopMediai": [
@@ -55,18 +85,6 @@
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "0f78c0e1b1b0885ba0ef92921579875b585da0a5",
-        "url": "https://pollo.ai/hub/what-is-gpt-image-2-5",
-        "date": "2026-09-15T03:29:22.760Z",
-        "reportedAt": "2026-09-15T06:07:40.972Z"
-      },
-      {
-        "key": "37d2cdd0047c08b4dfedd648a3557eb344d1663f",
-        "url": "https://pollo.ai/hub/gpt-image-2-5-review",
-        "date": "2026-09-15T03:23:30.578Z",
-        "reportedAt": "2026-09-15T06:07:40.972Z"
-      },
       {
         "key": "56827ea401733b1417a4c64cf6116bef1e2e212e",
         "url": "https://pollo.ai/hub/minimax-h3-max-review",
@@ -102,6 +120,24 @@
         "url": "https://pollo.ai/hub/invideo-vs-heygen",
         "date": "2026-09-20T09:57:28.281Z",
         "reportedAt": "2026-09-21T06:15:00.646Z"
+      },
+      {
+        "key": "f9246df4efa8c635addbd38d751ef7a313d0f9d1",
+        "url": "https://pollo.ai/hub/animaker-vs-powtoon",
+        "date": "2026-09-22T09:16:38.879Z",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "81fba2c8460bb101d26314316aae1ddfa7aaf238",
+        "url": "https://pollo.ai/hub/animaker-vs-vyond",
+        "date": "2026-09-22T09:13:51.229Z",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "9b2f529b51915719ffce02527e14f57cf63da5f6",
+        "url": "https://pollo.ai/hub/canva-vs-lovart",
+        "date": "2026-09-22T06:39:06.034Z",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
       }
     ],
     "Higgsfield": [
@@ -158,6 +194,54 @@
         "url": "https://higgsfield.ai/blog/AI-Tool-That-Allows-You-to-Replace-Faces-in-a-Movie-Scene",
         "date": "2026-09-21",
         "reportedAt": "2026-09-22T02:19:40.793Z"
+      },
+      {
+        "key": "05d66211c2d2c5c219c53822937746bf15e57ce3",
+        "url": "https://higgsfield.ai/blog/el-libro-sagrado-higgsfield-case-study",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "36966ea0cb5cbeaf1ce38c461e43e3d1ab11911e",
+        "url": "https://higgsfield.ai/blog/best-ai-video-platforms-agencies",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "38205599cbd9d4ded65f26c0364a158a08f3a7dd",
+        "url": "https://higgsfield.ai/blog/best-all-in-one-ai-video-subscriptions-2026",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "4e7cfa6cad7412415acc5014f9f00b8c7c8fd6cf",
+        "url": "https://higgsfield.ai/blog/ai-avatars-vs-ugc-creators-2026",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "5b69f077e8f96cd3597ec350fe9d8d4ad0d51e11",
+        "url": "https://higgsfield.ai/blog/automate-ecommerce-catalog-video-ai",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "d2f791664c671c00a9b4f9287003f22735cb02da",
+        "url": "https://higgsfield.ai/blog/build-website-with-ai",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "41f6c4f73981d466dfed2cbd63d8d42b38f1d09f",
+        "url": "https://higgsfield.ai/blog/higgsfield-ai-games",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "832dd46acf1538587f53a9e6d723f76238b99395",
+        "url": "https://higgsfield.ai/blog/creatorstories",
+        "date": "2026-09-22",
+        "reportedAt": "2026-09-23T05:54:30.872Z"
       }
     ]
   }
