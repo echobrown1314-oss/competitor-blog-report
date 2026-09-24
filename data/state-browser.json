@@ -23,6 +23,12 @@
         "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
         "date": "2026-09-23T04:07:33+00:00",
         "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "d4c41096ac25749544331782a5479fb431b88bef",
+        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
+        "date": "2026-09-23T06:07:31+00:00",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
       }
     ],
     "Atlas Cloud": [
@@ -73,6 +79,18 @@
         "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-saas",
         "date": "2026-09-22T14:16:26.971Z",
         "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "b1da891e8ea934d70f556c23d10819f4bd210ffc",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-small-businesses",
+        "date": "2026-09-23T16:49:47.133Z",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
+      },
+      {
+        "key": "442337c4985f35005e98cc8a15fe448902881b95",
+        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-ugc-platforms",
+        "date": "2026-09-23T16:47:52.328Z",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
       }
     ],
     "TopMediai": [
@@ -85,24 +103,6 @@
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "56827ea401733b1417a4c64cf6116bef1e2e212e",
-        "url": "https://pollo.ai/hub/minimax-h3-max-review",
-        "date": "2026-09-16T09:28:30.751Z",
-        "reportedAt": "2026-09-17T06:05:13.556Z"
-      },
-      {
-        "key": "f5561b7aa3f9067371093e74c4527f1e5fa32a03",
-        "url": "https://pollo.ai/hub/minimax-h3-max-prompt-guide",
-        "date": "2026-09-16T09:21:06.829Z",
-        "reportedAt": "2026-09-17T06:05:13.556Z"
-      },
-      {
-        "key": "60f754fa7643ec007b3850d7299c473438cc5ad6",
-        "url": "https://pollo.ai/hub/how-to-use-minimax-h3-max",
-        "date": "2026-09-16T06:33:59.273Z",
-        "reportedAt": "2026-09-17T06:05:13.556Z"
-      },
       {
         "key": "c092d43eccb4cf87e4d3ce70d2456076d356a8b3",
         "url": "https://pollo.ai/hub/invideo-vs-synthesia",
@@ -138,6 +138,12 @@
         "url": "https://pollo.ai/hub/canva-vs-lovart",
         "date": "2026-09-22T06:39:06.034Z",
         "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "bd9875a48ab51c8eaabae8fa78ccffbabd4401cf",
+        "url": "https://pollo.ai/hub/camera-movements",
+        "date": "2026-09-24T02:47:48.032Z",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
       }
     ],
     "Higgsfield": [
@@ -242,6 +248,24 @@
         "url": "https://higgsfield.ai/blog/creatorstories",
         "date": "2026-09-22",
         "reportedAt": "2026-09-23T05:54:30.872Z"
+      },
+      {
+        "key": "dbc95f5b18e62dbafa27e341bc20d76f703ff141",
+        "url": "https://higgsfield.ai/blog/ai-video-ad-localization",
+        "date": "2026-09-23",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
+      },
+      {
+        "key": "6976b3de45bbd2066240870fa2dc87678c5f3717",
+        "url": "https://higgsfield.ai/blog/best-all-in-one-ai-video-subscriptions-2026",
+        "date": "2026-09-23",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
+      },
+      {
+        "key": "a965949f8201d63063bf1050973e8b72241ea3dd",
+        "url": "https://higgsfield.ai/blog/ai-avatars-vs-ugc-creators-2026",
+        "date": "2026-09-23",
+        "reportedAt": "2026-09-24T06:07:04.750Z"
       }
     ]
   }
