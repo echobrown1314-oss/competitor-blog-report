@@ -1,20 +1,21 @@
 # 竞品博客监测日报
 
-生成时间：2026/09/24 14:07（上海）
+生成时间：2026/09/25 14:07（上海）
 
-新增文章总数：7
-
-## WeShop AI（1）
-- [How to Cancel Your WeShop AI Subscription – WeShop AI Blog](https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/) | 2026-09-23T06:07:31+00:00
+新增文章总数：8
 
 ## Atlas Cloud（2）
-- [Build an AI API for Small Businesses around one repeatable workflow, with human review, cost ceilings, and safer customer support automation.](https://www.atlascloud.ai/blog/guides/ai-api-for-small-businesses) | 2026-09-23T16:49:47.133Z
-- [Build an AI API for UGC Platforms with async jobs, moderation, cost controls, and compliant, controlled publishing for image, video, and 3D assets.](https://www.atlascloud.ai/blog/guides/ai-api-for-ugc-platforms) | 2026-09-23T16:47:52.328Z
+- [Build an AI API for Video Editing Apps that turns existing clips into reviewable prompt edits with async jobs, cost controls, and provenance.](https://www.atlascloud.ai/blog/guides/ai-api-for-video-editing-apps) | 2026-09-24T14:34:20.527Z
+- [Build an AI API for batch generation safely with stable IDs, controlled queues, retries, quality checks, and a copyable 8-asset image workflow.](https://www.atlascloud.ai/blog/guides/ai-api-for-batch-generation) | 2026-09-24T14:29:14.062Z
 
-## Pollo AI（1）
-- [10 Best Camera Movements For Cinematic AI Video Creation | Pollo AI](https://pollo.ai/hub/camera-movements) | 2026-09-24T02:47:48.032Z
+## TopMediai（1）
+- [Grandma GTA Game Video Breakdown: Prompts Included](https://www.topmediai.com/video-tips/grandma-gta-game-video/) | 2026-09-24T16:59:37+08:00
+
+## Pollo AI（2）
+- [How to Clone the Gravity Tilt Viral Video | Pollo AI](https://pollo.ai/hub/how-to-clone-gravity-tilt-viral-video) | 2026-09-24T10:06:00.935Z
+- [How to Clone the City Giant Viral Video | Pollo AI](https://pollo.ai/hub/how-to-clone-city-giant-viral-video) | 2026-09-24T10:04:58.524Z
 
 ## Higgsfield（3）
-- [How to Localize Video Ads Into Every Language With AI: Dubbing, Lip-Sync, and Reframe](https://higgsfield.ai/blog/ai-video-ad-localization) | 2026-09-23
-- [Best All-in-One AI Video Subscriptions in 2026: One Plan Instead of Five Tools](https://higgsfield.ai/blog/best-all-in-one-ai-video-subscriptions-2026) | 2026-09-23
-- [AI Avatars vs UGC Creators for Ads in 2026: Which Performs Better](https://higgsfield.ai/blog/ai-avatars-vs-ugc-creators-2026) | 2026-09-23
+- [30-Day Seedance Unlimited on Higgsfield in 2026: What You Get and How It Works](https://higgsfield.ai/blog/seedance-unlimited) | 2026-09-24
+- [Creator Stories — articles from the Higgsfield blog](https://higgsfield.ai/blog/creatorstories) | 2026-09-24
+- [How Gabo Produces One-Hour AI Films With Higgsfield](https://higgsfield.ai/blog/el-libro-sagrado-higgsfield-case-study) | 2026-09-24
