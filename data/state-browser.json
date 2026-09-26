@@ -33,12 +33,6 @@
     ],
     "Atlas Cloud": [
       {
-        "key": "af3939adeb8e6e662115d85cfcc7a336bb82cd84",
-        "url": "https://www.atlascloud.ai/blog/case-studies/lindy-agent-inference-costs-90-percent",
-        "date": "2026-09-18T08:32:12.044Z",
-        "reportedAt": "2026-09-19T05:47:16.588Z"
-      },
-      {
         "key": "f6aa1f13bb140a354b3b7c6e6924e49dd25dbeab",
         "url": "https://www.atlascloud.ai/blog/case-studies/lindy-agent-inference-costs-90-percent",
         "date": "2026-09-20T03:33:58.185Z",
@@ -314,6 +308,12 @@
         "url": "https://higgsfield.ai/blog/el-libro-sagrado-higgsfield-case-study",
         "date": "2026-09-24",
         "reportedAt": "2026-09-25T06:07:41.984Z"
+      },
+      {
+        "key": "d62e40667adf30d1110b0a43f1db58a3d6eed4ac",
+        "url": "https://higgsfield.ai/blog/ai-video-ad-localization",
+        "date": "2026-09-25",
+        "reportedAt": "2026-09-26T06:06:37.691Z"
       }
     ]
   }
