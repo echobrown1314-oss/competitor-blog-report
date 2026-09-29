@@ -180,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-09-25T14:26:28.510Z",
+        "lastmod": "2026-09-28T09:58:55.430Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-25T14:26:28.510Z",
+        "updatedAt": "2026-09-28T09:58:55.430Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-09-25T14:26:28.510Z",
+        "lastmod": "2026-09-28T09:58:55.430Z",
         "publishedAt": "",
-        "updatedAt": "2026-09-25T14:26:28.510Z",
+        "updatedAt": "2026-09-28T09:58:55.430Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -454,18 +454,18 @@
         "id": "4c3710ddbdf676b4c24085f36eea9774cd3ee0a6",
         "title": "AI Video Generator",
         "url": "https://www.topview.ai/ai-video-generator",
-        "lastmod": "2026-03-05",
+        "lastmod": "2026-09-28T07:37:36Z",
         "publishedAt": "2026",
-        "updatedAt": "2026-03-05",
+        "updatedAt": "2026-09-28T07:37:36Z",
         "canonicalKey": "topview.ai/ai-video-generator"
       },
       {
         "id": "578cdb11daed52555ba57a02cfb69d22b4a325aa",
         "title": "Motion Control",
         "url": "https://www.topview.ai/motion-control",
-        "lastmod": "2026-04-23",
+        "lastmod": "2026-09-28T07:37:36Z",
         "publishedAt": "2026",
-        "updatedAt": "2026-04-23",
+        "updatedAt": "2026-09-28T07:37:36Z",
         "canonicalKey": "topview.ai/motion-control"
       },
       {
@@ -490,9 +490,9 @@
         "id": "8f5d8b8c8513ddbf986c0b78e6231dc92bdc09e1",
         "title": "Image Upscale",
         "url": "https://www.topview.ai/image-upscale",
-        "lastmod": "2026-04-23",
+        "lastmod": "2026-09-28T07:37:36Z",
         "publishedAt": "2026",
-        "updatedAt": "2026-04-23",
+        "updatedAt": "2026-09-28T07:37:36Z",
         "canonicalKey": "topview.ai/image-upscale"
       },
       {
@@ -517,9 +517,9 @@
         "id": "ed5e8440d6af277d50e65833c82805095382d602",
         "title": "AI Image Generator",
         "url": "https://www.topview.ai/ai-image-generator",
-        "lastmod": "2026-08-11",
+        "lastmod": "2026-09-28T07:37:36Z",
         "publishedAt": "2026",
-        "updatedAt": "2026-08-11",
+        "updatedAt": "2026-09-28T07:37:36Z",
         "canonicalKey": "topview.ai/ai-image-generator"
       },
       {
