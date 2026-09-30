@@ -7,18 +7,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "f2aa5c63fb16432cf1f4525f1bd584d3e544d34b",
-        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription-on-shopify/",
-        "date": "2026-09-23T04:13:55+00:00",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "2586d3ffb056108669f9dfe0927482375e02c36d",
-        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
-        "date": "2026-09-23T04:07:33+00:00",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
         "key": "d4c41096ac25749544331782a5479fb431b88bef",
         "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
         "date": "2026-09-23T06:07:31+00:00",
@@ -32,24 +20,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "9bff0c36aa56ff53327536eb3b068479d68d3da4",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-ai-apps",
-        "date": "2026-09-22T15:37:45.755Z",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "b9bf98f79b4818b0da4afee0f18ff5c398ee7a2e",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-startups",
-        "date": "2026-09-22T15:26:16.790Z",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "aff72313831c9f39b0fc41293e2e11aafdf92a02",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-saas",
-        "date": "2026-09-22T14:16:26.971Z",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
       {
         "key": "b1da891e8ea934d70f556c23d10819f4bd210ffc",
         "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-small-businesses",
@@ -85,24 +55,6 @@
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "f9246df4efa8c635addbd38d751ef7a313d0f9d1",
-        "url": "https://pollo.ai/hub/animaker-vs-powtoon",
-        "date": "2026-09-22T09:16:38.879Z",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "81fba2c8460bb101d26314316aae1ddfa7aaf238",
-        "url": "https://pollo.ai/hub/animaker-vs-vyond",
-        "date": "2026-09-22T09:13:51.229Z",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "9b2f529b51915719ffce02527e14f57cf63da5f6",
-        "url": "https://pollo.ai/hub/canva-vs-lovart",
-        "date": "2026-09-22T06:39:06.034Z",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
       {
         "key": "bd9875a48ab51c8eaabae8fa78ccffbabd4401cf",
         "url": "https://pollo.ai/hub/camera-movements",
@@ -168,57 +120,27 @@
         "url": "https://pollo.ai/hub/imagineart-vs-magnific",
         "date": "Sep 28, 2026",
         "reportedAt": "2026-09-29T06:49:51.713Z"
+      },
+      {
+        "key": "d8e12c1ddd6582725af81194c1d13b527d825aae",
+        "url": "https://pollo.ai/hub/synthesia-vs-colossyan",
+        "date": "Sep 29, 2026",
+        "reportedAt": "2026-09-30T06:38:34.990Z"
+      },
+      {
+        "key": "331f165c79d19a690b01324ea0c8db889b55fb14",
+        "url": "https://pollo.ai/hub/synthesia-vs-heygen",
+        "date": "Sep 29, 2026",
+        "reportedAt": "2026-09-30T06:38:34.990Z"
+      },
+      {
+        "key": "a3aef1ef7a523ca8fc6be832b6ce8c93cfb0b3b3",
+        "url": "https://pollo.ai/hub/piclumen-vs-leonardo-ai",
+        "date": "Sep 29, 2026",
+        "reportedAt": "2026-09-30T06:38:34.990Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "05d66211c2d2c5c219c53822937746bf15e57ce3",
-        "url": "https://higgsfield.ai/blog/el-libro-sagrado-higgsfield-case-study",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "36966ea0cb5cbeaf1ce38c461e43e3d1ab11911e",
-        "url": "https://higgsfield.ai/blog/best-ai-video-platforms-agencies",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "38205599cbd9d4ded65f26c0364a158a08f3a7dd",
-        "url": "https://higgsfield.ai/blog/best-all-in-one-ai-video-subscriptions-2026",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "4e7cfa6cad7412415acc5014f9f00b8c7c8fd6cf",
-        "url": "https://higgsfield.ai/blog/ai-avatars-vs-ugc-creators-2026",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "5b69f077e8f96cd3597ec350fe9d8d4ad0d51e11",
-        "url": "https://higgsfield.ai/blog/automate-ecommerce-catalog-video-ai",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "d2f791664c671c00a9b4f9287003f22735cb02da",
-        "url": "https://higgsfield.ai/blog/build-website-with-ai",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "41f6c4f73981d466dfed2cbd63d8d42b38f1d09f",
-        "url": "https://higgsfield.ai/blog/higgsfield-ai-games",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
-      {
-        "key": "832dd46acf1538587f53a9e6d723f76238b99395",
-        "url": "https://higgsfield.ai/blog/creatorstories",
-        "date": "2026-09-22",
-        "reportedAt": "2026-09-23T05:54:30.872Z"
-      },
       {
         "key": "dbc95f5b18e62dbafa27e341bc20d76f703ff141",
         "url": "https://higgsfield.ai/blog/ai-video-ad-localization",
@@ -266,6 +188,18 @@
         "url": "https://higgsfield.ai/blog/best-ai-creator-platforms-2026",
         "date": "2026-09-28",
         "reportedAt": "2026-09-29T06:49:51.713Z"
+      },
+      {
+        "key": "69edf885bc43fe256bcc06d01f1eb26ffc649359",
+        "url": "https://higgsfield.ai/blog/generate-ai-videos-ai-agents-2026",
+        "date": "2026-09-29",
+        "reportedAt": "2026-09-30T06:38:34.990Z"
+      },
+      {
+        "key": "35999f9286778bd558327f4e6784e6882c644a75",
+        "url": "https://higgsfield.ai/blog/ai-animated-short-film-2026",
+        "date": "2026-09-29",
+        "reportedAt": "2026-09-30T06:38:34.990Z"
       }
     ]
   }
