@@ -7,12 +7,6 @@
     "WaveSpeed": [],
     "WeShop AI": [
       {
-        "key": "d4c41096ac25749544331782a5479fb431b88bef",
-        "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription/",
-        "date": "2026-09-23T06:07:31+00:00",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
-      {
         "key": "ae129a1fb41b5a719be5f1700b0b48fd3567ef54",
         "url": "https://www.weshop.ai/blog/how-to-cancel-your-weshop-ai-subscription-on-ios-android/",
         "date": "2026-09-28T07:59:59+00:00",
@@ -20,18 +14,6 @@
       }
     ],
     "Atlas Cloud": [
-      {
-        "key": "b1da891e8ea934d70f556c23d10819f4bd210ffc",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-small-businesses",
-        "date": "2026-09-23T16:49:47.133Z",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
-      {
-        "key": "442337c4985f35005e98cc8a15fe448902881b95",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-ugc-platforms",
-        "date": "2026-09-23T16:47:52.328Z",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
       {
         "key": "596ff20c9ffbbb704897ac5fbb70361382a183c8",
         "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-video-editing-apps",
@@ -51,16 +33,16 @@
         "url": "https://www.topmediai.com/video-tips/grandma-gta-game-video/",
         "date": "2026-09-24T16:59:37+08:00",
         "reportedAt": "2026-09-25T06:07:41.984Z"
+      },
+      {
+        "key": "3bd082425e28f76ecc5f20d3b21c0a95911e8afb",
+        "url": "https://www.topmediai.com/video-tips/kling-4-0-review/",
+        "date": "2026-09-30T16:20:50+08:00",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
       }
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "bd9875a48ab51c8eaabae8fa78ccffbabd4401cf",
-        "url": "https://pollo.ai/hub/camera-movements",
-        "date": "2026-09-24T02:47:48.032Z",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
       {
         "key": "6ba219ffd3d4ae9cb5a3643b24c301a73e7ae2a3",
         "url": "https://pollo.ai/hub/how-to-clone-gravity-tilt-viral-video",
@@ -138,27 +120,39 @@
         "url": "https://pollo.ai/hub/piclumen-vs-leonardo-ai",
         "date": "Sep 29, 2026",
         "reportedAt": "2026-09-30T06:38:34.990Z"
+      },
+      {
+        "key": "635ada9bd6dbacdfca6504a6064c04be45b0db59",
+        "url": "https://pollo.ai/hub/how-to-clone-city-folding-viral-video",
+        "date": "Sep 30, 2026",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "8b1159bd4f2c1ca68e5233e281f6e442cf303fac",
+        "url": "https://pollo.ai/hub/how-to-clone-the-vanish-viral-video",
+        "date": "Sep 30, 2026",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "34ef9b8d83bfed8457366a8afe40634be1d1c60b",
+        "url": "https://pollo.ai/hub/opusclip-vs-capcut",
+        "date": "Sep 30, 2026",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "d000407f78e95fb54e3565795bbd29014f96bec1",
+        "url": "https://pollo.ai/hub/opusclip-vs-descript",
+        "date": "Sep 30, 2026",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "5ed8f0c6996cbea92a65cbf693bf227b923efa1a",
+        "url": "https://pollo.ai/hub/how-to-clone-burning-handshake-viral-video",
+        "date": "Sep 30, 2026",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "dbc95f5b18e62dbafa27e341bc20d76f703ff141",
-        "url": "https://higgsfield.ai/blog/ai-video-ad-localization",
-        "date": "2026-09-23",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
-      {
-        "key": "6976b3de45bbd2066240870fa2dc87678c5f3717",
-        "url": "https://higgsfield.ai/blog/best-all-in-one-ai-video-subscriptions-2026",
-        "date": "2026-09-23",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
-      {
-        "key": "a965949f8201d63063bf1050973e8b72241ea3dd",
-        "url": "https://higgsfield.ai/blog/ai-avatars-vs-ugc-creators-2026",
-        "date": "2026-09-23",
-        "reportedAt": "2026-09-24T06:07:04.750Z"
-      },
       {
         "key": "b9b91769d5f522c4edf8d441c777d9fa340a18a4",
         "url": "https://higgsfield.ai/blog/seedance-unlimited",
@@ -200,6 +194,24 @@
         "url": "https://higgsfield.ai/blog/ai-animated-short-film-2026",
         "date": "2026-09-29",
         "reportedAt": "2026-09-30T06:38:34.990Z"
+      },
+      {
+        "key": "720a658e508ef1cf2eef44bc1d36ff130c46ba18",
+        "url": "https://higgsfield.ai/blog/news",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "9487ec7c5711d72bdc3549784c22778b8a542a82",
+        "url": "https://higgsfield.ai/blog/terms-of-use-privacy-policy-update",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "b3dc6f0e3e00421417fcac5410131909dcecc741",
+        "url": "https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate",
+        "date": "2026-09-30",
+        "reportedAt": "2026-10-01T07:09:25.523Z"
       }
     ]
   }

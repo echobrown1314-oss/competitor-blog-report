@@ -1,14 +1,20 @@
 # 竞品博客监测日报
 
-生成时间：2026/09/30 14:38（上海）
+生成时间：2026/10/01 15:09（上海）
 
-新增文章总数：5
+新增文章总数：9
 
-## Pollo AI（3）
-- [Just a moment...](https://pollo.ai/hub/synthesia-vs-colossyan) | Sep 29, 2026
-- [Just a moment...](https://pollo.ai/hub/synthesia-vs-heygen) | Sep 29, 2026
-- [Just a moment...](https://pollo.ai/hub/piclumen-vs-leonardo-ai) | Sep 29, 2026
+## TopMediai（1）
+- [Kling 4.0 Review: What](https://www.topmediai.com/video-tips/kling-4-0-review/) | 2026-09-30T16:20:50+08:00
 
-## Higgsfield（2）
-- [How to Generate AI Videos With AI Agents in 2026: ChatGPT, Claude, Cursor, and More](https://higgsfield.ai/blog/generate-ai-videos-ai-agents-2026) | 2026-09-29
-- [How to Make an AI Animated Short Film in 2026](https://higgsfield.ai/blog/ai-animated-short-film-2026) | 2026-09-29
+## Pollo AI（5）
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-city-folding-viral-video) | Sep 30, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-the-vanish-viral-video) | Sep 30, 2026
+- [Just a moment...](https://pollo.ai/hub/opusclip-vs-capcut) | Sep 30, 2026
+- [Just a moment...](https://pollo.ai/hub/opusclip-vs-descript) | Sep 30, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-burning-handshake-viral-video) | Sep 30, 2026
+
+## Higgsfield（3）
+- [News — articles from the Higgsfield blog](https://higgsfield.ai/blog/news) | 2026-10-01
+- [Updates to Higgsfield](https://higgsfield.ai/blog/terms-of-use-privacy-policy-update) | 2026-10-01
+- [Higgsfield Crosses $1B Annualized Revenue Run Rate Milestone](https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate) | 2026-09-30
