@@ -4,7 +4,14 @@
     "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
-    "WaveSpeed": [],
+    "WaveSpeed": [
+      {
+        "key": "1b805ccf2b1f9a56e182fbb006b0816570bfa749",
+        "url": "https://wavespeed.ai/blog/posts/introducing-wavespeed-ai-ultimate-video-upscaler-on-wavespeedai/",
+        "date": "2026-10-02",
+        "reportedAt": "2026-10-02T06:57:53.018Z"
+      }
+    ],
     "WeShop AI": [
       {
         "key": "ae129a1fb41b5a719be5f1700b0b48fd3567ef54",
@@ -13,27 +20,8 @@
         "reportedAt": "2026-09-29T06:49:51.713Z"
       }
     ],
-    "Atlas Cloud": [
-      {
-        "key": "596ff20c9ffbbb704897ac5fbb70361382a183c8",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-video-editing-apps",
-        "date": "2026-09-24T14:34:20.527Z",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
-      {
-        "key": "0a021a00e15287b3979e8a8a7193308c6e70a107",
-        "url": "https://www.atlascloud.ai/blog/guides/ai-api-for-batch-generation",
-        "date": "2026-09-24T14:29:14.062Z",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      }
-    ],
+    "Atlas Cloud": [],
     "TopMediai": [
-      {
-        "key": "89237287e66ec826b3160abd8f298b7339e872d7",
-        "url": "https://www.topmediai.com/video-tips/grandma-gta-game-video/",
-        "date": "2026-09-24T16:59:37+08:00",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
       {
         "key": "3bd082425e28f76ecc5f20d3b21c0a95911e8afb",
         "url": "https://www.topmediai.com/video-tips/kling-4-0-review/",
@@ -43,18 +31,6 @@
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "6ba219ffd3d4ae9cb5a3643b24c301a73e7ae2a3",
-        "url": "https://pollo.ai/hub/how-to-clone-gravity-tilt-viral-video",
-        "date": "2026-09-24T10:06:00.935Z",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
-      {
-        "key": "072e339b8a1dee4c88a63db641ccdd9e4446e3fc",
-        "url": "https://pollo.ai/hub/how-to-clone-city-giant-viral-video",
-        "date": "2026-09-24T10:04:58.524Z",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
       {
         "key": "58356683d93ef42727a10eab02f936ed8e655ab7",
         "url": "https://pollo.ai/hub/animaker-vs-vyond",
@@ -154,24 +130,6 @@
     ],
     "Higgsfield": [
       {
-        "key": "b9b91769d5f522c4edf8d441c777d9fa340a18a4",
-        "url": "https://higgsfield.ai/blog/seedance-unlimited",
-        "date": "2026-09-24",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
-      {
-        "key": "fc5bcd9c70b34eddb3087d8f7046437cc9f34622",
-        "url": "https://higgsfield.ai/blog/creatorstories",
-        "date": "2026-09-24",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
-      {
-        "key": "294fc33e577438cd019c34eb5afc36b8d500bfa8",
-        "url": "https://higgsfield.ai/blog/el-libro-sagrado-higgsfield-case-study",
-        "date": "2026-09-24",
-        "reportedAt": "2026-09-25T06:07:41.984Z"
-      },
-      {
         "key": "d62e40667adf30d1110b0a43f1db58a3d6eed4ac",
         "url": "https://higgsfield.ai/blog/ai-video-ad-localization",
         "date": "2026-09-25",
@@ -212,6 +170,36 @@
         "url": "https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate",
         "date": "2026-09-30",
         "reportedAt": "2026-10-01T07:09:25.523Z"
+      },
+      {
+        "key": "fe98484538f3a906ec30d7aa99a0e1f6783d5e41",
+        "url": "https://higgsfield.ai/blog/higgsfield-ads-studio",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-02T06:57:53.018Z"
+      },
+      {
+        "key": "7a52ae2815f7b2e4f0a95f3f18f252670d1ae869",
+        "url": "https://higgsfield.ai/blog/best-ai-video-generation-apis",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-02T06:57:53.018Z"
+      },
+      {
+        "key": "e3413709f6d2eb23f0d7f715c70ae777fd580dd6",
+        "url": "https://higgsfield.ai/blog/ai-music-video-real-artist-2026",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-02T06:57:53.018Z"
+      },
+      {
+        "key": "9823635df54753139fde36ed27351167826e6421",
+        "url": "https://higgsfield.ai/blog/9-best-ai-video-generators-social-media",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-02T06:57:53.018Z"
+      },
+      {
+        "key": "d132ab261529dfeee4b30208c538cc7a31039ca8",
+        "url": "https://higgsfield.ai/blog/best-ai-creator-platforms-2026",
+        "date": "2026-10-01",
+        "reportedAt": "2026-10-02T06:57:53.018Z"
       }
     ]
   }
