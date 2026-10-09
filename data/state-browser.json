@@ -4,50 +4,20 @@
     "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
-    "WaveSpeed": [
-      {
-        "key": "1b805ccf2b1f9a56e182fbb006b0816570bfa749",
-        "url": "https://wavespeed.ai/blog/posts/introducing-wavespeed-ai-ultimate-video-upscaler-on-wavespeedai/",
-        "date": "2026-10-02",
-        "reportedAt": "2026-10-02T06:57:53.018Z"
-      }
-    ],
+    "WaveSpeed": [],
     "WeShop AI": [],
     "Atlas Cloud": [],
     "TopMediai": [],
     "JXP": [],
-    "Pollo AI": [],
+    "Pollo AI": [
+      {
+        "key": "5da856e5e3d53e7da2b9a0011828ba06ae238f6a",
+        "url": "https://pollo.ai/hub/how-to-recreate-the-clones-viral-video",
+        "date": "Oct 9, 2026",
+        "reportedAt": "2026-10-09T07:19:57.008Z"
+      }
+    ],
     "Higgsfield": [
-      {
-        "key": "fe98484538f3a906ec30d7aa99a0e1f6783d5e41",
-        "url": "https://higgsfield.ai/blog/higgsfield-ads-studio",
-        "date": "2026-10-01",
-        "reportedAt": "2026-10-02T06:57:53.018Z"
-      },
-      {
-        "key": "7a52ae2815f7b2e4f0a95f3f18f252670d1ae869",
-        "url": "https://higgsfield.ai/blog/best-ai-video-generation-apis",
-        "date": "2026-10-01",
-        "reportedAt": "2026-10-02T06:57:53.018Z"
-      },
-      {
-        "key": "e3413709f6d2eb23f0d7f715c70ae777fd580dd6",
-        "url": "https://higgsfield.ai/blog/ai-music-video-real-artist-2026",
-        "date": "2026-10-01",
-        "reportedAt": "2026-10-02T06:57:53.018Z"
-      },
-      {
-        "key": "9823635df54753139fde36ed27351167826e6421",
-        "url": "https://higgsfield.ai/blog/9-best-ai-video-generators-social-media",
-        "date": "2026-10-01",
-        "reportedAt": "2026-10-02T06:57:53.018Z"
-      },
-      {
-        "key": "d132ab261529dfeee4b30208c538cc7a31039ca8",
-        "url": "https://higgsfield.ai/blog/best-ai-creator-platforms-2026",
-        "date": "2026-10-01",
-        "reportedAt": "2026-10-02T06:57:53.018Z"
-      },
       {
         "key": "b752ba046938e971876b951019eecacea5509cb8",
         "url": "https://higgsfield.ai/blog/automate-ai-video-n8n-make",
@@ -113,6 +83,18 @@
         "url": "https://higgsfield.ai/blog/creatorstories",
         "date": "2026-10-05",
         "reportedAt": "2026-10-06T07:29:58.181Z"
+      },
+      {
+        "key": "971e2ec6d0c86cb13dc652be3499d94dc1e89690",
+        "url": "https://higgsfield.ai/blog/video-ads-small-business-ai",
+        "date": "2026-10-08",
+        "reportedAt": "2026-10-09T07:19:57.008Z"
+      },
+      {
+        "key": "0a0243e9c63a7302593caf82b4ba61fcc1cf02a6",
+        "url": "https://higgsfield.ai/blog/keep-ai-character-consistent",
+        "date": "2026-10-08",
+        "reportedAt": "2026-10-09T07:19:57.008Z"
       }
     ]
   }
