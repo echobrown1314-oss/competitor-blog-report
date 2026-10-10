@@ -1,12 +1,13 @@
 # 竞品博客监测日报
 
-生成时间：2026/10/09 15:19（上海）
+生成时间：2026/10/10 15:01（上海）
 
-新增文章总数：3
+新增文章总数：6
 
-## Pollo AI（1）
-- [Just a moment...](https://pollo.ai/hub/how-to-recreate-the-clones-viral-video) | Oct 9, 2026
-
-## Higgsfield（2）
-- [How to Make Video Ads for Your Small Business With AI](https://higgsfield.ai/blog/video-ads-small-business-ai) | 2026-10-08
-- [How to Keep Your AI Character Consistent Across Every Generation: Soul ID Explained](https://higgsfield.ai/blog/keep-ai-character-consistent) | 2026-10-08
+## Pollo AI（6）
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-the-blue-screen-glitch-viral-video) | Oct 10, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-the-sitting-on-earth-viral-video) | Oct 10, 2026
+- [Just a moment...](https://pollo.ai/hub/invideo-vs-capcut) | Oct 10, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-the-3d-character-modeling-viral-video) | Oct 9, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-the-blue-light-scan-viral-video) | Oct 9, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-clone-the-giant-alter-ego-viral-video) | Oct 9, 2026
