@@ -1,5 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/10/11 15:06（上海）
+生成时间：2026/10/12 15:17（上海）
 
-今日未发现新的细分竞品页面
+新增文章总数：1
+
+## Pollo AI（1）
+- [Just a moment...](https://pollo.ai/hub/how-to-recreate-the-tiny-knight-guardian-viral-video) | Oct 12, 2026
