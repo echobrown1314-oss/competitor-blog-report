@@ -180,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-10-10T10:26:00.901Z",
+        "lastmod": "2026-10-13T07:12:40.987Z",
         "publishedAt": "",
-        "updatedAt": "2026-10-10T10:26:00.901Z",
+        "updatedAt": "2026-10-13T07:12:40.987Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-10-10T10:26:00.901Z",
+        "lastmod": "2026-10-13T07:12:40.987Z",
         "publishedAt": "",
-        "updatedAt": "2026-10-10T10:26:00.901Z",
+        "updatedAt": "2026-10-13T07:12:40.987Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -1712,6 +1712,24 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "help.artlist.io/hc/en-us/sections/33334550497181-ai-models"
+      },
+      {
+        "id": "306a2ced6f04642c12e0190482fa561595ae21ce",
+        "title": "39837727918877 AL Studio",
+        "url": "https://help.artlist.io/hc/en-us/sections/39837727918877-AL-Studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/39837727918877-al-studio"
+      },
+      {
+        "id": "a1bc89f9a7528febe8a8b9f038980e35d490d111",
+        "title": "39837734453277 Image And Editor",
+        "url": "https://help.artlist.io/hc/en-us/sections/39837734453277-Image-and-Editor",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "help.artlist.io/hc/en-us/sections/39837734453277-image-and-editor"
       }
     ]
   }
