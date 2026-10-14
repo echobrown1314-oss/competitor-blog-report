@@ -180,100 +180,37 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-10-13T07:12:40.987Z",
+        "lastmod": "2026-10-13T13:13:15.948Z",
         "publishedAt": "",
-        "updatedAt": "2026-10-13T07:12:40.987Z",
+        "updatedAt": "2026-10-13T13:13:15.948Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-10-13T07:12:40.987Z",
+        "lastmod": "2026-10-13T13:13:15.948Z",
         "publishedAt": "",
-        "updatedAt": "2026-10-13T07:12:40.987Z",
+        "updatedAt": "2026-10-13T13:13:15.948Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
-        "id": "42da40e93f7485ad52c7ab83d7ed0aac50cd250d",
-        "title": "Agent",
-        "url": "https://www.flova.ai/en/docs/features/agent/",
+        "id": "4bef5b20984e743b765716b3d8011698b0e06d58",
+        "title": "Canvas",
+        "url": "https://www.flova.ai/en/docs/features/canvas/",
         "lastmod": "",
         "publishedAt": "",
         "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/agent"
+        "canonicalKey": "flova.ai/docs/features/canvas"
       },
       {
-        "id": "6b6c71ace7b64dd4bad90b1c9307158873289fea",
-        "title": "Skills",
-        "url": "https://www.flova.ai/en/docs/features/skills/",
+        "id": "95d53f996ee456d667ce098f2aa3bb391e69bbd5",
+        "title": "CLI",
+        "url": "https://www.flova.ai/en/docs/features/cli/",
         "lastmod": "",
         "publishedAt": "",
         "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/skills"
-      },
-      {
-        "id": "5936352576cad64c916d3cadb225420db2634e4f",
-        "title": "Project Content Editing",
-        "url": "https://www.flova.ai/en/docs/features/project-content-editing/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/project-content-editing"
-      },
-      {
-        "id": "182cf2ed3a81659eb7424e721bb3b2e075cef9d8",
-        "title": "Comment Generation",
-        "url": "https://www.flova.ai/en/docs/features/comment-generation/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/comment-generation"
-      },
-      {
-        "id": "6f026589b740381a39a7f58f576ac37dbf181bef",
-        "title": "Generation Tools",
-        "url": "https://www.flova.ai/en/docs/features/generation-tools/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/generation-tools"
-      },
-      {
-        "id": "72f958be287c7ce54c0301073a925a4d8390dcff",
-        "title": "Docs Panel",
-        "url": "https://www.flova.ai/en/docs/features/docs-panel/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/docs-panel"
-      },
-      {
-        "id": "4fdfe96d06af1316a4330a08c4e1d62619715d35",
-        "title": "Timeline Editing",
-        "url": "https://www.flova.ai/en/docs/features/timeline-editing/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/timeline-editing"
-      },
-      {
-        "id": "d89cd48f468a4c077624b5f54b21a565fbb2dd6f",
-        "title": "Flova CLI",
-        "url": "https://www.flova.ai/en/docs/features/flova-cli/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/flova-cli"
-      },
-      {
-        "id": "183c062ff18027b7a67b388c4000e795ef5ee0a3",
-        "title": "Download Export",
-        "url": "https://www.flova.ai/en/docs/features/download-export/",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "flova.ai/docs/features/download-export"
+        "canonicalKey": "flova.ai/docs/features/cli"
       }
     ],
     "Deevid AI": [
