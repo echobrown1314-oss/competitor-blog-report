@@ -99,6 +99,12 @@
         "url": "https://pollo.ai/hub/how-to-use-vidu-q4",
         "date": "Oct 12, 2026",
         "reportedAt": "2026-10-13T07:39:29.708Z"
+      },
+      {
+        "key": "4422deab2bb9024d1c6936c273fe2e5849c30542",
+        "url": "https://pollo.ai/hub/how-to-clone-the-street-drift-viral-video",
+        "date": "Oct 14, 2026",
+        "reportedAt": "2026-10-14T06:04:51.822Z"
       }
     ],
     "Higgsfield": [
@@ -131,6 +137,18 @@
         "url": "https://higgsfield.ai/blog/higgsfield-katana",
         "date": "2026-10-12",
         "reportedAt": "2026-10-13T07:39:29.708Z"
+      },
+      {
+        "key": "6c8aa96ac173ce4a8040c0850944214470771482",
+        "url": "https://higgsfield.ai/blog/create-ai-videos-hermes-agent-higgsfield",
+        "date": "2026-10-13",
+        "reportedAt": "2026-10-14T06:04:51.822Z"
+      },
+      {
+        "key": "5e6cc5c2e08a3930a041dd7e1223d19362f4f90e",
+        "url": "https://higgsfield.ai/blog/ai-video-api-pricing-vs-subscriptions",
+        "date": "2026-10-13",
+        "reportedAt": "2026-10-14T06:04:51.822Z"
       }
     ]
   }
