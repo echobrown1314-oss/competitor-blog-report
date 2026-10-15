@@ -47,6 +47,15 @@
         "canonicalKey": "higgsfield.ai/mcp"
       },
       {
+        "id": "88f61bad28a81bfe6c9c5ee625c7475505426a71",
+        "title": "Marketing Studio",
+        "url": "https://higgsfield.ai/marketing-studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/marketing-studio"
+      },
+      {
         "id": "9dc11f3d263435cf925b9e2ae5f6c68d55ab6fdb",
         "title": "Generate",
         "url": "https://higgsfield.ai/generate",
@@ -180,18 +189,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-10-13T13:13:15.948Z",
+        "lastmod": "2026-10-15T03:15:34.196Z",
         "publishedAt": "",
-        "updatedAt": "2026-10-13T13:13:15.948Z",
+        "updatedAt": "2026-10-15T03:15:34.196Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-10-13T13:13:15.948Z",
+        "lastmod": "2026-10-15T03:15:34.196Z",
         "publishedAt": "",
-        "updatedAt": "2026-10-13T13:13:15.948Z",
+        "updatedAt": "2026-10-15T03:15:34.196Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
