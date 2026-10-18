@@ -1,9 +1,8 @@
 # 竞品博客监测日报
 
-生成时间：2026/10/17 13:32（上海）
+生成时间：2026/10/18 13:48（上海）
 
-新增文章总数：2
+新增文章总数：1
 
-## Pollo AI（2）
-- [Just a moment...](https://pollo.ai/hub/can-chatgpt-make-videos) | Oct 16, 2026
-- [Just a moment...](https://pollo.ai/hub/what-is-pollo-recast) | Oct 16, 2026
+## Higgsfield（1）
+- [Higgsfield Community: Where Your AI Work Goes After You Generate It](https://higgsfield.ai/blog/higgsfield-community) | 2026-10-17T15:28:00.000Z
