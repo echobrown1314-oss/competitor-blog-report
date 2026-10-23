@@ -11,24 +11,6 @@
     "JXP": [],
     "Pollo AI": [
       {
-        "key": "15d4afc1ac0ded107ab65233c11f0299f054b4be",
-        "url": "https://pollo.ai/hub/how-to-use-pollo-recast",
-        "date": "Oct 15, 2026",
-        "reportedAt": "2026-10-16T05:47:21.553Z"
-      },
-      {
-        "key": "af74069bcdc55b7ea221abe79da2be8b16e21539",
-        "url": "https://pollo.ai/hub/what-is-pollo-recast",
-        "date": "Oct 15, 2026",
-        "reportedAt": "2026-10-16T05:47:21.553Z"
-      },
-      {
-        "key": "9c254f5214535f32242d8ad8fc2a05257060decf",
-        "url": "https://pollo.ai/hub/higgsfield-genjutsu-tutorial",
-        "date": "Oct 15, 2026",
-        "reportedAt": "2026-10-16T05:47:21.553Z"
-      },
-      {
         "key": "55ad43138f80cf503b2782b57c90b2b50f81c492",
         "url": "https://pollo.ai/hub/can-chatgpt-make-videos",
         "date": "Oct 16, 2026",
@@ -99,6 +81,48 @@
         "url": "https://pollo.ai/hub/what-is-pollo-cinema",
         "date": "Oct 21, 2026",
         "reportedAt": "2026-10-22T06:03:49.780Z"
+      },
+      {
+        "key": "125b102b13a3863101fe43595b105c81683814f9",
+        "url": "https://pollo.ai/hub/kling-4-0-vs-seedance-2-5-vs-minimax-h3",
+        "date": "Oct 23, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
+      },
+      {
+        "key": "4ab0a5e2429c14297b6dd73038569649860798b8",
+        "url": "https://pollo.ai/hub/what-is-kling-4-0",
+        "date": "Oct 23, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
+      },
+      {
+        "key": "0ed7ff603efbf39c4af2ddd0bcab8293ce45e57c",
+        "url": "https://pollo.ai/hub/can-chatgpt-make-videos",
+        "date": "Oct 23, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
+      },
+      {
+        "key": "dbb41aa3e6447c8482f732e9a89b9aefa3f970ec",
+        "url": "https://pollo.ai/hub/how-to-turn-a-photo-into-a-sketch",
+        "date": "Oct 22, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
+      },
+      {
+        "key": "56d09c6bdb2c7d8793c01a11d54866b88f788134",
+        "url": "https://pollo.ai/hub/how-to-use-pollo-cinema",
+        "date": "Oct 22, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
+      },
+      {
+        "key": "3d53279ba76445e536a0a70434d93172bae44db2",
+        "url": "https://pollo.ai/hub/what-is-pollo-cinema",
+        "date": "Oct 22, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
+      },
+      {
+        "key": "c19a72eafce77d5ff6ad5bc2eee59196f2ae005d",
+        "url": "https://pollo.ai/hub/what-is-pollo-recast",
+        "date": "Oct 22, 2026",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
       }
     ],
     "Higgsfield": [
@@ -161,6 +185,12 @@
         "url": "https://higgsfield.ai/blog/creatorstories",
         "date": "2026-10-20",
         "reportedAt": "2026-10-21T05:58:21.837Z"
+      },
+      {
+        "key": "dc964906e854e469790bb84e33e3de5746d8af47",
+        "url": "https://higgsfield.ai/blog/creatorstories",
+        "date": "2026-10-22",
+        "reportedAt": "2026-10-23T05:59:22.483Z"
       }
     ]
   }
