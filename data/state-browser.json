@@ -151,12 +151,6 @@
     ],
     "Higgsfield": [
       {
-        "key": "7166624f95009a4c6073aa25bae1f725962b77f6",
-        "url": "https://higgsfield.ai/blog/higgsfield-community",
-        "date": "2026-10-17T15:28:00.000Z",
-        "reportedAt": "2026-10-18T05:48:35.368Z"
-      },
-      {
         "key": "7ea0d15b004e07e718c28c2099987ac64aae6ed8",
         "url": "https://higgsfield.ai/blog/higgsfield-vs-kling-2026",
         "date": "2026-10-19T20:19:00.000Z",
@@ -227,6 +221,24 @@
         "url": "https://higgsfield.ai/blog/news",
         "date": "2026-10-23",
         "reportedAt": "2026-10-24T05:44:15.423Z"
+      },
+      {
+        "key": "68f190bade49b1e4f44e4f1e3fcd9fc0c651fdd4",
+        "url": "https://higgsfield.ai/blog/higgsfield-pricing-explained",
+        "date": "2026-10-24T17:09:00.000Z",
+        "reportedAt": "2026-10-25T06:00:28.229Z"
+      },
+      {
+        "key": "3ae4c6be20d35091d46ace8dccffd6e00e39ea9c",
+        "url": "https://higgsfield.ai/blog/how-to-edit-videos-with-ai",
+        "date": "2026-10-24T14:05:00.000Z",
+        "reportedAt": "2026-10-25T06:00:28.229Z"
+      },
+      {
+        "key": "9cb6a2e4cb616bc68975b5c171e5d4f3e89f1c7f",
+        "url": "https://higgsfield.ai/blog/how-to-make-ai-video-look-filmed",
+        "date": "2026-10-24T12:48:00.000Z",
+        "reportedAt": "2026-10-25T06:00:28.229Z"
       }
     ]
   }
