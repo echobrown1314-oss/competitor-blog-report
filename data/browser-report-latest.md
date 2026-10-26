@@ -1,10 +1,12 @@
 # 竞品博客监测日报
 
-生成时间：2026/10/25 14:00（上海）
+生成时间：2026/10/26 14:04（上海）
 
-新增文章总数：3
+新增文章总数：5
 
-## Higgsfield（3）
-- [Higgsfield Pricing Explained: Plans, Credits, and What’s Included](https://higgsfield.ai/blog/higgsfield-pricing-explained) | 2026-10-24T17:09:00.000Z
-- [How to Edit Videos with AI (Full Guide)](https://higgsfield.ai/blog/how-to-edit-videos-with-ai) | 2026-10-24T14:05:00.000Z
-- [How to Make AI Video Look Like It Was Actually Filmed](https://higgsfield.ai/blog/how-to-make-ai-video-look-filmed) | 2026-10-24T12:48:00.000Z
+## Pollo AI（5）
+- [Just a moment...](https://pollo.ai/hub/how-to-use-pollo-ai-influencer) | Oct 26, 2026
+- [Just a moment...](https://pollo.ai/hub/what-is-pollo-ai-influencer) | Oct 26, 2026
+- [Just a moment...](https://pollo.ai/hub/best-uncensored-ai-image-generators) | Oct 26, 2026
+- [Just a moment...](https://pollo.ai/hub/what-is-higgsfield-clone) | Oct 26, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-use-higgsfield-clone-features) | Oct 26, 2026
