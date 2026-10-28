@@ -7,15 +7,16 @@
     "WaveSpeed": [],
     "WeShop AI": [],
     "Atlas Cloud": [],
-    "TopMediai": [],
+    "TopMediai": [
+      {
+        "key": "2cf5e04dd4a9904b2f01876704ea43711af04bca",
+        "url": "https://www.topmediai.com/video-tips/ai-santa-video/",
+        "date": "2026-10-28T14:31:02+08:00",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
+      }
+    ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "d19920126087c23fcccbfe4dc62679add1854fc6",
-        "url": "https://pollo.ai/hub/how-to-use-pollo-recast",
-        "date": "Oct 21, 2026",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
       {
         "key": "80991bbffab473eb0c887bab67ac7ee2565da70b",
         "url": "https://pollo.ai/hub/higgsfield-genjutsu-tutorial",
@@ -147,45 +148,33 @@
         "url": "https://pollo.ai/hub/best-image-to-video-ai-free-unlimited",
         "date": "Oct 26, 2026",
         "reportedAt": "2026-10-27T06:12:29.375Z"
+      },
+      {
+        "key": "a33ab8fc24255d3e372c619e59c9ffc13ad192d8",
+        "url": "https://pollo.ai/hub/5-best-free-and-unlimited-ai-image-generator",
+        "date": "Oct 27, 2026",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "fcc2263c242973d8741c9eb27f10096574529126",
+        "url": "https://pollo.ai/hub/best-realistic-ai-image-generators",
+        "date": "Oct 27, 2026",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "de18b547a43d6a910f4eb3d2ce891b2773efca21",
+        "url": "https://pollo.ai/hub/how-to-create-realistic-ai-images",
+        "date": "Oct 27, 2026",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "20886fffb379c0c470e1290cc8cbadd0d76cb33d",
+        "url": "https://pollo.ai/hub/best-free-ai-image-generators-for-realistic-photos",
+        "date": "Oct 27, 2026",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "53302e5f6f9c2c64c5d8049d86812817b71b2d77",
-        "url": "https://higgsfield.ai/blog/seedance-2-5-pricing-2026",
-        "date": "2026-10-20T22:03:00.000Z",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
-      {
-        "key": "edd50ca2b8ffe6a547f3632ba41c8ab10c4332f5",
-        "url": "https://higgsfield.ai/blog/best-ai-video-generators-2026",
-        "date": "2026-10-20T16:40:00.000Z",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
-      {
-        "key": "6f119476a973bf369245ca600b583409fc182479",
-        "url": "https://higgsfield.ai/blog/best-ai-video-generators-long-videos",
-        "date": "2026-10-20T16:23:00.000Z",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
-      {
-        "key": "5ed5cce6c29e98af098761820495e6081db17d6a",
-        "url": "https://higgsfield.ai/blog/best-ai-video-mcp-servers",
-        "date": "2026-10-20T14:44:00.000Z",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
-      {
-        "key": "c1ac4b207b9263d92c0bc1e5ee77eb5c95c6266e",
-        "url": "https://higgsfield.ai/blog/ai-real-estate-videos-from-photos",
-        "date": "2026-10-20T11:41:00.000Z",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
-      {
-        "key": "b153f654a82d16513fde43419a7002fc877821a4",
-        "url": "https://higgsfield.ai/blog/creatorstories",
-        "date": "2026-10-20",
-        "reportedAt": "2026-10-21T05:58:21.837Z"
-      },
       {
         "key": "dc964906e854e469790bb84e33e3de5746d8af47",
         "url": "https://higgsfield.ai/blog/creatorstories",
@@ -221,6 +210,24 @@
         "url": "https://higgsfield.ai/blog/how-to-make-ai-video-look-filmed",
         "date": "2026-10-24T12:48:00.000Z",
         "reportedAt": "2026-10-25T06:00:28.229Z"
+      },
+      {
+        "key": "e0d3eb705a0c7565b521675eb9133d29bc0ddd6e",
+        "url": "https://higgsfield.ai/blog/best-platforms-kling-4-0-2026",
+        "date": "2026-10-27T17:30:00.000Z",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "528c272cdd468b36588073248634d5cf680247a8",
+        "url": "https://higgsfield.ai/blog/cinema-studio-4-0-complete-guide",
+        "date": "2026-10-27T12:04:00.000Z",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "004382e375b1941dbb1f78cf1085968a7289da2f",
+        "url": "https://higgsfield.ai/blog/creatorstories",
+        "date": "2026-10-27",
+        "reportedAt": "2026-10-28T06:48:41.627Z"
       }
     ]
   }
