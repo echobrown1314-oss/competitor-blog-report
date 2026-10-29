@@ -18,24 +18,6 @@
     "JXP": [],
     "Pollo AI": [
       {
-        "key": "80991bbffab473eb0c887bab67ac7ee2565da70b",
-        "url": "https://pollo.ai/hub/higgsfield-genjutsu-tutorial",
-        "date": "Oct 22, 2026",
-        "reportedAt": "2026-10-22T06:03:49.780Z"
-      },
-      {
-        "key": "e6f3e96d01201c3f136272e1101b7eb4d3cd7215",
-        "url": "https://pollo.ai/hub/how-to-use-pollo-cinema",
-        "date": "Oct 21, 2026",
-        "reportedAt": "2026-10-22T06:03:49.780Z"
-      },
-      {
-        "key": "52543188d6afd31bfda4c096da5685196a3ed8f9",
-        "url": "https://pollo.ai/hub/what-is-pollo-cinema",
-        "date": "Oct 21, 2026",
-        "reportedAt": "2026-10-22T06:03:49.780Z"
-      },
-      {
         "key": "125b102b13a3863101fe43595b105c81683814f9",
         "url": "https://pollo.ai/hub/kling-4-0-vs-seedance-2-5-vs-minimax-h3",
         "date": "Oct 23, 2026",
@@ -172,6 +154,42 @@
         "url": "https://pollo.ai/hub/best-free-ai-image-generators-for-realistic-photos",
         "date": "Oct 27, 2026",
         "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "7ea2e2a1e1e285e6fa3565427ce805378eeb3a46",
+        "url": "https://pollo.ai/hub/ai-fashion-photography-prompts-clothing-brands",
+        "date": "Oct 29, 2026",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
+      },
+      {
+        "key": "3a27c153d79be3b7e87ed453207dbd30049f40ea",
+        "url": "https://pollo.ai/hub/ai-beauty-product-prompts",
+        "date": "Oct 29, 2026",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
+      },
+      {
+        "key": "e4b2709a84a83b7eacf03570ec80b205c23b2932",
+        "url": "https://pollo.ai/hub/how-to-use-pollo-motion",
+        "date": "Oct 29, 2026",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
+      },
+      {
+        "key": "ac22a929226bcef57bfc32cf28c53a93948ce960",
+        "url": "https://pollo.ai/hub/what-is-pollo-motion",
+        "date": "Oct 29, 2026",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
+      },
+      {
+        "key": "bb968de8cf15768095f34ba35daa1178502d9348",
+        "url": "https://pollo.ai/hub/ai-app-promo-video-prompts-product-launches",
+        "date": "Oct 29, 2026",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
+      },
+      {
+        "key": "cfa6ed9881d83a3de8a2c31345e1138caf4c5d47",
+        "url": "https://pollo.ai/hub/ecommerce-product-photography-prompts",
+        "date": "Oct 29, 2026",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
       }
     ],
     "Higgsfield": [
@@ -228,6 +246,12 @@
         "url": "https://higgsfield.ai/blog/creatorstories",
         "date": "2026-10-27",
         "reportedAt": "2026-10-28T06:48:41.627Z"
+      },
+      {
+        "key": "3ebb0055147a2f63f9655b9ee04daac831ebdb1d",
+        "url": "https://higgsfield.ai/blog/higgsfield-vs-openart-2026",
+        "date": "2026-10-28T16:14:00.000Z",
+        "reportedAt": "2026-10-29T06:59:14.384Z"
       }
     ]
   }
