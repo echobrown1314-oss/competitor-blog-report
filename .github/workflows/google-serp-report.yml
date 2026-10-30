@@ -1,0 +1,98 @@
+name: Google SERP Top 10
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 09:17 Asia/Shanghai; GitHub may start scheduled jobs later when busy.
+    - cron: "17 1 * * *"
+  push:
+    branches: [main]
+    paths:
+      - monitor-serp.mjs
+      - serp-config.json
+      - test/serp.test.mjs
+      - .github/workflows/google-serp-report.yml
+  pull_request:
+    paths:
+      - monitor-serp.mjs
+      - serp-config.json
+      - test/serp.test.mjs
+      - .github/workflows/google-serp-report.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: google-serp-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Test ranking comparison and failure handling
+        run: node --test test/serp.test.mjs
+
+  report:
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Collect and compare Google organic results
+        id: collect
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: node monitor-serp.mjs
+
+      - name: Publish run summary
+        if: always()
+        run: |
+          serp_day=$(TZ=Asia/Shanghai date +%F)
+          serp_report="data/serp/reports/$serp_day.md"
+          if [ -f "$serp_report" ]; then
+            cat "$serp_report" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "SERP report was not generated. Check the failed step; missing data is not a ranking change." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload snapshots and reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: google-serp-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/serp/
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Save history even when some queries failed
+        if: always()
+        run: |
+          if [ ! -d data/serp ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/serp
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update Google SERP snapshots and report"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 3
+          done
+          echo "Could not save SERP history; download the run artifact before retrying."
+          exit 1
