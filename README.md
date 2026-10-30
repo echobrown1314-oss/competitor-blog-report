@@ -1,5 +1,7 @@
 # 竞品博客监测
 
+新增：[Google SERP 前十每日监测](SERP_SETUP.md)。美国英语、桌面端和移动端，监控三个 AI 关键词；日报含排名、URL、标题及每日变化。
+
 这是一个基于 GitHub Actions + Playwright 的竞品博客日报项目。
 
 目标是每天自动检查指定竞品站点过去 24 小时内发布或更新的文章，并把结果发送到钉钉群。
@@ -124,3 +126,4 @@ DRY_RUN_DINGTALK=1
 
 - `Imagine.art`
 - `InVideo`
+
