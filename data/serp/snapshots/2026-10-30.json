@@ -1,0 +1,127 @@
+{
+  "schema": 1,
+  "date": "2026-10-30",
+  "queries": {
+    "e5a707ee7d47d1d72c63d2479795b84f41b16fa117b3281f657261665539d19b": {
+      "id": "e5a707ee7d47d1d72c63d2479795b84f41b16fa117b3281f657261665539d19b",
+      "keyword": "ai video generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-10-30T07:59:46.011Z",
+      "status": "error",
+      "requests": 0,
+      "results": [],
+      "pages": [],
+      "error": "未配置 GitHub Actions Secret：SERPAPI_API_KEY"
+    },
+    "2499f19979fc81636c7644beb8d86d4174d026cadb8352d37b445bba5894d347": {
+      "id": "2499f19979fc81636c7644beb8d86d4174d026cadb8352d37b445bba5894d347",
+      "keyword": "ai video generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-10-30T07:59:46.012Z",
+      "status": "error",
+      "requests": 0,
+      "results": [],
+      "pages": [],
+      "error": "未配置 GitHub Actions Secret：SERPAPI_API_KEY"
+    },
+    "ebaf3b387f622d0076b8bc1eb9d8463fdea54057b6c65cd82a854cfdc42df930": {
+      "id": "ebaf3b387f622d0076b8bc1eb9d8463fdea54057b6c65cd82a854cfdc42df930",
+      "keyword": "ai image generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-10-30T07:59:46.013Z",
+      "status": "error",
+      "requests": 0,
+      "results": [],
+      "pages": [],
+      "error": "未配置 GitHub Actions Secret：SERPAPI_API_KEY"
+    },
+    "3746857fe2ec351b105da4706a9fe154aa3ca153729c5d6b5a185369b5b83a70": {
+      "id": "3746857fe2ec351b105da4706a9fe154aa3ca153729c5d6b5a185369b5b83a70",
+      "keyword": "ai image generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-10-30T07:59:46.014Z",
+      "status": "error",
+      "requests": 0,
+      "results": [],
+      "pages": [],
+      "error": "未配置 GitHub Actions Secret：SERPAPI_API_KEY"
+    },
+    "41966e53e4aef0780a6e772484af54157395835b68409c39a0d95fd2b8735989": {
+      "id": "41966e53e4aef0780a6e772484af54157395835b68409c39a0d95fd2b8735989",
+      "keyword": "image to video ai",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-10-30T07:59:46.015Z",
+      "status": "error",
+      "requests": 0,
+      "results": [],
+      "pages": [],
+      "error": "未配置 GitHub Actions Secret：SERPAPI_API_KEY"
+    },
+    "79478ec5f32ad61c4c91c420e74625231c9c28c15e86927c3d89fc2c5d8fbc11": {
+      "id": "79478ec5f32ad61c4c91c420e74625231c9c28c15e86927c3d89fc2c5d8fbc11",
+      "keyword": "image to video ai",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-10-30T07:59:46.016Z",
+      "status": "error",
+      "requests": 0,
+      "results": [],
+      "pages": [],
+      "error": "未配置 GitHub Actions Secret：SERPAPI_API_KEY"
+    }
+  },
+  "updated_at": "2026-10-30T07:59:46.017Z"
+}
