@@ -10,6 +10,9 @@
     "run": "node monitor.mjs",
     "run:cloud": "node monitor-browser.mjs",
     "run:showcase": "node monitor-showcase-browser.mjs",
-    "run:feature": "node monitor-feature-browser.mjs"
+    "run:feature": "node monitor-feature-browser.mjs",
+    "run:serp": "node monitor-serp.mjs",
+    "test:serp": "node --test test/serp.test.mjs"
   }
 }
+
