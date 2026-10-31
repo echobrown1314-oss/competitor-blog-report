@@ -1,19 +1,17 @@
 # 竞品博客监测日报
 
-生成时间：2026/10/30 15:01（上海）
+生成时间：2026/10/31 14:56（上海）
 
 新增文章总数：8
 
-## TopMediai（1）
-- [Roblox AI Video Generator Comparison: 5 Tools](https://www.topmediai.com/video-tips/roblox-ai-video-generator/) | 2026-10-29T17:37:36+08:00
-
 ## Pollo AI（6）
-- [Just a moment...](https://pollo.ai/hub/best-ai-influencer-generators) | Oct 30, 2026
-- [Just a moment...](https://pollo.ai/hub/how-to-enhance-sora-ai-video-quality-for-free) | Oct 30, 2026
-- [Just a moment...](https://pollo.ai/hub/how-to-make-a-video-with-photos-on-iphone) | Oct 30, 2026
-- [Just a moment...](https://pollo.ai/hub/how-to-make-an-animated-legal-video) | Oct 30, 2026
-- [Just a moment...](https://pollo.ai/hub/best-ai-image-generator-for-iphone) | Oct 29, 2026
-- [Just a moment...](https://pollo.ai/hub/best-image-to-image-ai-free-unlimited) | Oct 29, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-make-a-boomerang-video-on-snapchat) | Oct 30, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-make-a-boomerang-video-with-ai) | Oct 30, 2026
+- [Just a moment...](https://pollo.ai/hub/how-to-make-a-boomerang-video-on-instagram) | Oct 30, 2026
+- [Just a moment...](https://pollo.ai/hub/best-free-ai-video-generator-unlimited) | Oct 30, 2026
+- [Just a moment...](https://pollo.ai/hub/best-free-unlimited-video-face-swap) | Oct 30, 2026
+- [Just a moment...](https://pollo.ai/hub/best-free-unlimited-ai-video-generators-with-no-watermarks) | Oct 30, 2026
 
-## Higgsfield（1）
-- [7 Best AI Video Tools for Beginners in 2026](https://higgsfield.ai/blog/best-ai-video-tools-for-beginners-2026) | 2026-10-29T12:04:00.000Z
+## Higgsfield（2）
+- [Higgsfield’s New 7-Day Unlimited Bonus: Models, Plans, and Limits](https://higgsfield.ai/blog/higgsfield-7-day-unlimited-bonus) | 2026-10-30T18:04:00.000Z
+- [9 Best AI Filmmaking Tools for Short Films in 2026](https://higgsfield.ai/blog/best-ai-filmmaking-tools-short-films-2026) | 2026-10-30T12:52:00.000Z
