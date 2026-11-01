@@ -38,6 +38,15 @@
         "canonicalKey": "higgsfield.ai/ai-influencer-studio"
       },
       {
+        "id": "8080934ce3cd77dfb6d7045a3725fa76cb1ed319",
+        "title": "Lipsync Studio",
+        "url": "https://higgsfield.ai/lipsync-studio",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/lipsync-studio"
+      },
+      {
         "id": "de7f5d8f934a9e42c1dd3dd8c40791a7498dc987",
         "title": "MCP",
         "url": "https://higgsfield.ai/mcp",
@@ -45,24 +54,6 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "higgsfield.ai/mcp"
-      },
-      {
-        "id": "88f61bad28a81bfe6c9c5ee625c7475505426a71",
-        "title": "Marketing Studio",
-        "url": "https://higgsfield.ai/marketing-studio",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/marketing-studio"
-      },
-      {
-        "id": "9dc11f3d263435cf925b9e2ae5f6c68d55ab6fdb",
-        "title": "Generate",
-        "url": "https://higgsfield.ai/generate",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/generate"
       },
       {
         "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
@@ -99,15 +90,6 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "higgsfield.ai/upscale"
-      },
-      {
-        "id": "8080934ce3cd77dfb6d7045a3725fa76cb1ed319",
-        "title": "Lipsync Studio",
-        "url": "https://higgsfield.ai/lipsync-studio",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/lipsync-studio"
       },
       {
         "id": "389b2d96e84a48ab59006d635c2cd2d9f2889eb8",
