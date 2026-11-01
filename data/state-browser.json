@@ -194,24 +194,6 @@
     ],
     "Higgsfield": [
       {
-        "key": "68f190bade49b1e4f44e4f1e3fcd9fc0c651fdd4",
-        "url": "https://higgsfield.ai/blog/higgsfield-pricing-explained",
-        "date": "2026-10-24T17:09:00.000Z",
-        "reportedAt": "2026-10-25T06:00:28.229Z"
-      },
-      {
-        "key": "3ae4c6be20d35091d46ace8dccffd6e00e39ea9c",
-        "url": "https://higgsfield.ai/blog/how-to-edit-videos-with-ai",
-        "date": "2026-10-24T14:05:00.000Z",
-        "reportedAt": "2026-10-25T06:00:28.229Z"
-      },
-      {
-        "key": "9cb6a2e4cb616bc68975b5c171e5d4f3e89f1c7f",
-        "url": "https://higgsfield.ai/blog/how-to-make-ai-video-look-filmed",
-        "date": "2026-10-24T12:48:00.000Z",
-        "reportedAt": "2026-10-25T06:00:28.229Z"
-      },
-      {
         "key": "e0d3eb705a0c7565b521675eb9133d29bc0ddd6e",
         "url": "https://higgsfield.ai/blog/best-platforms-kling-4-0-2026",
         "date": "2026-10-27T17:30:00.000Z",
@@ -252,6 +234,18 @@
         "url": "https://higgsfield.ai/blog/best-ai-filmmaking-tools-short-films-2026",
         "date": "2026-10-30T12:52:00.000Z",
         "reportedAt": "2026-10-31T06:56:05.801Z"
+      },
+      {
+        "key": "27372a2f9614a243c37fcaf71741cb6a85459040",
+        "url": "https://higgsfield.ai/blog/best-ai-image-upscalers-2026",
+        "date": "2026-10-31T13:57:00.000Z",
+        "reportedAt": "2026-11-01T07:27:00.687Z"
+      },
+      {
+        "key": "0f8fae449786e41f9b30a03a956a0c6a0603df76",
+        "url": "https://higgsfield.ai/blog/how-to-make-anime-series-with-ai",
+        "date": "2026-10-31T13:03:00.000Z",
+        "reportedAt": "2026-11-01T07:27:00.687Z"
       }
     ]
   }
