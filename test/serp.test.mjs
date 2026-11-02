@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, rm, writeFile, mkdir } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { dateInZone, previousDay, normalizeUrl, queryId, collectQuery, compareQuery,
+import { dateInZone, previousDay, normalizeUrl, resultDestination, queryId, collectQuery, compareQuery,
   buildReports, csvCell, runMonitor } from '../monitor-serp.mjs';
 
 const base = JSON.parse(await readFile(new URL('../serp-config.json', import.meta.url), 'utf8'));
@@ -45,6 +45,67 @@ test('URL normalization removes tracking while preserving page identity', () => 
   assert.notEqual(normalizeUrl('https://example.com/a?v=1'), normalizeUrl('https://example.com/a?v=2'));
   assert.throws(() => normalizeUrl('javascript:alert(1)'));
   assert.throws(() => normalizeUrl('https://user:password@example.com'));
+});
+
+test('destination validation rejects encrypted Google redirects and unwraps explicit URLs only', () => {
+  for (const url of ['https://www.google.com/goto?url=encrypted', '/goto?url=encrypted',
+    'https://google.com/url?q=encrypted', 'https://google.com/sorry/index', 'https://google.com/search?q=test']) {
+    assert.equal(resultDestination(url), null);
+  }
+  assert.equal(resultDestination('https://google.com/url?q=https%3A%2F%2Fexample.com%2Fp%3Futm_source%3Dg'), 'https://example.com/p');
+  assert.equal(resultDestination('https://workspace.google.com/products/vids/'), 'https://workspace.google.com/products/vids/');
+  assert.equal(resultDestination('https://notgoogle.com/goto?url=abc'), 'https://notgoogle.com/goto?url=abc');
+  assert.throws(() => resultDestination('not a URL'));
+  assert.throws(() => resultDestination('javascript:alert(1)'));
+});
+
+test('unresolved organic URLs block a valid baseline and preserve partial observations without false rankings', async () => {
+  const organic = items();
+  organic[3].link = '/goto?url=opaque-token';
+  organic[3].displayed_link = 'https://example.com › incomplete › breadcrumb';
+  const current = await collected(organic, { serpapi_pagination: { next: 'https://serpapi.com/search?start=10' } });
+  assert.equal(current.status, 'incomplete');
+  assert.equal(current.error_code, 'unresolved_google_redirect');
+  assert.equal(current.requests, 1);
+  assert.equal(current.results.length, 0);
+  assert.equal(current.observations.length, 10);
+  assert.equal(current.observations[3].url, null);
+  assert.equal(current.observations[3].domain, null);
+  assert.equal(current.observations[4].source_position, 5);
+  assert.ok(!JSON.stringify(current).includes('opaque-token'));
+  assert.equal(compareQuery(current, await collected()).comparable, false);
+  const config = { ...base, keywords: [keyword], devices: ['desktop'] };
+  const snapshot = { date: '2026-10-30', updated_at: fixedNow().toISOString(), queries: { [current.id]: current } };
+  const report = buildReports(config, snapshot, null);
+  assert.match(report.markdown, /数据源链接异常/);
+  assert.match(report.markdown, /未解析/);
+  assert.ok(!report.markdown.includes('未进入前十'));
+  assert.ok(!report.csv.includes('opaque-token'));
+});
+
+test('direct-link validation uses a new comparison profile', async () => {
+  assert.equal((await collected()).profile.ranking, 'organic-url-sequence-v2-direct-links');
+});
+
+test('mobile results without next link use bounded manual pagination', async () => {
+  const offsets = [];
+  const current = await collectQuery(base, keyword, 'mobile', { apiKey, now: fixedNow,
+    fetchImpl: async url => {
+      offsets.push(url.searchParams.get('start'));
+      return response(url, offsets.length === 1 ? items(8) : items(5, 9));
+    } });
+  assert.equal(current.status, 'ok');
+  assert.deepEqual(offsets, ['0', '10']);
+  assert.equal(current.pages[0].pagination_source, 'manual_start');
+  assert.equal(current.results[9].url, 'https://site10.example/page');
+});
+
+test('mismatched pagination metadata is rejected rather than accepted as page two', async () => {
+  const current = await collectQuery(base, keyword, 'mobile', { apiKey, now: fixedNow,
+    fetchImpl: async url => response(url, items(8), { search_parameters: { q: keyword, start: 0 } }) });
+  assert.equal(current.status, 'error');
+  assert.equal(current.requests, 2);
+  assert.match(current.error, /分页起点/);
 });
 
 test('requests fix country, language and device without using obsolete num parameter', async () => {
