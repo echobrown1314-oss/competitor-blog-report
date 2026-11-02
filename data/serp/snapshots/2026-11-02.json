@@ -1,0 +1,638 @@
+{
+  "schema": 1,
+  "date": "2026-11-02",
+  "queries": {
+    "e5a707ee7d47d1d72c63d2479795b84f41b16fa117b3281f657261665539d19b": {
+      "id": "e5a707ee7d47d1d72c63d2479795b84f41b16fa117b3281f657261665539d19b",
+      "keyword": "ai video generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-11-02T02:05:13.194Z",
+      "status": "ok",
+      "requests": 2,
+      "results": [
+        {
+          "rank": 1,
+          "title": "AI Video Generator: Text to Video AI Tool",
+          "url": "https://www.canva.com/features/ai-video-generator/",
+          "domain": "canva.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "AI Video Generator - Sora, Kling, Veo, Seedance & More",
+          "url": "https://higgsfield.ai/ai-video",
+          "domain": "higgsfield.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "Free AI Video Generator",
+          "url": "https://invideo.io/make/ai-video-generator/",
+          "domain": "invideo.io",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "AI Video Generator",
+          "url": "https://www.google.com/goto?url=CAESaAHrOzAVbjIkzeE2xqEwxUxHRPyIGGaGjA70lxAND0UiOwwWAAav4K6miNQ7nXCOY1RHOk0xzG4wMO6Ug70TAsOCjGpVFxKCgnO2OhNcqEm0NOsz0ZtHCkvOt6czxFl4xzsO_QEQmek3",
+          "domain": "google.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
+          "url": "https://www.google.com/goto?url=CAESggEB6zswFQ7RTCLHSDgn9BeGwsQKdilMcKiwwt3q45yjse9-qbjMFPhZIzImeWB_2oasXNNIhuw4-tWrzyMe3KwNfnnh7atQYeOaFtf1My4Jgh0-IlA_G1ktTfCvpM9DgMwgnpG5brJa1jdsJqeinktfQhjB6WUlZT8SdfkiFMC-RIqb",
+          "domain": "google.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "AI Video Generator: Create Videos with Kling, Seedance ...",
+          "url": "https://www.google.com/goto?url=CAESYQHrOzAVMaXPzwoLhml10G7xT07DLlPQXea_9mwqHSipgbQcDFPp_eSIvoF5jsZLmgZC9Ct8W0koiGX7UxuwZ6Y3C9HV002boOgrDGZXmNBIXN0_5OcCXQXmGB-TJh0yGns",
+          "domain": "google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "AI Video Generator - Create Videos from Text with 85 AI ...",
+          "url": "https://www.google.com/goto?url=CAESYgHrOzAViCjtygUCMhV3rBAOOJh7H31ZaKBvBv3XucABXQ3kHO1MFAhzWVuqAb9xLZr3QbdvJZXmp9c8imbywJ29CgmQMudtYZscUxMUUkE7hbX1ykKrb1DhcdTun1J3yNsy",
+          "domain": "google.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "Free AI Video Generator: Create Amazing Videos with AI",
+          "url": "https://www.google.com/goto?url=CAESTQHrOzAVrrsjjJIGq_FY_e2fxcA3endyZX8ExyfQvchKc8xUgbe-LhfHq_2svPPmGXhy-VLbsTwvqxZpvRCMAOVPKZryAqSHGwHQPluV",
+          "domain": "google.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "rank": 9,
+          "title": "Free AI Video Generator — Text to Video & Image to Video",
+          "url": "https://leonardo.ai/ai-video-generator",
+          "domain": "leonardo.ai",
+          "source_position": 1,
+          "source_start": 10
+        },
+        {
+          "rank": 10,
+          "title": "AI generated video with Google Vids",
+          "url": "https://workspace.google.com/resources/text-to-video/",
+          "domain": "workspace.google.com",
+          "source_position": 2,
+          "source_start": 10
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6ae7efd9bb4143ae4cf4c0ec",
+          "source_created_at": "2026-11-02 02:05:13 UTC",
+          "organic_count": 8
+        },
+        {
+          "start": 10,
+          "search_id": "6ae7efdbd0dfd75068f43cd7",
+          "source_created_at": "2026-11-02 02:05:15 UTC",
+          "organic_count": 10
+        }
+      ]
+    },
+    "2499f19979fc81636c7644beb8d86d4174d026cadb8352d37b445bba5894d347": {
+      "id": "2499f19979fc81636c7644beb8d86d4174d026cadb8352d37b445bba5894d347",
+      "keyword": "ai video generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-11-02T02:05:17.009Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [
+        {
+          "rank": 1,
+          "title": "AI Video Generator - Text & Image to Video",
+          "url": "https://felo.ai/ai-video-generator",
+          "domain": "felo.ai",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "AI video generator: How to create video ads with AI",
+          "url": "https://advertising.amazon.com/library/guides/ai-video-generator",
+          "domain": "advertising.amazon.com",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "Free AI Video Generator — Text to Video & Image to Video",
+          "url": "https://leonardo.ai/ai-video-generator",
+          "domain": "leonardo.ai",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "AI Video Generator Free - Prompt, Text to Video | Steve AI",
+          "url": "https://www.google.com/goto?url=CAESYgHrOzAVsjEUQo59mYcpQGiU3m-znVnmRac9LJHj_27zPSXqKDCiNEJhHm-jXiuXp1joakhiQx9VOkdfVZPGpVH-ALqZ0GnG3LezMqcVwsrbF72bZJmk8UyFwowb098ml0-a",
+          "domain": "google.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "AI Video Generator - Create videos from text and images - Chrome Web Store",
+          "url": "https://chromewebstore.google.com/detail/ai-video-generator-create/fgmkpjjkogfehealkpphadefaaakcenh?hl=en",
+          "domain": "chromewebstore.google.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "Best free site for prompt generating ai videos? : r/ArtificialInteligence",
+          "url": "https://www.google.com/goto?url=CAESqgEB6zswFRqc3S3w_TYlIb8yGoYHoObqkhusj3rw4Yxz99tcETM__4biIwyLcwlzENNMxgbop3vjQE1wnATKVxykw3CGB2YhWRRCFXc_LvmU4ELvUGSIIbHzuKCsbelOu9Rb2FSyfbGkI3SVi-sGTyK2ZHTLPeZUfKUqE1uMFlquE50VMOZTy8RjxUwUMJ1KDcel-6WkLf26H5_xuBFvzSi-YeXNyzIJlnnAJg",
+          "domain": "google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "AI Video Generator - Text, Image & Prompt to Video - Luma AI",
+          "url": "https://www.google.com/goto?url=CAESaAHrOzAVlRy2vCHFxFLJ7DN85ZJWc93XyXwwo6ON4W-hd5XvKbzQB9Vp9aXfsz0O3IDcnwp4cmgFXf5tTqd8zWOxr65qpfsqIAIqCDXUnrCgiMqCvirJpmo8eC6H1w_HvBPGkyi148H3",
+          "domain": "google.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "Vibes: Generate free AI videos - Meta AI",
+          "url": "https://www.google.com/goto?url=CAESXQHrOzAVl0Ggt72G5m3IvnjDWYnOQzfiaHKb1_7xrISDbb5hYArtoc4e01XCJDVeZVDIawEwr5fGl26Csc8x6BVahvleE2gLIkCl3fIygTRzs8BrKVeIKnyTaWWk1A",
+          "domain": "google.com",
+          "source_position": 8,
+          "source_start": 0
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6ae7efdd74268e35dcbe177f",
+          "source_created_at": "2026-11-02 02:05:17 UTC",
+          "organic_count": 8
+        }
+      ],
+      "error": "仅采集到 8/10 条；已达到分页上限或没有下一页，不计算排名变化"
+    },
+    "ebaf3b387f622d0076b8bc1eb9d8463fdea54057b6c65cd82a854cfdc42df930": {
+      "id": "ebaf3b387f622d0076b8bc1eb9d8463fdea54057b6c65cd82a854cfdc42df930",
+      "keyword": "ai image generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-11-02T02:05:18.441Z",
+      "status": "ok",
+      "requests": 2,
+      "results": [
+        {
+          "rank": 1,
+          "title": "Ai Image Generator - Images Ai - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.ai.image.generator.aiphoto&hl=en_US",
+          "domain": "play.google.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "Free AI Image Generator: Text to Image Online",
+          "url": "https://www.artguru.ai/ai-text-to-image-generator/",
+          "domain": "artguru.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "Free Online AI Art Generator | Microsoft Designer",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-designer/ai-art-generator",
+          "domain": "microsoft.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "Free AI Image Generator - Text to Image | Felo AI",
+          "url": "https://felo.ai/tools/ai-image",
+          "domain": "felo.ai",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "The 6 best AI image generators in 2026",
+          "url": "https://www.google.com/goto?url=CAESawHrOzAVgopWk2hGb3Nhcs4FDthF8hcF4zPZj4s3_fG21NAcYfThmq-BCRRZdoLxqSaB_Mq_9vdQYOqvutIBJf1x8mgLD6nk4rNWLdrfFKnPgrGE1bAf3g-_0m1FNnILgsbmEIU5Y5FkQdTJ",
+          "domain": "google.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "AI Image Generator",
+          "url": "https://www.google.com/goto?url=CAESaAHrOzAVYksGJ23o9fmU7xfg1Z_V7pHlpFK1ylO6UhinWXTpRkci3frOLk3GU-HJ7oTd-w5BsCcE_FGGuf8ryxLBSia9qNEhT3PMdRSwka6FMAdKqAIbh2pugRfWKq3jPQ0E_RJ85hp0",
+          "domain": "google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "DALL-E Free AI Image Generator | Powered by Dall-E",
+          "url": "https://www.google.com/goto?url=CAESVgHrOzAVDntDy0eL_z5owz_1QGEZMGIPERECFr0TJ6Idp8XeqyRpXVPlQKfvyrGOfOG-8Y6sEdybsB5TJXpRTpt-_PbmfuWk3wPr0SK0YTXCAUiT9ZhQ",
+          "domain": "google.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "100% Free AI Image Generator Online",
+          "url": "https://www.google.com/goto?url=CAESYQHrOzAVPuDIWGjIo0KrqsmiN4eS_R2LG_xx0OjBBuL07G4ZxJ_XkGKohq4DrNUB3jPGxG0VVezYzay2kXXgloS59-DGkPdilxpOfPE1f2FwdKcpXASH0x8y1_2yU86pALo",
+          "domain": "google.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "rank": 9,
+          "title": "Free AI Image Generator: Text to Image Online",
+          "url": "https://www.google.com/goto?url=CAESZgHrOzAVU9iQWNhc7o49Too7Jm0C73fO63M6N0BqNg_iMUntV7ryJGRK7xRZV1h9yM9zZLMFObo3HuJmeiDpXgYR8tL_Giepb7kq-jSGLFTwy4MoFU_wX7iw1hTSYc_8u2M8IaqQsg",
+          "domain": "google.com",
+          "source_position": 9,
+          "source_start": 0
+        },
+        {
+          "rank": 10,
+          "title": "Artificial intelligence",
+          "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "domain": "en.wikipedia.org",
+          "source_position": 1,
+          "source_start": 10
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6ae7efde412f4339bf128ff1",
+          "source_created_at": "2026-11-02 02:05:18 UTC",
+          "organic_count": 9
+        },
+        {
+          "start": 10,
+          "search_id": "6ae7efe4132d48f0555004a0",
+          "source_created_at": "2026-11-02 02:05:24 UTC",
+          "organic_count": 9
+        }
+      ]
+    },
+    "3746857fe2ec351b105da4706a9fe154aa3ca153729c5d6b5a185369b5b83a70": {
+      "id": "3746857fe2ec351b105da4706a9fe154aa3ca153729c5d6b5a185369b5b83a70",
+      "keyword": "ai image generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-11-02T02:05:25.862Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [
+        {
+          "rank": 1,
+          "title": "AI Image Generator - Create Art from Text",
+          "url": "https://dream.ai/create",
+          "domain": "dream.ai",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "Free AI Image Generator - Text to Image | Felo AI",
+          "url": "https://felo.ai/tools/ai-image",
+          "domain": "felo.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "AI Image Generator: Text To Image - Adobe Firefly India",
+          "url": "https://www.adobe.com/in/products/firefly/features/text-to-image.html",
+          "domain": "adobe.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "Free AI Image Generator: Text to Image Online",
+          "url": "https://www.google.com/goto?url=CAESbQHrOzAVqh4r6obWiCyy5Fhu8UNTjQUnAp31Lti8V9pd9PlQ-z2tpQEJXvrXSaltpo_i6Zy3cYQYw9m80-xfCQWICFVDSf7oMi8KVhuUPQRyeLtFlg47b7K3s_VuofjADEnpspIq79En4zrjr_c",
+          "domain": "google.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "Free AI Image Generator - Bing Image Creator",
+          "url": "https://www.google.com/goto?url=CAEScQHrOzAVeafTxt1SGOhxRSqZsCBF0WQqs2hnN2PEHtkJeW6YakOQ9gymfekgqOvXTxklUjNFN0aAp-Y-jY9k41mrnSh5avVfyOOC_--ptYTPuloiNcjkR7pjpnzYBXkoygGhXM5dLr9hTmFMDNtbm7wj",
+          "domain": "google.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "AI Image Generator: Features and Use Cases",
+          "url": "https://www.google.com/goto?url=CAESjgEB6zswFTjlKjdUyx-6J25VnvGxN_aC4L5shTAigJl3IekbzoU8F_OhX80SPue7pbaTd2QscnXm4mbahlI1yIsEQBQe24iEchX3-2k8pvwTwv7wBzoAvK_rIjnB3ATSpIBnbAsvCvk5s27wR1i98k5GAK8FkDEw5WoJKhvdyIukXF38FQoRX3XtX0j3DVOX",
+          "domain": "google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "The 6 best AI image generators in 2026",
+          "url": "https://www.google.com/goto?url=CAESawHrOzAVu2C8lxLTAu3i3YlBHSnf0ZKTDKzy7_p37q-PWkS0n1A0IXdH_lb0RjJkVcuRGbkCMSy4je3PlToVSXvaNYR8-qAp9Mz6oQqbci3VkV4AVCtRRsxrDgppA9VZXZrqJ-XdZS6HVXCa",
+          "domain": "google.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "Free Image-to-Image AI: Transform existing photos | Firefly",
+          "url": "https://www.google.com/goto?url=CAESfgHrOzAVQovq0fIl3j8UtqY_WoKAcadQYeNsFU0A3CncVl-LW0kndZpiRzwNpp9k8V0e5m8v55E9UdMhAniU21W42HZnAWBwr8D3cvXFbEW3VciI6FZ26tEqu_o52ysVMwPR_HKdDopvvin8MY2oKDJ520_rH_Oep2ZGtZiyKA",
+          "domain": "google.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "rank": 9,
+          "title": "Free AI Image Generator: Online Text to Image",
+          "url": "https://www.google.com/goto?url=CAESZAHrOzAVCbWlc7dtzd2EC49v146g8xaEguZDffvgwMQAsgmIlXFSY15oartt6T6rKxRQ0PFKlGqJDiO2jaquNpzShitskLUwbZxNuw3_M5k7-qGIiGyR23bjJecgkhpNMCdQflc",
+          "domain": "google.com",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6ae7efe52ed12318a070bf33",
+          "source_created_at": "2026-11-02 02:05:25 UTC",
+          "organic_count": 9
+        }
+      ],
+      "error": "仅采集到 9/10 条；已达到分页上限或没有下一页，不计算排名变化"
+    },
+    "41966e53e4aef0780a6e772484af54157395835b68409c39a0d95fd2b8735989": {
+      "id": "41966e53e4aef0780a6e772484af54157395835b68409c39a0d95fd2b8735989",
+      "keyword": "image to video ai",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-11-02T02:05:27.274Z",
+      "status": "ok",
+      "requests": 2,
+      "results": [
+        {
+          "rank": 1,
+          "title": "Online Image to Video AI Generator",
+          "url": "https://www.capcut.com/tools/image-to-video-ai",
+          "domain": "capcut.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "Free AI Video Generator — Text to Video & Image to Video",
+          "url": "https://leonardo.ai/ai-video-generator",
+          "domain": "leonardo.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "Free AI Image to Video Generator: Convert Photos to Videos",
+          "url": "https://www.adobe.com/au/products/firefly/features/image-to-video.html",
+          "domain": "adobe.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "Free Image to Video AI Generator Online",
+          "url": "https://www.google.com/goto?url=CAESZAHrOzAVSMDiVFFQSlmB0cuVlhEceoL1tjYLvZrn7UyEJKwCF51qiK6yMVCv8qaikWvBQOnAPJPBib0T5VhDLYvqO_Le9bsFWfmtKHDYX7Kb0Shirj-SFesQI9VKZXCo89VL8g0",
+          "domain": "google.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "What are some free AI tools that can make a video out of a ...",
+          "url": "https://www.google.com/goto?url=CAESogEB6zswFdcwsp-d_G4WKB1L6D3KHW1mUMINr4Mo19hyVDyQ52bvPlBeK12kH-SBU0XJbBBTuGwJenVwvGommbRQzraYH1FkNNzY0L27eWYtK5KFaSjibl7dqRRzPRKqVWusf3eyTkLNj_i0207njE87KKPwHM8HCz0SqRFKzzQGmZDpfuJa4FaacHEGb4CCkjnI0u6tsEWISmJdXKKPkW6PM5s",
+          "domain": "google.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "Photo to Video AI Generator - Animate Images Free | DomoAI",
+          "url": "https://www.google.com/goto?url=CAESYAHrOzAV-pw-HVQNXwtB8f-3OGDAlTcBoR7_FhVN-OCOlNdiTVCG-aL65iqL2VUGYk1HTdbCejTFuoTbSwojHyWAihuQrnklXkR_g7bu3xZbi6TVWAlIDLye-1x0nyVOqA",
+          "domain": "google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "Free AI Image to Video Generator - JoyPix AI",
+          "url": "https://www.google.com/goto?url=CAESYAHrOzAVEfthNsqwhbjrgqWNtqptTPyp8cTjkXw4In2ybTf8kGnF0yY47rTUnLy0chwK-SzvG35x5n0kpZw7m-LRzQWOvYraPFan44Njg_I0MsX47y33dfwxSIMRVJtsLg",
+          "domain": "google.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "Free AI Animation Generator | Adobe Firefly",
+          "url": "https://www.google.com/goto?url=CAEShgEB6zswFVuUod3ZvODCnXHjnTGmsXKJJbYcyaDJPFzqdCWaMu4yEuysnycPcYCybl6JdTT6sZGF7w_srxk4LKFucNuAkcjydAoiGsrKB9nSuln0pOQ4aHJcYwkwCBUoRivvNHbGT8_fnVjEjYqlAhvzGa0mkahHAo2J4v8MpHJYl9kwufsObw",
+          "domain": "google.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "rank": 9,
+          "title": "Free Image to Video AI Generator Online with Audio",
+          "url": "https://www.google.com/goto?url=CAESYgHrOzAVr_eWHSb80weiyDA9E5LeNdV9HwWwEwWOB6PdFQMf-UbEXFU0o-M2G7O8CWq3e6iNabQu43Dk62rshfq0Y3Hj3ZONcHd-D9lGlJF3aNCOTQB35ghdBGlepdZpeRgs",
+          "domain": "google.com",
+          "source_position": 9,
+          "source_start": 0
+        },
+        {
+          "rank": 10,
+          "title": "AI Elections Accord - Munich Security Conference",
+          "url": "https://securityconference.org/en/initiatives/archive/ai-elections-accord/",
+          "domain": "securityconference.org",
+          "source_position": 1,
+          "source_start": 10
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6ae7efe74db6f07ef05ade19",
+          "source_created_at": "2026-11-02 02:05:27 UTC",
+          "organic_count": 9
+        },
+        {
+          "start": 10,
+          "search_id": "6ae7efe893a73f7add571c76",
+          "source_created_at": "2026-11-02 02:05:28 UTC",
+          "organic_count": 10
+        }
+      ]
+    },
+    "79478ec5f32ad61c4c91c420e74625231c9c28c15e86927c3d89fc2c5d8fbc11": {
+      "id": "79478ec5f32ad61c4c91c420e74625231c9c28c15e86927c3d89fc2c5d8fbc11",
+      "keyword": "image to video ai",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v1"
+      },
+      "captured_at": "2026-11-02T02:05:29.889Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [
+        {
+          "rank": 1,
+          "title": "Image to Video AI: Transform Photos into Videos",
+          "url": "https://elevenlabs.io/image-video",
+          "domain": "elevenlabs.io",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "Free AI Video Generator — Text to Video & Image to Video",
+          "url": "https://leonardo.ai/ai-video-generator",
+          "domain": "leonardo.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "Online Image to Video AI Generator",
+          "url": "https://www.capcut.com/tools/image-to-video-ai",
+          "domain": "capcut.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "Free AI Image to Video Generator: Convert Photos to Videos - Adobe Firefly",
+          "url": "https://www.google.com/goto?url=CAESgQEB6zswFXH0chHd_wYXg_q3iwpe-o77OqyO5vwnwV61A-32A5Edu4xUV3AkINUZyI-TYcVHzhMNYJkQv8axSr_XzR7YMm2XELC5PLPjwvBdQQxMVZMjE2wbPTh1EVCbQ6--CxF96rZLUmVZ-vrWsmGzzh0Gi27TlTa7YTSIIYvjLnA",
+          "domain": "google.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "Image to Video: Animate Any Photo Instantly",
+          "url": "https://www.google.com/goto?url=CAEScQHrOzAVES_wn5P2vmHYWaiV43FJxxPP_RzjP12xIGfLhceEV3QY-hY_ou53kWxKbgJPMBG8mw7GCykY1zIByiBSDXqqCUMio6vAIlJHm7FcdNQmohr4ZAZ2I5wr9c-DKETPIO9vQm_RHvYpYwIe-79a",
+          "domain": "google.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "What are some free AI tools that can make a video out of a photo? : r/AIAssisted",
+          "url": "https://www.google.com/goto?url=CAESogEB6zswFfi9PyyhL4KABhFBGSYYQT9tLlw0ojySdKC7nsb39xFkcdgYJec93fJkwy_B8B7GyBoH-NiUaayuPhVqz87Wu5Znt2YRG2GS27bYHyzfKIIqo-ywLJ-yjyjjrpn1uvgMJHgK6Bo_ckeEvq6YXq7fcxt32wG41HB8I4GPNdbAZid0FmpY2ZEbIaDFC8p0K2e5Zy_eyvpBv1rT9zRcUDY",
+          "domain": "google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "Free AI Animation Generator | Adobe Firefly",
+          "url": "https://www.google.com/goto?url=CAEShgEB6zswFaFuFr08Ti3TakTBVX3J6pY4__FWprZKeMQiRj2ItlqOP-vdl-KSo0FMjffkHRjNBzAPEezLrnLwQE43oy307nxMDGMtRUT9mIBwAjWx9NY2qgAtB9weY1616_NTgTobVajrzFbvyFxC2NNQq15zZm43TUwX_-m6Kx3zH3_QB_Oapw",
+          "domain": "google.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "AI Image to Video: Animate Any Picture with Kling and Veo",
+          "url": "https://www.google.com/goto?url=CAESZgHrOzAVPugOrzsOohnIndeBMkVjtDe8v2wRreof_Sgb4DerfcrGyPQAAPoCRGtb9LgzEp-UBdaRsWOg46kpRTsLTlqeXu0jwpY8-MaWNneUuIyf-4Cg0IRczeRxkrf2XTaBjCchDw",
+          "domain": "google.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "rank": 9,
+          "title": "Free AI Image to Video Generator - JoyPix AI",
+          "url": "https://www.google.com/goto?url=CAESYAHrOzAVy7feWgkIhms8vdlHzfxtr2iSRUV67G-DG3OTZhItowZHToWi1W2ih_IT1IfLg5J0CzSTZWdQcjzEP-viSpksxDykHMcp5n5BvsDCoJpVr_652QeEaaC1b3SILA",
+          "domain": "google.com",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6ae7efe960cbefb6fbbf33ba",
+          "source_created_at": "2026-11-02 02:05:29 UTC",
+          "organic_count": 9
+        }
+      ],
+      "error": "仅采集到 9/10 条；已达到分页上限或没有下一页，不计算排名变化"
+    }
+  },
+  "updated_at": "2026-11-02T02:05:31.188Z"
+}
