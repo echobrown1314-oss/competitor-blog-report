@@ -34,10 +34,27 @@ function domainOf(url) {
   return new URL(url).hostname.replace(/^www\./, '');
 }
 
+export function resultDestination(value, googleDomain = 'google.com') {
+  let url = value.startsWith('/') ? new URL(value, `https://${googleDomain}`) : new URL(value);
+  for (let hop = 0; hop < 3; hop++) {
+    const host = url.hostname.replace(/^www\./, '');
+    const googleHost = host === googleDomain.replace(/^www\./, '') || host === 'google.com';
+    if (!googleHost || !['/goto', '/url', '/search', '/sorry', '/sorry/index'].includes(url.pathname)) {
+      return normalizeUrl(url.href);
+    }
+    if (!['/goto', '/url'].includes(url.pathname)) return null;
+    const target = url.searchParams.get('url') || url.searchParams.get('q');
+    // Encrypted goto tokens and displayed breadcrumbs are not destination URLs.
+    if (!target || !/^https?:\/\//i.test(target)) return null;
+    url = new URL(target);
+  }
+  return null;
+}
+
 function profile(config) {
   return {
     engine: 'google', google_domain: config.google_domain, gl: config.gl, hl: config.hl,
-    location: config.location, depth: config.depth, ranking: 'organic-url-sequence-v1',
+    location: config.location, depth: config.depth, ranking: 'organic-url-sequence-v2-direct-links',
   };
 }
 
@@ -78,6 +95,9 @@ function validateResponse(data, expected) {
     if (actual[key] !== undefined && actual[key] !== expected[key]) throw new Error(`返回的 ${key} 与请求不符`);
   }
   if (actual.q !== expected.q) throw new Error('返回的关键词与请求不符');
+  if (actual.start !== undefined && String(actual.start) !== expected.start) {
+    throw new Error('返回的分页起点与请求不符');
+  }
   if (!Array.isArray(data.organic_results) || !data.organic_results.length) {
     throw new Error('未返回自然搜索结果，不能将其解释为排名全部消失');
   }
@@ -89,11 +109,12 @@ function validateResponse(data, expected) {
 
 function nextOffset(data, current) {
   const next = data.serpapi_pagination?.next || data.serpapi_pagination?.next_link || data.pagination?.next;
-  if (!next) return null;
+  // Mobile responses may omit next. Use documented start=10 pagination, bounded by max_pages.
+  if (!next) return current + 10 <= 100 ? { offset: current + 10, source: 'manual_start' } : null;
   try {
     // Read only the offset. Never follow a response URL with our API key.
     const offset = Number(new URL(next).searchParams.get('start'));
-    return Number.isInteger(offset) && offset > current && offset <= 100 ? offset : null;
+    return Number.isInteger(offset) && offset > current && offset <= 100 ? { offset, source: 'provider_next' } : null;
   } catch { return null; }
 }
 
@@ -102,7 +123,7 @@ export async function collectQuery(config, keyword, device, {
 } = {}) {
   const result = {
     id: queryId(config, keyword, device), keyword, device, profile: profile(config),
-    captured_at: now().toISOString(), status: 'error', requests: 0, results: [], pages: [],
+    captured_at: now().toISOString(), status: 'error', requests: 0, results: [], pages: [], observations: [],
   };
   const seen = new Set();
   let start = 0;
@@ -147,13 +168,28 @@ export async function collectQuery(config, keyword, device, {
       organic.sort((a, b) => a.position - b.position);
       result.pages.push({ start, search_id: data.search_metadata.id ?? null,
         source_created_at: sourceTime ?? null, organic_count: organic.length });
-      for (const item of organic) {
+      const pageResults = organic.map(item => {
         if (!item.link || typeof item.title !== 'string') throw new Error('自然结果缺少链接或标题');
-        const url = normalizeUrl(item.link);
+        const url = resultDestination(item.link, config.google_domain);
+        return { title: item.title, url, domain: url ? domainOf(url) : null,
+          displayed_link: typeof item.displayed_link === 'string' ? item.displayed_link : null,
+          source_position: item.position, source_start: start };
+      });
+      result.observations.push(...pageResults);
+      const unresolved = pageResults.filter(item => !item.url);
+      if (unresolved.length) {
+        result.status = 'incomplete';
+        result.error_code = 'unresolved_google_redirect';
+        result.error = `SerpApi 返回 ${unresolved.length} 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。`;
+        // More pages cannot repair missing destinations on this page. Stop to preserve quota.
+        return JSON.parse(redact(JSON.stringify(result), apiKey));
+      }
+      for (const item of pageResults) {
+        const url = item.url;
         if (seen.has(url)) continue;
         seen.add(url);
         result.results.push({ rank: result.results.length + 1, title: item.title,
-          url, domain: domainOf(url), source_position: item.position, source_start: start });
+          url, domain: item.domain, source_position: item.source_position, source_start: start });
         if (result.results.length === config.depth) break;
       }
       if (result.results.length === config.depth) {
@@ -162,11 +198,13 @@ export async function collectQuery(config, keyword, device, {
       }
       const next = nextOffset(data, start);
       if (next === null) break;
-      start = next;
+      result.pages.at(-1).next_offset = next.offset;
+      result.pages.at(-1).pagination_source = next.source;
+      start = next.offset;
     }
     if (result.status !== 'ok') {
       result.status = 'incomplete';
-      result.error = `仅采集到 ${result.results.length}/${config.depth} 条；已达到分页上限或没有下一页，不计算排名变化`;
+      result.error = `仅采集到 ${result.results.length}/${config.depth} 条；已达到分页上限或分页信息无效，不计算排名变化`;
     }
   } catch (error) {
     result.error = redact(error.message, apiKey).slice(0, 500);
@@ -230,12 +268,27 @@ export function buildReports(config, snapshot, yesterday, { requests = 0, reused
     '口径：依次统计自然结果中的前十个不同 URL；排除广告、AI Overview、视频轮播和子链接。仅移除片段和常见追踪参数，不合并不同页面。',
     '排名是固定搜索环境下的采集快照，不代表所有美国用户看到的结果；前十以外的具体名次未知。', ''];
   if (success !== groups.length) lines.push('**采集不完整：失败/不足十条的组不用于判断新进入、跌出或排名无变化。**', '');
+  if (groups.some(g => g.current.error_code === 'unresolved_google_redirect')) {
+    lines.push('**数据源链接异常：部分 Google 跳转链接尚未解析，不能作为排名 URL 或有效基线。**',
+      '[SerpApi 官方状态](https://status.serpapi.com/) · [链接解析问题进展](https://github.com/serpapi/public-roadmap/issues/4315)', '');
+  }
   const csv = [['日期', '关键词', '设备', '今日排名', '昨日排名', '变化', '域名', '标题', 'URL', '标题变化', '昨日标题', '采集时间UTC', '说明']];
   for (const { current, previous, diff } of groups) {
     lines.push(`## ${md(current.keyword)}｜${DEVICE_NAMES[current.device]}`, '');
     if (current.status !== 'ok') {
       lines.push(`**数据缺失或不完整：${md(current.error)}**`, '');
       csv.push([snapshot.date, current.keyword, DEVICE_NAMES[current.device], '', '', '数据缺失', '', '', '', '', '', current.captured_at, current.error]);
+      if (current.observations?.length) {
+        lines.push('以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。', '',
+          '| 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |', '|---|---|---|---|');
+        for (const item of current.observations) {
+          lines.push(`| ${item.source_start} / ${item.source_position} | ${md(item.title)} | ${item.url ? link(item.url) : '未解析'} | ${md(item.displayed_link)} |`);
+          csv.push([snapshot.date, current.keyword, DEVICE_NAMES[current.device], '', '', '未验证样本', item.domain,
+            item.title, item.url, '', '', current.captured_at,
+            `分页起点 ${item.source_start} / 页面位置 ${item.source_position}；不参与排名对比${item.url ? '' : '；目标 URL 未解析'}`]);
+        }
+        lines.push('');
+      }
       continue;
     }
     if (!diff.comparable) {
