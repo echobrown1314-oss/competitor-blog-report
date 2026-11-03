@@ -20,6 +20,78 @@
         "canonicalKey": "higgsfield.ai/supercomputer-intro"
       },
       {
+        "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
+        "title": "Canvas Intro",
+        "url": "https://higgsfield.ai/canvas-intro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/canvas-intro"
+      },
+      {
+        "id": "c436e4db66e27c0a13de5d024679f8c88c8b61e2",
+        "title": "After Effects",
+        "url": "https://higgsfield.ai/plugins/after-effects",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/after-effects"
+      },
+      {
+        "id": "73b4183d899aea0e823f188c8813e0a176eceab1",
+        "title": "Blender",
+        "url": "https://higgsfield.ai/plugins/blender",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/blender"
+      },
+      {
+        "id": "eb7f56dbbb7609cce52790869d58f82204d93e52",
+        "title": "Davinci",
+        "url": "https://higgsfield.ai/plugins/davinci",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/davinci"
+      },
+      {
+        "id": "42a1afc45150ac914266179b1df002dbf28b40ea",
+        "title": "Figma",
+        "url": "https://higgsfield.ai/plugins/figma",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/figma"
+      },
+      {
+        "id": "11092cbcd33912b0b9fb8942bd323816ccd135e7",
+        "title": "Minecraft",
+        "url": "https://higgsfield.ai/plugins/minecraft",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/minecraft"
+      },
+      {
+        "id": "a9baa7deae1c5e6fc433f3cdd0fae5dbc5b19b9f",
+        "title": "Photoshop",
+        "url": "https://higgsfield.ai/plugins/photoshop",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/photoshop"
+      },
+      {
+        "id": "6c28a0618f585b324853c6b4de908f4ff98a2e23",
+        "title": "Premiere Pro",
+        "url": "https://higgsfield.ai/plugins/premiere-pro",
+        "lastmod": "",
+        "publishedAt": "",
+        "updatedAt": "",
+        "canonicalKey": "higgsfield.ai/plugins/premiere-pro"
+      },
+      {
         "id": "0a20d77b00c136516d9699871b241dbaa55b5cf4",
         "title": "App Builder Intro",
         "url": "https://higgsfield.ai/app-builder-intro",
@@ -56,15 +128,6 @@
         "canonicalKey": "higgsfield.ai/mcp"
       },
       {
-        "id": "3cffb5354a3a3d5f77835c776deed17d9dd10e86",
-        "title": "Canvas Intro",
-        "url": "https://higgsfield.ai/canvas-intro",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/canvas-intro"
-      },
-      {
         "id": "8bd607640ae6a74fa42be353347735f680fdd1cc",
         "title": "Canvas",
         "url": "https://higgsfield.ai/canvas",
@@ -99,51 +162,6 @@
         "publishedAt": "",
         "updatedAt": "",
         "canonicalKey": "higgsfield.ai/character"
-      },
-      {
-        "id": "c436e4db66e27c0a13de5d024679f8c88c8b61e2",
-        "title": "After Effects",
-        "url": "https://higgsfield.ai/plugins/after-effects",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/plugins/after-effects"
-      },
-      {
-        "id": "6c28a0618f585b324853c6b4de908f4ff98a2e23",
-        "title": "Premiere Pro",
-        "url": "https://higgsfield.ai/plugins/premiere-pro",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/plugins/premiere-pro"
-      },
-      {
-        "id": "eb7f56dbbb7609cce52790869d58f82204d93e52",
-        "title": "Davinci",
-        "url": "https://higgsfield.ai/plugins/davinci",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/plugins/davinci"
-      },
-      {
-        "id": "42a1afc45150ac914266179b1df002dbf28b40ea",
-        "title": "Figma",
-        "url": "https://higgsfield.ai/plugins/figma",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/plugins/figma"
-      },
-      {
-        "id": "73b4183d899aea0e823f188c8813e0a176eceab1",
-        "title": "Blender",
-        "url": "https://higgsfield.ai/plugins/blender",
-        "lastmod": "",
-        "publishedAt": "",
-        "updatedAt": "",
-        "canonicalKey": "higgsfield.ai/plugins/blender"
       }
     ],
     "LibTV": [
@@ -162,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-11-02T07:19:52.525Z",
+        "lastmod": "2026-11-03T03:17:59.646Z",
         "publishedAt": "",
-        "updatedAt": "2026-11-02T07:19:52.525Z",
+        "updatedAt": "2026-11-03T03:17:59.646Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-11-02T07:19:52.525Z",
+        "lastmod": "2026-11-03T03:17:59.646Z",
         "publishedAt": "",
-        "updatedAt": "2026-11-02T07:19:52.525Z",
+        "updatedAt": "2026-11-03T03:17:59.646Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
