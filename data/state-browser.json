@@ -9,12 +9,6 @@
     "Atlas Cloud": [],
     "TopMediai": [
       {
-        "key": "2cf5e04dd4a9904b2f01876704ea43711af04bca",
-        "url": "https://www.topmediai.com/video-tips/ai-santa-video/",
-        "date": "2026-10-28T14:31:02+08:00",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
-      {
         "key": "70d3d1ffec5a49d1c6c7ff10b188ed4ccb9b1e66",
         "url": "https://www.topmediai.com/video-tips/roblox-ai-video-generator/",
         "date": "2026-10-29T17:37:36+08:00",
@@ -23,30 +17,6 @@
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "a33ab8fc24255d3e372c619e59c9ffc13ad192d8",
-        "url": "https://pollo.ai/hub/5-best-free-and-unlimited-ai-image-generator",
-        "date": "Oct 27, 2026",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
-      {
-        "key": "fcc2263c242973d8741c9eb27f10096574529126",
-        "url": "https://pollo.ai/hub/best-realistic-ai-image-generators",
-        "date": "Oct 27, 2026",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
-      {
-        "key": "de18b547a43d6a910f4eb3d2ce891b2773efca21",
-        "url": "https://pollo.ai/hub/how-to-create-realistic-ai-images",
-        "date": "Oct 27, 2026",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
-      {
-        "key": "20886fffb379c0c470e1290cc8cbadd0d76cb33d",
-        "url": "https://pollo.ai/hub/best-free-ai-image-generators-for-realistic-photos",
-        "date": "Oct 27, 2026",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
       {
         "key": "7ea2e2a1e1e285e6fa3565427ce805378eeb3a46",
         "url": "https://pollo.ai/hub/ai-fashion-photography-prompts-clothing-brands",
@@ -166,27 +136,15 @@
         "url": "https://pollo.ai/hub/10-best-ai-text-to-image-for-professional-use",
         "date": "Nov 2, 2026",
         "reportedAt": "2026-11-03T07:51:09.650Z"
+      },
+      {
+        "key": "4bb73ac7e7f9d1ef5305dc543241ad110176344c",
+        "url": "https://pollo.ai/hub/best-ai-kiss-video-generators",
+        "date": "Nov 3, 2026",
+        "reportedAt": "2026-11-04T07:27:20.382Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "e0d3eb705a0c7565b521675eb9133d29bc0ddd6e",
-        "url": "https://higgsfield.ai/blog/best-platforms-kling-4-0-2026",
-        "date": "2026-10-27T17:30:00.000Z",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
-      {
-        "key": "528c272cdd468b36588073248634d5cf680247a8",
-        "url": "https://higgsfield.ai/blog/cinema-studio-4-0-complete-guide",
-        "date": "2026-10-27T12:04:00.000Z",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
-      {
-        "key": "004382e375b1941dbb1f78cf1085968a7289da2f",
-        "url": "https://higgsfield.ai/blog/creatorstories",
-        "date": "2026-10-27",
-        "reportedAt": "2026-10-28T06:48:41.627Z"
-      },
       {
         "key": "3ebb0055147a2f63f9655b9ee04daac831ebdb1d",
         "url": "https://higgsfield.ai/blog/higgsfield-vs-openart-2026",
@@ -234,6 +192,18 @@
         "url": "https://higgsfield.ai/blog/Comparisons",
         "date": "2026-11-02",
         "reportedAt": "2026-11-03T07:51:09.650Z"
+      },
+      {
+        "key": "daddd7afb7c5ba0d099125d66ac6da3c3de6e2d4",
+        "url": "https://higgsfield.ai/blog/why-ai-video-generations-fail",
+        "date": "2026-11-03T14:59:00.000Z",
+        "reportedAt": "2026-11-04T07:27:20.382Z"
+      },
+      {
+        "key": "968d8288b766563d41d9387ca631c81b3c5bd29a",
+        "url": "https://higgsfield.ai/blog/higgsfield-introduces-mangaka",
+        "date": "2026-11-03T14:32:00.000Z",
+        "reportedAt": "2026-11-04T07:27:20.382Z"
       }
     ]
   }
