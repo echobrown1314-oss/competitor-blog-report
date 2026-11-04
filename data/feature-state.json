@@ -180,18 +180,18 @@
         "id": "36c00591bfcd05064aa6fef6935dd87b68328a2c",
         "title": "Skill",
         "url": "https://www.flova.ai/en/skill/",
-        "lastmod": "2026-11-03T03:17:59.646Z",
+        "lastmod": "2026-11-04T06:51:49.274Z",
         "publishedAt": "",
-        "updatedAt": "2026-11-03T03:17:59.646Z",
+        "updatedAt": "2026-11-04T06:51:49.274Z",
         "canonicalKey": "flova.ai/skill"
       },
       {
         "id": "da5948162c254fbb846e788414c253c4f8c05c8e",
         "title": "Agent CLI",
         "url": "https://www.flova.ai/en/agent-cli/",
-        "lastmod": "2026-11-03T03:17:59.646Z",
+        "lastmod": "2026-11-04T06:51:49.274Z",
         "publishedAt": "",
-        "updatedAt": "2026-11-03T03:17:59.646Z",
+        "updatedAt": "2026-11-04T06:51:49.274Z",
         "canonicalKey": "flova.ai/agent-cli"
       },
       {
@@ -492,7 +492,7 @@
         "url": "https://www.topview.ai/topview-skill",
         "lastmod": "",
         "publishedAt": "2026",
-        "updatedAt": "",
+        "updatedAt": "Wed, 04 Nov 2026 07:25:36 GMT",
         "canonicalKey": "topview.ai/topview-skill"
       },
       {
@@ -555,7 +555,7 @@
         "url": "https://www.topview.ai/voiceover",
         "lastmod": "",
         "publishedAt": "2026",
-        "updatedAt": "",
+        "updatedAt": "Wed, 04 Nov 2026 07:02:30 GMT",
         "canonicalKey": "topview.ai/voiceover"
       }
     ],
