@@ -1,12 +1,10 @@
 # 竞品博客监测日报
 
-生成时间：2026/11/04 15:27（上海）
+生成时间：2026/11/05 15:52（上海）
 
 新增文章总数：3
 
-## Pollo AI（1）
-- [Just a moment...](https://pollo.ai/hub/best-ai-kiss-video-generators) | Nov 3, 2026
-
-## Higgsfield（2）
-- [Why AI Video Generations Fail and How to Fix Every Common Error](https://higgsfield.ai/blog/why-ai-video-generations-fail) | 2026-11-03T14:59:00.000Z
-- [Higgsfield Introduces Mangaka: Turn an Idea Into Manga, Comics, and Webtoons](https://higgsfield.ai/blog/higgsfield-introduces-mangaka) | 2026-11-03T14:32:00.000Z
+## Higgsfield（3）
+- [7 AI Video Team Plans Compared: Pricing, Seats, and Shared Credits](https://higgsfield.ai/blog/ai-video-team-plans-compared) | 2026-11-04T15:24:00.000Z
+- [Meet Higgsfield Shorts: Create Shorts With an AI Presenter](https://higgsfield.ai/blog/higgsfield-introduces-shorts-studio) | 2026-11-04T11:37:00.000Z
+- [Comparisons — articles from the Higgsfield blog](https://higgsfield.ai/blog/Comparisons) | 2026-11-04
