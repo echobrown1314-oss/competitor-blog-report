@@ -24,18 +24,6 @@
     "JXP": [],
     "Pollo AI": [
       {
-        "key": "536fc5d9e676bab41b205a9414e1c7bf50848e67",
-        "url": "https://pollo.ai/hub/image-to-video-prompts-for-product-marketing",
-        "date": "Nov 3, 2026",
-        "reportedAt": "2026-11-03T07:51:09.650Z"
-      },
-      {
-        "key": "9534903ec01b8812a1e0bff4ea7f88ca6d22e2d2",
-        "url": "https://pollo.ai/hub/10-best-ai-text-to-image-for-professional-use",
-        "date": "Nov 2, 2026",
-        "reportedAt": "2026-11-03T07:51:09.650Z"
-      },
-      {
         "key": "4bb73ac7e7f9d1ef5305dc543241ad110176344c",
         "url": "https://pollo.ai/hub/best-ai-kiss-video-generators",
         "date": "Nov 3, 2026",
@@ -124,21 +112,33 @@
         "url": "https://pollo.ai/hub/how-to-upscale-your-image-with-ai",
         "date": "Nov 9, 2026",
         "reportedAt": "2026-11-09T07:53:43.880Z"
+      },
+      {
+        "key": "9f56103e23a0f11f1fb3d6fd6ea01a7ec3ad498f",
+        "url": "https://pollo.ai/hub/best-ai-flyer-generators",
+        "date": "Nov 10, 2026",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
+      },
+      {
+        "key": "b05760dc47305a29f2109184850bc4f68f700e52",
+        "url": "https://pollo.ai/hub/best-ai-flyer-generators-free",
+        "date": "Nov 10, 2026",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
+      },
+      {
+        "key": "1671638ab7ebb3b2fbeca2cada28e391d682ff89",
+        "url": "https://pollo.ai/hub/best-ai-image-editors-free-unlimited",
+        "date": "Nov 10, 2026",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
+      },
+      {
+        "key": "2a0f85ebc1799ec8cadb5292d616f92a30252b83",
+        "url": "https://pollo.ai/hub/ai-food-commercial-prompts",
+        "date": "Nov 9, 2026",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "00c64080e62879ba52e4a01099079ca0350a2340",
-        "url": "https://higgsfield.ai/blog/higgsfield-genjutsu",
-        "date": "2026-11-02T11:55:00.000Z",
-        "reportedAt": "2026-11-03T07:51:09.650Z"
-      },
-      {
-        "key": "146a73de1c1dba0a56c1aa539a4f2006ceb6b116",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-02",
-        "reportedAt": "2026-11-03T07:51:09.650Z"
-      },
       {
         "key": "daddd7afb7c5ba0d099125d66ac6da3c3de6e2d4",
         "url": "https://higgsfield.ai/blog/why-ai-video-generations-fail",
@@ -216,6 +216,24 @@
         "url": "https://higgsfield.ai/blog/Comparisons",
         "date": "2026-11-07",
         "reportedAt": "2026-11-08T07:14:07.783Z"
+      },
+      {
+        "key": "ac80d100fc4baa268df186c38d02f8a4bf1f5e78",
+        "url": "https://higgsfield.ai/blog/tools-for-consistent-ai-characters",
+        "date": "2026-11-09T18:37:00.000Z",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
+      },
+      {
+        "key": "7c21b35800b8090b9d150e3a6b3896f127a6e7da",
+        "url": "https://higgsfield.ai/blog/higgsfield-vs-adobe-firefly-2026",
+        "date": "2026-11-09T09:43:00.000Z",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
+      },
+      {
+        "key": "273e8f5e97d69d3a4801969bbc71cf2d2db3048b",
+        "url": "https://higgsfield.ai/blog/Comparisons",
+        "date": "2026-11-09",
+        "reportedAt": "2026-11-10T08:21:34.581Z"
       }
     ]
   }
