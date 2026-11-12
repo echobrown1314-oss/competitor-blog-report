@@ -1,0 +1,756 @@
+{
+  "schema": 1,
+  "date": "2026-11-12",
+  "queries": {
+    "dbc090b12772a16c8cac9bf203f1ac76d47eb52948e7cce1e9c937cd7970d291": {
+      "id": "dbc090b12772a16c8cac9bf203f1ac76d47eb52948e7cce1e9c937cd7970d291",
+      "keyword": "ai video generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-12T08:21:00.161Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af576ecff7823ad2ebb341f",
+          "source_created_at": "2026-11-12 08:21:00 UTC",
+          "organic_count": 8
+        }
+      ],
+      "observations": [
+        {
+          "title": "Free AI Video Generator",
+          "url": "https://invideo.io/make/ai-video-generator/",
+          "domain": "invideo.io",
+          "displayed_link": "https://invideo.io › make › ai-video-generator",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator - Kling, Veo, Seedance & More",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://higgsfield.ai › ai-video",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator: Text to Video AI Tool",
+          "url": "https://www.canva.com/features/ai-video-generator/",
+          "domain": "canva.com",
+          "displayed_link": "https://www.canva.com › Video Editor",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator - Create Videos from Text with 85 AI ...",
+          "url": "https://picsart.com/ai-video-generator/",
+          "domain": "picsart.com",
+          "displayed_link": "https://picsart.com › Video",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
+          "domain": "adobe.com",
+          "displayed_link": "https://www.adobe.com › products › firefly › features",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator - Create Videos with Kling, Seedance & ...",
+          "url": "https://openart.ai/ai-video-generator/",
+          "domain": "openart.ai",
+          "displayed_link": "https://openart.ai › ai-video-generator",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator",
+          "url": "https://runway.com/product/ai-video-generator",
+          "domain": "runway.com",
+          "displayed_link": "https://runway.com › Product",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.veed.io › VEED Tools",
+          "source_position": 8,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 2 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "0390f2134c6bdd6b1278a38522ffd3804c1976288a1166cca3872f95142fb348": {
+      "id": "0390f2134c6bdd6b1278a38522ffd3804c1976288a1166cca3872f95142fb348",
+      "keyword": "ai video generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-12T08:21:01.174Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af576ed4f19ee06c081f91f",
+          "source_created_at": "2026-11-12 08:21:01 UTC",
+          "organic_count": 8
+        }
+      ],
+      "observations": [
+        {
+          "title": "AI Video Generator - Kling, Veo, Seedance & More",
+          "url": "https://higgsfield.ai/ai-video",
+          "domain": "higgsfield.ai",
+          "displayed_link": "https://higgsfield.ai",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator",
+          "url": "https://invideo.io/make/ai-video-generator/",
+          "domain": "invideo.io",
+          "displayed_link": "https://invideo.io",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator: Text to Video AI Tool",
+          "url": "https://www.canva.com/features/ai-video-generator/",
+          "domain": "canva.com",
+          "displayed_link": "https://www.canva.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
+          "domain": "adobe.com",
+          "displayed_link": "https://www.adobe.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator - Create Videos with Kling, Seedance & Veo 3",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://openart.ai",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator - Create Videos from Text with 85 AI Models",
+          "url": "https://picsart.com/ai-video-generator/",
+          "domain": "picsart.com",
+          "displayed_link": "https://picsart.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator",
+          "url": "https://runway.com/product/ai-video-generator",
+          "domain": "runway.com",
+          "displayed_link": "https://runway.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "I tried 5 AI video tools so you don't have to - here's what I learned! : r/ProductMarketing",
+          "url": "https://www.reddit.com/r/ProductMarketing/comments/1em8jrl/i_tried_5_ai_video_tools_so_you_dont_have_to/",
+          "domain": "reddit.com",
+          "displayed_link": "60+ comments",
+          "source_position": 8,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 1 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "b719d42153e76aa3b7bb569668a42e257c5a6691c24a0a88a360a7029cf6be61": {
+      "id": "b719d42153e76aa3b7bb569668a42e257c5a6691c24a0a88a360a7029cf6be61",
+      "keyword": "ai image generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-12T08:21:01.879Z",
+      "status": "incomplete",
+      "requests": 2,
+      "results": [
+        {
+          "rank": 1,
+          "title": "Free AI Image Generator: Text to Image",
+          "url": "https://www.canva.com/ai-image-generator/",
+          "domain": "canva.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "rank": 2,
+          "title": "Free AI Image Generator: Text to Image, Photos & Art",
+          "url": "https://higgsfield.ai/ai-image",
+          "domain": "higgsfield.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "rank": 3,
+          "title": "AI Image Generator",
+          "url": "https://deepai.org/machine-learning-model/text2img",
+          "domain": "deepai.org",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "rank": 4,
+          "title": "AI Image Generator - Create Free Text to Images with 30+ ...",
+          "url": "https://www.imagine.art/ai-image-generator",
+          "domain": "imagine.art",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "rank": 5,
+          "title": "Free Online AI Text to Image Generator | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/text-to-image.html",
+          "domain": "adobe.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "rank": 6,
+          "title": "AI Image Generator - Create Images from Text or Photos",
+          "url": "https://openart.ai/ai-image-generator/",
+          "domain": "openart.ai",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "rank": 7,
+          "title": "Free AI Image Generator - Bing Image Creator",
+          "url": "https://www.bing.com/images/create/ai-image-generator",
+          "domain": "bing.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "rank": 8,
+          "title": "AI Image Generator: Create Text to Images Online",
+          "url": "https://quillbot.com/ai-image-generator",
+          "domain": "quillbot.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "rank": 9,
+          "title": "Create Custom AI Images From Your Photos",
+          "url": "https://gemini.google.com/images",
+          "domain": "gemini.google.com",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af576edcf5e48fd1ed82789",
+          "source_created_at": "2026-11-12 08:21:01 UTC",
+          "organic_count": 9,
+          "next_offset": 10,
+          "pagination_source": "provider_next"
+        },
+        {
+          "start": 10,
+          "search_id": "6af576eed5a7e8dc83b57235",
+          "source_created_at": "2026-11-12 08:21:02 UTC",
+          "organic_count": 10
+        }
+      ],
+      "observations": [
+        {
+          "title": "Free AI Image Generator: Text to Image",
+          "url": "https://www.canva.com/ai-image-generator/",
+          "domain": "canva.com",
+          "displayed_link": "https://www.canva.com › ai-image-generator",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image Generator: Text to Image, Photos & Art",
+          "url": "https://higgsfield.ai/ai-image",
+          "domain": "higgsfield.ai",
+          "displayed_link": "https://higgsfield.ai › ai-image",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator",
+          "url": "https://deepai.org/machine-learning-model/text2img",
+          "domain": "deepai.org",
+          "displayed_link": "https://deepai.org › machine-learning-model",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator - Create Free Text to Images with 30+ ...",
+          "url": "https://www.imagine.art/ai-image-generator",
+          "domain": "imagine.art",
+          "displayed_link": "https://www.imagine.art › ai-image-generator",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Free Online AI Text to Image Generator | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/text-to-image.html",
+          "domain": "adobe.com",
+          "displayed_link": "https://www.adobe.com › products › firefly › features",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator - Create Images from Text or Photos",
+          "url": "https://openart.ai/ai-image-generator/",
+          "domain": "openart.ai",
+          "displayed_link": "https://openart.ai › ai-image-generator",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image Generator - Bing Image Creator",
+          "url": "https://www.bing.com/images/create/ai-image-generator",
+          "domain": "bing.com",
+          "displayed_link": "https://www.bing.com › images › create › ai-image-gen...",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator: Create Text to Images Online",
+          "url": "https://quillbot.com/ai-image-generator",
+          "domain": "quillbot.com",
+          "displayed_link": "https://quillbot.com › Image Tools › Converter Tools",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "Create Custom AI Images From Your Photos",
+          "url": "https://gemini.google.com/images",
+          "domain": "gemini.google.com",
+          "displayed_link": "https://gemini.google.com › images",
+          "source_position": 9,
+          "source_start": 0
+        },
+        {
+          "title": "ChatGPT: Chat, Work, Create & Code with AI",
+          "url": "https://chatgpt.com/",
+          "domain": "chatgpt.com",
+          "displayed_link": "https://chatgpt.com",
+          "source_position": 1,
+          "source_start": 10
+        },
+        {
+          "title": "EU Artificial Intelligence Act | Up-to-date developments and ...",
+          "url": "https://artificialintelligenceact.eu/",
+          "domain": "artificialintelligenceact.eu",
+          "displayed_link": "https://artificialintelligenceact.eu",
+          "source_position": 2,
+          "source_start": 10
+        },
+        {
+          "title": "Overview | NVIDIA Kumo",
+          "url": "https://docs.nvidia.com/sdgm/kumo-relational/about-kumo-relational/overview",
+          "domain": "docs.nvidia.com",
+          "displayed_link": "https://docs.nvidia.com › sdgm › about-kumo-relational",
+          "source_position": 3,
+          "source_start": 10
+        },
+        {
+          "title": "The choices we make about AI now are critical | Bill Gates",
+          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "domain": "gatesnotes.com",
+          "displayed_link": "https://www.gatesnotes.com › work › reader › a-turbulen...",
+          "source_position": 4,
+          "source_start": 10
+        },
+        {
+          "title": "AI Act | Shaping Europe's digital future - European Union",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+          "domain": "digital-strategy.ec.europa.eu",
+          "displayed_link": "https://digital-strategy.ec.europa.eu › policies › regulato...",
+          "source_position": 5,
+          "source_start": 10
+        },
+        {
+          "title": "AI Elections Accord - Munich Security Conference",
+          "url": "https://securityconference.org/en/initiatives/archive/ai-elections-accord/",
+          "domain": "securityconference.org",
+          "displayed_link": "https://securityconference.org › initiatives › archive › ai...",
+          "source_position": 6,
+          "source_start": 10
+        },
+        {
+          "title": "A Severe Misalignment of AI in Mathematics - Terence Tao",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+          "domain": "terrytao.wordpress.com",
+          "displayed_link": "https://terrytao.wordpress.com › 2026/09/11 › a-severe-...",
+          "source_position": 7,
+          "source_start": 10
+        },
+        {
+          "title": "Management as AI superpower - by Ethan Mollick",
+          "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+          "domain": "oneusefulthing.org",
+          "displayed_link": "https://www.oneusefulthing.org › management-as-ai-su...",
+          "source_position": 8,
+          "source_start": 10
+        },
+        {
+          "title": "Super Intelligence (SI)",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.state.gov › super-intelligence",
+          "source_position": 9,
+          "source_start": 10
+        },
+        {
+          "title": "Smart Care",
+          "url": "https://www.stryker.com/us/en/smart-care.html",
+          "domain": "stryker.com",
+          "displayed_link": "https://www.stryker.com › smart-care",
+          "source_position": 10,
+          "source_start": 10
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 1 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "89b81741bd08fb73609577fa4f1baa90b226fdad043f0fb94984db3c3b21efa9": {
+      "id": "89b81741bd08fb73609577fa4f1baa90b226fdad043f0fb94984db3c3b21efa9",
+      "keyword": "ai image generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-12T08:21:10.521Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af576f6fde8126f6782ee9e",
+          "source_created_at": "2026-11-12 08:21:10 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "Free AI Image Generator: Text to Image",
+          "url": "https://www.canva.com/ai-image-generator/",
+          "domain": "canva.com",
+          "displayed_link": "https://www.canva.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator",
+          "url": "https://deepai.org/machine-learning-model/text2img",
+          "domain": "deepai.org",
+          "displayed_link": "https://deepai.org",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image Generator: Text to Image, Photos & Art",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://higgsfield.ai",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator - Create Free Text to Images with 30+ Models",
+          "url": "https://www.imagine.art/ai-image-generator",
+          "domain": "imagine.art",
+          "displayed_link": "https://www.imagine.art",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Free Online AI Text to Image Generator | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/text-to-image.html",
+          "domain": "adobe.com",
+          "displayed_link": "https://www.adobe.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "Create Custom AI Images From Your Photos",
+          "url": "https://gemini.google.com/images",
+          "domain": "gemini.google.com",
+          "displayed_link": "https://gemini.google.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image Generator - Bing Image Creator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.bing.com",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator - Create Images from Text or Photos",
+          "url": "https://openart.ai/ai-image-generator/",
+          "domain": "openart.ai",
+          "displayed_link": "https://openart.ai",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator (free, no sign-up, unlimited)",
+          "url": "https://perchance.org/ai-text-to-image-generator",
+          "domain": "perchance.org",
+          "displayed_link": "https://perchance.org",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 2 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "9576b08c1db263b2f09a48d9722f18ba7c833ff4ea3430bcaa2ebe1ba0c0fff4": {
+      "id": "9576b08c1db263b2f09a48d9722f18ba7c833ff4ea3430bcaa2ebe1ba0c0fff4",
+      "keyword": "image to video ai",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-12T08:21:14.594Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af576fade5efc61e6abcebc",
+          "source_created_at": "2026-11-12 08:21:14 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "Free Image to Video AI Generator, Animate Any Photo",
+          "url": "https://www.heygen.com/tool/image-to-video",
+          "domain": "heygen.com",
+          "displayed_link": "https://www.heygen.com › Tool",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator",
+          "url": "https://deevid.ai/image-to-video",
+          "domain": "deevid.ai",
+          "displayed_link": "https://deevid.ai › image-to-video",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "Free Online Image to Video AI | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/image-to-video.html",
+          "domain": "adobe.com",
+          "displayed_link": "https://www.adobe.com › products › firefly › features",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Free online image to video AI generator",
+          "url": "https://www.canva.com/ai-image-to-video/",
+          "domain": "canva.com",
+          "displayed_link": "https://www.canva.com › ai-image-to-video",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image to Video Generator",
+          "url": "https://www.veed.io/tools/image-to-video-ai",
+          "domain": "veed.io",
+          "displayed_link": "https://www.veed.io › VEED Tools",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator",
+          "url": "https://viggle.ai/tools/image-to-video-ai",
+          "domain": "viggle.ai",
+          "displayed_link": "https://viggle.ai › tools › image-to-video-ai",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator - Text & Image to Video",
+          "url": "https://felo.ai/ai-video-generator",
+          "domain": "felo.ai",
+          "displayed_link": "https://felo.ai › ai-video-generator",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image to Video Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://raphael.app › image-to-video",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator — Text to Video & Image to Video",
+          "url": "https://leonardo.ai/ai-video-generator",
+          "domain": "leonardo.ai",
+          "displayed_link": "https://leonardo.ai › ai-video-generator",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 1 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "caa62d92350d8fa46bffd4ab20665cf8ab129c617928c092c26ee4b37816868b": {
+      "id": "caa62d92350d8fa46bffd4ab20665cf8ab129c617928c092c26ee4b37816868b",
+      "keyword": "image to video ai",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-12T08:21:15.227Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af576fb1266d7639ac89784",
+          "source_created_at": "2026-11-12 08:21:15 UTC",
+          "organic_count": 8
+        }
+      ],
+      "observations": [
+        {
+          "title": "Free online image to video AI generator",
+          "url": "https://www.canva.com/ai-image-to-video/",
+          "domain": "canva.com",
+          "displayed_link": "https://www.canva.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image to Video Generator",
+          "url": "https://www.veed.io/tools/image-to-video-ai",
+          "domain": "veed.io",
+          "displayed_link": "https://www.veed.io",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "Free Online Image to Video AI | Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/image-to-video.html",
+          "domain": "adobe.com",
+          "displayed_link": "https://www.adobe.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://deevid.ai",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator",
+          "url": "https://viggle.ai/tools/image-to-video-ai",
+          "domain": "viggle.ai",
+          "displayed_link": "https://viggle.ai",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator, Animate Any Photo",
+          "url": "https://www.heygen.com/tool/image-to-video",
+          "domain": "heygen.com",
+          "displayed_link": "https://www.heygen.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator Online (No Sign Up)",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://magichour.ai",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "Image to Video AI — Free AI Image to Video Generator Online (No Sign Up)",
+          "url": "https://imgtovideoai.net/",
+          "domain": "imgtovideoai.net",
+          "displayed_link": "https://imgtovideoai.net",
+          "source_position": 8,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 2 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    }
+  },
+  "updated_at": "2026-11-12T08:21:15.777Z"
+}
