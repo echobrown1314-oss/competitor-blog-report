@@ -1,0 +1,627 @@
+{
+  "schema": 1,
+  "date": "2026-11-14",
+  "queries": {
+    "dbc090b12772a16c8cac9bf203f1ac76d47eb52948e7cce1e9c937cd7970d291": {
+      "id": "dbc090b12772a16c8cac9bf203f1ac76d47eb52948e7cce1e9c937cd7970d291",
+      "keyword": "ai video generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-14T07:37:23.163Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af80fb368ebedc360f34ad2",
+          "source_created_at": "2026-11-14 07:37:23 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "Open the maker - AI Video Maker",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.aivideomaker.com › generate",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "VideoTube: Turn Long Videos into Viral Shorts with AI Online ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://videotube.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "VideoGenio | AI Video from Text and Images",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://videogenio.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator - Create Videos from Text Online",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://aisnapedit.com › AI Video",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Top 11 AI Video Generators to Use in 2025",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.animotica.com › blog › ai-video-generators",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "Best AI Video Generator in 2026: Top Text-to-Video & AI ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.techimply.com › blog › ai-video-generator-...",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "List of Top Free AI Video Generator Software",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.softwareworld.co › Software",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "Free Image to Video AI Generator Online | VeeGen",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://veegen.ai",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI YouTube Video Idea Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://vidiq.com › ai-video-ideas-generator",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "0390f2134c6bdd6b1278a38522ffd3804c1976288a1166cca3872f95142fb348": {
+      "id": "0390f2134c6bdd6b1278a38522ffd3804c1976288a1166cca3872f95142fb348",
+      "keyword": "ai video generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-14T07:37:24.460Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af80fb46551b5447f64c0a2",
+          "source_created_at": "2026-11-14 07:37:24 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "Open the maker - AI Video Maker",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.aivideomaker.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator - Create Stunning Videos from Text and Images",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.plugger.ai",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "VideoTube: Turn Long Videos into Viral Shorts with AI Online Free",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://videotube.ai",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Top 11 AI Video Generators to Use in 2025",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.animotica.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "VideoGenio | AI Video from Text and Images",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://videogenio.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "5 AI Video Generators to Create Videos from Text - MiniTool MovieMaker",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://moviemaker.minitool.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "AI Video Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://perchance.org",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Maker, 9 Models in One Platform",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://gvideo.ai",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "AI video generation from text",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://picai.com",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "b719d42153e76aa3b7bb569668a42e257c5a6691c24a0a88a360a7029cf6be61": {
+      "id": "b719d42153e76aa3b7bb569668a42e257c5a6691c24a0a88a360a7029cf6be61",
+      "keyword": "ai image generator",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-14T07:37:28.494Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af80fb814e5c20545df54aa",
+          "source_created_at": "2026-11-14 07:37:28 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "https://www.imgfixai.com/ai-image-generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.imgfixai.com › ai-image-generator",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "17 Best AI Image Generators in 2026 (Free and Paid Options)",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://piktochart.com › Learn › Learn Design Principles",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "Best AI Image Generators for Your Designing Needs",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://nestify.io › blog › best-ai-image-generators-for-...",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "VisualGPT: Free AI Creative Suite for E-Commerce & ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://visualgpt.io",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "https://lumenor.ai/ai-image-generator/",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://lumenor.ai › ai-image-generator",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "I tested this viral AI image generator, and it does text well",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.zdnet.com › ... › Artificial Intelligence",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "AI ARTGEN — A fast, free, unlimited AI image generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://perchance.org › ai-artgen",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator | ImageGen AI: Create AI Images & Photos ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://imagegenerator.raymish.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://tinywow.com › image › ai-image-generator",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "89b81741bd08fb73609577fa4f1baa90b226fdad043f0fb94984db3c3b21efa9": {
+      "id": "89b81741bd08fb73609577fa4f1baa90b226fdad043f0fb94984db3c3b21efa9",
+      "keyword": "ai image generator",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-14T07:37:30.918Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af80fbaa33d2bd1c8f271d9",
+          "source_created_at": "2026-11-14 07:37:30 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "https://www.imgfixai.com/ai-image-generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.imgfixai.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "17 Best AI Image Generators in 2026 (Free and Paid Options)",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://piktochart.com",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "Best AI Image Generators for Your Designing Needs: 2024 Edition",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://nestify.io",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator - Text to Image - Turn Text into Stunning Art",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://redpandaai.com",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image Generator | ImageGen AI: Create AI Images & Photos in Seconds",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://imagegenerator.raymish.com",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "I tested this viral AI image generator, and it does text well - finally! Try it for free",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.zdnet.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.seedance.ai",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "The 13+ Best AI Image Generators (2024)",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.insidr.ai",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "https://lumenor.ai/ai-image-generator/",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://lumenor.ai",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "9576b08c1db263b2f09a48d9722f18ba7c833ff4ea3430bcaa2ebe1ba0c0fff4": {
+      "id": "9576b08c1db263b2f09a48d9722f18ba7c833ff4ea3430bcaa2ebe1ba0c0fff4",
+      "keyword": "image to video ai",
+      "device": "desktop",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-14T07:37:32.202Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af80fbc69ae7addf11b7fe4",
+          "source_created_at": "2026-11-14 07:37:32 UTC",
+          "organic_count": 10
+        }
+      ],
+      "observations": [
+        {
+          "title": "Image to Video - BlinklyAI",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.blinklyai.com › ai-video-generator › image-...",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "https://posevid.com/app/image-to-video",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://posevid.com › app › image-to-video",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "Best AI Video Generator Free Online | Image2Video.ai",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://image2video.ai › AI Generator",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Image to Video",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://moxilo.ai › image-to-video",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "Image to Video AI Generator: Turn Any Photo into Video, Free ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://imagetovideo.io",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "AI Image to Video Generator for Photos and Motion",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://aiimage2video.com",
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "Image to Video AI Generator",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://virbo.wondershare.com › ai-video-generator-from...",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "ImagineToVideo: AI Image to Video & Text to Video Generator ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://imaginetovideo.com",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "Best AI Photo to Video Generator: Free & Paid Tools ...",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.vidau.ai › ai-photo-to-video-generator",
+          "source_position": 9,
+          "source_start": 0
+        },
+        {
+          "title": "Image2Video AI — Photo to Video AI: Any Photo, Any Scene",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://image2videoai.app",
+          "source_position": 10,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 10 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    },
+    "caa62d92350d8fa46bffd4ab20665cf8ab129c617928c092c26ee4b37816868b": {
+      "id": "caa62d92350d8fa46bffd4ab20665cf8ab129c617928c092c26ee4b37816868b",
+      "keyword": "image to video ai",
+      "device": "mobile",
+      "profile": {
+        "engine": "google",
+        "google_domain": "google.com",
+        "gl": "us",
+        "hl": "en",
+        "location": "United States",
+        "depth": 10,
+        "ranking": "organic-url-sequence-v2-direct-links"
+      },
+      "captured_at": "2026-11-14T07:37:54.261Z",
+      "status": "incomplete",
+      "requests": 1,
+      "results": [],
+      "pages": [
+        {
+          "start": 0,
+          "search_id": "6af80fd285f8c6347593c696",
+          "source_created_at": "2026-11-14 07:37:54 UTC",
+          "organic_count": 9
+        }
+      ],
+      "observations": [
+        {
+          "title": "AI Image to Video Generator for Photos and Motion",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://aiimage2video.com",
+          "source_position": 1,
+          "source_start": 0
+        },
+        {
+          "title": "Image To Video Generator: Turn Photos Into Videos With AI",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.photoleapapp.com",
+          "source_position": 2,
+          "source_start": 0
+        },
+        {
+          "title": "https://posevid.com/app/image-to-video",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://posevid.com",
+          "source_position": 3,
+          "source_start": 0
+        },
+        {
+          "title": "Image to Video AI Generator: Turn Any Photo into Video, Free Online 2026 | imagetovideo.io",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://imagetovideo.io",
+          "source_position": 4,
+          "source_start": 0
+        },
+        {
+          "title": "8 Best Free AI Image-to-Video Generators Online in 2026",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.media.io",
+          "source_position": 5,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Image to Video Generator | Animate Images into Videos FREE (2026 Step by Step Tutorial)",
+          "url": null,
+          "domain": null,
+          "displayed_link": null,
+          "source_position": 6,
+          "source_start": 0
+        },
+        {
+          "title": "Free AI Video Generator | Turn Text and Images into AI Videos",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://genape.ai",
+          "source_position": 7,
+          "source_start": 0
+        },
+        {
+          "title": "Image to Video",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://moxilo.ai",
+          "source_position": 8,
+          "source_start": 0
+        },
+        {
+          "title": "18 AI Image to Video Generator For Long Content – Try Now",
+          "url": null,
+          "domain": null,
+          "displayed_link": "https://www.vidau.ai",
+          "source_position": 9,
+          "source_start": 0
+        }
+      ],
+      "error_code": "unresolved_google_redirect",
+      "error": "SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。"
+    }
+  },
+  "updated_at": "2026-11-14T07:37:54.843Z"
+}

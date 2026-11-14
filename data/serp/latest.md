@@ -1,8 +1,8 @@
-# Google SERP 前十日报｜2026-11-13
+# Google SERP 前十日报｜2026-11-14
 
 市场：us / en；定位：United States；设备：桌面端、移动端分别统计。
-生成时间：2026-11-13T07:59:10.623Z（UTC）；日报日期按 Asia/Shanghai 划分。
-有效采集：1/6 组；可与昨天对比：0/6 组；本次请求 9 次；复用今日成功组 0 组。
+生成时间：2026-11-14T07:37:54.843Z（UTC）；日报日期按 Asia/Shanghai 划分。
+有效采集：0/6 组；可与昨天对比：0/6 组；本次请求 6 次；复用今日成功组 0 组。
 
 口径：依次统计自然结果中的前十个不同 URL；排除广告、AI Overview、视频轮播和子链接。仅移除片段和常见追踪参数，不合并不同页面。
 排名是固定搜索环境下的采集快照，不代表所有美国用户看到的结果；前十以外的具体名次未知。
@@ -14,128 +14,110 @@
 
 ## ai video generator｜桌面端
 
-对比状态：昨天采集不完整；今日结果有效，变化不计算。
+**数据缺失或不完整：SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
 
-**aireel.net：未进入前十（范围外名次未知）。**
+以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。
 
-| 今日 | 昨日 | 变化 | 域名 | 标题 | URL |
-|---:|---:|---|---|---|---|
-| 1 | — | 不可对比 | canva.com | AI Video Generator: Text to Video AI Tool | [https://www.canva.com/features/ai-video-generator/](<https://www.canva.com/features/ai-video-generator/>) |
-| 2 | — | 不可对比 | invideo.io | Free AI Video Generator | [https://invideo.io/make/ai-video-generator/](<https://invideo.io/make/ai-video-generator/>) |
-| 3 | — | 不可对比 | higgsfield.ai | AI Video Generator - Kling, Veo, Seedance &amp; More | [https://higgsfield.ai/ai-video](<https://higgsfield.ai/ai-video>) |
-| 4 | — | 不可对比 | openart.ai | AI Video Generator - Create Videos with Kling, Seedance &amp; ... | [https://openart.ai/ai-video-generator/](<https://openart.ai/ai-video-generator/>) |
-| 5 | — | 不可对比 | adobe.com | Free AI Video Generator &#124; Adobe Firefly | [https://www.adobe.com/products/firefly/features/ai-video-generator.html](<https://www.adobe.com/products/firefly/features/ai-video-generator.html>) |
-| 6 | — | 不可对比 | picsart.com | AI Video Generator - Create Videos from Text with 85 AI ... | [https://picsart.com/ai-video-generator/](<https://picsart.com/ai-video-generator/>) |
-| 7 | — | 不可对比 | runway.com | AI Video Generator | [https://runway.com/product/ai-video-generator](<https://runway.com/product/ai-video-generator>) |
-| 8 | — | 不可对比 | kling.ai | AI Video Generator: Create Cinematic Videos with Kling 4.0 | [https://kling.ai/feature/ai-video-generator](<https://kling.ai/feature/ai-video-generator>) |
-| 9 | — | 不可对比 | deevid.ai | Free AI Video Generator: Create Amazing Videos with AI | [https://deevid.ai/](<https://deevid.ai/>) |
-| 10 | — | 不可对比 | apps.apple.com | VideoGPT - AI Video Generator - App Store - Apple | [https://apps.apple.com/us/app/videogpt-ai-video-generator/id6451396274](<https://apps.apple.com/us/app/videogpt-ai-video-generator/id6451396274>) |
+| 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |
+|---|---|---|---|
+| 0 / 1 | Open the maker - AI Video Maker | 未解析 | https://www.aivideomaker.com › generate |
+| 0 / 2 | VideoTube: Turn Long Videos into Viral Shorts with AI Online ... | 未解析 | https://videotube.ai |
+| 0 / 3 | VideoGenio &#124; AI Video from Text and Images | 未解析 | https://videogenio.com |
+| 0 / 4 | Free AI Video Generator - Create Videos from Text Online | 未解析 | https://aisnapedit.com › AI Video |
+| 0 / 5 | Top 11 AI Video Generators to Use in 2025 | 未解析 | https://www.animotica.com › blog › ai-video-generators |
+| 0 / 6 | Best AI Video Generator in 2026: Top Text-to-Video &amp; AI ... | 未解析 | https://www.techimply.com › blog › ai-video-generator-... |
+| 0 / 7 | List of Top Free AI Video Generator Software | 未解析 | https://www.softwareworld.co › Software |
+| 0 / 8 | Free Image to Video AI Generator Online &#124; VeeGen | 未解析 | https://veegen.ai |
+| 0 / 9 | Free AI YouTube Video Idea Generator | 未解析 | https://vidiq.com › ai-video-ideas-generator |
 
 ## ai video generator｜移动端
 
-**数据缺失或不完整：SerpApi 返回 1 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
+**数据缺失或不完整：SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
 
 以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。
 
 | 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |
 |---|---|---|---|
-| 0 / 1 | Google Video | [https://video.google.com/](<https://video.google.com/>) | https://video.google.com |
-| 0 / 2 | Video | [https://en.wikipedia.org/wiki/Video](<https://en.wikipedia.org/wiki/Video>) | https://en.wikipedia.org |
-| 0 / 3 | Video Series Walks Elected Officials through Governmental Financial Reports | [https://www.gasb.org/train](<https://www.gasb.org/train>) | https://www.gasb.org |
-| 0 / 4 | ICERM - Video Archive - Brown University | [https://icerm.brown.edu/video\_archive](<https://icerm.brown.edu/video_archive>) | https://icerm.brown.edu |
-| 0 / 5 | OFAC Video Series &#124; Office of Foreign Assets Control | [https://ofac.treasury.gov/ofac-video-series](<https://ofac.treasury.gov/ofac-video-series>) | https://ofac.treasury.gov |
-| 0 / 6 | Into the Breach Video Series | [https://www.kofc.org/live-your-faith/into-the-breach-video-series/](<https://www.kofc.org/live-your-faith/into-the-breach-video-series/>) |  |
-| 0 / 7 | How the Matching Algorithm Works | [https://www.nrmp.org/intro-to-the-match/how-matching-algorithm-works/](<https://www.nrmp.org/intro-to-the-match/how-matching-algorithm-works/>) |  |
-| 0 / 8 | Rev up your CarPlay app - WWDC26 - Videos | [https://developer.apple.com/videos/play/wwdc2026/212/](<https://developer.apple.com/videos/play/wwdc2026/212/>) |  |
-| 10 / 1 | AI Motion Graphics &amp; Video Generator &#124; motionvid.ai | [https://motionvid.ai/](<https://motionvid.ai/>) | https://motionvid.ai |
-| 10 / 2 | Free AI Video Generator - Create Videos from Text Online &#124; AISnapEdit | [https://aisnapedit.com/ai-video/tools/ai-video-generator](<https://aisnapedit.com/ai-video/tools/ai-video-generator>) | https://aisnapedit.com |
-| 10 / 3 | Google AI Studio Video Generator: Create AI Videos Free | [https://magiclight.ai/tools/model/google-ai-studio-video-generator/](<https://magiclight.ai/tools/model/google-ai-studio-video-generator/>) | https://magiclight.ai |
-| 10 / 4 | List of Top Free AI Video Generator Software - Oct 2026 Reviews | [https://www.softwareworld.co/free-ai-video-generator-software/](<https://www.softwareworld.co/free-ai-video-generator-software/>) | https://www.softwareworld.co |
-| 10 / 5 | Free AI Video Generator Online &#124; One Idea, Multiple Models | [https://genvideo.app/](<https://genvideo.app/>) | https://genvideo.app |
-| 10 / 6 | 7 Best AI Video Generators: Make Attention-grabbing Content Easily | [https://www.pippit.ai/resource/best-ai-video-generators](<https://www.pippit.ai/resource/best-ai-video-generators>) | https://www.pippit.ai |
-| 10 / 7 | Make Videos in 5 Minutes! How to Use VideoGen AI (Best Free AI Video Maker Review) | 未解析 |  |
-| 10 / 8 | Adobe's free AI video generator is here - how to try it out | [https://www.zdnet.com/article/adobes-free-ai-video-generator-is-here-how-to-try-it-out/](<https://www.zdnet.com/article/adobes-free-ai-video-generator-is-here-how-to-try-it-out/>) | https://www.zdnet.com |
-| 10 / 9 | Free AI YouTube Video Idea Generator | [https://vidiq.com/ai-video-ideas-generator/](<https://vidiq.com/ai-video-ideas-generator/>) | https://vidiq.com |
-| 10 / 10 | AI Video Generator | [https://perchance.org/vido](<https://perchance.org/vido>) | https://perchance.org |
+| 0 / 1 | Open the maker - AI Video Maker | 未解析 | https://www.aivideomaker.com |
+| 0 / 2 | Free AI Video Generator - Create Stunning Videos from Text and Images | 未解析 | https://www.plugger.ai |
+| 0 / 3 | VideoTube: Turn Long Videos into Viral Shorts with AI Online Free | 未解析 | https://videotube.ai |
+| 0 / 4 | Top 11 AI Video Generators to Use in 2025 | 未解析 | https://www.animotica.com |
+| 0 / 5 | VideoGenio &#124; AI Video from Text and Images | 未解析 | https://videogenio.com |
+| 0 / 6 | 5 AI Video Generators to Create Videos from Text - MiniTool MovieMaker | 未解析 | https://moviemaker.minitool.com |
+| 0 / 7 | AI Video Generator | 未解析 | https://perchance.org |
+| 0 / 8 | Free AI Video Maker, 9 Models in One Platform | 未解析 | https://gvideo.ai |
+| 0 / 9 | AI video generation from text | 未解析 | https://picai.com |
 
 ## ai image generator｜桌面端
 
-**数据缺失或不完整：SerpApi 返回 3 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
+**数据缺失或不完整：SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
 
 以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。
 
 | 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |
 |---|---|---|---|
-| 0 / 1 | Free AI Image Generator: Text to Image, Photos &amp; Art | 未解析 | https://higgsfield.ai › ai-image |
-| 0 / 2 | Free AI Image Generator: Text to Image | 未解析 | https://www.canva.com › ai-image-generator |
-| 0 / 3 | AI Image Generator | [https://deepai.org/machine-learning-model/text2img](<https://deepai.org/machine-learning-model/text2img>) | https://deepai.org › machine-learning-model |
-| 0 / 4 | AI Image Generator - Create Free Text to Images with 30+ ... | [https://www.imagine.art/ai-image-generator](<https://www.imagine.art/ai-image-generator>) | https://www.imagine.art › ai-image-generator |
-| 0 / 5 | Free Online AI Text to Image Generator &#124; Adobe Firefly | [https://www.adobe.com/products/firefly/features/text-to-image.html](<https://www.adobe.com/products/firefly/features/text-to-image.html>) | https://www.adobe.com › products › firefly › features |
-| 0 / 6 | Free AI Image Generator - Bing Image Creator | [https://www.bing.com/images/create/ai-image-generator](<https://www.bing.com/images/create/ai-image-generator>) | https://www.bing.com › images › create › ai-image-gen... |
-| 0 / 7 | AI Image Generator - Picsart | [https://picsart.com/ai-image-generator/](<https://picsart.com/ai-image-generator/>) | https://picsart.com › Image |
-| 0 / 8 | AI Image Generator (free, no sign-up, unlimited) | 未解析 | https://perchance.org › ai-text-to-image-generator |
-| 0 / 9 | Create Custom AI Images From Your Photos | [https://gemini.google.com/images](<https://gemini.google.com/images>) | https://gemini.google.com › images |
+| 0 / 1 | https://www.imgfixai.com/ai-image-generator | 未解析 | https://www.imgfixai.com › ai-image-generator |
+| 0 / 2 | 17 Best AI Image Generators in 2026 (Free and Paid Options) | 未解析 | https://piktochart.com › Learn › Learn Design Principles |
+| 0 / 3 | Best AI Image Generators for Your Designing Needs | 未解析 | https://nestify.io › blog › best-ai-image-generators-for-... |
+| 0 / 4 | VisualGPT: Free AI Creative Suite for E-Commerce &amp; ... | 未解析 | https://visualgpt.io |
+| 0 / 5 | https://lumenor.ai/ai-image-generator/ | 未解析 | https://lumenor.ai › ai-image-generator |
+| 0 / 6 | I tested this viral AI image generator, and it does text well | 未解析 | https://www.zdnet.com › ... › Artificial Intelligence |
+| 0 / 7 | AI ARTGEN — A fast, free, unlimited AI image generator | 未解析 | https://perchance.org › ai-artgen |
+| 0 / 8 | AI Image Generator &#124; ImageGen AI: Create AI Images &amp; Photos ... | 未解析 | https://imagegenerator.raymish.com |
+| 0 / 9 | AI Image Generator | 未解析 | https://tinywow.com › image › ai-image-generator |
 
 ## ai image generator｜移动端
 
-**数据缺失或不完整：SerpApi 返回 2 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
+**数据缺失或不完整：SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
 
 以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。
 
 | 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |
 |---|---|---|---|
-| 0 / 1 | Free AI Image Generator: Text to Image, Photos &amp; Art | [https://higgsfield.ai/ai-image](<https://higgsfield.ai/ai-image>) | https://higgsfield.ai |
-| 0 / 2 | Free AI Image Generator: Text to Image | [https://www.canva.com/ai-image-generator/](<https://www.canva.com/ai-image-generator/>) | https://www.canva.com |
-| 0 / 3 | AI Image Generator - Create Free Text to Images with 30+ Models | [https://www.imagine.art/ai-image-generator](<https://www.imagine.art/ai-image-generator>) | https://www.imagine.art |
-| 0 / 4 | AI Image Generator | [https://deepai.org/machine-learning-model/text2img](<https://deepai.org/machine-learning-model/text2img>) | https://deepai.org |
-| 0 / 5 | Free Online AI Text to Image Generator &#124; Adobe Firefly | 未解析 | https://www.adobe.com |
-| 0 / 6 | AI Image Generator | 未解析 | https://deevid.ai |
-| 0 / 7 | AI Image Generator (free, no sign-up, unlimited) | [https://perchance.org/ai-text-to-image-generator](<https://perchance.org/ai-text-to-image-generator>) | https://perchance.org |
-| 0 / 8 | Free AI Image Generator - Bing Image Creator | [https://www.bing.com/images/create/ai-image-generator](<https://www.bing.com/images/create/ai-image-generator>) | https://www.bing.com |
-| 0 / 9 | Create Custom AI Images From Your Photos | [https://gemini.google.com/images](<https://gemini.google.com/images>) | https://gemini.google.com |
+| 0 / 1 | https://www.imgfixai.com/ai-image-generator | 未解析 | https://www.imgfixai.com |
+| 0 / 2 | 17 Best AI Image Generators in 2026 (Free and Paid Options) | 未解析 | https://piktochart.com |
+| 0 / 3 | Best AI Image Generators for Your Designing Needs: 2024 Edition | 未解析 | https://nestify.io |
+| 0 / 4 | AI Image Generator - Text to Image - Turn Text into Stunning Art | 未解析 | https://redpandaai.com |
+| 0 / 5 | AI Image Generator &#124; ImageGen AI: Create AI Images &amp; Photos in Seconds | 未解析 | https://imagegenerator.raymish.com |
+| 0 / 6 | I tested this viral AI image generator, and it does text well - finally! Try it for free | 未解析 | https://www.zdnet.com |
+| 0 / 7 | Free AI Image Generator | 未解析 | https://www.seedance.ai |
+| 0 / 8 | The 13+ Best AI Image Generators (2024) | 未解析 | https://www.insidr.ai |
+| 0 / 9 | https://lumenor.ai/ai-image-generator/ | 未解析 | https://lumenor.ai |
 
 ## image to video ai｜桌面端
 
-**数据缺失或不完整：SerpApi 返回 1 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
+**数据缺失或不完整：SerpApi 返回 10 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
 
 以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。
 
 | 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |
 |---|---|---|---|
-| 0 / 1 | Free Image to Video AI Generator | [https://deevid.ai/image-to-video](<https://deevid.ai/image-to-video>) | https://deevid.ai › image-to-video |
-| 0 / 2 | Free AI Image to Video Generator | [https://www.veed.io/tools/image-to-video-ai](<https://www.veed.io/tools/image-to-video-ai>) | https://www.veed.io › VEED Tools |
-| 0 / 3 | Free Online Image to Video AI &#124; Adobe Firefly | [https://www.adobe.com/products/firefly/features/image-to-video.html](<https://www.adobe.com/products/firefly/features/image-to-video.html>) | https://www.adobe.com › products › firefly › features |
-| 0 / 4 | Free online image to video AI generator | [https://www.canva.com/ai-image-to-video/](<https://www.canva.com/ai-image-to-video/>) | https://www.canva.com › ai-image-to-video |
-| 0 / 5 | Free Image to Video AI Generator, Animate Any Photo | [https://www.heygen.com/tool/image-to-video](<https://www.heygen.com/tool/image-to-video>) | https://www.heygen.com › Tool |
-| 0 / 6 | Free Image to Video AI Generator | [https://viggle.ai/tools/image-to-video-ai](<https://viggle.ai/tools/image-to-video-ai>) | https://viggle.ai › tools › image-to-video-ai |
-| 0 / 7 | Free Image to Video AI Generator Online (No Sign Up) | [https://magichour.ai/products/image-to-video](<https://magichour.ai/products/image-to-video>) | https://magichour.ai › Tools |
-| 0 / 8 | Gemini Omni – Create &amp; edit videos as easy as having a ... | [https://gemini.google/overview/video-generation/](<https://gemini.google/overview/video-generation/>) | https://gemini.google › overview › video-generation |
-| 0 / 9 | Image to Video AI for Fast Photo Animation and Campaign ... | [https://pixverse.ai/en/product/image-to-video](<https://pixverse.ai/en/product/image-to-video>) | https://pixverse.ai › product › image-to-video |
-| 10 / 1 | AI Image to Video Generator - Free Online, No Watermark | [https://myedit.online/en/video-editor/image-to-video](<https://myedit.online/en/video-editor/image-to-video>) | https://myedit.online › Home › MyEdit Video |
-| 10 / 2 | Free AI Image to Video Generator - JoyPix AI | 未解析 | https://www.joypix.ai › image-to-video |
-| 10 / 3 | Image to Video AI Generator FREE! Turn ANY Photo into VIRAL ... | [https://www.youtube.com/watch?v=JhINtoQGtAw](<https://www.youtube.com/watch?v=JhINtoQGtAw>) | 200+ views |
-| 10 / 4 | AI Image to Video Generator | [https://ideart.ai/image-to-video](<https://ideart.ai/image-to-video>) | https://ideart.ai › AI Image and Video Tools |
-| 10 / 5 | Online Image to Video AI Generator | [https://www.capcut.com/tools/image-to-video-ai](<https://www.capcut.com/tools/image-to-video-ai>) | https://www.capcut.com › Blog › Tools › Video |
-| 10 / 6 | AI Image to Video Generator &#124; VioEvo | [https://www.vioevo.com/image-to-video](<https://www.vioevo.com/image-to-video>) | https://www.vioevo.com › image-to-video |
-| 10 / 7 | MindVideo AI: All-in-One AI Video Generator &amp; Creative Platform | [https://www.mindvideo.ai/](<https://www.mindvideo.ai/>) | https://www.mindvideo.ai |
-| 10 / 8 | Turn Image Into Video AI | [https://freyavideo.com/turn-image-into-video-ai](<https://freyavideo.com/turn-image-into-video-ai>) | https://freyavideo.com › turn-image-into-video-ai |
-| 10 / 9 | AI Image to Video: Animate Any Picture with Kling and Veo | [https://www.tryleap.ai/tools/image-to-video](<https://www.tryleap.ai/tools/image-to-video>) | https://www.tryleap.ai › tools › image-to-video |
+| 0 / 1 | Image to Video - BlinklyAI | 未解析 | https://www.blinklyai.com › ai-video-generator › image-... |
+| 0 / 2 | https://posevid.com/app/image-to-video | 未解析 | https://posevid.com › app › image-to-video |
+| 0 / 3 | Best AI Video Generator Free Online &#124; Image2Video.ai | 未解析 | https://image2video.ai › AI Generator |
+| 0 / 4 | Image to Video | 未解析 | https://moxilo.ai › image-to-video |
+| 0 / 5 | Image to Video AI Generator: Turn Any Photo into Video, Free ... | 未解析 | https://imagetovideo.io |
+| 0 / 6 | AI Image to Video Generator for Photos and Motion | 未解析 | https://aiimage2video.com |
+| 0 / 7 | Image to Video AI Generator | 未解析 | https://virbo.wondershare.com › ai-video-generator-from... |
+| 0 / 8 | ImagineToVideo: AI Image to Video &amp; Text to Video Generator ... | 未解析 | https://imaginetovideo.com |
+| 0 / 9 | Best AI Photo to Video Generator: Free &amp; Paid Tools ... | 未解析 | https://www.vidau.ai › ai-photo-to-video-generator |
+| 0 / 10 | Image2Video AI — Photo to Video AI: Any Photo, Any Scene | 未解析 | https://image2videoai.app |
 
 ## image to video ai｜移动端
 
-**数据缺失或不完整：SerpApi 返回 2 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
+**数据缺失或不完整：SerpApi 返回 9 条未解析的 Google 跳转链接；无法确认真实 URL，不计算前十或排名变化。等待数据源恢复后自动重试。**
 
 以下为本次返回的部分结果，仅供核对；页面位置不是已确认的前十排名，未解析项不推测目标 URL。
 
 | 分页起点 / 页面位置 | 标题 | 真实 URL | Google 显示路径 |
 |---|---|---|---|
-| 0 / 1 | Frame to Video | [https://openart.ai/suite/animate-video](<https://openart.ai/suite/animate-video>) | https://openart.ai |
-| 0 / 2 | Photo to Video AI Generator - Animate Images Free &#124; DomoAI | 未解析 | https://www.domoai.app |
-| 0 / 3 | Free Image to Video AI Generator Online with Audio | [https://www.vidpexai.com/image-to-video](<https://www.vidpexai.com/image-to-video>) | https://www.vidpexai.com |
-| 0 / 4 | AI Image-to-Video Generator | [https://www.cutout.pro/image-to-video](<https://www.cutout.pro/image-to-video>) | https://www.cutout.pro |
-| 0 / 5 | Free Image to Video AI: Animate Photos, 15+ Models | 未解析 | https://fliki.ai |
-| 0 / 6 | Imgveo AI - Free AI Video Generator &#124; Text to Video &amp; Image to Video | [https://imgveo.com/](<https://imgveo.com/>) | https://imgveo.com |
-| 0 / 7 | Image to Video AI: Animate Photos | [https://www.bandicam.com/image-to-video/?srsltid=AYCX9vJaFpeO3WbikNu8f-AayQjE3IlQCh1UuP06Mr1l6CNrA6gjrR\_o](<https://www.bandicam.com/image-to-video/?srsltid=AYCX9vJaFpeO3WbikNu8f-AayQjE3IlQCh1UuP06Mr1l6CNrA6gjrR_o>) | https://www.bandicam.com |
-| 0 / 8 | Online Image to Video AI Generator | [https://www.capcut.com/tools/image-to-video-ai](<https://www.capcut.com/tools/image-to-video-ai>) | https://www.capcut.com |
-| 0 / 9 | AI Image to Video Generator Free Online | [https://www.noviai.ai/image-to-video-ai/](<https://www.noviai.ai/image-to-video-ai/>) | https://www.noviai.ai |
+| 0 / 1 | AI Image to Video Generator for Photos and Motion | 未解析 | https://aiimage2video.com |
+| 0 / 2 | Image To Video Generator: Turn Photos Into Videos With AI | 未解析 | https://www.photoleapapp.com |
+| 0 / 3 | https://posevid.com/app/image-to-video | 未解析 | https://posevid.com |
+| 0 / 4 | Image to Video AI Generator: Turn Any Photo into Video, Free Online 2026 &#124; imagetovideo.io | 未解析 | https://imagetovideo.io |
+| 0 / 5 | 8 Best Free AI Image-to-Video Generators Online in 2026 | 未解析 | https://www.media.io |
+| 0 / 6 | Free AI Image to Video Generator &#124; Animate Images into Videos FREE (2026 Step by Step Tutorial) | 未解析 |  |
+| 0 / 7 | Free AI Video Generator &#124; Turn Text and Images into AI Videos | 未解析 | https://genape.ai |
+| 0 / 8 | Image to Video | 未解析 | https://moxilo.ai |
+| 0 / 9 | 18 AI Image to Video Generator For Long Content – Try Now | 未解析 | https://www.vidau.ai |
 
