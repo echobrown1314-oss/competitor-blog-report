@@ -7,88 +7,9 @@
     "WaveSpeed": [],
     "WeShop AI": [],
     "Atlas Cloud": [],
-    "TopMediai": [
-      {
-        "key": "e239c6713257d82c210425a453b9727c628719e3",
-        "url": "https://www.topmediai.com/video-tips/ai-video-extender/",
-        "date": "2026-11-06T17:44:17+08:00",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "a0c0cba7ea3141a209feba5a46cc89fae80a63b9",
-        "url": "https://www.topmediai.com/video-tips/ai-dance-video-generator/",
-        "date": "2026-11-06T16:31:23+08:00",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      }
-    ],
+    "TopMediai": [],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "63e59385f15459d42afb7960b1d2487b5e952fbe",
-        "url": "https://pollo.ai/hub/ai-anime-video-prompts",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-06T07:52:48.278Z"
-      },
-      {
-        "key": "5ccee6fc04003aa0c1bccaf098a44beb8ea2f55f",
-        "url": "https://pollo.ai/hub/how-to-choose-an-ai-video-workflow-for-different-goals",
-        "date": "Nov 5, 2026",
-        "reportedAt": "2026-11-06T07:52:48.278Z"
-      },
-      {
-        "key": "f83fdd47f3eee6e5f8a79750cf72fd729800dab8",
-        "url": "https://pollo.ai/hub/how-to-use-ai-photo-editor",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "aa87bbcea7ddc2787938ae5a7cebb36da572c6f6",
-        "url": "https://pollo.ai/hub/how-to-face-swap-video",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "e62a92ddd6c41df78238ff6298b03338348ad3f3",
-        "url": "https://pollo.ai/hub/how-to-restore-old-photos",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "4c74870cc849fce7076a1617207bfc96ab6ca7f3",
-        "url": "https://pollo.ai/hub/how-to-make-an-ai-video-with-voiceover-sound-effects-and-music",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "09cca7d9bbb0abc63a7fe7ffe28b124d8f6b9499",
-        "url": "https://pollo.ai/hub/ai-fashion-runway-video-prompts",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "2aedfcc874046b66ec13c9d21785834119ee0efb",
-        "url": "https://pollo.ai/hub/ai-ecommerce-video-ads-product-photo-prompts",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "07afef13cbca758ab432849bb5a771e2e97cbc3d",
-        "url": "https://pollo.ai/hub/best-ai-video-upscalers",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "165dac8274b941626f3fe0ca5ca995fcf74ce84d",
-        "url": "https://pollo.ai/hub/best-ai-image-upscaler",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "02de922fef56ebbc63825a0bd52662b1cab20301",
-        "url": "https://pollo.ai/hub/how-to-upscale-your-image-with-ai",
-        "date": "Nov 6, 2026",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
       {
         "key": "d5881b6aa57b7d7580a820e7e567a4e67098e5b7",
         "url": "https://pollo.ai/hub/ai-fashion-video-prompts-clothing-campaigns",
@@ -220,39 +141,39 @@
         "url": "https://pollo.ai/hub/how-to-restore-old-photos",
         "date": "Nov 11, 2026",
         "reportedAt": "2026-11-12T08:12:42.047Z"
+      },
+      {
+        "key": "d1dedacb4abbbc7f3baecda248212d067308ef8f",
+        "url": "https://pollo.ai/hub/video-to-video-ai-for-social-media-content",
+        "date": "Nov 14, 2026",
+        "reportedAt": "2026-11-14T07:32:48.677Z"
+      },
+      {
+        "key": "5e054d3d1526685ce6eee9319e6418b34544dcb6",
+        "url": "https://pollo.ai/hub/how-to-preserve-motion-in-video-to-video-ai",
+        "date": "Nov 14, 2026",
+        "reportedAt": "2026-11-14T07:32:48.677Z"
+      },
+      {
+        "key": "641c5e49971d2c6569086940b6b9917be2b9a4b9",
+        "url": "https://pollo.ai/hub/how-to-restyle-video-with-ai",
+        "date": "Nov 14, 2026",
+        "reportedAt": "2026-11-14T07:32:48.677Z"
+      },
+      {
+        "key": "7619509418387d2c7b9183a89fcecfd38d523c07",
+        "url": "https://pollo.ai/hub/video-to-video-ai-prompt-guide",
+        "date": "Nov 14, 2026",
+        "reportedAt": "2026-11-14T07:32:48.677Z"
+      },
+      {
+        "key": "83835103698b321c8a04e923970724881adde5ea",
+        "url": "https://pollo.ai/hub/how-to-use-video-to-video-ai",
+        "date": "Nov 14, 2026",
+        "reportedAt": "2026-11-14T07:32:48.677Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "aa35b4581bf762ad8563c8ea97bb6115702fc8af",
-        "url": "https://higgsfield.ai/blog/best-ai-image-models-fashion-brand-content-2026",
-        "date": "2026-11-05T14:46:00.000Z",
-        "reportedAt": "2026-11-06T07:52:48.278Z"
-      },
-      {
-        "key": "a1589996a7cac2eb5e84709035c85c50dec9d4af",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-05",
-        "reportedAt": "2026-11-06T07:52:48.278Z"
-      },
-      {
-        "key": "b40a01a78555c6a937e212b440a2ded835d3699c",
-        "url": "https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio",
-        "date": "2026-11-06T17:42:00.000Z",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "f45ef7232efe96f538df3c8312d2c8292ad97c1c",
-        "url": "https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026",
-        "date": "2026-11-06T11:23:00.000Z",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
-      {
-        "key": "2f7e99fe30fdd9d5ada63694d19bc2d4ac9d9b60",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-06",
-        "reportedAt": "2026-11-07T07:01:54.113Z"
-      },
       {
         "key": "cb63351173e416bb66224cfeaf37288b5ab77385",
         "url": "https://higgsfield.ai/blog/best-affordable-ai-video-generators",
@@ -348,6 +269,12 @@
         "url": "https://higgsfield.ai/blog/scale-ai-video-production-for-clients",
         "date": "2026-11-12T11:38:00.000Z",
         "reportedAt": "2026-11-13T07:51:17.282Z"
+      },
+      {
+        "key": "b92f9c03d6ae11bc720df20265ba343f93892634",
+        "url": "https://higgsfield.ai/blog/generate-ai-videos-chatgpt-2026",
+        "date": "2026-11-13T15:25:00.000Z",
+        "reportedAt": "2026-11-14T07:32:48.677Z"
       }
     ]
   }
