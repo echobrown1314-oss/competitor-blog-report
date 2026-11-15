@@ -171,27 +171,15 @@
         "url": "https://pollo.ai/hub/how-to-use-video-to-video-ai",
         "date": "Nov 14, 2026",
         "reportedAt": "2026-11-14T07:32:48.677Z"
+      },
+      {
+        "key": "02f20df03b1375f0d8802282628d7e1746692455",
+        "url": "https://pollo.ai/hub/image-to-video-vs-video-to-video",
+        "date": "Nov 14, 2026",
+        "reportedAt": "2026-11-15T07:47:40.979Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "cb63351173e416bb66224cfeaf37288b5ab77385",
-        "url": "https://higgsfield.ai/blog/best-affordable-ai-video-generators",
-        "date": "2026-11-07T17:34:00.000Z",
-        "reportedAt": "2026-11-08T07:14:07.783Z"
-      },
-      {
-        "key": "4213d302ff65607d440750f439cca7124f376f90",
-        "url": "https://higgsfield.ai/blog/best-ai-animation-platforms-2026",
-        "date": "2026-11-07T16:09:00.000Z",
-        "reportedAt": "2026-11-08T07:14:07.783Z"
-      },
-      {
-        "key": "e8ed491e3953d548ba1e2973e5fd8f58e607b9b0",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-07",
-        "reportedAt": "2026-11-08T07:14:07.783Z"
-      },
       {
         "key": "ac80d100fc4baa268df186c38d02f8a4bf1f5e78",
         "url": "https://higgsfield.ai/blog/tools-for-consistent-ai-characters",
@@ -275,6 +263,18 @@
         "url": "https://higgsfield.ai/blog/generate-ai-videos-chatgpt-2026",
         "date": "2026-11-13T15:25:00.000Z",
         "reportedAt": "2026-11-14T07:32:48.677Z"
+      },
+      {
+        "key": "c9a406c4d8661a8e3821224fe7e4732eb07ff161",
+        "url": "https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp",
+        "date": "2026-11-14T21:05:00.000Z",
+        "reportedAt": "2026-11-15T07:47:40.979Z"
+      },
+      {
+        "key": "b8be51e4d617b84e97378330178a7f0015824140",
+        "url": "https://higgsfield.ai/blog/news",
+        "date": "2026-11-14",
+        "reportedAt": "2026-11-15T07:47:40.979Z"
       }
     ]
   }

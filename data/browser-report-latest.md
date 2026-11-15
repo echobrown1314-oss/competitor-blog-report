@@ -1,15 +1,12 @@
 # 竞品博客监测日报
 
-生成时间：2026/11/14 15:32（上海）
+生成时间：2026/11/15 15:47（上海）
 
-新增文章总数：6
+新增文章总数：3
 
-## Pollo AI（5）
-- [Just a moment...](https://pollo.ai/hub/video-to-video-ai-for-social-media-content) | Nov 14, 2026
-- [Just a moment...](https://pollo.ai/hub/how-to-preserve-motion-in-video-to-video-ai) | Nov 14, 2026
-- [Just a moment...](https://pollo.ai/hub/how-to-restyle-video-with-ai) | Nov 14, 2026
-- [Just a moment...](https://pollo.ai/hub/video-to-video-ai-prompt-guide) | Nov 14, 2026
-- [Just a moment...](https://pollo.ai/hub/how-to-use-video-to-video-ai) | Nov 14, 2026
+## Pollo AI（1）
+- [Just a moment...](https://pollo.ai/hub/image-to-video-vs-video-to-video) | Nov 14, 2026
 
-## Higgsfield（1）
-- [How to Make AI Videos Directly in ChatGPT (Full Guide)](https://higgsfield.ai/blog/generate-ai-videos-chatgpt-2026) | 2026-11-13T15:25:00.000Z
+## Higgsfield（2）
+- [Higgsfield Becomes the Most Adopted Image & Video AI Platform on Ramp](https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp) | 2026-11-14T21:05:00.000Z
+- [News — articles from the Higgsfield blog](https://higgsfield.ai/blog/news) | 2026-11-14
