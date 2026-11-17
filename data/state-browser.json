@@ -4,36 +4,85 @@
     "MindVideo": [],
     "Topview": [],
     "DataCamp": [],
-    "WaveSpeed": [],
+    "WaveSpeed": [
+      {
+        "key": "644176c0ee7e5c2b33a750d28a41dc59ca18155f",
+        "url": "https://wavespeed.ai/blog/posts/ai-video-generation-models-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "cacc305ebd640f4f9ddd1eb926cf0b7853f7a0eb",
+        "url": "https://wavespeed.ai/blog/posts/best-ai-image-generators-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "22d6db4be7dd7c480de300fc24ed8f594b691f4d",
+        "url": "https://wavespeed.ai/blog/posts/best-free-ai-avatar-generators-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "f85159daba09fd8cba0d64e4cd8920406ab23425",
+        "url": "https://wavespeed.ai/blog/posts/best-free-ai-face-swapper-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "c187375888e7dec5c960fe7833b783d722c509b4",
+        "url": "https://wavespeed.ai/blog/posts/best-free-ai-image-generators-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "6883a2ea7185cb2766748dfbce1ade69356501d8",
+        "url": "https://wavespeed.ai/blog/posts/best-free-ai-video-generators-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "8e7b0275e90e3cbd9bdbc28212906c38db076027",
+        "url": "https://wavespeed.ai/blog/posts/best-hugging-face-inference-alternative-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "1edd91f56752146fc7fe81d7f13627647c254423",
+        "url": "https://wavespeed.ai/blog/posts/best-hunyuan-alternative-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "77594e1b83363ed14bcea412b5ba59d5cf2317f0",
+        "url": "https://wavespeed.ai/blog/posts/best-ideogram-alternative-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "3021c87bd344da5e5004a88ff541bc2040f15a53",
+        "url": "https://wavespeed.ai/blog/posts/best-media-io-alternative-2026-wavespeedai/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "1fef1ce04c5c214877d58eec60e42a49a901b157",
+        "url": "https://wavespeed.ai/blog/posts/best-openrouter-alternative-2026/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "5e1ca5b9849aff038a365805a71b5c62c0a2218c",
+        "url": "https://wavespeed.ai/blog/posts/best-video-face-swap-tools-online/",
+        "date": "2026-11-16",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
+      }
+    ],
     "WeShop AI": [],
     "Atlas Cloud": [],
     "TopMediai": [],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "9f56103e23a0f11f1fb3d6fd6ea01a7ec3ad498f",
-        "url": "https://pollo.ai/hub/best-ai-flyer-generators",
-        "date": "Nov 10, 2026",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
-      {
-        "key": "b05760dc47305a29f2109184850bc4f68f700e52",
-        "url": "https://pollo.ai/hub/best-ai-flyer-generators-free",
-        "date": "Nov 10, 2026",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
-      {
-        "key": "1671638ab7ebb3b2fbeca2cada28e391d682ff89",
-        "url": "https://pollo.ai/hub/best-ai-image-editors-free-unlimited",
-        "date": "Nov 10, 2026",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
-      {
-        "key": "2a0f85ebc1799ec8cadb5292d616f92a30252b83",
-        "url": "https://pollo.ai/hub/ai-food-commercial-prompts",
-        "date": "Nov 9, 2026",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
       {
         "key": "de414fb8ff4ad511dceb7e6310dae2487aacf956",
         "url": "https://pollo.ai/hub/ai-video-prompt-guide-for-marketing-videos",
@@ -163,24 +212,6 @@
     ],
     "Higgsfield": [
       {
-        "key": "ac80d100fc4baa268df186c38d02f8a4bf1f5e78",
-        "url": "https://higgsfield.ai/blog/tools-for-consistent-ai-characters",
-        "date": "2026-11-09T18:37:00.000Z",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
-      {
-        "key": "7c21b35800b8090b9d150e3a6b3896f127a6e7da",
-        "url": "https://higgsfield.ai/blog/higgsfield-vs-adobe-firefly-2026",
-        "date": "2026-11-09T09:43:00.000Z",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
-      {
-        "key": "273e8f5e97d69d3a4801969bbc71cf2d2db3048b",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-09",
-        "reportedAt": "2026-11-10T08:21:34.581Z"
-      },
-      {
         "key": "bc8cde78386f7f402729de156b3bb5254f8a5e7c",
         "url": "https://higgsfield.ai/blog/best-capcut-alternatives-ai-videos-2026",
         "date": "2026-11-10T13:56:00.000Z",
@@ -257,6 +288,12 @@
         "url": "https://higgsfield.ai/blog/news",
         "date": "2026-11-14",
         "reportedAt": "2026-11-15T07:47:40.979Z"
+      },
+      {
+        "key": "2d9e423a8825e334bf6e10f71ee8b619ee94537a",
+        "url": "https://higgsfield.ai/blog/consistent-brand-mascot-ai",
+        "date": "2026-11-16T14:45:00.000Z",
+        "reportedAt": "2026-11-17T09:07:54.038Z"
       }
     ]
   }
