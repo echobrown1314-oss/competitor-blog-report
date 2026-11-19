@@ -80,33 +80,22 @@
     ],
     "WeShop AI": [],
     "Atlas Cloud": [],
-    "TopMediai": [],
+    "TopMediai": [
+      {
+        "key": "8332cb0bd3f54244a177bf36cf2afcda82ded541",
+        "url": "https://www.topmediai.com/video-tips/ai-santa-video/",
+        "date": "2026-11-19T15:21:28+08:00",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "edf8430fdca2decc2696fa99212fc771414a9684",
+        "url": "https://www.topmediai.com/video-tips/grandma-gta-game-video/",
+        "date": "2026-11-19T13:44:19+08:00",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      }
+    ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "a96abb31ac7b9a7d933b9a138b88abb056bcda7b",
-        "url": "https://pollo.ai/hub/what-is-pollo-relight",
-        "date": "Nov 12, 2026",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "8854a467bff4b44e5c1a4b521261b82c9ff4b94d",
-        "url": "https://pollo.ai/hub/how-to-uncrop-images-online",
-        "date": "Nov 11, 2026",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "adf3d5e0e5ca1f9e1881c6ad828c4b41b6c030e5",
-        "url": "https://pollo.ai/hub/how-to-face-swap-video",
-        "date": "Nov 11, 2026",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "28b31dc259fb64392e2a0a22a936905023151a6e",
-        "url": "https://pollo.ai/hub/how-to-restore-old-photos",
-        "date": "Nov 11, 2026",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
       {
         "key": "d1dedacb4abbbc7f3baecda248212d067308ef8f",
         "url": "https://pollo.ai/hub/video-to-video-ai-for-social-media-content",
@@ -148,39 +137,45 @@
         "url": "https://pollo.ai/hub/best-ai-logo-generators",
         "date": "Nov 17, 2026",
         "reportedAt": "2026-11-18T08:28:18.029Z"
+      },
+      {
+        "key": "30a77bd0a6b96f6d3dab4418093dd095af1b57d4",
+        "url": "https://pollo.ai/hub/best-ai-logo-generators",
+        "date": "Nov 19, 2026",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "9c91cdaeb18222ab9b36df137dbd66c54de87481",
+        "url": "https://pollo.ai/hub/best-free-ai-video-upscalers",
+        "date": "Nov 19, 2026",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "62316916bbfe93a836a46c217a41b2a8a781ab9e",
+        "url": "https://pollo.ai/hub/everygen-ai-alternatives",
+        "date": "Nov 18, 2026",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "c3877112b25fb5ed684134d1ada0405ed16e1eb9",
+        "url": "https://pollo.ai/hub/everygen-ai-review",
+        "date": "Nov 18, 2026",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "5b9ec146825005fd1fccccb94e258ea5e6e2c2f8",
+        "url": "https://pollo.ai/hub/best-ai-image-generator-prompts",
+        "date": "Nov 18, 2026",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "a65acd4effa2b28961ac6e3e2586a864b355632f",
+        "url": "https://pollo.ai/hub/best-claude-motion-alternatives",
+        "date": "Nov 18, 2026",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "84014d3ef46fdf0b1be2e40f1842b2bb6b744537",
-        "url": "https://higgsfield.ai/blog/higgsfield-11-11-deals",
-        "date": "2026-11-11T14:31:00.000Z",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "45b060d61da3a428092fa6f9a1c9309b47ad0990",
-        "url": "https://higgsfield.ai/blog/best-image-to-video-ai-generators-2026",
-        "date": "2026-11-11T13:05:00.000Z",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "f7fc581f7d004b0edff71d48a72b555078c1fd95",
-        "url": "https://higgsfield.ai/blog/higgsfield-soc-2-type-ii-gdpr-assessment",
-        "date": "2026-11-11T12:36:00.000Z",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "8675837620727767d6ce1f5ab0b719d82e265139",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-11",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
-      {
-        "key": "0fe1d371e6ed17e8e36b2d884ba85a6fca537188",
-        "url": "https://higgsfield.ai/blog/news",
-        "date": "2026-11-11",
-        "reportedAt": "2026-11-12T08:12:42.047Z"
-      },
       {
         "key": "c6e72e3bf50d81f6db1ef0e3a8c64b19b8bc3202",
         "url": "https://higgsfield.ai/blog/scale-ai-video-production-for-clients",
@@ -228,6 +223,24 @@
         "url": "https://higgsfield.ai/blog/how-to-make-ai-short-drama-series",
         "date": "2026-11-17T18:11:00.000Z",
         "reportedAt": "2026-11-18T08:28:18.029Z"
+      },
+      {
+        "key": "40afe15b23a8720e7f760a72307241619ba76c41",
+        "url": "https://higgsfield.ai/blog/best-ai-tools-restaurant-ads-2026",
+        "date": "2026-11-18T12:13:00.000Z",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "63d2eb0e40923da37e37263ebd6a95f2102f102b",
+        "url": "https://higgsfield.ai/blog/best-artlist-alternatives-ai-video-2026",
+        "date": "2026-11-18T10:29:00.000Z",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
+      },
+      {
+        "key": "59d16ae571440f6cadf3566a59f0772b1bc8ac99",
+        "url": "https://higgsfield.ai/blog/Comparisons",
+        "date": "2026-11-18",
+        "reportedAt": "2026-11-19T08:41:19.030Z"
       }
     ]
   }
