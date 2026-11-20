@@ -1,22 +1,18 @@
 # 竞品博客监测日报
 
-生成时间：2026/11/19 16:41（上海）
+生成时间：2026/11/20 16:27（上海）
 
-新增文章总数：11
+新增文章总数：9
 
-## TopMediai（2）
-- [AI Santa Video Guides: How to Make a Personalized Christmas Greeting](https://www.topmediai.com/video-tips/ai-santa-video/) | 2026-11-19T15:21:28+08:00
-- [Grandma GTA Game Video Breakdown: Prompts Included](https://www.topmediai.com/video-tips/grandma-gta-game-video/) | 2026-11-19T13:44:19+08:00
+## Pollo AI（4）
+- [Just a moment...](https://pollo.ai/hub/best-nsfw-ai-image-generators) | Nov 20, 2026
+- [Just a moment...](https://pollo.ai/hub/best-nsfw-ai-video-generators) | Nov 20, 2026
+- [Just a moment...](https://pollo.ai/hub/best-ai-product-photo-generator) | Nov 19, 2026
+- [Just a moment...](https://pollo.ai/hub/best-script-to-video-ai) | Nov 19, 2026
 
-## Pollo AI（6）
-- [Just a moment...](https://pollo.ai/hub/best-ai-logo-generators) | Nov 19, 2026
-- [Just a moment...](https://pollo.ai/hub/best-free-ai-video-upscalers) | Nov 19, 2026
-- [Just a moment...](https://pollo.ai/hub/everygen-ai-alternatives) | Nov 18, 2026
-- [Just a moment...](https://pollo.ai/hub/everygen-ai-review) | Nov 18, 2026
-- [Just a moment...](https://pollo.ai/hub/best-ai-image-generator-prompts) | Nov 18, 2026
-- [Just a moment...](https://pollo.ai/hub/best-claude-motion-alternatives) | Nov 18, 2026
-
-## Higgsfield（3）
-- [9 Best AI Tools for Restaurant Ads in 2026](https://higgsfield.ai/blog/best-ai-tools-restaurant-ads-2026) | 2026-11-18T12:13:00.000Z
-- [Best Artlist Alternatives for AI Video Generation in 2026](https://higgsfield.ai/blog/best-artlist-alternatives-ai-video-2026) | 2026-11-18T10:29:00.000Z
-- [Comparisons — articles from the Higgsfield blog](https://higgsfield.ai/blog/Comparisons) | 2026-11-18
+## Higgsfield（5）
+- [Higgsfield MCP Moves to CIMD: What Developers Need to Know](https://higgsfield.ai/blog/higgsfield-mcp-moves-to-cimd) | 2026-11-20T00:00:00.000Z
+- [News — articles from the Higgsfield blog](https://higgsfield.ai/blog/news) | 2026-11-20
+- [12 Best AI Face Swap Tools in 2026](https://higgsfield.ai/blog/best-ai-face-swap-tools-2026) | 2026-11-19T18:23:00.000Z
+- [How to Make Restaurant Video Ads with AI (Full Guide)](https://higgsfield.ai/blog/how-to-make-restaurant-video-ads-with-ai) | 2026-11-19T11:43:00.000Z
+- [Comparisons — articles from the Higgsfield blog](https://higgsfield.ai/blog/Comparisons) | 2026-11-19
