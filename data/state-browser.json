@@ -97,36 +97,6 @@
     "JXP": [],
     "Pollo AI": [
       {
-        "key": "d1dedacb4abbbc7f3baecda248212d067308ef8f",
-        "url": "https://pollo.ai/hub/video-to-video-ai-for-social-media-content",
-        "date": "Nov 14, 2026",
-        "reportedAt": "2026-11-14T07:32:48.677Z"
-      },
-      {
-        "key": "5e054d3d1526685ce6eee9319e6418b34544dcb6",
-        "url": "https://pollo.ai/hub/how-to-preserve-motion-in-video-to-video-ai",
-        "date": "Nov 14, 2026",
-        "reportedAt": "2026-11-14T07:32:48.677Z"
-      },
-      {
-        "key": "641c5e49971d2c6569086940b6b9917be2b9a4b9",
-        "url": "https://pollo.ai/hub/how-to-restyle-video-with-ai",
-        "date": "Nov 14, 2026",
-        "reportedAt": "2026-11-14T07:32:48.677Z"
-      },
-      {
-        "key": "7619509418387d2c7b9183a89fcecfd38d523c07",
-        "url": "https://pollo.ai/hub/video-to-video-ai-prompt-guide",
-        "date": "Nov 14, 2026",
-        "reportedAt": "2026-11-14T07:32:48.677Z"
-      },
-      {
-        "key": "83835103698b321c8a04e923970724881adde5ea",
-        "url": "https://pollo.ai/hub/how-to-use-video-to-video-ai",
-        "date": "Nov 14, 2026",
-        "reportedAt": "2026-11-14T07:32:48.677Z"
-      },
-      {
         "key": "02f20df03b1375f0d8802282628d7e1746692455",
         "url": "https://pollo.ai/hub/image-to-video-vs-video-to-video",
         "date": "Nov 14, 2026",
@@ -197,15 +167,27 @@
         "url": "https://pollo.ai/hub/best-script-to-video-ai",
         "date": "Nov 19, 2026",
         "reportedAt": "2026-11-20T08:27:38.550Z"
+      },
+      {
+        "key": "4341ae27651092a6504bac1e4c88da5cce56da70",
+        "url": "https://pollo.ai/hub/how-to-create-a-gta-6-video-without-recording-gameplay",
+        "date": "Nov 20, 2026",
+        "reportedAt": "2026-11-21T08:13:41.791Z"
+      },
+      {
+        "key": "a366f27832ecd3a29d3daa87d97545ff1d953f81",
+        "url": "https://pollo.ai/hub/everygen-ai-alternatives",
+        "date": "Nov 20, 2026",
+        "reportedAt": "2026-11-21T08:13:41.791Z"
+      },
+      {
+        "key": "8cdc9495526b11387c9adb7505651daec4003b10",
+        "url": "https://pollo.ai/hub/best-claude-motion-alternatives",
+        "date": "Nov 20, 2026",
+        "reportedAt": "2026-11-21T08:13:41.791Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "b92f9c03d6ae11bc720df20265ba343f93892634",
-        "url": "https://higgsfield.ai/blog/generate-ai-videos-chatgpt-2026",
-        "date": "2026-11-13T15:25:00.000Z",
-        "reportedAt": "2026-11-14T07:32:48.677Z"
-      },
       {
         "key": "c9a406c4d8661a8e3821224fe7e4732eb07ff161",
         "url": "https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp",
@@ -289,6 +271,24 @@
         "url": "https://higgsfield.ai/blog/Comparisons",
         "date": "2026-11-19",
         "reportedAt": "2026-11-20T08:27:38.550Z"
+      },
+      {
+        "key": "83ca9fa92bbedaf25cdca968218c9e6439b9d9eb",
+        "url": "https://higgsfield.ai/blog/higgsfield-black-friday-market",
+        "date": "2026-11-20T17:56:00.000Z",
+        "reportedAt": "2026-11-21T08:13:41.791Z"
+      },
+      {
+        "key": "1b94ba1aa9645d9d0be38feb3ad0ce980b23bd00",
+        "url": "https://higgsfield.ai/blog/best-ai-tools-for-game-trailers",
+        "date": "2026-11-20T15:08:00.000Z",
+        "reportedAt": "2026-11-21T08:13:41.791Z"
+      },
+      {
+        "key": "c2561cff5a9efb117ac4d064b13347b18335274e",
+        "url": "https://higgsfield.ai/blog/Comparisons",
+        "date": "2026-11-20",
+        "reportedAt": "2026-11-21T08:13:41.791Z"
       }
     ]
   }
