@@ -76,10 +76,29 @@
         "url": "https://wavespeed.ai/blog/posts/best-video-face-swap-tools-online/",
         "date": "2026-11-16",
         "reportedAt": "2026-11-17T09:07:54.038Z"
+      },
+      {
+        "key": "abb0f495a22e4db27e5b42588e2b04004f310e21",
+        "url": "https://wavespeed.ai/blog/posts/ai-video-generation-models-2026/",
+        "date": "2026-11-22",
+        "reportedAt": "2026-11-22T07:57:05.617Z"
+      },
+      {
+        "key": "f5d6ab9cd0c4c40e56fd9d92275109de05ee06a4",
+        "url": "https://wavespeed.ai/blog/posts/longcat-avatar-is-live-on-wavespeedai-ultra-realistic-lip-synced-avatar-videos-up-to-2-minutes/",
+        "date": "2026-11-21",
+        "reportedAt": "2026-11-22T07:57:05.617Z"
       }
     ],
     "WeShop AI": [],
-    "Atlas Cloud": [],
+    "Atlas Cloud": [
+      {
+        "key": "c03bc16e4f516e22fca1f26ea0bb05759fc4baf1",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/security-and-privacy-commitment",
+        "date": "2026-11-22T05:12:23.660Z",
+        "reportedAt": "2026-11-22T07:57:05.617Z"
+      }
+    ],
     "TopMediai": [
       {
         "key": "8332cb0bd3f54244a177bf36cf2afcda82ded541",
@@ -96,12 +115,6 @@
     ],
     "JXP": [],
     "Pollo AI": [
-      {
-        "key": "02f20df03b1375f0d8802282628d7e1746692455",
-        "url": "https://pollo.ai/hub/image-to-video-vs-video-to-video",
-        "date": "Nov 14, 2026",
-        "reportedAt": "2026-11-15T07:47:40.979Z"
-      },
       {
         "key": "5bf7c269e019befb0e8338b41505a58e2f820335",
         "url": "https://pollo.ai/hub/best-ai-logo-generators",
@@ -188,18 +201,6 @@
       }
     ],
     "Higgsfield": [
-      {
-        "key": "c9a406c4d8661a8e3821224fe7e4732eb07ff161",
-        "url": "https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp",
-        "date": "2026-11-14T21:05:00.000Z",
-        "reportedAt": "2026-11-15T07:47:40.979Z"
-      },
-      {
-        "key": "b8be51e4d617b84e97378330178a7f0015824140",
-        "url": "https://higgsfield.ai/blog/news",
-        "date": "2026-11-14",
-        "reportedAt": "2026-11-15T07:47:40.979Z"
-      },
       {
         "key": "2d9e423a8825e334bf6e10f71ee8b619ee94537a",
         "url": "https://higgsfield.ai/blog/consistent-brand-mascot-ai",
@@ -289,6 +290,24 @@
         "url": "https://higgsfield.ai/blog/Comparisons",
         "date": "2026-11-20",
         "reportedAt": "2026-11-21T08:13:41.791Z"
+      },
+      {
+        "key": "2d80c710ec8a0f6450aa51fa2d0051c2d43544d5",
+        "url": "https://higgsfield.ai/blog/best-text-to-video-ai-generators",
+        "date": "2026-11-21T17:52:00.000Z",
+        "reportedAt": "2026-11-22T07:57:05.617Z"
+      },
+      {
+        "key": "022ae214b5d9645d4bb1c407b00781d36adc1884",
+        "url": "https://higgsfield.ai/blog/seedance-unlimited",
+        "date": "2026-11-21T15:03:00.000Z",
+        "reportedAt": "2026-11-22T07:57:05.617Z"
+      },
+      {
+        "key": "d8a7408d8ef1a3d7aebb9d5ccdfa0a73456fe76a",
+        "url": "https://higgsfield.ai/blog/Comparisons",
+        "date": "2026-11-21",
+        "reportedAt": "2026-11-22T07:57:05.617Z"
       }
     ]
   }
