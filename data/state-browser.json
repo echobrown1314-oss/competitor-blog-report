@@ -50,6 +50,12 @@
         "url": "https://www.atlascloud.ai/blog/ai-updates/security-and-privacy-commitment",
         "date": "2026-11-23T00:47:09.784Z",
         "reportedAt": "2026-11-23T08:57:00.300Z"
+      },
+      {
+        "key": "66549b73066968c23734d4122ae05e8052630648",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/security-and-privacy-commitment",
+        "date": "2026-11-24T22:10:30.457Z",
+        "reportedAt": "2026-11-25T09:46:04.657Z"
       }
     ],
     "TopMediai": [
@@ -66,14 +72,15 @@
         "reportedAt": "2026-11-19T08:41:19.030Z"
       }
     ],
-    "JXP": [],
-    "Pollo AI": [
+    "JXP": [
       {
-        "key": "5bf7c269e019befb0e8338b41505a58e2f820335",
-        "url": "https://pollo.ai/hub/best-ai-logo-generators",
-        "date": "Nov 17, 2026",
-        "reportedAt": "2026-11-18T08:28:18.029Z"
-      },
+        "key": "9448e9219e1ffec30968bf078ac1f865aa9c39b3",
+        "url": "https://www.jxp.com/blog/gta-6-filter",
+        "date": "2026-11-25T09:03:51.000Z",
+        "reportedAt": "2026-11-25T09:46:04.657Z"
+      }
+    ],
+    "Pollo AI": [
       {
         "key": "30a77bd0a6b96f6d3dab4418093dd095af1b57d4",
         "url": "https://pollo.ai/hub/best-ai-logo-generators",
@@ -187,27 +194,33 @@
         "url": "https://pollo.ai/hub/ai-video-editor-online-free",
         "date": "Nov 23, 2026",
         "reportedAt": "2026-11-24T10:51:10.914Z"
+      },
+      {
+        "key": "9050bd607508273ae7d09de94c483eb6a5d6b56f",
+        "url": "https://pollo.ai/hub/ai-food-photography-prompts-restaurants-delivery-brands",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-25T09:46:04.657Z"
+      },
+      {
+        "key": "5daa0f2d93a38d4b809d545600658f9a6f0048d8",
+        "url": "https://pollo.ai/hub/best-ai-image-sharpeners",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-25T09:46:04.657Z"
+      },
+      {
+        "key": "045f8a7770b59f15aa7ae1430ff0d958eda5355f",
+        "url": "https://pollo.ai/hub/best-ai-flat-lay-generators",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-25T09:46:04.657Z"
+      },
+      {
+        "key": "9abfdaf70200020ba2bb55ed400d19bbe4dd2f7d",
+        "url": "https://pollo.ai/hub/best-ai-character-generators",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-25T09:46:04.657Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "70587343c97cecf515ac89c1fd97bb4ac6704917",
-        "url": "https://higgsfield.ai/blog/higgsfield-anthropic-linked-billing",
-        "date": "2026-11-18T00:00:00.000Z",
-        "reportedAt": "2026-11-18T08:28:18.029Z"
-      },
-      {
-        "key": "8105f5ebce2ec15cf3dbd1a61a3e875c21ac85f3",
-        "url": "https://higgsfield.ai/blog/news",
-        "date": "2026-11-18",
-        "reportedAt": "2026-11-18T08:28:18.029Z"
-      },
-      {
-        "key": "c995a73c1b88086894cb49c08676a30c6881ada6",
-        "url": "https://higgsfield.ai/blog/how-to-make-ai-short-drama-series",
-        "date": "2026-11-17T18:11:00.000Z",
-        "reportedAt": "2026-11-18T08:28:18.029Z"
-      },
       {
         "key": "40afe15b23a8720e7f760a72307241619ba76c41",
         "url": "https://higgsfield.ai/blog/best-ai-tools-restaurant-ads-2026",
