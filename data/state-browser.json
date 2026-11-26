@@ -58,20 +58,7 @@
         "reportedAt": "2026-11-25T09:46:04.657Z"
       }
     ],
-    "TopMediai": [
-      {
-        "key": "8332cb0bd3f54244a177bf36cf2afcda82ded541",
-        "url": "https://www.topmediai.com/video-tips/ai-santa-video/",
-        "date": "2026-11-19T15:21:28+08:00",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "edf8430fdca2decc2696fa99212fc771414a9684",
-        "url": "https://www.topmediai.com/video-tips/grandma-gta-game-video/",
-        "date": "2026-11-19T13:44:19+08:00",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      }
-    ],
+    "TopMediai": [],
     "JXP": [
       {
         "key": "9448e9219e1ffec30968bf078ac1f865aa9c39b3",
@@ -81,42 +68,6 @@
       }
     ],
     "Pollo AI": [
-      {
-        "key": "30a77bd0a6b96f6d3dab4418093dd095af1b57d4",
-        "url": "https://pollo.ai/hub/best-ai-logo-generators",
-        "date": "Nov 19, 2026",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "9c91cdaeb18222ab9b36df137dbd66c54de87481",
-        "url": "https://pollo.ai/hub/best-free-ai-video-upscalers",
-        "date": "Nov 19, 2026",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "62316916bbfe93a836a46c217a41b2a8a781ab9e",
-        "url": "https://pollo.ai/hub/everygen-ai-alternatives",
-        "date": "Nov 18, 2026",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "c3877112b25fb5ed684134d1ada0405ed16e1eb9",
-        "url": "https://pollo.ai/hub/everygen-ai-review",
-        "date": "Nov 18, 2026",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "5b9ec146825005fd1fccccb94e258ea5e6e2c2f8",
-        "url": "https://pollo.ai/hub/best-ai-image-generator-prompts",
-        "date": "Nov 18, 2026",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "a65acd4effa2b28961ac6e3e2586a864b355632f",
-        "url": "https://pollo.ai/hub/best-claude-motion-alternatives",
-        "date": "Nov 18, 2026",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
       {
         "key": "2916da00f99bc28e8f5f2851569c6220f5e6a1d2",
         "url": "https://pollo.ai/hub/best-nsfw-ai-image-generators",
@@ -218,27 +169,51 @@
         "url": "https://pollo.ai/hub/best-ai-character-generators",
         "date": "Nov 25, 2026",
         "reportedAt": "2026-11-25T09:46:04.657Z"
+      },
+      {
+        "key": "0522ef09254d7a26de6c4ee1aaee6a3e2714cbfb",
+        "url": "https://pollo.ai/hub/ai-product-video-prompts-ads-listings-social-media",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "47b57950bf13358d500fc31d2fb33f356e05e262",
+        "url": "https://pollo.ai/hub/ai-food-photography-prompts-restaurants-delivery-brands",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "4ee1dcc291add088bc28e2697c830d5f1fe4a38e",
+        "url": "https://pollo.ai/hub/best-ai-photo-editors-online-free-no-restrictions",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "44259c6444833387cbbfed3bb83dd80c3290a6db",
+        "url": "https://pollo.ai/hub/best-ai-image-generator-prompts",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "31b7aa659dac17274285e807dd080fc5748a147f",
+        "url": "https://pollo.ai/hub/free-ai-logo-generator-no-watermark",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "fa4c015aba853ad30ef30ac07b9f86a1671e069c",
+        "url": "https://pollo.ai/hub/best-free-ai-logo-generators-plans-and-paywalls",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "11f814cd44b408b713e36773d5346ae2c8c603c0",
+        "url": "https://pollo.ai/hub/free-text-to-video-ai",
+        "date": "Nov 25, 2026",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "40afe15b23a8720e7f760a72307241619ba76c41",
-        "url": "https://higgsfield.ai/blog/best-ai-tools-restaurant-ads-2026",
-        "date": "2026-11-18T12:13:00.000Z",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "63d2eb0e40923da37e37263ebd6a95f2102f102b",
-        "url": "https://higgsfield.ai/blog/best-artlist-alternatives-ai-video-2026",
-        "date": "2026-11-18T10:29:00.000Z",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
-      {
-        "key": "59d16ae571440f6cadf3566a59f0772b1bc8ac99",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-18",
-        "reportedAt": "2026-11-19T08:41:19.030Z"
-      },
       {
         "key": "c56fc8a46559b58bddd87a26579741b9f784367f",
         "url": "https://higgsfield.ai/blog/higgsfield-mcp-moves-to-cimd",
@@ -310,6 +285,36 @@
         "url": "https://higgsfield.ai/blog/news",
         "date": "2026-11-23",
         "reportedAt": "2026-11-24T10:51:10.914Z"
+      },
+      {
+        "key": "5701db856e0b3434227890d2a55e5836bc29cfb2",
+        "url": "https://higgsfield.ai/blog/10-best-ai-lip-sync-tools-for-any-language-2026",
+        "date": "2026-11-26T00:00:00.000Z",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "64e25f460945594bf51e0d35a12a7b111e4780b3",
+        "url": "https://higgsfield.ai/blog/Comparisons",
+        "date": "2026-11-26",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "41467e664a8631133aa76da66c8dc718bc2f9816",
+        "url": "https://higgsfield.ai/blog/best-ways-to-access-magi-2",
+        "date": "2026-11-25T18:24:00.000Z",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "6e0a2ff35d201f04577345df2fe4264dc89d24a1",
+        "url": "https://higgsfield.ai/blog/best-ways-to-access-gemini-omni-flash-2026",
+        "date": "2026-11-25T16:17:00.000Z",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "0ee0be01c084efbf0a265e7f7a72c1d66870783e",
+        "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
+        "date": "2026-11-25T11:35:00.000Z",
+        "reportedAt": "2026-11-26T09:25:52.704Z"
       }
     ]
   }
