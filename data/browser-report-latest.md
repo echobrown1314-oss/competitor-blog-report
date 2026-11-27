@@ -1,21 +1,24 @@
 # 竞品博客监测日报
 
-生成时间：2026/11/26 17:25（上海）
+生成时间：2026/11/27 17:37（上海）
 
-新增文章总数：12
+新增文章总数：13
 
-## Pollo AI（7）
-- [Just a moment...](https://pollo.ai/hub/ai-product-video-prompts-ads-listings-social-media) | Nov 26, 2026
-- [Just a moment...](https://pollo.ai/hub/ai-food-photography-prompts-restaurants-delivery-brands) | Nov 26, 2026
-- [Just a moment...](https://pollo.ai/hub/best-ai-photo-editors-online-free-no-restrictions) | Nov 26, 2026
-- [Just a moment...](https://pollo.ai/hub/best-ai-image-generator-prompts) | Nov 26, 2026
-- [Just a moment...](https://pollo.ai/hub/free-ai-logo-generator-no-watermark) | Nov 25, 2026
-- [Just a moment...](https://pollo.ai/hub/best-free-ai-logo-generators-plans-and-paywalls) | Nov 25, 2026
-- [Just a moment...](https://pollo.ai/hub/free-text-to-video-ai) | Nov 25, 2026
+## MindVideo（1）
+- [MindVideo AI: All-in-One AI Video Generator & Creative Platform](https://www.mindvideo.ai/blog/thanksgiving-ai-prompts/) | 2026-11-27
 
-## Higgsfield（5）
-- [10 Best AI Lip Sync Tools for Any Language 2026](https://higgsfield.ai/blog/10-best-ai-lip-sync-tools-for-any-language-2026) | 2026-11-26T00:00:00.000Z
-- [Comparisons — articles from the Higgsfield blog](https://higgsfield.ai/blog/Comparisons) | 2026-11-26
-- [Best Ways to Access MAGI-2 in 2026](https://higgsfield.ai/blog/best-ways-to-access-magi-2) | 2026-11-25T18:24:00.000Z
-- [Best Ways to Access Gemini Omni Flash in 2026](https://higgsfield.ai/blog/best-ways-to-access-gemini-omni-flash-2026) | 2026-11-25T16:17:00.000Z
-- [Meet MAGI-2: Sand AI’s New Video Model With Built-In Sound, Exclusively on Higgsfield](https://higgsfield.ai/blog/higgsfield-magi-2) | 2026-11-25T11:35:00.000Z
+## Pollo AI（11）
+- [Just a moment...](https://pollo.ai/hub/pollo-mcp-vs-openart-mcp) | Nov 27, 2026
+- [Just a moment...](https://pollo.ai/hub/openart-mcp-alternatives) | Nov 27, 2026
+- [Just a moment...](https://pollo.ai/hub/ai-prompts-amazon-a-plus-content-product-listings) | Nov 27, 2026
+- [Just a moment...](https://pollo.ai/hub/openart-mcp-review) | Nov 27, 2026
+- [Just a moment...](https://pollo.ai/hub/higgsfield-genjutsu-alternatives) | Nov 26, 2026
+- [Just a moment...](https://pollo.ai/hub/pollo-mcp-vs-capcut-mcp) | Nov 26, 2026
+- [Just a moment...](https://pollo.ai/hub/pollo-mcp-vs-higgsfield-mcp) | Nov 26, 2026
+- [Just a moment...](https://pollo.ai/hub/capcut-mcp-review) | Nov 26, 2026
+- [Just a moment...](https://pollo.ai/hub/higgsfield-mcp-review) | Nov 26, 2026
+- [Just a moment...](https://pollo.ai/hub/higgsfield-mcp-alternatives) | Nov 26, 2026
+- [Just a moment...](https://pollo.ai/hub/capcut-mcp-alternatives) | Nov 26, 2026
+
+## Higgsfield（1）
+- [10 Best Free AI Video Generators](https://higgsfield.ai/blog/best-free-ai-video-generators) | 2026-11-26T14:58:00.000Z

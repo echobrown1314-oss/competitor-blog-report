@@ -1,7 +1,14 @@
 {
   "reported": {
     "LitMedia": [],
-    "MindVideo": [],
+    "MindVideo": [
+      {
+        "key": "c67e65d7aa73d548339936f08234b5f14317facd",
+        "url": "https://www.mindvideo.ai/blog/thanksgiving-ai-prompts/",
+        "date": "2026-11-27",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      }
+    ],
     "Topview": [],
     "DataCamp": [
       {
@@ -68,30 +75,6 @@
       }
     ],
     "Pollo AI": [
-      {
-        "key": "2916da00f99bc28e8f5f2851569c6220f5e6a1d2",
-        "url": "https://pollo.ai/hub/best-nsfw-ai-image-generators",
-        "date": "Nov 20, 2026",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "fb33f106ae616a2a47b5ac9087694dd2f5eaed15",
-        "url": "https://pollo.ai/hub/best-nsfw-ai-video-generators",
-        "date": "Nov 20, 2026",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "ee4dcf76634b579e4021071bb209d948d32097c3",
-        "url": "https://pollo.ai/hub/best-ai-product-photo-generator",
-        "date": "Nov 19, 2026",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "f97a040571a26fb19f99132f55ea33876f9c45c4",
-        "url": "https://pollo.ai/hub/best-script-to-video-ai",
-        "date": "Nov 19, 2026",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
       {
         "key": "4341ae27651092a6504bac1e4c88da5cce56da70",
         "url": "https://pollo.ai/hub/how-to-create-a-gta-6-video-without-recording-gameplay",
@@ -211,39 +194,75 @@
         "url": "https://pollo.ai/hub/free-text-to-video-ai",
         "date": "Nov 25, 2026",
         "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "4bbe50d29f428da20f7d4b48d5425d6713b74ab6",
+        "url": "https://pollo.ai/hub/pollo-mcp-vs-openart-mcp",
+        "date": "Nov 27, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "678d27638bc2fa59875fb652ad735d0c3c1f5f4d",
+        "url": "https://pollo.ai/hub/openart-mcp-alternatives",
+        "date": "Nov 27, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "b8a89a77a4f9f9f1627d734c840dd14240a63b29",
+        "url": "https://pollo.ai/hub/ai-prompts-amazon-a-plus-content-product-listings",
+        "date": "Nov 27, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "036ca4ed9c70df8ae890fd1475a7b0d99a0e45e3",
+        "url": "https://pollo.ai/hub/openart-mcp-review",
+        "date": "Nov 27, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "25f387a0c411f4096e6abee1b4cedeae61e19a96",
+        "url": "https://pollo.ai/hub/higgsfield-genjutsu-alternatives",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "cd5d8cb438f0133ccb6bb7ed8160c31513108172",
+        "url": "https://pollo.ai/hub/pollo-mcp-vs-capcut-mcp",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "222455cd1b29342028512af7b45b5b856148136d",
+        "url": "https://pollo.ai/hub/pollo-mcp-vs-higgsfield-mcp",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "69f2bd848c98c91046e03f2206e8413c0b595feb",
+        "url": "https://pollo.ai/hub/capcut-mcp-review",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "ecdaa2cb3ca72c5c21bb3decc80b8f289543d852",
+        "url": "https://pollo.ai/hub/higgsfield-mcp-review",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "0ecd9158bd8603e0e7157ddf46c0b9b213c7bec2",
+        "url": "https://pollo.ai/hub/higgsfield-mcp-alternatives",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
+      },
+      {
+        "key": "10fa1b8bcbe54fdfac707549228a0f896a484ede",
+        "url": "https://pollo.ai/hub/capcut-mcp-alternatives",
+        "date": "Nov 26, 2026",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
       }
     ],
     "Higgsfield": [
-      {
-        "key": "c56fc8a46559b58bddd87a26579741b9f784367f",
-        "url": "https://higgsfield.ai/blog/higgsfield-mcp-moves-to-cimd",
-        "date": "2026-11-20T00:00:00.000Z",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "99e5bfa9ae3293abb17572691cfc3e8ff6a87f61",
-        "url": "https://higgsfield.ai/blog/news",
-        "date": "2026-11-20",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "d7782bcc0c928c4bdca96be046742cbd95b00f3f",
-        "url": "https://higgsfield.ai/blog/best-ai-face-swap-tools-2026",
-        "date": "2026-11-19T18:23:00.000Z",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "476f54f3c98838722b486cd7af9e0217760a20e0",
-        "url": "https://higgsfield.ai/blog/how-to-make-restaurant-video-ads-with-ai",
-        "date": "2026-11-19T11:43:00.000Z",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
-      {
-        "key": "e4872167a50308c5cf7d7447b301fd660437a6d9",
-        "url": "https://higgsfield.ai/blog/Comparisons",
-        "date": "2026-11-19",
-        "reportedAt": "2026-11-20T08:27:38.550Z"
-      },
       {
         "key": "83ca9fa92bbedaf25cdca968218c9e6439b9d9eb",
         "url": "https://higgsfield.ai/blog/higgsfield-black-friday-market",
@@ -315,6 +334,12 @@
         "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
         "date": "2026-11-25T11:35:00.000Z",
         "reportedAt": "2026-11-26T09:25:52.704Z"
+      },
+      {
+        "key": "89a30276e3a0b7789b10fda900d7337047acf7fa",
+        "url": "https://higgsfield.ai/blog/best-free-ai-video-generators",
+        "date": "2026-11-26T14:58:00.000Z",
+        "reportedAt": "2026-11-27T09:37:27.385Z"
       }
     ]
   }
